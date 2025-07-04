@@ -1,0 +1,47 @@
+
+
+
+{
+  "subject": "Bible Knowledge",
+  "topics": [
+    {
+      "title": "Creation Story",
+      "subsections": [
+        {
+          "title": "Overview",
+          "content": "The story of creation is found in Genesis 1–2.",
+          "points": [
+            "God created the world in six days and rested on the seventh.",
+            "Each day focused on specific parts: light, sky, land, animals, humans."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Ten Commandments",
+      "subsections": [
+        {
+          "title": "Introduction",
+          "content": "Given to Moses on Mount Sinai as moral laws for the Israelites.",
+          "points": [
+            "Include honoring God, parents, no stealing, no lying.",
+            "Found in Exodus 20:1–17."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jesus’ Teachings",
+      "subsections": [
+        {
+          "title": "Methods",
+          "content": "Jesus taught through parables, sermons, and examples.",
+          "points": [
+            "Focus on love, forgiveness, humility, and the Kingdom of God.",
+            "Examples: The Good Samaritan, Sermon on the Mount."
+          ]
+        }
+      ]
+    }
+  ]
+}

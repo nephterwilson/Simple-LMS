@@ -1,0 +1,98 @@
+
+
+
+{
+  "subject": "Business Studies",
+  "topics": [
+    {
+      "title": "Types of Businesses",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Businesses are classified by ownership and size.",
+          "points": [
+            "Sole trader: Owned and operated by one person.",
+            "Partnership: Business owned by 2–20 people.",
+            "Corporation: Owned by shareholders; managed by directors.",
+            "Cooperatives: Owned and controlled by members for mutual benefit."
+          ]
+        },
+        {
+          "title": "Advantages and Disadvantages",
+          "content": "Each business type has its own strengths and weaknesses.",
+          "points": [
+            "Sole trader: Easy to start, but unlimited liability.",
+            "Partnership: Shared responsibilities, but conflicts may arise.",
+            "Corporation: Limited liability, but complex setup.",
+            "Cooperative: Member-focused, but slower decision-making."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Entrepreneurship",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Entrepreneurship involves starting and running a business.",
+          "points": [
+            "Entrepreneurs identify business opportunities.",
+            "They combine resources to produce goods or services."
+          ]
+        },
+        {
+          "title": "Qualities of an Entrepreneur",
+          "content": "Successful entrepreneurs share common traits.",
+          "points": [
+            "Creativity and innovation.",
+            "Willingness to take risks.",
+            "Strong leadership and decision-making skills.",
+            "Persistence and self-motivation."
+          ]
+        },
+        {
+          "title": "Stages in Entrepreneurship",
+          "content": "The process of turning an idea into a functioning business.",
+          "points": [
+            "Idea generation.",
+            "Business planning.",
+            "Sourcing capital.",
+            "Implementation and management."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Marketing",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Marketing is promoting and selling products to customers.",
+          "points": [
+            "It involves understanding customer needs and delivering value."
+          ]
+        },
+        {
+          "title": "The 4 Ps of Marketing",
+          "content": "Also known as the Marketing Mix.",
+          "points": [
+            "Product: The item or service offered.",
+            "Price: The cost to the customer.",
+            "Place: Where and how the product is sold.",
+            "Promotion: Methods used to inform and persuade customers."
+          ]
+        },
+        {
+          "title": "Importance of Marketing",
+          "content": "Effective marketing helps businesses grow and compete.",
+          "points": [
+            "Attracts new customers.",
+            "Builds brand awareness.",
+            "Increases sales and revenue."
+          ]
+        }
+      ]
+    }
+  ]
+}
+

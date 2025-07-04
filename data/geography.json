@@ -1,0 +1,113 @@
+
+
+
+
+
+{
+  "subject": "Geography",
+  "topics": [
+    {
+      "title": "Types of Natural Disasters",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Natural disasters are extreme, sudden events caused by environmental factors.",
+          "points": [
+            "They pose risks to life, property, and the environment.",
+            "Often occur without warning and can be devastating."
+          ]
+        },
+        {
+          "title": "Common Types",
+          "content": "Several types of natural disasters affect different regions of the world.",
+          "points": [
+            "Earthquakes – sudden shaking of the Earth's surface.",
+            "Floods – overflow of water onto land.",
+            "Drought – prolonged period of low rainfall.",
+            "Volcanic eruptions – magma and gases expelled from Earth's crust."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Weather and Climate",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Weather is the condition of the atmosphere at a specific time and place, while climate is the long-term average of weather patterns.",
+          "points": [
+            "Weather can change daily; climate changes slowly over decades.",
+            "Climate affects agriculture, water supply, and lifestyle."
+          ]
+        },
+        {
+          "title": "Elements of Weather",
+          "content": "Main atmospheric conditions measured to determine weather.",
+          "points": [
+            "Temperature, rainfall, wind speed and direction, humidity, air pressure."
+          ]
+        },
+        {
+          "title": "Climate Zones",
+          "content": "Climate zones classify regions based on long-term weather patterns.",
+          "points": [
+            "Tropical: hot and wet.",
+            "Temperate: moderate temperatures.",
+            "Polar: cold throughout the year."
+          ]
+        },
+        {
+          "title": "Measuring Weather",
+          "content": "Various instruments are used to observe and record weather conditions.",
+          "points": [
+            "Thermometer – measures temperature.",
+            "Barometer – measures air pressure.",
+            "Rain gauge – measures rainfall.",
+            "Anemometer – measures wind speed.",
+            "Hygrometer – measures humidity."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Map Reading Skills",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Maps are symbolic representations of the Earth's surface used to show geographical features.",
+          "points": [
+            "They help us locate places, measure distances, and understand terrain."
+          ]
+        },
+        {
+          "title": "Basic Elements of a Map",
+          "content": "Essential features that make maps readable.",
+          "points": [
+            "Title – tells what the map shows.",
+            "Scale – represents the ratio of map distance to real distance.",
+            "Legend/Key – explains symbols used.",
+            "Compass rose – shows direction (N, E, S, W)."
+          ]
+        },
+        {
+          "title": "Types of Maps",
+          "content": "Different maps serve different purposes.",
+          "points": [
+            "Topographic – shows elevation and landscape.",
+            "Political – shows countries, cities, and boundaries.",
+            "Thematic – focuses on specific themes like population or climate."
+          ]
+        },
+        {
+          "title": "Map Reading Techniques",
+          "content": "Skills required to understand and interpret maps.",
+          "points": [
+            "Use of grid references (e.g., 3A, 5D).",
+            "Contour lines – show elevation and shape of the land.",
+            "Measuring distances using the map scale."
+          ]
+        }
+      ]
+    }
+  ]
+}

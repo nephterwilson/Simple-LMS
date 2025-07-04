@@ -1,0 +1,121 @@
+
+
+{
+  "subject": "Agriculture",
+  "topics": [
+    {
+      "title": "Physical Properties of Soil",
+      "subsections": [
+        {
+          "title": "Texture",
+          "content": "Soil texture refers to the fineness or smoothness of soil aggregates.",
+          "points": [
+            "Includes Gravel, Silt, Sand, Clay.",
+            "Clay: Fine particles, retains water.",
+            "Sand: Coarse, drains quickly.",
+            "Loam: Balanced mix; ideal for crops.",
+            "Methods: Sedimentation, Feel, Sieve."
+          ]
+        },
+        {
+          "title": "Soil Colour",
+          "content": "Helps identify soil types and fertility.",
+          "points": [
+            "Affected by organic matter, moisture, and parent material.",
+            "Red/Brown: Healthy, well-drained.",
+            "Black: High organic matter.",
+            "Grey: Poor drainage."
+          ]
+        },
+        {
+          "title": "Soil Temperature",
+          "content": "Degree of hotness or coldness in soil.",
+          "points": [
+            "Affects germination, microbes, root growth, soil formation."
+          ]
+        },
+        {
+          "title": "Soil Depth",
+          "content": "Thickness of soil above the parent material.",
+          "points": [
+            "Shallow soil: For shallow-rooted crops.",
+            "Deep soil: For deep-rooted crops."
+          ]
+        },
+        {
+          "title": "Soil Structure",
+          "content": "Arrangement of particles into aggregates (peds).",
+          "points": [
+            "Types: Blocky, Cuboidal, Columnar, Prismatic, Granular, Platy, Crumb, Single Grain."
+          ]
+        },
+        {
+          "title": "Soil Consistency",
+          "content": "Ease of crushing soil by fingers/tools based on moisture.",
+          "points": [
+            "Moist: Loose or firm.",
+            "Wet: Sticky or plastic.",
+            "Dry: Loose or very hard."
+          ]
+        },
+        {
+          "title": "Soil Porosity",
+          "content": "Amount of pore space in soil.",
+          "points": [
+            "Holds air and water.",
+            "Porosity = Volume of pores ÷ Total volume × 100."
+          ]
+        },
+        {
+          "title": "Effect on Crop Production",
+          "content": "Each property impacts productivity.",
+          "points": [
+            "Texture: Retention & drainage.",
+            "Colour: Fertility indicator.",
+            "Structure: Root penetration.",
+            "Temperature: Germination & growth."
+          ]
+        },
+        {
+          "title": "Maintaining Soil Structure",
+          "content": "Practices that preserve structure and fertility.",
+          "points": [
+            "Add organic matter.",
+            "Use cover crops.",
+            "Practice crop rotation.",
+            "Prevent erosion."
+          ]
+        },
+        {
+          "title": "Destruction of Soil Structure",
+          "content": "Causes of degradation.",
+          "points": [
+            "Erosion, compaction, poor water management, reduced organic matter."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chemical Properties of Soil",
+      "subsections": [
+        {
+          "title": "Soil pH",
+          "content": "Measure of acidity or alkalinity of soil.",
+          "points": [
+            "Scale: 1 (acidic) to 14 (alkaline), 7 = neutral.",
+            "Affects nutrient availability.",
+            "Managed through liming or sulfur application."
+          ]
+        },
+        {
+          "title": "Cation Exchange Capacity (CEC)",
+          "content": "Soil’s ability to hold and exchange nutrients.",
+          "points": [
+            "High CEC = better fertility.",
+            "Depends on clay and organic matter."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+
+
+
+{
+  "subject": "Chemistry",
+  "topics": [
+    {
+      "title": "Acids and Bases",
+      "subsections": [
+        {
+          "title": "Definition and Properties",
+          "content": "Acids release H⁺ ions in water while bases release OH⁻ ions. Their strength is measured by pH.",
+          "points": [
+            "Acids have pH less than 7.",
+            "Bases (alkalis) have pH greater than 7.",
+            "Strong acids and bases dissociate completely in water."
+          ]
+        },
+        {
+          "title": "Examples",
+          "content": "Common acids and bases used in labs and industry.",
+          "points": [
+            "Acids: Hydrochloric acid (HCl), Sulfuric acid (H₂SO₄), Nitric acid (HNO₃).",
+            "Bases: Sodium hydroxide (NaOH), Ammonium hydroxide (NH₄OH)."
+          ]
+        },
+        {
+          "title": "Neutralization Reaction",
+          "content": "Neutralization is a chemical reaction between an acid and a base.",
+          "points": [
+            "Produces salt and water.",
+            "Example: HCl + NaOH → NaCl + H₂O.",
+            "Used in antacids and agriculture (liming soil)."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "States of Matter",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Matter exists in different states based on particle arrangement and energy.",
+          "points": [
+            "Solid, liquid, and gas are the three main physical states of matter."
+          ]
+        },
+        {
+          "title": "Properties of States",
+          "content": "Each state has unique characteristics.",
+          "points": [
+            "Solids: Fixed shape and volume, particles closely packed.",
+            "Liquids: No fixed shape, fixed volume, particles slide over each other.",
+            "Gases: No fixed shape or volume, particles move freely and are compressible."
+          ]
+        },
+        {
+          "title": "Changes of State",
+          "content": "Matter can change from one state to another by gaining or losing energy.",
+          "points": [
+            "Melting: Solid to liquid.",
+            "Boiling: Liquid to gas.",
+            "Condensation: Gas to liquid.",
+            "Freezing: Liquid to solid.",
+            "Sublimation: Solid to gas without becoming liquid."
+          ]
+        }
+      ]
+    }
+  ]
+}
