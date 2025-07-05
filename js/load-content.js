@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
   topicsContainer.insertAdjacentElement('afterend', paginationContainer);
 
   const topicsPerPage = 16;
-  let currentPage = 2;
+  let currentPage = 1;
   let allTopics = [];
 
   if (!subject) {
