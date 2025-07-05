@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
   paginationContainer.className = 'mt-10 flex justify-center items-center space-x-2 text-sm font-medium';
   topicsContainer.insertAdjacentElement('afterend', paginationContainer);
 
-  const topicsPerPage = 6;
+  const topicsPerPage = 16;
   let currentPage = 1;
   let allTopics = [];
 
