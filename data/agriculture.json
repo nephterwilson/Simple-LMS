@@ -78,19 +78,23 @@
         },
         {
           "title": "Maintaining Soil Structure",
-          "content": "Practices that preserve structure and fertility.",
+          "content": "Practices that maintain structure and fertility.",
           "points": [
             "Add organic matter.",
             "Use cover crops.",
             "Practice crop rotation.",
+            "Water and soil management.",
             "Prevent erosion."
           ]
         },
         {
           "title": "Destruction of Soil Structure",
-          "content": "Causes of degradation.",
+          "content": "How soil structure is destroyed.",
           "points": [
-            "Erosion, compaction, poor water management, reduced organic matter."
+            "Erosion.",
+            "Compaction.",
+            "Poor water management.",
+            "Reduced organic matter."
           ]
         }
       ]
