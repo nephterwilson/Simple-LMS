@@ -1,0 +1,908 @@
+
+
+
+{
+  "subject": "Chemistry",
+  "topics": [
+
+
+    {
+  "title": "Chemical Bonding",
+  "subsections": [
+    {
+      "title": "Types of Chemical Bonds",
+      "content": "There are three main types of chemical bonds that hold atoms or ions together in compounds.",
+      "points": [
+        "Ionic Bond – formed through transfer of electrons between metals and non-metals.",
+        "Covalent Bond – formed through sharing of electrons between non-metal atoms.",
+        "Metallic Bond – formed among metal atoms by attraction between ions and delocalised electrons."
+      ]
+    },
+    {
+      "title": "Ionic Bonding",
+      "content": "Ionic bonding involves the transfer of electrons to form oppositely charged ions which attract each other.",
+      "points": [
+        "Formed between metals (which lose electrons) and non-metals (which gain electrons).",
+        "Positive ion (cation) is formed when electrons are lost.",
+        "Negative ion (anion) is formed when electrons are gained.",
+        "Example: Na + Cl → NaCl, Mg + Cl₂ → MgCl₂, Ca + O → CaO.",
+        "Structure: NaCl forms a giant ionic lattice with each Na⁺ surrounded by 6 Cl⁻ ions in a cube shape."
+      ]
+    },
+    {
+      "title": "Covalent Bonding",
+      "content": "Covalent bonding involves sharing of electrons between non-metal atoms to achieve stable electron arrangements.",
+      "points": [
+        "Forms molecules instead of ions.",
+        "Examples include: H₂, Cl₂, NH₃, H₂O, CO₂, N₂, O₂, CH₄.",
+        "Each shared pair of electrons forms one covalent bond.",
+        "Double and triple bonds are possible (e.g., CO₂ has double bonds; N₂ has a triple bond)."
+      ]
+    },
+    {
+      "title": "Metallic Bonding",
+      "content": "In metallic bonding, metal atoms lose outer electrons that become free to move, creating a sea of delocalised electrons.",
+      "points": [
+        "These electrons are attracted to positive metal ions, forming strong metallic bonds.",
+        "Explains properties like high electrical/thermal conductivity and malleability.",
+        "Stronger metallic bonds form with more delocalised electrons or if the element is further right in the periodic table.",
+        "Examples: Copper (Cu) and Aluminium (Al) – both conduct electricity well."
+      ]
+    },
+    {
+      "title": "Applications and Comparisons",
+      "content": "Understanding bonding helps explain the properties and behaviours of elements and compounds.",
+      "points": [
+        "Dot and cross diagrams show how electrons are shared or transferred.",
+        "Bonding in metals: Sea of delocalised electrons and positive ions.",
+        "Covalent compounds like CO₂ have double bonds; CH₄ has single covalent bonds.",
+        "Ionic vs Covalent bonding: transfer vs sharing of electrons, forms ions vs molecules, occurs between metals and non-metals vs non-metals only.",
+        "Examples of formulas: KCl, CaF₂, Fe₂O₃, H₂O, Al₂O₃, CaBr₂, Na₂O, CO, SiH₄."
+      ]
+    },
+    {
+      "title": "Key Definitions and Examples",
+      "content": "Definitions and specific examples help reinforce understanding of bonding types.",
+      "points": [
+        "Chemical bond: Force of attraction holding atoms or ions together.",
+        "KCl: Ionic bond between potassium and chlorine; stable compound.",
+        "Silane (SiH₄): Covalent bonding; 4 shared electrons between silicon and hydrogen.",
+        "Better electrical conductors like copper have loosely held outer electrons."
+      ]
+    }
+  ]
+},
+{
+  "title": "Acids and Bases",
+  "subsections": [
+    {
+      "title": "Acids: Definition and Properties",
+      "content": "Acids are proton donors with a sour taste and corrosive nature.",
+      "points": [
+        "Sour taste (e.g., lemons, malambe).",
+        "pH less than 7.",
+        "Turn blue litmus red.",
+        "React with metals to produce hydrogen gas.",
+        "Conduct electricity in solution.",
+        "Enhance rusting of metals."
+      ]
+    },
+    {
+      "title": "Groups of Acids",
+      "content": "Acids are classified as organic or mineral depending on their source.",
+      "points": [
+        "Organic Acids: Found in plants/animals (e.g., citric, lactic, ethanoic).",
+        "Mineral Acids: Lab-made, corrosive (e.g., HCl, H₂SO₄, HNO₃).",
+        "Methanoic acid – found in ant and bee stings.",
+        "Carbonic acid – in fizzy drinks.",
+        "Sulphuric acid – used in car batteries.",
+        "Nitric acid – used in fertilizers and explosives."
+      ]
+    },
+    {
+      "title": "Uses of Acids",
+      "content": "Acids have many industrial, medical, and domestic uses.",
+      "points": [
+        "Car battery manufacture (H₂SO₄).",
+        "Fertilizer and detergent production.",
+        "Used in making paints, plastics, and explosives.",
+        "Food preservation using organic acids.",
+        "Carbonate drinks use carbonic acid.",
+        "Vinegar and citric acid used in cooking and cleaning."
+      ]
+    },
+    {
+      "title": "Bases: Definition and Properties",
+      "content": "Bases are substances that accept protons, often bitter and slippery.",
+      "points": [
+        "Bitter taste.",
+        "pH above 7.",
+        "Turn red litmus blue.",
+        "React with acids to form salts.",
+        "Conduct electricity in solution.",
+        "Enhance rusting when moist."
+      ]
+    },
+    {
+      "title": "Groups and Examples of Bases",
+      "content": "Bases are classified as natural, inorganic, or alkalis.",
+      "points": [
+        "Natural bases from plant ash (e.g., chidulo).",
+        "Inorganic bases made in labs (e.g., NaOH, CaO).",
+        "Alkalis are soluble bases (e.g., NaOH, KOH).",
+        "NaOH – used in soap and paper making.",
+        "Mg(OH)₂ – used as an antacid.",
+        "NH₄OH – used in cleaners and fertilizers."
+      ]
+    },
+    {
+      "title": "Uses of Bases",
+      "content": "Bases are used in industry, medicine, and agriculture.",
+      "points": [
+        "NaOH – soap, petroleum refining, textiles.",
+        "Ca(OH)₂ – treats acidic soil and water, used in fungicides.",
+        "NH₄OH – removes ink and grease, used in water purification.",
+        "MgO – relieves indigestion.",
+        "KOH – used in alkaline batteries."
+      ]
+    },
+    {
+      "title": "Indicators and pH Scale",
+      "content": "Indicators show whether a substance is acidic or basic, and the pH scale measures strength.",
+      "points": [
+        "Litmus: Red in acid, blue in base.",
+        "Methyl orange: Pink in acid, yellow in base.",
+        "Phenolphthalein: Colourless in acid, pink in base.",
+        "Universal indicator shows full pH range from 1 to 14.",
+        "pH < 7 is acidic; pH > 7 is basic; pH = 7 is neutral.",
+        "Strong acids/bases ionize completely; weak ones ionize partially."
+      ]
+    },
+    {
+      "title": "Experiments and Applications",
+      "content": "Practical experiments show conductivity, pH, and ionisation levels.",
+      "points": [
+        "Conductivity test: Bright bulb = strong acid/base; dim bulb = weak acid.",
+        "Universal indicator test: Colour indicates strength (e.g., red = strong acid, purple = strong base).",
+        "Ionisation: HCl ionizes fully; CH₃COOH ionizes partially.",
+        "Application: Neutralisation – antacids, soil treatment, toothpaste, insect stings.",
+        "Acid + base → salt + water (neutralisation)."
+      ]
+    },
+    {
+  "title": "Application of Neutralisation",
+  "content": "Neutralisation reactions are used in various practical ways to balance acidity and alkalinity.",
+  "points": [
+    "Treat acidic soil with lime (Ca(OH)₂) to improve fertility.",
+    "Aid digestion by neutralising excess stomach acid with enzymes.",
+    "Treat stomach acid problems using antacids like milk of magnesia.",
+    "Toothpaste neutralizes acid in the mouth to prevent tooth decay.",
+    "Treat insect stings by applying alkalis to neutralize acidic stings."
+  ]
+},
+
+    {
+      "title": "Chemical Properties of Acids",
+      "content": "Acids react with metals, carbonates, and bases to form different products.",
+      "points": [
+        "Acid + metal → salt + hydrogen gas.",
+        "Pop sound confirms hydrogen gas.",
+        "Acid + carbonate → salt + CO₂ + water.",
+        "Acid + base → salt + water (neutralisation).",
+        "Examples: HCl + Mg → MgCl₂ + H₂; CaCO₃ + HCl → CaCl₂ + CO₂ + H₂O."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Introduction to Hydrocarbons and Related Concepts",
+  "subsections": [
+    {
+      "title": "Introduction to Hydrocarbons",
+      "content": "Hydrocarbons are compounds made of hydrogen and carbon only.\n\nOrganic chemistry is the study of carbon-containing compounds.",
+      "points": [
+        "Examples of hydrocarbons: petrol, kerosene, LPG (liquefied petroleum gas)."
+      ]
+    },
+    {
+      "title": "Oxycarbons",
+      "content": "Compounds made of carbon and oxygen only.",
+      "points": [
+        "General formula: CₓOᵧ",
+        "Examples: CO₂ (carbon dioxide), CO (carbon monoxide).",
+        "Usually gases at room temperature."
+      ]
+    },
+    {
+      "title": "Catenation",
+      "content": "Catenation is the ability of carbon atoms to bond with each other.",
+      "points": [
+        "Carbon forms long chains or rings.",
+        "It can also bond with other elements like hydrogen (H), oxygen (O), etc."
+      ]
+    },
+    {
+      "title": "Hydrocarbons in Crude Oil",
+      "content": "Crude oil is a mixture of hydrocarbons.",
+      "points": [
+        "Used as fuel and raw materials (e.g., plastics, fabrics)."
+      ]
+    },
+    {
+      "title": "Other Organic Compounds",
+      "content": "",
+      "points": [
+        "Plant sources: carbohydrates, oils, rubber, textiles.",
+        "Animal sources: proteins, fats."
+      ]
+    },
+    {
+      "title": "Homologous Series",
+      "content": "A group of organic compounds with similar properties.",
+      "points": [
+        "Share a general formula.",
+        "Each member differs by a CH₂ group.",
+        "Prepared using similar methods.",
+        "Gradual change in physical properties.",
+        "Similar chemical reactions.",
+        "Examples of Homologous Series: Alkanes, Alkenes, Alkynes, Alkanols, Alkanoic acids."
+      ]
+    },
+    {
+      "title": "Saturated vs. Unsaturated Hydrocarbons",
+      "content": "",
+      "points": [
+        "Saturated Hydrocarbons (Alkanes): All carbon-carbon bonds are single. Each carbon is bonded to maximum number of hydrogen atoms.",
+        "Unsaturated Hydrocarbons (Alkenes, Alkynes): Contain double or triple carbon-carbon bonds. Fewer hydrogen atoms attached.",
+        "Example Saturated:\n H H\n C–C\n H H",
+        "Example Unsaturated:\n H H\n C=C\n H H"
+      ]
+    },
+    {
+      "title": "Test for Unsaturation",
+      "content": "Materials: Test tubes, Acidified potassium permanganate (KMnO₄), Bromine water, Test pipette.\n\nProcedure: Bubble ethene through KMnO₄ and bromine water – observe color changes.",
+      "points": [
+        "Ethene decolorizes KMnO₄ and bromine water.",
+        "This confirms the presence of double or triple bonds.",
+        "Ethane does not react as it has only single bonds (saturated)."
+      ]
+    },
+    {
+      "title": "Alkanes",
+      "content": "Most common hydrocarbons. No functional group – chemically stable (inert).",
+      "points": [
+        "General formula: CnH₂n+2",
+        "Useful for storing reactive elements like alkali metals.",
+        "Common Alkanes: Methane, Ethane, Propane, Butane, Pentane, Hexane, Heptane, Octane, Nonane, Decane."
+      ]
+    },
+    {
+      "title": "Activity: Derive Molecular Formulas",
+      "content": "",
+      "points": [
+        "Use the formula CnH₂n+2 to find molecular formulas of:",
+        "Alkanes with 4 carbon atoms (C₄H₁₀)",
+        "Alkanes with 5 carbon atoms (C₅H₁₂)",
+        "Alkanes with 6 carbon atoms (C₆H₁₄)"
+      ]
+    },
+    {
+      "title": "Naming Alkanes",
+      "content": "",
+      "points": [
+        "Name is based on number of carbon atoms.",
+        "\"Meth\" = 1 carbon",
+        "\"Eth\" = 2 carbons",
+        "\"Prop\" = 3 carbons",
+        "And so on..."
+      ]
+    },
+    {
+      "title": "Types of Formulae",
+      "content": "",
+      "points": [
+        "Molecular formula – shows number of each atom.",
+        "Structural formula – shows how atoms are bonded.",
+        "Condensed formula – groups atoms together.",
+        "Skeletal formula – uses lines to show carbon bonds.",
+        "Activity: Draw alkanes with 6, 7, 8, 9, and 10 carbon atoms."
+      ]
+    },
+    {
+      "title": "Sources of Alkanes",
+      "content": "Obtained by fractional distillation of crude oil.",
+      "points": []
+    },
+    {
+      "title": "Crude Oil",
+      "content": "",
+      "points": [
+        "Thick, dark liquid with strong smell.",
+        "Formed from dead plants and animals over millions of years.",
+        "Contains many types of hydrocarbons."
+      ]
+    },
+    {
+      "title": "Fractional Distillation",
+      "content": "",
+      "points": [
+        "Heated in a furnace.",
+        "Vapors rise in a fractionating column (hot at bottom, cooler at top).",
+        "Lighter compounds rise higher; heavier ones condense at the bottom.",
+        "Final product is bitumen – used for roads."
+      ]
+    },
+    {
+      "title": "Preparation of Alkanes (Methane)",
+      "content": "Heat sodium ethanoate with soda lime (NaOH + CaO).\nProduces methane and sodium carbonate.",
+      "points": [
+        "Equation: CnH₂n+1COONa + NaOH → CH₄ + Na₂CO₃"
+      ]
+    },
+    {
+      "title": "Physical Properties of Alkanes",
+      "content": "",
+      "points": [
+        "Colourless",
+        "Insoluble in water",
+        "Soluble in organic solvents"
+      ]
+    },
+    {
+      "title": "Methane Specific Properties",
+      "content": "",
+      "points": [
+        "Colourless, odourless gas",
+        "Less dense than air"
+      ]
+    },
+    {
+      "title": "Chemical Properties of Alkanes",
+      "content": "1. Combustion: Burn in oxygen to give CO₂ and H₂O. Release energy.",
+      "points": [
+        "Complete combustion: Blue, hot, clean flame. Example: 2C₂H₆ + 7O₂ → 4CO₂ + 6H₂O",
+        "Incomplete combustion: Yellow, sooty flame. Example: CH₄ + O₂ → C + 2H₂O",
+        "2. Substitution Reactions: Hydrogen replaced by halogens (Cl, Br, I).",
+        "Steps:",
+        "CH₄ + Cl₂ → CH₃Cl + HCl (Monochloromethane)",
+        "CH₃Cl + Cl₂ → CH₂Cl₂ + HCl (Dichloromethane)",
+        "CH₂Cl₂ + Cl₂ → CHCl₃ + HCl (Chloroform)",
+        "CHCl₃ + Cl₂ → CCl₄ + HCl (Carbon tetrachloride)"
+      ]
+    },
+    {
+      "title": "Uses of Alkanes",
+      "content": "",
+      "points": [
+        "Fuels (cooking, cars, machines)",
+        "Candle wax",
+        "Vaseline and grease",
+        "Polish",
+        "Lab solvents",
+        "Bitumen for roads"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "UNIT 4: ALKENES",
+  "subsections": [
+    {
+      "title": "Introduction to Alkenes",
+      "content": "Alkenes are unsaturated hydrocarbons.\nThey contain at least one double covalent bond between two carbon atoms.\nGeneral formula: CₙH₂ₙ.\n\"Unsaturated\" means the molecule does not contain the maximum number of hydrogen atoms due to the double bond.\nThe first member of the alkene group is ethene (C₂H₄).",
+      "points": [
+        "Structure of Ethene:\n\n  H       H                       H       H\n   C  =  C        OR              C  =  C\n   H       H                       H       H"
+      ]
+    },
+    {
+      "title": "Naming of Alkenes",
+      "content": "Based on the number of carbon atoms (same prefixes as alkanes):",
+      "points": [
+        "Ethene (2C), Propene (3C), Butene (4C), Pentene (5C), etc."
+      ]
+    },
+    {
+      "title": "Sources of Alkenes",
+      "content": "",
+      "points": [
+        "A. Dehydration of Alcohols: Removal of water from alcohol using concentrated acids like sulphuric acid (H₂SO₄) or phosphoric acid (H₃PO₄). On heating, alcohol is converted into an alkene + water.",
+        "General Equation: CₙH₂ₙ₊₁OH → CₙH₂ₙ + H₂O (alcohol → alkene + water).",
+        "Experiment: Preparation of Ethene from Ethanol.",
+        "Chemicals/Apparatus: Ethanol, Conc. sulphuric acid, Bromine water, Acidified potassium permanganate (KMnO₄).",
+        "Procedure: Mix ethanol and conc. H₂SO₄, heat the mixture. Ethene gas is produced and bubbled through testing solutions.",
+        "Observations: Gas is released, which decolorizes bromine water and acidified KMnO₄ confirming unsaturation (ethene).",
+        "Reactions:",
+        "Step 1 (formation of ethyl hydrogen sulphate): C₂H₅OH + H₂SO₄ → C₂H₅HSO₄ + H₂O.",
+        "Step 2 (production of ethene): C₂H₅HSO₄ → C₂H₄ + H₂SO₄.",
+        "Notes: Reaction is exothermic and must be cooled. Alcohol and acid are miscible. Dry porcelain promotes smooth boiling. Ethene gas is flammable and explosive; release first portion safely."
+      ]
+    },
+    {
+      "title": "Sources of Alkenes (continued)",
+      "content": "",
+      "points": [
+        "B. Cracking of Hydrocarbons: Breaking long-chain hydrocarbons into shorter alkanes and alkenes.",
+        "Example: C₆H₁₄ → C₄H₁₀ + C₂H₄ (Hexane → Butane + Ethene).",
+        "Uses of Cracking: Produces more petrol and improves fuel quality through blending.",
+        "Types of Cracking: Thermal cracking (high temperature), Catalytic cracking (heat + catalyst like Al₂O₃, SiO₂) at lower temperatures."
+      ]
+    },
+    {
+      "title": "Physical Properties of Alkenes",
+      "content": "Ethene is a colourless, odourless gas.",
+      "points": [
+        "Insoluble in water.",
+        "Soluble in organic solvents.",
+        "States of first 6 alkenes:",
+        "Gases: C₂H₄, C₃H₆, C₄H₈.",
+        "Liquids: C₅H₁₀, C₆H₁₂.",
+        "Boiling/melting points increase with the number of carbon atoms due to higher molecular mass."
+      ]
+    },
+    {
+      "title": "Chemical Properties of Alkenes",
+      "content": "",
+      "points": [
+        "A. Combustion: Alkenes burn in air to produce CO₂ and H₂O. Highly flammable.",
+        "Equation: C₂H₄ + 3O₂ → 2CO₂ + 2H₂O.",
+        "B. Addition Reactions:",
+        "1. Hydrogenation: Ethene + hydrogen → ethane (requires nickel catalyst at ~150°C). Equation: C₂H₄ + H₂ → C₂H₆.",
+        "Structure:\n  H      H                  H     H\n   C = C  +  H–H  →  H–C – C–H\n   H      H                  H     H",
+        "2. Hydration: Ethene reacts with conc. H₂SO₄ to form ethyl hydrogen sulphate, which then reacts with water to produce ethanol.",
+        "Step 1: C₂H₄ + H₂SO₄ → C₂H₅OSO₃H.",
+        "Step 2: C₂H₅OSO₃H + H₂O → C₂H₅OH + H₂SO₄.",
+        "Alternative industrial method: C₂H₄ + H₂O (steam) → C₂H₅OH (ethanol production).",
+        "3. Halogenation: Alkenes react with halogens (Cl₂, Br₂, I₂) across the double bond to form dihalides.",
+        "Bromine water test identifies alkenes by decolorization.",
+        "Example: C₂H₄ + Br₂ → C₂H₄Br₂ (Brown → Colourless).",
+        "Structure:\n  H     H                  H     H\n   C = C  +  Br–Br  →  H–C – C–H\n   H     H                  Br    Br"
+      ]
+    },
+    {
+      "title": "Test for Unsaturation",
+      "content": "",
+      "points": [
+        "Bromine water: Alkenes turn brown bromine water colourless.",
+        "Acidified KMnO₄: Purple solution becomes colourless."
+      ]
+    },
+    {
+      "title": "Uses of Alkenes",
+      "content": "",
+      "points": [
+        "Production of plastics (polyethene from ethene).",
+        "Artificial ripening of fruits (e.g., bananas, mangoes).",
+        "Industrial alcohol production (ethanol from ethene).",
+        "Making paints, antifreeze, and detergents."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "UNIT 5: AIR",
+  "subsections": [
+    {
+      "title": "Nature of Air",
+      "content": "Air is a mixture of gases.",
+      "points": []
+    },
+    {
+      "title": "The Need for Air",
+      "content": "",
+      "points": [
+        "Breathing",
+        "Burning fuels",
+        "Maintains warmth",
+        "Brings wind and rain"
+      ]
+    },
+    {
+      "title": "Percentage Composition of Dry Air (By Volume)",
+      "content": "Substance and their approximate percentage composition in dry air:",
+      "points": [
+        "Nitrogen (N₂) - 78%",
+        "Oxygen (O₂) - 21%",
+        "Carbon dioxide (CO₂) - 0.03%",
+        "Noble gases - About 1%",
+        "Dust/smoke - Variable",
+        "Polluting gases - Variable"
+      ]
+    },
+    {
+      "title": "Uses of Gases Found in Air",
+      "content": "",
+      "points": [
+        "1. Nitrogen: Dilutes oxygen, reducing its reactivity; prevents excess rusting and burning; used to make ammonia and nitric acid.",
+        "2. Oxygen: Supports breathing, burning, rusting, and decay; essential for life.",
+        "3. Carbon Dioxide (CO₂): Comes from burning wood, coal, petrol; used by green plants in photosynthesis; used in preserving soft drinks and beer.",
+        "4. Noble Gases (He, Ne, Ar, Kr, Xe): Inert gases that do not react under ordinary conditions; Argon in electric bulbs; Helium in weather balloons; Neon in colourful advertising signs."
+      ]
+    },
+    {
+      "title": "Separation of Air Components by Fractional Distillation of Liquid Air",
+      "content": "",
+      "points": [
+        "Air is first cleaned (removal of CO₂, water vapour, dust) to prevent blockage.",
+        "Compressed to ~200 atm – air becomes hot.",
+        "Cooled and expanded to become very cold and liquefy.",
+        "At -200°C, N₂, O₂, and argon liquefy; helium and neon remain gaseous and are removed.",
+        "Fractional distillation separates gases by boiling points:",
+        "Nitrogen (N₂) boils at -196°C – collected first.",
+        "Argon (Ar) at -186°C.",
+        "Oxygen (O₂) at -183°C."
+      ]
+    },
+    {
+      "title": "Physical Properties of Oxygen (O₂)",
+      "content": "",
+      "points": [
+        "Slightly soluble in water.",
+        "Slightly denser than air.",
+        "Neutral gas – not acidic or basic.",
+        "Colourless and odourless."
+      ]
+    },
+    {
+      "title": "Experiment: Effect of O₂ on Litmus",
+      "content": "Apparatus: Blue & red litmus paper, gas jar of O₂.",
+      "points": [
+        "Observation: No colour change.",
+        "Conclusion: O₂ is neutral."
+      ]
+    },
+    {
+      "title": "Experiment: Solubility of O₂",
+      "content": "Apparatus: Gas jar of O₂, trough, distilled water.",
+      "points": [
+        "Observation: Water level slightly rises.",
+        "Conclusion: O₂ is slightly soluble in water."
+      ]
+    },
+    {
+      "title": "Chemical Properties of Oxygen",
+      "content": "1. Reaction with Non-Metals:",
+      "points": [
+        "a. Sulphur: Burns with blue flame to form sulphur dioxide (SO₂). Equation: S + O₂ → SO₂.",
+        "SO₂ is acidic; turns blue litmus red and forms sulphurous acid: SO₂ + H₂O → H₂SO₃.",
+        "b. Carbon: Burns with red glow to form carbon dioxide (CO₂). Equation: C + O₂ → CO₂.",
+        "Forms carbonic acid in water: CO₂ + H₂O → H₂CO₃.",
+        "c. Phosphorus: Burns to form P₂O₃ (limited O₂) and P₂O₅ (excess O₂); both are acidic oxides and form H₃PO₃ and H₃PO₄ in water.",
+        "2. Reaction with Metals:",
+        "i. Magnesium (Mg): Mg + O₂ → MgO; MgO + H₂O → Mg(OH)₂ (alkaline).",
+        "ii. Sodium (Na): Na + O₂ → Na₂O; Excess O₂ forms sodium peroxide (Na₂O₂). Sodium peroxide reacts with water to form NaOH and O₂.",
+        "iii. Iron (Fe): Burns with yellow sparks to form Fe₂O₃; brown-black oxide, insoluble, non-alkaline.",
+        "iv. Calcium (Ca): Burns with red flame to form CaO; CaO + H₂O → Ca(OH)₂ (limewater).",
+        "v. Copper (Cu): Burns with blue-green flame to form CuO; black oxide, insoluble, non-alkaline."
+      ]
+    },
+    {
+      "title": "Laboratory Preparation of Oxygen (O₂)",
+      "content": "Method: Oxygen is prepared by decomposing hydrogen peroxide (H₂O₂).",
+      "points": [
+        "Word equation: Hydrogen peroxide → Water + Oxygen.",
+        "Chemical equation: 2H₂O₂ (aq) → 2H₂O (l) + O₂ (g).",
+        "Hydrogen peroxide is a colourless liquid that decomposes slowly on its own.",
+        "Manganese dioxide (MnO₂) acts as a catalyst to speed up the reaction and remains unchanged.",
+        "Complete reaction with catalyst: 2H₂O₂ (aq) —MnO₂→ 2H₂O (l) + O₂ (g)."
+      ]
+    },
+    {
+      "title": "Experiment: Preparation and Properties of Oxygen",
+      "content": "Aim: To prepare and observe properties of oxygen gas.",
+      "points": [
+        "Materials: Flask, trough, water, gas jars.",
+        "Chemicals: Hydrogen peroxide (H₂O₂), Manganese dioxide (MnO₂).",
+        "Observation: Bubbles of gas form and collect; gas is colourless and odourless.",
+        "Test: Insert glowing splint into gas jar; positive test if splint relights, confirming O₂ presence."
+      ]
+    },
+    {
+      "title": "Uses of Oxygen",
+      "content": "",
+      "points": [
+        "Used in removal of impurities during steel manufacturing.",
+        "Used in explosives with charcoal, petrol, and liquid oxygen.",
+        "Breathing aid for diving, high-altitude climbing, and hospitals.",
+        "Used in welding and cutting metals (oxy-acetylene, oxy-hydrogen flames).",
+        "Liquid oxygen burns fuel in rockets and spacecraft."
+      ]
+    },
+    {
+      "title": "Atmospheric Pollutants and Sources",
+      "content": "",
+      "points": [
+        "i. Atmospheric Pollution: Addition of harmful substances into the atmosphere causing dirty environment and health/environmental hazards.",
+        "ii. Atmospheric Pollutants: Two main categories – Poisonous gases and Solid particles."
+      ]
+    },
+    {
+      "title": "Poisonous Gases",
+      "content": "a. Sulphur Dioxide (SO₂):",
+      "points": [
+        "Source: Burning fossil fuels containing sulphur.",
+        "Equation: S + O₂ → SO₂.",
+        "Effects: Toxic, respiratory problems, causes acid rain damaging buildings and metals."
+      ]
+    },
+    {
+      "title": "Poisonous Gases",
+      "content": "b. Nitrogen Dioxide (NO₂):",
+      "points": [
+        "Formed by nitrogen combining with oxygen during lightning and combustion.",
+        "Equation: N₂ + O₂ → 2NO → NO₂.",
+        "Effects: Toxic, respiratory issues, acid rain."
+      ]
+    },
+    {
+      "title": "Poisonous Gases",
+      "content": "c. Carbon Monoxide (CO):",
+      "points": [
+        "Formed during incomplete combustion.",
+        "Equation: C + ½O₂ → CO.",
+        "Effects: Very poisonous, colourless, odourless; binds with red blood cells preventing oxygen transport, potentially fatal."
+      ]
+    },
+    {
+      "title": "Poisonous Gases",
+      "content": "d. Carbon Dioxide (CO₂):",
+      "points": [
+        "Causes greenhouse effect by trapping warm air.",
+        "Effects include global warming, melting polar ice, rising sea levels, coastal flooding."
+      ]
+    },
+    {
+      "title": "Poisonous Gases",
+      "content": "e. Unburnt Hydrocarbons:",
+      "points": [
+        "Emitted from petrol fumes.",
+        "Carcinogenic – may cause cancer."
+      ]
+    },
+    {
+      "title": "Poisonous Gases",
+      "content": "f. Chlorine (Cl₂):",
+      "points": [
+        "Released from decomposition of insecticides and perfumes.",
+        "Destroys ozone layer."
+      ]
+    },
+    {
+      "title": "Poisonous Gases",
+      "content": "g. Ozone (O₃):",
+      "points": [
+        "Form of oxygen; blue gas.",
+        "In upper atmosphere (12–50 km): traps UV rays (good).",
+        "In lower atmosphere: causes headaches, damages crops and lungs (harmful).",
+        "Ozone depletion causes cancer, skin irritation, death.",
+        "Caused by CFCs and other gases.",
+        "Mitigation: Avoid CFC use, prevent O₃ formation at ground level."
+      ]
+    },
+    {
+      "title": "Solid Particles",
+      "content": "Suspended particulates come from mining, cement/flour industries, quarrying, burning charcoal/tyres, construction.",
+      "points": [
+        "Examples: Carbon particles from inefficient fuel combustion, dust (fine powder waste).",
+        "Effects: Respiratory disease, brain damage, cancer."
+      ]
+    },
+    {
+      "title": "Ways to Reduce Atmospheric Pollution",
+      "content": "",
+      "points": [
+        "Improve fuel combustion in petrol/diesel engines.",
+        "Use smokeless fuels like hydrogen.",
+        "Install efficient filters in industries.",
+        "Process fuels to remove sulphur compounds."
+      ]
+    },
+    {
+      "title": "Review Questions",
+      "content": "",
+      "points": [
+        "What is chemical pollution? Contamination of environment by harmful chemicals from human activity.",
+        "Name two poisonous gases: Sulphur dioxide (SO₂), Carbon monoxide (CO).",
+        "Which gas causes global warming? Carbon dioxide (CO₂).",
+        "Which gas causes ozone damage? Chlorine gas (Cl₂).",
+        "How can global warming and ozone damage be prevented? Reduce CO₂ emissions by using clean fuels; avoid CFCs and limit aerosols/insecticides; encourage reforestation and energy efficiency."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "UNIT 6: SOIL",
+  "content": "Form 2 Chemistry",
+  "subsections": [
+    {
+      "title": "Composition of Soil",
+      "content": "Soil is composed of the following four main components:",
+      "points": [
+        "Inorganic Matter",
+        "Organic Matter",
+        "Water (Moisture)",
+        "Air"
+      ]
+    },
+    {
+      "title": "Inorganic Matter",
+      "content": "Comprises weathered rock particles and minerals, making up about 50% of soil content.",
+      "points": [
+        "Sand",
+        "Silt",
+        "Clay",
+        "Mineral elements such as Iron (Fe), Aluminium (Al), Copper (Cu)",
+        "Groups of Mineral Elements in Soil: Silicates, Macronutrients, Trace Elements"
+      ]
+    },
+    {
+      "title": "Organic Matter",
+      "content": "Makes up approximately 5% of the soil. Composed of animal waste and humus.",
+      "points": [
+        "Humus results from the decomposition of plant and animal remains by bacteria and fungi.",
+        "Role of Humus: Regulates soil pH (acidity or alkalinity) and increases soil fertility.",
+        "Relationship Between Humus and pH: More humus = Higher pH (more alkaline)",
+        "Higher humus content = Greater soil fertility"
+      ]
+    },
+    {
+      "title": "Water (Moisture)",
+      "content": "Constitutes about 25% of soil, known as soil water.",
+      "points": [
+        "Dissolves mineral salts for plant uptake.",
+        "Excess moisture may cause waterlogging, reducing soil oxygen and limiting bacterial activity necessary for humus formation.",
+        "Anaerobic conditions occur when oxygen is lacking."
+      ]
+    },
+    {
+      "title": "Air",
+      "content": "Also makes up about 25% of soil, found in spaces between soil particles (soil pores).",
+      "points": [
+        "Contains Oxygen (O₂), Nitrogen (N₂), Carbon dioxide (CO₂), Noble gases (Helium, Neon, Argon).",
+        "Proportions of Gases in Soil Air: Nitrogen (78%), Oxygen (21%), Carbon Dioxide (0.2–0.6%), Others (traces)"
+      ]
+    },
+    {
+      "title": "Chemical Properties of Soil",
+      "content": "",
+      "points": [
+        "Cation Exchange Capacity (CEC): Amount of exchangeable ions in 100g soil (e.g., Ca²⁺, K⁺, Na⁺).",
+        "High exchangeable sodium soils can be toxic to crops.",
+        "Soil Salinity: Amount of salts in soil per unit mass; saline soils contain excess salts harmful to plants.",
+        "Soil pH: Indicates acidity or alkalinity, determined by hydrogen ion concentration; high H⁺ means more acidic soil."
+      ]
+    },
+    {
+      "title": "Activity",
+      "content": "",
+      "points": [
+        "1. Name the four main components of soil.",
+        "2. Which component determines the pH of the soil?",
+        "3. Define the following terms: a. Cation Exchange Capacity (CEC) b. Soil Salinity c. Soil pH",
+        "4. Describe what determines soil acidity."
+      ]
+    },
+    {
+      "title": "Adjusting Soil Acidity",
+      "content": "",
+      "points": [
+        "To Raise pH (Reduce Acidity): Apply lime (calcium compounds), use basic fertilizers.",
+        "To Lower pH (Increase Acidity): Apply sulphur, use acidic fertilizers like ammonium sulphate [(NH₄)₂SO₄].",
+        "Reaction: NH₄⁺ + SO₄²⁻ → (NH₄)₂SO₄"
+      ]
+    },
+    {
+      "title": "Soil Pollution",
+      "content": "Soil pollution is the release of harmful substances into the soil from human activities.",
+      "points": [
+        "Pollutant: Any substance contaminating soil, water, or air."
+      ]
+    },
+    {
+      "title": "Sources and Effects of Soil Pollutants",
+      "content": "",
+      "points": [
+        "Sulphur Oxides (SO₂, SO₃): Released via acid rain; lowers soil pH, causes nutrient leaching and fertility loss.",
+        "Aerosols: Sprays with heavy metals (copper, mercury); toxic to animals and soil microorganisms.",
+        "Petroleum Products: Oil spills suffocate soil organisms by blocking oxygen.",
+        "Agro-Chemicals: Fertilizers, insecticides, fungicides cause toxicity and alter soil chemistry.",
+        "Solid Waste: Household/industrial waste harms soil structure, reduces aeration, attracts pests."
+      ]
+    },
+    {
+      "title": "Prevention of Soil Pollution",
+      "content": "",
+      "points": [
+        "Recycle all solid wastes.",
+        "Burn biodegradable wastes using incinerators.",
+        "Practice organic farming (no chemicals).",
+        "Use biological pest control to reduce pesticide use.",
+        "Use pipelines to transport fuel and avoid spills."
+      ]
+    },
+    {
+      "title": "Questions",
+      "content": "",
+      "points": [
+        "State two components of soil.",
+        "Which component determines the pH of the soil?",
+        "State: a. One way of raising soil pH b. One way of lowering soil pH",
+        "Mention any three ways of preventing soil pollution.",
+        "State two causes of soil pollution."
+      ]
+    }
+  ]
+},
+
+
+
+
+
+    {
+      "title": "Acids and Bases",
+      "subsections": [
+        {
+          "title": "Definition and Properties",
+          "content": "Acids release H⁺ ions in water while bases release OH⁻ ions. Their strength is measured by pH.",
+          "points": [
+            "Acids have pH less than 7.",
+            "Bases (alkalis) have pH greater than 7.",
+            "Strong acids and bases dissociate completely in water."
+          ]
+        },
+        {
+          "title": "Examples",
+          "content": "Common acids and bases used in labs and industry.",
+          "points": [
+            "Acids: Hydrochloric acid (HCl), Sulfuric acid (H₂SO₄), Nitric acid (HNO₃).",
+            "Bases: Sodium hydroxide (NaOH), Ammonium hydroxide (NH₄OH)."
+          ]
+        },
+        {
+          "title": "Neutralization Reaction",
+          "content": "Neutralization is a chemical reaction between an acid and a base.",
+          "points": [
+            "Produces salt and water.",
+            "Example: HCl + NaOH → NaCl + H₂O.",
+            "Used in antacids and agriculture (liming soil)."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "States of Matter",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Matter exists in different states based on particle arrangement and energy.",
+          "points": [
+            "Solid, liquid, and gas are the three main physical states of matter."
+          ]
+        },
+        {
+          "title": "Properties of States",
+          "content": "Each state has unique characteristics.",
+          "points": [
+            "Solids: Fixed shape and volume, particles closely packed.",
+            "Liquids: No fixed shape, fixed volume, particles slide over each other.",
+            "Gases: No fixed shape or volume, particles move freely and are compressible."
+          ]
+        },
+        {
+          "title": "Changes of State",
+          "content": "Matter can change from one state to another by gaining or losing energy.",
+          "points": [
+            "Melting: Solid to liquid.",
+            "Boiling: Liquid to gas.",
+            "Condensation: Gas to liquid.",
+            "Freezing: Liquid to solid.",
+            "Sublimation: Solid to gas without becoming liquid."
+          ]
+        }
+      ]
+    }
+  ]
+}

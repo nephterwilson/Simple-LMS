@@ -1,0 +1,97 @@
+
+
+{
+  "subject": "Mathematics",
+  "topics": [
+    {
+      "title": "Fractions and Decimals",
+      "subsections": [
+        {
+          "title": "Fractions",
+          "content": "Fractions represent parts of a whole.",
+          "points": [
+            "Numerator: number of parts considered.",
+            "Denominator: total parts in the whole.",
+            "Operations: addition and subtraction need common denominators."
+          ]
+        },
+        {
+          "title": "Decimals",
+          "content": "Decimals represent fractions using base-10 notation.",
+          "points": [
+            "Convert fractions to decimals by division.",
+            "Decimals are easier to use in addition, subtraction, multiplication.",
+            "Place value is important for understanding decimals."
+          ]
+        },
+        {
+          "title": "Conversion Between Fractions and Decimals",
+          "content": "How to convert fractions to decimals and vice versa.",
+          "points": [
+            "Divide numerator by denominator to get decimal.",
+            "Decimal to fraction by reading place value and simplifying."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Algebraic Expressions",
+      "subsections": [
+        {
+          "title": "Components of Expressions",
+          "content": "Understand terms, variables, and coefficients.",
+          "points": [
+            "Terms are separated by + or - signs.",
+            "Variables represent unknowns (like x, y).",
+            "Coefficients are numerical factors."
+          ]
+        },
+        {
+          "title": "Simplification",
+          "content": "Combine like terms to simplify expressions.",
+          "points": [
+            "Only terms with the same variables can be combined.",
+            "Example: 3x + 4x = 7x."
+          ]
+        },
+        {
+          "title": "Distributive Property",
+          "content": "Distribute multiplication over addition or subtraction.",
+          "points": [
+            "a(b + c) = ab + ac.",
+            "Helps to expand expressions."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Perimeter and Area",
+      "subsections": [
+        {
+          "title": "Perimeter",
+          "content": "The total length around a shape.",
+          "points": [
+            "Rectangle perimeter = 2 × (length + width).",
+            "Triangle perimeter = sum of all sides."
+          ]
+        },
+        {
+          "title": "Area",
+          "content": "The space enclosed within a shape.",
+          "points": [
+            "Rectangle area = length × width.",
+            "Triangle area = ½ × base × height.",
+            "Circle area = π × radius²."
+          ]
+        },
+        {
+          "title": "Circumference of a Circle",
+          "content": "The perimeter of a circle.",
+          "points": [
+            "Circumference = 2 × π × radius."
+          ]
+        }
+      ]
+    }
+  ]
+}

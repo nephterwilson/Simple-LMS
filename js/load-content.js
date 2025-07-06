@@ -4,7 +4,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
   const urlParams = new URLSearchParams(window.location.search);
-  const subject = urlParams.get('subject');
+  const subject = urlParams.get('subject'); // e.g., "biology"
   const titleElement = document.getElementById('subjectTitle');
   const topicsContainer = document.getElementById('topicsContainer');
 
@@ -13,26 +13,31 @@ document.addEventListener('DOMContentLoaded', () => {
   paginationContainer.className = 'mt-10 flex justify-center items-center space-x-2 text-sm font-medium';
   topicsContainer.insertAdjacentElement('afterend', paginationContainer);
 
-  const topicsPerPage = 16;
+  const topicsPerPage = 10;
   let currentPage = 1;
   let allTopics = [];
 
-  if (!subject) {
-    titleElement.textContent = 'Subject not specified!';
-    return;
-  }
+ const form = urlParams.get('form'); // e.g., "form1"
 
-  fetch(`data/${subject.toLowerCase().replace(/\s+/g, '-')}.json`)
-    .then(res => res.json())
-    .then(data => {
-      titleElement.textContent = `${data.subject} Topics`;
-      allTopics = data.topics;
-      renderPage(currentPage);
-    })
-    .catch(err => {
-      titleElement.textContent = 'Failed to load subject content.';
-      console.error('Error loading JSON:', err);
-    });
+
+if (!form || !subject) {
+  titleElement.textContent = 'Form or Subject not specified!';
+  return;
+}
+
+// Adjusted fetch path
+fetch(`data/${form}/${subject.toLowerCase().replace(/\s+/g, '-')}.json`)
+  .then(res => res.json())
+  .then(data => {
+    titleElement.textContent = `${data.subject} Topics`;
+    allTopics = data.topics;
+    renderPage(currentPage);
+  })
+  .catch(err => {
+    titleElement.textContent = 'Failed to load subject content.';
+    console.error('Error loading JSON:', err);
+  });
+
 
   function renderPage(page) {
   currentPage = page;  // <-- This is essential to keep track of current page

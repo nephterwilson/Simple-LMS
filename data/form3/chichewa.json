@@ -1,0 +1,71 @@
+
+
+{
+  "subject": "Chichewa",
+  "topics": [
+    {
+      "title": "Zigawo za Mawu",
+      "subsections": [
+        {
+          "title": "Tanthauzo",
+          "content": "Zigawo za mawu ndi mitundu ya mawu molingana ndi ntchito yake pa chiganizo.",
+          "points": [
+            "Mawu amagawidwa malinga ndi ntchito yake: dzina, wachita, chipulumutso, chigwirizano, ndi zina.",
+            "Amasintha kumvetsa kwa chiganizo komanso kulondola kwa chilankhulo."
+          ]
+        },
+        {
+          "title": "Zitsanzo",
+          "content": "Zitsanzo zimathandiza kumvetsa zigawo za mawu bwino.",
+          "points": [
+            "Mwachitsanzo: 'Mwana akuthamanga' – mwana ndi dzina, akuthamanga ndi wachita.",
+            "'Ine ndikudya' – ine ndi dzina, ndikudya ndi wachita."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nkhani Yosavuta",
+      "subsections": [
+        {
+          "title": "Tanthauzo",
+          "content": "Nkhani yosavuta imalembedwa mwachilengedwe ndikulondola kwa chilankhulo.",
+          "points": [
+            "Yoyenera tsiku ndi tsiku komanso imakhudza moyo wa munthu wamba.",
+            "Imafanana ndi momwe anthu amalankhulira nthawi zambiri."
+          ]
+        },
+        {
+          "title": "Mbali Zake",
+          "content": "Ili ndi mbali zomwe zimatsatira chilankhulo chachilendo.",
+          "points": [
+            "Imagwiritsa ntchito mawu osavuta komanso osadziwika.",
+            "Ilibe mawu a chinsinsi kapena ziganizo zovuta."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nthano",
+      "subsections": [
+        {
+          "title": "Tanthauzo",
+          "content": "Nthano ndi nkhani zokambirana zosungidwa kuchokera kwa akulu.",
+          "points": [
+            "Zimatengera nthawi yakale komanso zimapatsidwa kuchokera m’mbadwo kupita m’mbadwo.",
+            "Nthano zimathandiza kusunga chikhalidwe ndi chiphunzitso."
+          ]
+        },
+        {
+          "title": "Mbali Za Nthano",
+          "content": "Nthano zimakhala ndi mbali zomwe zimadziwika bwino.",
+          "points": [
+            "Zimagwiritsa ntchito nyama kapena anthu ngati otchulidwa.",
+            "Zili ndi phunziro kapena chitsanzo chomwe ophunzira angaphunzire.",
+            "Nthano nthawi zina zimakhala ndi chiyambi kapena kumaliza kwa mawu apadera."
+          ]
+        }
+      ]
+    }
+  ]
+}

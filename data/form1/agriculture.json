@@ -1,0 +1,111 @@
+
+
+{
+  "subject": "Agriculture",
+  "topics": [
+
+ 
+{
+  "title": "Agricultural Cooperative",
+  "content": "An agricultural cooperative is an organization where farmers pool their resources to perform agricultural activities collectively.",
+  "subsections": [
+    {
+      "title": "Services Offered by Agricultural Cooperatives",
+      "content": "Agricultural cooperatives offer a wide range of services to support farmers in improving productivity and profitability.",
+      "points": [
+        "Storage – Keeps farm produce safe until it is ready for sale.",
+        "Acquiring Inputs – Provides access to farm inputs (seeds, fertilizers) at lower prices.",
+        "Provision of Employment – Offers job opportunities for members.",
+        "Marketing – Helps farmers market their products and negotiate better prices.",
+        "Negotiating for Fair Prices – Ensures farmers receive fair prices for their produce.",
+        "Keeping Farm Records – Maintains accurate records for individual deliveries and financial transactions.",
+        "Increasing Production with Fewer Resources – Shares resources like tractors for collective use to lower individual costs.",
+        "Extension Services – Provides education on new farming methods and techniques for better crop and livestock management.",
+        "Transport (TPT) – Offers transport services to take produce to the market.",
+        "Banking & Loan Facilities – Provides access to loans and banking services to improve productivity."
+      ]
+    },
+    {
+      "title": "Principles of Agricultural Cooperatives",
+      "content": "These principles guide the operation and governance of agricultural cooperatives.",
+      "points": [
+        "Open and Voluntary Membership",
+        "Democratic Governance",
+        "Equal Share Limits",
+        "Profit Sharing",
+        "Capital",
+        "Education and Training",
+        "Loyalty",
+        "Maturity",
+        "Cooperation with Other Cooperatives"
+      ]
+    },
+    {
+      "title": "Considerations Before Forming a Cooperative Society",
+      "content": "Important factors to be addressed before establishing a cooperative.",
+      "points": [
+        "Registration",
+        "Choosing a Name",
+        "Setting Up a Constitution",
+        "Electing Leaders",
+        "Ensuring Common Interest Among Members"
+      ]
+    },
+    {
+      "title": "Problems of Running Agricultural Cooperatives",
+      "content": "Challenges faced by cooperatives that affect their performance and sustainability.",
+      "points": [
+        "Dishonesty – Issues like applying water to groundnuts or milk to increase weight.",
+        "Management Issues – Lack of capital, misappropriation of resources, corruption, fake contracts, and delayed payments.",
+        "Price Fluctuations – Unreliable prices and mismatches between production and market prices.",
+        "Shortage of Qualified Personnel – Due to low salaries and lack of benefits.",
+        "Insufficient Transport (TPT) – Poor or inadequate transport due to impassable roads, especially in the rainy season.",
+        "Poor Production Techniques – Use of outdated farming methods and unsuitable crop varieties."
+      ]
+    },
+    {
+      "title": "Solutions to Challenges",
+      "content": "Possible ways to overcome the problems facing agricultural cooperatives.",
+      "points": [
+        "District Rules and Guidelines",
+        "Employment of Honest Individuals",
+        "Sale Promotion and Awareness Campaigns",
+        "Hiring Qualified Personnel with Adequate Salaries",
+        "Contractual Agreements",
+        "Farmer Education on Modern Farming Techniques",
+        "Processing Raw Materials to Improve Prices",
+        "Conducting Market Research",
+        "Providing Better Transport and Road Infrastructure"
+      ]
+    }
+  ]
+},
+
+
+
+
+
+    {
+      "title": "Trial of Soil",
+      "subsections": [
+        {
+          "title": "Soil pH",
+          "content": "Measure of acidity or alkalinity of soil.",
+          "points": [
+            "Scale: 1 (acidic) to 14 (alkaline), 7 = neutral.",
+            "Affects nutrient availability.",
+            "Managed through liming or sulfur application."
+          ]
+        },
+        {
+          "title": "Cation Exchange Capacity (CEC)",
+          "content": "Soil’s ability to hold and exchange nutrients.",
+          "points": [
+            "High CEC = better fertility.",
+            "Depends on clay and organic matter."
+          ]
+        }
+      ]
+    }
+  ]
+}

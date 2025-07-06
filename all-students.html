@@ -1,0 +1,67 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Wtec1 LMS Landing</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    /* Optional simple fade-in */
+    .fade-in {
+      opacity: 0;
+      transform: translateY(30px);
+      animation: fadeInUp 1s ease-out forwards;
+    }
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+
+<body class="bg-gradient-to-br from-indigo-50 to-blue-100 min-h-screen flex flex-col items-center justify-center px-4">
+
+  <!-- Hero Section -->
+  <header class="text-center fade-in max-w-2xl mb-12">
+    <h1 class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-gray-800 leading-tight">
+      Welcome to <span class="text-indigo-600">Wtec1 LMS</span>
+    </h1>
+    <p class="mt-4 text-lg text-gray-600">
+      Your gateway to digital learning for Form 1 to Form 4. Access curated lessons, quizzes, and more!
+    </p>
+  </header>
+
+  <!-- Form Buttons -->
+  <main class="w-full max-w-4xl grid grid-cols-1 sm:grid-cols-2 gap-6 fade-in">
+    <a href="./form1.html" class="block bg-white text-indigo-700 font-bold py-6 px-8 rounded-xl text-center shadow-md hover:bg-indigo-600 hover:text-white transition duration-300 text-lg">
+      📘 Form 1
+    </a>
+    <a href="./form2.html" class="block bg-white text-indigo-700 font-bold py-6 px-8 rounded-xl text-center shadow-md hover:bg-indigo-600 hover:text-white transition duration-300 text-lg">
+      📗 Form 2
+    </a>
+    <a href="./form3.html" class="block bg-white text-indigo-700 font-bold py-6 px-8 rounded-xl text-center shadow-md hover:bg-indigo-600 hover:text-white transition duration-300 text-lg">
+      📙 Form 3
+    </a>
+    <a href="./form4.html" class="block bg-white text-indigo-700 font-bold py-6 px-8 rounded-xl text-center shadow-md hover:bg-indigo-600 hover:text-white transition duration-300 text-lg">
+      📕 Form 4
+    </a>
+  </main>
+
+  <!-- Footer -->
+  <footer class="mt-16 text-center text-gray-500 text-sm">
+    <p>&copy; <span id="year"></span> Wtec1 Technologies. All rights reserved.</p>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+
+</body>
+</html>

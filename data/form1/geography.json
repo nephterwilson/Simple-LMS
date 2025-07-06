@@ -1,0 +1,1109 @@
+
+
+
+
+
+{
+  "subject": "Geography",
+  "topics": [
+
+    {
+  "title": "The Map",
+  "subsections": [
+    {
+      "title": "Explain the Term Map",
+      "content": "A map is a drawing or representation of an area seen from above (a bird’s eye view). It shows physical features like rivers and mountains, human features like roads and towns, or both. Maps help people understand places and navigate.",
+      "points": [
+        "A map is a bird’s eye view drawing or representation.",
+        "Shows physical and human features.",
+        "Helps in understanding and navigation."
+      ]
+    },
+    {
+      "title": "Components of a Map",
+      "content": "The main components of a map include the title, scale, compass (direction indicator), legend (key), grid lines (coordinates), borders, and sometimes the source and date.",
+      "points": [
+        "Title: What the map shows.",
+        "Scale: Ratio between map and ground distances.",
+        "Compass: Shows directions (N, S, E, W).",
+        "Legend: Explains map symbols.",
+        "Grid Lines: Help locate places with coordinates.",
+        "Borders: Edges or frames of the map.",
+        "Source and Date: Where and when the map was made."
+      ]
+    },
+    {
+      "title": "Differentiate a Map from an Aerial Photograph",
+      "content": "Maps are drawn or printed representations using symbols, while aerial photographs are real images taken from aircraft or drones. Maps have a specific scale; aerial photos may be distorted and show actual colors and details.",
+      "points": [
+        "Map: Drawn representation with symbols.",
+        "Aerial Photo: Real image from above.",
+        "Map has a fixed scale; aerial photo may not.",
+        "Maps show selective details; aerial photos show all visible features.",
+        "Maps used for navigation and planning; aerial photos for detailed observation."
+      ]
+    },
+    {
+      "title": "Types of Maps",
+      "content": "Maps vary by purpose and features shown, including physical, political, topographical, thematic, road, weather, sketch, and aeronautical maps.",
+      "points": [
+        "Physical Maps: Show natural features like mountains and rivers.",
+        "Political Maps: Show boundaries and major cities.",
+        "Topographical Maps: Show detailed land features with contour lines.",
+        "Thematic Maps: Focus on specific topics like population or climate.",
+        "Road Maps: Show roads and landmarks for travel.",
+        "Weather Maps: Show weather conditions for forecasting.",
+        "Sketch Maps: Simple hand-drawn maps with important features.",
+        "Aeronautical Maps: Used by pilots to navigate air routes."
+      ]
+    },
+    {
+      "title": "Uses of Maps",
+      "content": "Maps are used for finding locations, planning routes, studying physical features, showing political boundaries, disaster management, resource planning, education, and research.",
+      "points": [
+        "Locate towns, rivers, roads.",
+        "Plan travel and transport routes.",
+        "Study mountains, lakes, and landforms.",
+        "Show political boundaries like countries and districts.",
+        "Aid in disaster and resource planning.",
+        "Support education and research."
+      ]
+    },
+    {
+      "title": "Ways of Expressing Scale",
+      "content": "Scale on maps can be shown by linear scale bars, statement (verbal) scales, or representative fractions (ratios).",
+      "points": [
+        "Linear Scale: Line divided into units showing real distances.",
+        "Statement Scale: Words like '1 cm represents 5 km'.",
+        "Representative Fraction: Ratio such as 1:50,000."
+      ]
+    },
+    {
+      "title": "Symbols and Signs on a Map",
+      "content": "Maps use symbols to represent features such as roads, schools, rivers, and mountains. Conventional signs are standardized symbols used locally or worldwide.",
+      "points": [
+        "Blue line = river",
+        "Black line = road",
+        "Triangle = mountain peak",
+        "Small square = school"
+      ]
+    },
+    {
+      "title": "Interpreting Maps Using Signs and Symbols",
+      "content": "To read maps, identify features using the map key, measure distances with a ruler or string, and draw sketch maps using symbols to scale.",
+      "points": [
+        "Use map key to identify features.",
+        "Measure straight distances with a ruler.",
+        "Measure winding distances using string.",
+        "Draw sketch maps with correct symbols and scale."
+      ]
+    },
+    {
+      "title": "Locate Features and Places Using Grid References",
+      "content": "Grid references help locate places on a map precisely, using four-figure references for large squares and six-figure references for more detail.",
+      "points": [
+        "Four-figure grid references locate large grid squares.",
+        "Six-figure grid references locate smaller, precise areas.",
+        "Grid references use numbers and sometimes letters."
+      ]
+    },
+    {
+      "title": "Distinguish Large Scale and Small Scale Maps",
+      "content": "Large scale maps show small areas with high detail (e.g., 1:10,000), while small scale maps show large areas with less detail (e.g., 1:1,000,000).",
+      "points": [
+        "Large scale: small area, lots of detail.",
+        "Small scale: large area, less detail."
+      ]
+    },
+    {
+      "title": "Compass Points and Cardinal Points",
+      "content": "Cardinal points are the main directions on a compass: North, East, South, and West. They are used to describe direction and location on maps and in the environment.",
+      "points": [
+        "Cardinal points: N, E, S, W.",
+        "Used for navigation and orientation."
+      ]
+    },
+    {
+      "title": "True North, Magnetic North, and Grid North",
+      "content": "True North points to the geographic North Pole, Magnetic North is where a compass points (magnetic pole), and Grid North is shown by vertical grid lines on a map.",
+      "points": [
+        "True North: Geographic North Pole.",
+        "Magnetic North: Compass direction to magnetic pole.",
+        "Grid North: North shown by map grid lines."
+      ]
+    },
+    {
+      "title": "Other Map Skills",
+      "content": "Additional skills include calculating areas on maps, locating places using bearings, and navigating using compass points and bearings.",
+      "points": [
+        "Calculate areas of features on maps.",
+        "Locate places using bearings (degrees from north).",
+        "Use compass points and bearings for navigation."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Solar System",
+  "subsections": [
+    {
+      "title": "Explain the term \"Solar System\"",
+      "content": "The solar system is the group of heavenly bodies that revolve around the sun, including the sun, planets, moons, asteroids, comets, meteors, and dwarf planets. The sun provides light and heat at the center.",
+      "points": [
+        "The solar system includes the sun and 8 planets.",
+        "It has moons, asteroids, comets, meteors, and dwarf planets.",
+        "The sun is at the center providing light and heat.",
+        "A planet must orbit the sun, be nearly round, and have cleared its orbit."
+      ]
+    },
+    {
+      "title": "New Developments in the Solar System",
+      "content": "Recent changes include reducing the number of planets from 9 to 8, reclassifying Pluto as a dwarf planet, discovering new moons and dwarf planets, observing pole shifts, and ongoing space missions.",
+      "points": [
+        "Number of planets changed from 9 to 8.",
+        "Pluto is now classified as a dwarf planet.",
+        "Discovery of dwarf planets like Eris and Ceres.",
+        "Planets have axial tilts affecting seasons.",
+        "Pole shifts observed in Earth's magnetic poles.",
+        "New moons and small planets discovered.",
+        "Space missions explore planets (e.g., NASA's Perseverance rover).",
+        "Hundreds of exoplanets discovered outside our solar system."
+      ]
+    },
+    {
+      "title": "8 Planets and Their Characteristics",
+      "content": "The eight planets vary in size, composition, and atmosphere, from the hot, small Mercury to the cold, windy Neptune.",
+      "points": [
+        "Mercury: Closest to Sun, smallest, no atmosphere.",
+        "Venus: Thick hot atmosphere, many volcanoes.",
+        "Earth: Supports life, has water in all forms.",
+        "Mars: Red planet with tallest volcano and canyon.",
+        "Jupiter: Largest gas giant with Great Red Spot and many moons.",
+        "Saturn: Known for rings, second largest gas giant.",
+        "Uranus: Blue-green ice giant, rotates on its side.",
+        "Neptune: Cold, windy blue planet with strong storms."
+      ]
+    },
+    {
+      "title": "Relate the Position of the Earth to the Sun",
+      "content": "Earth is the third planet from the Sun, positioned to support life with suitable temperature and presence of liquid water.",
+      "points": [
+        "Third planet from the sun.",
+        "At the right distance to support life.",
+        "Receives enough sunlight and maintains temperature.",
+        "Supports plant growth, weather, seasons, and human activities."
+      ]
+    },
+    {
+      "title": "Explain the Shape of the Earth",
+      "content": "Earth is an oblate spheroid, slightly flattened at the poles and bulged at the equator, proven by space photos, eclipses, and other evidence.",
+      "points": [
+        "Earth is not a perfect sphere; it is an oblate spheroid.",
+        "Flattened at poles and bulged at equator.",
+        "Photos from space show Earth is round.",
+        "Ships disappear bottom-first when sailing away.",
+        "Earth’s shadow on the moon during lunar eclipse is round.",
+        "Different time zones, airplane routes, and star visibility support spherical Earth.",
+        "Earth’s shape causes different time zones and climates."
+      ]
+    },
+    {
+      "title": "Explain Movements of the Earth",
+      "content": "Earth rotates on its axis every 24 hours causing day and night, and revolves around the Sun every 365¼ days causing seasons.",
+      "points": [
+        "Rotation: Earth spins on its axis every 24 hours.",
+        "Rotation causes day and night.",
+        "Revolution: Earth moves around the Sun in 365¼ days.",
+        "Revolution causes seasons and changes in day length."
+      ]
+    },
+    {
+      "title": "Explain the Results of Earth’s Movements",
+      "content": "Rotation causes day/night, time zones, and winds; revolution causes seasons, weather changes, and variation in day length.",
+      "points": [
+        "Rotation results in day and night.",
+        "Causes sunrise in the east and sunset in the west.",
+        "Creates different time zones.",
+        "Influences winds and ocean currents (Coriolis effect).",
+        "Revolution causes four seasons.",
+        "Changes weather patterns and day length.",
+        "Sun’s position in the sky changes during the year."
+      ]
+    },
+    {
+      "title": "Summary Table for Quick Revision",
+      "content": "Key points about the solar system, new developments, Earth’s position and shape, movements and their results.",
+      "points": [
+        "Solar System: Sun + 8 planets + moons + comets + asteroids + dwarf planets.",
+        "New Developments: Pluto reclassified, new moons, space missions, exoplanets, shifting poles.",
+        "Earth’s Position: Third from the Sun, supports life.",
+        "Shape of Earth: Oblate spheroid proven by space evidence.",
+        "Earth’s Movements: Rotation (day/night), Revolution (seasons).",
+        "Results of Movements: Day/night, time zones, seasons, changing day length."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Hydrosphere",
+  "subsections": [
+    {
+      "title": "Explain the Term Hydrosphere",
+      "content": "The hydrosphere is the total amount of water found on, under, and above the Earth's surface. It includes oceans, lakes, rivers, glaciers, groundwater, and water in the atmosphere.",
+      "points": [
+        "Includes liquid, solid (ice), and gaseous (vapour) water.",
+        "Covers about 71% of Earth’s surface.",
+        "Main parts: oceans, lakes, rivers, glaciers, groundwater, water vapour.",
+        "Hydrosphere = all water on Earth – in sea, rivers, rain, ice, clouds, underground."
+      ]
+    },
+    {
+      "title": "Main Features and Processes of the Hydrological Cycle",
+      "content": "The hydrological cycle, or water cycle, is the continuous movement of water through land, air, and sea.",
+      "points": [
+        "Evaporation: Liquid water changes to vapour due to the sun’s heat.",
+        "Transpiration: Plants release water vapour from leaves.",
+        "Condensation: Water vapour cools and forms clouds.",
+        "Precipitation: Water falls as rain, snow, hail, or sleet.",
+        "Runoff: Rainwater flows into rivers and lakes.",
+        "Infiltration: Water soaks into the ground.",
+        "Percolation: Water moves deeper into soil and rocks.",
+        "Collection: Water gathers in oceans, lakes, and rivers, restarting the cycle."
+      ]
+    },
+    {
+      "title": "Distribution of Water on Earth",
+      "content": "Water is unevenly distributed, with most in oceans and very little as usable freshwater.",
+      "points": [
+        "Oceans and seas: 97% of Earth’s water.",
+        "Freshwater (ice, lakes, rivers): 3%.",
+        "Usable freshwater: Less than 1%."
+      ]
+    },
+    {
+      "title": "Importance of the Hydrological Cycle",
+      "content": "The water cycle supports life, balances nature, and helps the economy.",
+      "points": [
+        "Provides freshwater for drinking, cooking, and washing.",
+        "Supplies water for farming (irrigation).",
+        "Supports plant growth and fish habitats.",
+        "Maintains natural water balance.",
+        "Cleans water through natural filtration.",
+        "Helps weather and climate control.",
+        "Provides water for industries and hydroelectric power.",
+        "Supports transport, fishing, and tourism."
+      ]
+    },
+    {
+      "title": "Ways of Maintaining the Hydrological Cycle",
+      "content": "Actions to protect and maintain the water cycle include reducing pollution, conserving water, and protecting sources.",
+      "points": [
+        "Avoid throwing rubbish into rivers and lakes.",
+        "Plant trees to reduce erosion and increase rainfall.",
+        "Avoid cutting down trees near water sources.",
+        "Do not use harmful chemicals near water.",
+        "Use organic fertilizers and proper waste disposal.",
+        "Fix leaking taps and use water wisely.",
+        "Harvest and reuse rainwater.",
+        "Government: make water laws, educate the public, protect catchment areas."
+      ]
+    },
+    {
+      "title": "Factors that Disturb the Hydrological Cycle",
+      "content": "Human activities and climate change can negatively affect the water cycle.",
+      "points": [
+        "Deforestation reduces rainfall and transpiration.",
+        "Pollution contaminates water and disrupts flow.",
+        "Climate change alters rainfall patterns.",
+        "Overuse of groundwater dries up wells and boreholes.",
+        "Urbanization reduces infiltration and causes flooding."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Atmosphere",
+  "subsections": [
+    {
+      "title": "Explain the Term Atmosphere",
+      "content": "The atmosphere is the layer of gases that surrounds the Earth. It is held by gravity and made up of gases that support life and protect the planet.",
+      "points": [
+        "A layer of gases around the Earth.",
+        "Held in place by Earth’s gravity.",
+        "Made up of invisible gases like oxygen and nitrogen.",
+        "Protects life and helps control weather and climate.",
+        "Also known as the Earth’s air blanket."
+      ]
+    },
+    {
+      "title": "Composition of Gases in the Atmosphere",
+      "content": "The atmosphere is made of different gases, each with a role in supporting life and regulating the Earth’s temperature.",
+      "points": [
+        "Nitrogen (78%): Helps plants grow; most common gas.",
+        "Oxygen (21%): Needed for breathing.",
+        "Carbon dioxide (0.04%): Used in photosynthesis; traps heat.",
+        "Argon (0.93%): Inactive gas used in lights.",
+        "Other gases: Neon, helium, hydrogen (very small amounts).",
+        "Water vapour: Varies; causes clouds, rain, and humidity."
+      ]
+    },
+    {
+      "title": "Layers of the Atmosphere",
+      "content": "The atmosphere has five layers based on height and temperature, each with unique characteristics.",
+      "points": [
+        "Troposphere: Closest to Earth, weather happens here, up to 12 km.",
+        "Stratosphere: Contains ozone layer, planes fly here, 12–50 km.",
+        "Mesosphere: Coldest layer, meteors burn up, 50–80 km.",
+        "Thermosphere: Very hot, has auroras, space shuttles orbit, 80–500 km.",
+        "Exosphere: Outermost layer, merges with space, satellites orbit above 500 km.",
+        "Mnemonic: The Smart Man Taught Earth (Troposphere → Exosphere)."
+      ]
+    },
+    {
+      "title": "Importance of the Atmosphere",
+      "content": "The atmosphere supports life, controls climate, enables communication and travel, and protects the Earth from harmful space elements.",
+      "points": [
+        "Provides oxygen for animals and carbon dioxide for plants.",
+        "Protects from harmful sun rays via the ozone layer.",
+        "Maintains Earth’s temperature balance (greenhouse effect).",
+        "Holds water vapour for rain and clouds.",
+        "Controls weather and climate patterns.",
+        "Allows movement of radio waves and flights.",
+        "Burns meteors in the mesosphere.",
+        "Shields Earth from extreme space conditions."
+      ]
+    },
+    {
+      "title": "Activities That Endanger the Atmosphere",
+      "content": "Human actions can harm the atmosphere by releasing pollutants and damaging protective layers.",
+      "points": [
+        "Burning fossil fuels releases harmful gases (e.g., CO₂, SO₂).",
+        "Deforestation increases carbon dioxide levels.",
+        "Use of harmful chemicals damages the ozone layer.",
+        "Industrial emissions pollute the air and cause global warming.",
+        "Burning waste releases toxic gases.",
+        "Mining releases dust and dangerous gases."
+      ]
+    },
+    {
+      "title": "Ways to Protect the Atmosphere",
+      "content": "We can protect the atmosphere by reducing pollution and supporting clean energy and nature.",
+      "points": [
+        "Plant trees to absorb carbon dioxide and release oxygen.",
+        "Use clean energy (solar, wind, hydro).",
+        "Reduce vehicle emissions by using public transport or cycling.",
+        "Recycle and dispose of waste properly.",
+        "Use eco-friendly and ozone-safe products.",
+        "Support and follow environmental protection laws."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Weather and Climate",
+  "subsections": [
+    {
+      "title": "Explain the Terms \"Weather\" and \"Climate\"",
+      "content": "Weather is the condition of the atmosphere at a specific place and time. Climate is the average weather of a place over a long time, usually 30 years or more.",
+      "points": [
+        "Weather changes daily or hourly (e.g., rain, sunshine, wind).",
+        "Examples of weather: It is rainy today; it was cold this morning.",
+        "Climate describes long-term patterns in weather.",
+        "Examples of climate: Malawi has a tropical climate; the Sahara has a desert climate."
+      ]
+    },
+    {
+      "title": "Elements of Weather",
+      "content": "Elements of weather are the parts that make up weather conditions.",
+      "points": [
+        "Temperature – how hot or cold the air is.",
+        "Rainfall – water falling from the sky as rain.",
+        "Humidity – amount of water vapor in the air.",
+        "Cloud cover – how much of the sky has clouds.",
+        "Sunshine – how bright and long the sun shines.",
+        "Air pressure – weight of air pressing down.",
+        "Wind – moving air."
+      ]
+    },
+    {
+      "title": "Factors That Affect the Elements of Weather",
+      "content": "Various physical and geographical factors influence temperature, rainfall, and wind.",
+      "points": [
+        "Altitude: Higher places are cooler (e.g., Dedza is cooler than Salima).",
+        "Latitude: Places near the equator are hotter.",
+        "Distance from the sea: Places near the sea have moderate temperatures.",
+        "Cloud cover: Clouds can block sunshine and lower temperatures.",
+        "Winds: Warm or cool air changes local temperatures.",
+        "Relief: Mountains force air to rise and cause rainfall.",
+        "Moist winds bring more rain.",
+        "Hot temperatures cause evaporation, leading to rain.",
+        "Presence of water bodies adds moisture to air.",
+        "Wind is affected by air pressure, temperature, and Earth’s rotation (Coriolis effect)."
+      ]
+    },
+    {
+      "title": "Instruments Used to Measure Elements of Weather",
+      "content": "Each element of weather is measured using special instruments.",
+      "points": [
+        "Thermometer – measures temperature.",
+        "Rain gauge – measures rainfall.",
+        "Anemometer – measures wind speed.",
+        "Wind vane – shows wind direction.",
+        "Barometer – measures air pressure.",
+        "Hygrometer – measures humidity.",
+        "Sunshine recorder – measures sunshine.",
+        "Cloud cover – observed using eyes or satellite images."
+      ]
+    },
+    {
+      "title": "Interpret Weather Data and Symbols",
+      "content": "Weather data includes observations from stations and symbols used to show weather conditions.",
+      "points": [
+        "Weather data comes from weather stations, satellites, newspapers, radio, TV, and farmer observations.",
+        "Weather symbols help show current or predicted weather on maps.",
+        "☀️ = Sunny, ☁️ = Cloudy, 🌧️ = Rain, ➡️ = Wind, ⛈️ = Thunderstorm, ❄️ = Snow.",
+        "Use weather data to forecast: e.g., dark clouds mean rain may come.",
+        "Thermometers tell temperature; wind direction helps plan farming or fishing.",
+        "Sudden drops in temperature can signal weather change."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Biosphere",
+  "subsections": [
+    {
+      "title": "Describe the Term Biosphere",
+      "content": "The biosphere is the part of the Earth where all living things exist and interact with air, water, and land to support life.",
+      "points": [
+        "Includes all living organisms: plants, animals, humans, and microorganisms.",
+        "Connects with the atmosphere, hydrosphere, and lithosphere.",
+        "Also called the 'zone of life' on Earth.",
+        "Without the biosphere, life cannot exist."
+      ]
+    },
+    {
+      "title": "Identify the Components of the Biosphere",
+      "content": "The biosphere is made up of living organisms and the non-living elements that support them.",
+      "points": [
+        "Living things (biotic):",
+        "- Plants (flora): trees, grasses, crops.",
+        "- Animals (fauna): insects, birds, fish, mammals.",
+        "- Humans: people in communities.",
+        "- Microorganisms: bacteria, fungi.",
+        "Non-living things (supportive elements):",
+        "- Atmosphere: air (oxygen, carbon dioxide).",
+        "- Hydrosphere: water (rivers, lakes, oceans).",
+        "- Lithosphere: soil, land, rocks.",
+        "Note: Non-living parts support life but are not part of the biosphere."
+      ]
+    },
+    {
+      "title": "Explain the Importance of the Biosphere",
+      "content": "The biosphere is essential for life, economic development, and environmental balance.",
+      "points": [
+        "Supports Life:",
+        "- Provides oxygen for breathing.",
+        "- Supplies food and water.",
+        "- Helps balance gases like oxygen and carbon dioxide.",
+        "Economic Importance:",
+        "- Provides raw materials like timber, cotton, crops, and fish.",
+        "- Supports jobs in farming, fishing, tourism, and medicine.",
+        "- Source of traditional and modern medicines.",
+        "Environmental Importance:",
+        "- Maintains climate and air quality.",
+        "- Prevents soil erosion through plant roots.",
+        "- Aids pollination for crops and fruits.",
+        "Local (Malawi) Examples:",
+        "- Dzalanyama Forest provides firewood and timber.",
+        "- Lake Malawi supplies fish and clean water.",
+        "- Parks like Liwonde attract tourists.",
+        "- Medicinal plants used in traditional medicine."
+      ]
+    },
+    {
+      "title": "Suggest Ways of Maintaining the Biosphere",
+      "content": "Caring for the biosphere means protecting plants, animals, and their habitats while using resources wisely.",
+      "points": [
+        "Environmental Protection:",
+        "- Stop deforestation and replant trees.",
+        "- Protect wetlands and forests.",
+        "- Prevent overfishing and illegal hunting.",
+        "- Establish national parks and reserves.",
+        "Reduce Pollution:",
+        "- Avoid dumping waste into rivers and land.",
+        "- Use proper waste disposal systems.",
+        "- Reduce air pollution from smoke and vehicles.",
+        "Promote Sustainable Use:",
+        "- Use natural resources wisely.",
+        "- Practice conservation farming.",
+        "- Educate people on environmental care.",
+        "- Use renewable energy like solar."
+      ]
+    },
+    {
+      "title": "Identify and Analyze Problems Affecting the Biosphere",
+      "content": "The biosphere faces serious threats from human activities and environmental damage.",
+      "points": [
+        "Deforestation – cutting trees without replacing them.",
+        "Overgrazing – too many animals damaging vegetation.",
+        "Water pollution – dirty water from waste, chemicals, and farms.",
+        "Air pollution – from burning and factory smoke.",
+        "Soil erosion – from poor farming and land use.",
+        "Climate change – due to excessive pollution and greenhouse gases.",
+        "Loss of biodiversity – extinction of plants and animals."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Environment",
+  "subsections": [
+    {
+      "title": "Explain the Term “Environment”",
+      "content": "The environment includes everything around us, both living and non-living. It is where all life exists and interacts.",
+      "points": [
+        "Includes air, water, soil, plants, animals, people, and buildings.",
+        "Examples: trees, rivers, sunshine, houses, birds, wind.",
+        "Supports life and daily activities."
+      ]
+    },
+    {
+      "title": "Explain How the Components of the Environment and the Earth Are Related",
+      "content": "The environment is made up of natural, human-made, living, and non-living components that all depend on each other.",
+      "points": [
+        "Natural Environment: soil, water, air, plants, animals.",
+        "Human-made Environment: houses, roads, schools, bridges.",
+        "Living Things (Biotic): people, animals, plants, microorganisms.",
+        "Non-living Things (Abiotic): air, water, soil, rocks, sunlight.",
+        "Connections:",
+        "- Plants need soil, water, and sunlight.",
+        "- Animals depend on plants and water.",
+        "- Humans use natural resources for shelter and tools.",
+        "- Air is used by all living things for breathing.",
+        "- Damaging one part (e.g., cutting trees) affects the others (e.g., causes erosion, harms animals, impacts people)."
+      ]
+    },
+    {
+      "title": "Explain the Importance of Various Components of the Environment",
+      "content": "Each part of the environment has a role in supporting life, development, and well-being.",
+      "points": [
+        "Natural Environment:",
+        "- Soil: used to grow crops.",
+        "- Water: used for drinking, farming, cleaning.",
+        "- Air: essential for breathing and plant growth.",
+        "- Forests: provide wood, fruits, and control rainfall.",
+        "- Animals: provide food, transport, and income.",
+        "Human-made Environment:",
+        "- Houses: provide shelter.",
+        "- Schools: offer education.",
+        "- Hospitals: provide health services.",
+        "- Roads: used for transport and trade.",
+        "Living Things:",
+        "- Plants: make food and oxygen.",
+        "- Animals: provide meat, milk, and other products.",
+        "- Humans: develop and care for the environment.",
+        "Non-living Things:",
+        "- Sunlight: helps plants grow.",
+        "- Water: supports all life.",
+        "- Soil: essential for agriculture.",
+        "- Rocks: used in construction."
+      ]
+    },
+    {
+      "title": "What Would Life Be Like Without the Environment?",
+      "content": "The environment is necessary for survival. Without its components, life would not exist.",
+      "points": [
+        "Without air – we cannot breathe.",
+        "Without water – no life can survive.",
+        "Without soil – no crops can grow.",
+        "Without plants and animals – no food, medicine, or clothing.",
+        "Without sunlight – plants would die, no energy or oxygen.",
+        "Life would become very difficult or impossible."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Ecosystem",
+  "subsections": [
+    {
+      "title": "Explain the Term \"Ecosystem\"",
+      "content": "An ecosystem is a natural system where living things interact with non-living things in a particular area. It includes everything in the environment and how they depend on each other.",
+      "points": [
+        "Living things: plants, animals, microorganisms.",
+        "Non-living things: air, water, soil, sunlight, temperature.",
+        "Examples: forests, rivers, lakes, deserts, gardens."
+      ]
+    },
+    {
+      "title": "Explain the Components of an Ecosystem",
+      "content": "Ecosystems consist of biotic (living) and abiotic (non-living) components.",
+      "points": [
+        "Biotic Components:",
+        "- Producers: plants that make food using sunlight (e.g., grass, trees).",
+        "- Consumers: animals that eat plants or other animals (e.g., cows, birds, lions).",
+        "- Decomposers: organisms that break down dead plants/animals (e.g., fungi, bacteria, termites).",
+        "Abiotic Components:",
+        "- Soil: supports plant growth.",
+        "- Water: needed for life.",
+        "- Sunlight: provides energy for photosynthesis.",
+        "- Air: provides oxygen and carbon dioxide.",
+        "- Temperature: influences living conditions."
+      ]
+    },
+    {
+      "title": "Describe How Components Are Interrelated",
+      "content": "Living and non-living parts of an ecosystem depend on each other in a balanced way.",
+      "points": [
+        "Plants use sunlight, water, and air to make food.",
+        "Animals eat plants or other animals to get energy.",
+        "Decomposers break down dead organisms and return nutrients to the soil.",
+        "Soil helps plants grow; plants provide food and oxygen.",
+        "Water and sunlight support all life.",
+        "Example: Goat eats grass → grass uses sunlight and water → goat dies → decomposers break it down → nutrients return to soil → new grass grows."
+      ]
+    },
+    {
+      "title": "Describe Factors That Can Disturb Ecosystems",
+      "content": "Several human and natural activities can damage or disrupt ecosystems.",
+      "points": [
+        "Deforestation – removing too many trees.",
+        "Pollution – dumping waste in rivers, land, or air.",
+        "Bush fires – uncontrolled burning.",
+        "Overgrazing – too many animals eating vegetation.",
+        "Climate change – affecting rainfall and temperatures.",
+        "Mining – destroys natural land and habitats.",
+        "Urbanisation – replacing natural land with buildings.",
+        "Foreign species – new animals/plants that harm native life."
+      ]
+    },
+    {
+      "title": "Explain Ways of Maintaining Ecosystems",
+      "content": "Ecosystems can be protected through responsible actions and conservation methods.",
+      "points": [
+        "Planting trees (reforestation).",
+        "Avoiding bush fires.",
+        "Using proper farming methods (e.g., crop rotation, contour farming).",
+        "Reducing pollution by managing waste properly.",
+        "Protecting water sources.",
+        "Creating protected areas (game reserves, national parks).",
+        "Educating communities about environment.",
+        "Using resources sustainably."
+      ]
+    },
+    {
+      "title": "Explain the Importance of Ecosystems",
+      "content": "Ecosystems are essential for human life and environmental health.",
+      "points": [
+        "For People:",
+        "- Provide food, water, medicine, building materials.",
+        "- Supply clean air and water.",
+        "- Help with crop pollination.",
+        "- Create jobs (fishing, farming, tourism).",
+        "For the Environment:",
+        "- Maintain nature’s balance.",
+        "- Control climate and rainfall.",
+        "- Prevent soil erosion.",
+        "- Provide habitat for living organisms.",
+        "- Decomposers clean dead material naturally."
+      ]
+    }
+  ]
+},
+
+
+{
+  "title": "Natural Resources",
+  "subsections": [
+    {
+      "title": "Explain the Term “Natural Resources”",
+      "content": "Natural resources are materials or things found in nature that people use to live and develop. They come from the Earth, not made by humans.",
+      "points": [
+        "Examples: water, soil, trees, minerals, wildlife, sunlight.",
+        "Key Features:",
+        "- Found in the environment",
+        "- Useful for human survival and economic development",
+        "- Can be used directly or processed into products"
+      ]
+    },
+    {
+      "title": "Explain the Different Types of Natural Resources",
+      "content": "Natural resources can be grouped into renewable and non-renewable resources.",
+      "points": [
+        "Renewable Resources:",
+        "- Can be replaced naturally and used repeatedly.",
+        "- Examples: forests (trees), water, solar energy, wind, air, wildlife.",
+        "Non-Renewable Resources:",
+        "- Cannot be replaced once used up; take millions of years to form.",
+        "- Examples: minerals (coal, gold, bauxite), oil, natural gas, fossil fuels.",
+        "Other classifications:",
+        "- Biotic resources: from living things (e.g., forests, animals).",
+        "- Abiotic resources: from non-living things (e.g., water, minerals)."
+      ]
+    },
+    {
+      "title": "Explain the Importance of Natural Resources",
+      "content": "Natural resources are vital for the economy, community, and environment.",
+      "points": [
+        "To the Economy:",
+        "- Provide raw materials for industries.",
+        "- Generate income through exports (e.g., tobacco, minerals).",
+        "- Provide jobs in farming, fishing, mining.",
+        "To the Community:",
+        "- Source of food (fish, crops, fruits, animals).",
+        "- Source of energy (firewood, charcoal, hydroelectric power).",
+        "- Source of building materials (wood, stones, sand).",
+        "- Support traditional medicine.",
+        "- Help in transportation (rivers, forests for boats).",
+        "To the Environment:",
+        "- Maintain ecosystems (forests provide rain and oxygen).",
+        "- Prevent soil erosion.",
+        "- Maintain climate balance."
+      ]
+    },
+    {
+      "title": "Explain How Natural Resources Are Being Mismanaged in Malawi",
+      "content": "Several human activities threaten natural resources in Malawi.",
+      "points": [
+        "Deforestation – cutting trees without replacing them.",
+        "Overfishing – excessive or harmful fishing methods.",
+        "Overgrazing – too many animals feeding on land, damaging grass.",
+        "Illegal mining – uncontrolled extraction of minerals.",
+        "Water pollution – dumping waste into rivers and lakes.",
+        "Bush burning – destroying vegetation and soil fertility.",
+        "Soil erosion – poor farming on steep slopes."
+      ]
+    },
+    {
+      "title": "Suggest Ways of Managing Natural Resources",
+      "content": "Sustainable use and proper management help conserve natural resources.",
+      "points": [
+        "Use resources to meet current needs without harming future use.",
+        "Reforestation – planting trees to replace those cut.",
+        "Soil conservation – contour farming, crop rotation, terracing.",
+        "Fishing regulations – proper nets, obey fishing seasons.",
+        "Wildlife protection – national parks and reserves.",
+        "Proper waste disposal to reduce pollution.",
+        "Community awareness and education on conservation.",
+        "Environmental laws and policies enforcement.",
+        "Promote renewable energy to reduce firewood use."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Natural Disasters",
+  "subsections": [
+    {
+      "title": "Definition of Natural Disasters",
+      "content": "Natural disasters are sudden and extreme events caused by natural forces.",
+      "points": [
+        "They cause harm to people, property, and the environment.",
+        "They happen without warning and can be very destructive."
+      ]
+    },
+    {
+      "title": "Key Terms",
+      "content": "Important terms used when discussing natural disasters.",
+      "points": [
+        "Disaster – a sudden event that causes damage to people or property.",
+        "Natural disaster – a disaster caused by natural events like earthquakes or floods.",
+        "Hazard – something that has the potential to cause a disaster.",
+        "Risk – the likelihood of a disaster occurring.",
+        "Vulnerability – how exposed or weak people are to disasters."
+      ]
+    },
+    {
+      "title": "Hazards vs Disasters",
+      "content": "Understanding the difference between natural hazards and natural disasters.",
+      "points": [
+        "Natural hazard – a potential danger that may not cause damage if no one is affected.",
+        "Natural disaster – occurs when a hazard causes actual damage or loss."
+      ]
+    },
+    {
+      "title": "Types of Natural Disasters",
+      "content": "There are many types of natural disasters that affect different areas.",
+      "points": [
+        "Earthquake – sudden shaking of the ground.",
+        "Flood – overflow of water onto dry land.",
+        "Drought – a long time with little or no rain.",
+        "Tropical cyclone – strong winds and heavy rains.",
+        "Volcanic eruption – lava and ash released from a volcano.",
+        "Landslide – soil and rocks moving down a slope."
+      ]
+    },
+    {
+      "title": "Effects of Natural Disasters",
+      "content": "Natural disasters affect people, property, the economy, and the environment.",
+      "points": [
+        "People – injuries, deaths, loss of shelter, disease.",
+        "Property – damaged homes, roads, and crops.",
+        "Economy – loss of jobs, rebuilding costs, food shortages.",
+        "Environment – erosion, water pollution, destroyed habitats."
+      ]
+    },
+    {
+      "title": "Managing Natural Disasters",
+      "content": "Managing disasters includes steps before, during, and after they occur.",
+      "points": [
+        "Before – build strong houses, avoid flood areas, plant trees, educate people, use warning systems.",
+        "During – evacuate to safety, give first aid, supply food and shelter.",
+        "After – rebuild homes, help people recover, provide support and counseling."
+      ]
+    }
+  ]
+},
+
+    {
+  "title": "Population",
+  "subsections": [
+    {
+      "title": "Definition of Population",
+      "content": "Population is the total number of people living in a given area at a specific time.",
+      "points": [
+        "Includes all ages and sexes.",
+        "Can refer to a village, district, region, or country."
+      ]
+    },
+    {
+      "title": "Population Composition",
+      "content": "This refers to the structure of a population based on characteristics like age and sex.",
+      "points": [
+        "Age groups: 0–14 years, 15–64 years, 65+ years.",
+        "Sex: number of males and females.",
+        "Occupation: types of work people do.",
+        "Marital status: married or single.",
+        "Education level: schooling attained."
+      ]
+    },
+    {
+      "title": "Analyzing Population Composition",
+      "content": "We study population structure using tools and calculations.",
+      "points": [
+        "Population pyramids (bar graphs for age and sex).",
+        "Dependency ratio (working vs non-working people).",
+        "Gender balance (more males or females).",
+        "Ageing or youthful population trends."
+      ]
+    },
+    {
+      "title": "Population at District or Regional Level",
+      "content": "An example from a Malawian district.",
+      "points": [
+        "More youth than elderly people.",
+        "Slightly more females than males.",
+        "Most people are farmers.",
+        "Many have primary-level education.",
+        "High birth rate and youthful population."
+      ]
+    },
+    {
+      "title": "Population Distribution",
+      "content": "This describes how people are spread across a given area.",
+      "points": [
+        "Some areas have many people (dense).",
+        "Other areas have few people (sparse).",
+        "Shown on population maps."
+      ]
+    },
+    {
+      "title": "Factors Affecting Population Distribution",
+      "content": "Several factors influence where people settle.",
+      "points": [
+        "Climate: moderate weather attracts people.",
+        "Water supply: people prefer areas near rivers, lakes, or boreholes.",
+        "Soil fertility: good for farming.",
+        "Relief: flat or gently sloping land preferred.",
+        "Jobs: towns and cities offer employment.",
+        "Infrastructure: roads, schools, and hospitals draw people.",
+        "Security: peaceful places attract settlement.",
+        "Historical ties: some people settle on ancestral land."
+      ]
+    },
+    {
+      "title": "Population and Resource Allocation",
+      "content": "Population distribution affects development and resource sharing.",
+      "points": [
+        "Densely populated areas get more services like schools and hospitals.",
+        "Sparsely populated areas may lack development.",
+        "Government allocates resources based on population needs."
+      ]
+    },
+    {
+      "title": "Population Density",
+      "content": "This is the number of people living in one square kilometre.",
+      "points": [
+        "Formula: Population Density = Total Population / Area (km²).",
+        "High density = many people in small area.",
+        "Low density = few people in large area."
+      ]
+    },
+    {
+      "title": "Factors Influencing Population Density",
+      "content": "Some places are more crowded than others due to various reasons.",
+      "points": [
+        "High Density Factors: good climate, fertile land, available jobs, good transport, urban centres.",
+        "Low Density Factors: harsh climate, poor soils, no infrastructure, mountains or dangerous areas."
+      ]
+    },
+    {
+      "title": "Effects of Population Density",
+      "content": "Density affects land, services, and living conditions.",
+      "points": [
+        "High density: overcrowding, pressure on land and water, pollution, poor sanitation.",
+        "Low density: underuse of services, fewer schools, less development."
+      ]
+    },
+    {
+      "title": "Population Growth",
+      "content": "Population growth is an increase in the number of people over time.",
+      "points": [
+        "Happens when birth rate is higher than death rate.",
+        "Migration can also increase population."
+      ]
+    },
+    {
+      "title": "Factors Influencing Population Growth",
+      "content": "These factors either increase or decrease population growth.",
+      "points": [
+        "High Growth: high birth rate, good healthcare, cultural norms, early marriages, low death rate.",
+        "Low Growth: family planning, education, disease, poverty, migration."
+      ]
+    },
+    {
+      "title": "Effects of Population Growth",
+      "content": "Rapid population growth affects families and the environment.",
+      "points": [
+        "Family Effects: food shortages, overcrowded homes, low income, poor access to education and healthcare.",
+        "Environmental Effects: deforestation, water pollution, land degradation, loss of wildlife."
+      ]
+    },
+    {
+      "title": "Key Concepts",
+      "content": "Important terms used in population studies.",
+      "points": [
+        "Birth rate: number of births per 1,000 people per year.",
+        "Death rate: number of deaths per 1,000 people per year.",
+        "Migration: movement of people; in-migration (arriving) and out-migration (leaving)."
+      ]
+    }
+  ]
+},
+
+    {
+      "title": "Weather and Climate TRIAL",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Weather is the condition of the atmosphere at a specific time and place, while climate is the long-term average of weather patterns.",
+          "points": [
+            "Weather can change daily; climate changes slowly over decades.",
+            "Climate affects agriculture, water supply, and lifestyle."
+          ]
+        },
+        {
+          "title": "Elements of Weather",
+          "content": "Main atmospheric conditions measured to determine weather.",
+          "points": [
+            "Temperature, rainfall, wind speed and direction, humidity, air pressure."
+          ]
+        },
+        {
+          "title": "Climate Zones",
+          "content": "Climate zones classify regions based on long-term weather patterns.",
+          "points": [
+            "Tropical: hot and wet.",
+            "Temperate: moderate temperatures.",
+            "Polar: cold throughout the year."
+          ]
+        },
+        {
+          "title": "Measuring Weather",
+          "content": "Various instruments are used to observe and record weather conditions.",
+          "points": [
+            "Thermometer – measures temperature.",
+            "Barometer – measures air pressure.",
+            "Rain gauge – measures rainfall.",
+            "Anemometer – measures wind speed.",
+            "Hygrometer – measures humidity."
+          ]
+        }
+      ]
+    },
+
+       {
+      "title": "Types of Natural Disasters TRIAL",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Natural disasters are extreme, sudden events caused by environmental factors.",
+          "points": [
+            "They pose risks to life, property, and the environment.",
+            "Often occur without warning and can be devastating."
+          ]
+        },
+        {
+          "title": "Common Types",
+          "content": "Several types of natural disasters affect different regions of the world.",
+          "points": [
+            "Earthquakes – sudden shaking of the Earth's surface.",
+            "Floods – overflow of water onto land.",
+            "Drought – prolonged period of low rainfall.",
+            "Volcanic eruptions – magma and gases expelled from Earth's crust."
+          ]
+        }
+      ]
+    },
+    
+    {
+      "title": "Map Reading Skills",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Maps are symbolic representations of the Earth's surface used to show geographical features.",
+          "points": [
+            "They help us locate places, measure distances, and understand terrain."
+          ]
+        },
+        {
+          "title": "Basic Elements of a Map",
+          "content": "Essential features that make maps readable.",
+          "points": [
+            "Title – tells what the map shows.",
+            "Scale – represents the ratio of map distance to real distance.",
+            "Legend/Key – explains symbols used.",
+            "Compass rose – shows direction (N, E, S, W)."
+          ]
+        },
+        {
+          "title": "Types of Maps",
+          "content": "Different maps serve different purposes.",
+          "points": [
+            "Topographic – shows elevation and landscape.",
+            "Political – shows countries, cities, and boundaries.",
+            "Thematic – focuses on specific themes like population or climate."
+          ]
+        },
+        {
+          "title": "Map Reading Techniques",
+          "content": "Skills required to understand and interpret maps.",
+          "points": [
+            "Use of grid references (e.g., 3A, 5D).",
+            "Contour lines – show elevation and shape of the land.",
+            "Measuring distances using the map scale."
+          ]
+        }
+      ]
+    }
+  ]
+}

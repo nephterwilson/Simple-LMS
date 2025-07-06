@@ -1,0 +1,47 @@
+
+
+
+{
+  "subject": "Humanities",
+  "topics": [
+    {
+      "title": "History of Africa",
+      "subsections": [
+        {
+          "title": "Questions",
+          "content": "Answer the following questions about African history.",
+          "points": [
+            "Which kingdom was famous for its gold trade in West Africa? \nOptions: Kingdom of Mali, Kingdom of Egypt, Kingdom of Zimbabwe, Kingdom of Ghana\nAnswer: Kingdom of Mali",
+            "When did the Scramble for Africa take place? \nOptions: 1884-1885, 1914-1918, 1950-1960, 1700-1750\nAnswer: 1884-1885"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Human Rights",
+      "subsections": [
+        {
+          "title": "Questions",
+          "content": "Answer the following questions about human rights.",
+          "points": [
+            "What document outlines the fundamental human rights globally? \nOptions: Universal Declaration of Human Rights, Magna Carta, Bill of Rights, Hammurabi's Code\nAnswer: Universal Declaration of Human Rights",
+            "Which right protects freedom of expression? \nOptions: Right to Education, Freedom of Speech, Right to Vote, Right to Privacy\nAnswer: Freedom of Speech"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cultural Diversity",
+      "subsections": [
+        {
+          "title": "Questions",
+          "content": "Answer the following questions on cultural diversity.",
+          "points": [
+            "What promotes tolerance and understanding in a society? \nOptions: Cultural Diversity, Uniformity, Isolation, Monoculture\nAnswer: Cultural Diversity",
+            "Which of the following is an example of cultural diversity? \nOptions: Different languages, Single religion, One cuisine, Identical clothing\nAnswer: Different languages"
+          ]
+        }
+      ]
+    }
+  ]
+}

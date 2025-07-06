@@ -1,0 +1,33 @@
+
+
+{
+  "subject": "Agriculture",
+  "topics": [
+
+
+
+
+    {
+      "title": "Trial of Soil",
+      "subsections": [
+        {
+          "title": "Soil pH",
+          "content": "Measure of acidity or alkalinity of soil.",
+          "points": [
+            "Scale: 1 (acidic) to 14 (alkaline), 7 = neutral.",
+            "Affects nutrient availability.",
+            "Managed through liming or sulfur application."
+          ]
+        },
+        {
+          "title": "Cation Exchange Capacity (CEC)",
+          "content": "Soil’s ability to hold and exchange nutrients.",
+          "points": [
+            "High CEC = better fertility.",
+            "Depends on clay and organic matter."
+          ]
+        }
+      ]
+    }
+  ]
+}

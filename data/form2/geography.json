@@ -1,0 +1,256 @@
+
+
+
+
+
+{
+  "subject": "Geography",
+  "topics": [
+
+    
+
+{
+  "title": "Precipitation and Rainfall",
+  "subsections": [
+    {
+      "title": "Success Criteria (Precipitation)",
+      "content": "Students must be able to:",
+      "points": [
+        "Explain forms of precipitation.",
+        "Explain how precipitation is formed."
+      ]
+    },
+    {
+      "title": "Definition of Precipitation",
+      "content": "Precipitation is a form of water (liquid or solid) falling from the atmosphere.",
+      "points": []
+    },
+    {
+      "title": "Forms of Precipitation",
+      "content": "",
+      "points": [
+        "Rain – Liquid water falling from the sky. Most common form.",
+        "Sleet – Frozen raindrops that refreeze while falling.",
+        "Snow – Ice crystals formed in clouds and fall as snowflakes.",
+        "Hail – Solid balls of ice formed in cumulonimbus clouds during thunderstorms.",
+        "Drizzles – Light showers or small droplets of water.",
+        "Dew – Moisture that condenses near the Earth's surface, especially in the morning."
+      ]
+    },
+    {
+      "title": "Necessary Conditions for Precipitation Formation",
+      "content": "",
+      "points": [
+        "Presence of water vapour in the air.",
+        "Presence of condensation nuclei (e.g., dust, smoke) in the air.",
+        "Warm moist air must rise into the atmosphere.",
+        "Low temperature (dew point) must be reached for condensation.",
+        "Cloud droplets must grow large and heavy enough to fall."
+      ]
+    },
+    {
+      "title": "Success Criteria (Rainfall)",
+      "content": "Students must be able to:",
+      "points": [
+        "Explain the formation of different types of rainfall.",
+        "Identify areas in the world receiving different types of rainfall.",
+        "Interpret rainfall data from various sources."
+      ]
+    },
+    {
+      "title": "Definition of Rainfall",
+      "content": "Rainfall is liquid water falling from the atmosphere.",
+      "points": []
+    },
+    {
+      "title": "Necessary Conditions for Rain Formation",
+      "content": "",
+      "points": [
+        "Warm moist air must rise by evaporation, air mass convergence, or mountain uplift.",
+        "Wind must carry moisture into the atmosphere.",
+        "Air must cool in the atmosphere to allow condensation.",
+        "Dust, smoke, or pollen must be present to aid condensation.",
+        "High temperatures help initiate evaporation from Earth’s surface."
+      ]
+    },
+    {
+      "title": "Types of Rainfall",
+      "content": "There are three main types of rainfall:",
+      "points": [
+        "Relief rainfall",
+        "Convectional rainfall",
+        "Frontal (Cyclonic) rainfall"
+      ]
+    },
+    {
+      "title": "Relief Rainfall",
+      "content": "Formed when moist air is forced to rise over mountains.",
+      "points": [
+        "Occurs on windward side where rain-bearing wind hits the mountain.",
+        "Leeward side (rain shadow) gets little or no rain, e.g. Chikwawa and Nsanje behind Mulanje.",
+        "Found in Malawi’s highlands: Mulanje, Shire Highlands, Dedza, Nyika, Viphya Plateaus.",
+        "Widespread, falls for long hours, more on windward side."
+      ]
+    },
+    {
+      "title": "Convectional Rainfall",
+      "content": "Formed by the sun heating Earth’s surface causing evaporation and rising air.",
+      "points": [
+        "Air rises, cools, and condenses to form cumulonimbus clouds.",
+        "Falls in the afternoon with thunderstorms and lightning.",
+        "Heavy but short-lived (20 minutes to an hour).",
+        "Localized – small area coverage.",
+        "Occurs mostly in summer."
+      ]
+    },
+    {
+      "title": "Frontal Rainfall",
+      "content": "Also called cyclonic rainfall; formed when warm air rises over cold air at a front.",
+      "points": [
+        "Warm air condenses to form clouds and rain.",
+        "Light showers falling for long hours.",
+        "Extensive cloud cover with storms but no lightning.",
+        "Covers a large area and can fall at any time of day."
+      ]
+    },
+    {
+      "title": "Similarities among Rainfall Types",
+      "content": "Despite different causes, they share some similarities:",
+      "points": [
+        "All involve rising warm moist air.",
+        "Air cools to dew point where condensation occurs.",
+        "Clouds form and further cooling leads to rainfall."
+      ]
+    },
+    {
+      "title": "Differences among Rainfall Types",
+      "content": "",
+      "points": [
+        "Convectional – air rises due to heating and evaporation.",
+        "Relief – air rises due to mountain barriers.",
+        "Frontal – warm air rises over a cold air mass."
+      ]
+    },
+    {
+      "title": "Interpreting Rainfall Data",
+      "content": "",
+      "points": [
+        "Rainfall data is collected at weather stations.",
+        "Presented using isopluvial maps, tables, and graphs.",
+        "Isopluvial maps use colours and lines (isohyets) to show rainfall patterns.",
+        "Data analysis involves calculating mean and total annual rainfall."
+      ]
+    }
+  ]
+},
+
+
+
+
+    {
+      "title": "Weather and Climate TRIAL",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Weather is the condition of the atmosphere at a specific time and place, while climate is the long-term average of weather patterns.",
+          "points": [
+            "Weather can change daily; climate changes slowly over decades.",
+            "Climate affects agriculture, water supply, and lifestyle."
+          ]
+        },
+        {
+          "title": "Elements of Weather",
+          "content": "Main atmospheric conditions measured to determine weather.",
+          "points": [
+            "Temperature, rainfall, wind speed and direction, humidity, air pressure."
+          ]
+        },
+        {
+          "title": "Climate Zones",
+          "content": "Climate zones classify regions based on long-term weather patterns.",
+          "points": [
+            "Tropical: hot and wet.",
+            "Temperate: moderate temperatures.",
+            "Polar: cold throughout the year."
+          ]
+        },
+        {
+          "title": "Measuring Weather",
+          "content": "Various instruments are used to observe and record weather conditions.",
+          "points": [
+            "Thermometer – measures temperature.",
+            "Barometer – measures air pressure.",
+            "Rain gauge – measures rainfall.",
+            "Anemometer – measures wind speed.",
+            "Hygrometer – measures humidity."
+          ]
+        }
+      ]
+    },
+
+       {
+      "title": "Types of Natural Disasters TRIAL",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Natural disasters are extreme, sudden events caused by environmental factors.",
+          "points": [
+            "They pose risks to life, property, and the environment.",
+            "Often occur without warning and can be devastating."
+          ]
+        },
+        {
+          "title": "Common Types",
+          "content": "Several types of natural disasters affect different regions of the world.",
+          "points": [
+            "Earthquakes – sudden shaking of the Earth's surface.",
+            "Floods – overflow of water onto land.",
+            "Drought – prolonged period of low rainfall.",
+            "Volcanic eruptions – magma and gases expelled from Earth's crust."
+          ]
+        }
+      ]
+    },
+    
+    {
+      "title": "Map Reading Skills",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Maps are symbolic representations of the Earth's surface used to show geographical features.",
+          "points": [
+            "They help us locate places, measure distances, and understand terrain."
+          ]
+        },
+        {
+          "title": "Basic Elements of a Map",
+          "content": "Essential features that make maps readable.",
+          "points": [
+            "Title – tells what the map shows.",
+            "Scale – represents the ratio of map distance to real distance.",
+            "Legend/Key – explains symbols used.",
+            "Compass rose – shows direction (N, E, S, W)."
+          ]
+        },
+        {
+          "title": "Types of Maps",
+          "content": "Different maps serve different purposes.",
+          "points": [
+            "Topographic – shows elevation and landscape.",
+            "Political – shows countries, cities, and boundaries.",
+            "Thematic – focuses on specific themes like population or climate."
+          ]
+        },
+        {
+          "title": "Map Reading Techniques",
+          "content": "Skills required to understand and interpret maps.",
+          "points": [
+            "Use of grid references (e.g., 3A, 5D).",
+            "Contour lines – show elevation and shape of the land.",
+            "Measuring distances using the map scale."
+          ]
+        }
+      ]
+    }
+  ]
+}

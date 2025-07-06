@@ -1,0 +1,100 @@
+
+
+
+{
+  "subject": "Life Skills",
+  "topics": [
+    {
+      "title": "Decision Making",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Decision making involves selecting the best option among alternatives.",
+          "points": [
+            "We make decisions every day, big or small.",
+            "Poor decisions can lead to negative outcomes; good ones improve life quality."
+          ]
+        },
+        {
+          "title": "Steps in Decision Making",
+          "content": "A structured process improves decision quality.",
+          "points": [
+            "Identify the problem.",
+            "Gather relevant information.",
+            "Evaluate options.",
+            "Make a choice.",
+            "Take action and review the results."
+          ]
+        },
+        {
+          "title": "Importance",
+          "content": "Making wise choices improves various aspects of life.",
+          "points": [
+            "Improves health, relationships, and long-term success.",
+            "Builds responsibility and independence."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Self-Awareness",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Self-awareness is understanding your own emotions, strengths, weaknesses, and values.",
+          "points": [
+            "It involves being honest with yourself.",
+            "Helps you know how others see you."
+          ]
+        },
+        {
+          "title": "Benefits",
+          "content": "Being self-aware promotes personal growth.",
+          "points": [
+            "Increases confidence and emotional intelligence.",
+            "Leads to better relationships and decisions."
+          ]
+        },
+        {
+          "title": "How to Improve Self-Awareness",
+          "content": "It is a skill that can be developed.",
+          "points": [
+            "Reflect regularly on your behavior and feelings.",
+            "Seek feedback from trusted people.",
+            "Practice mindfulness or journaling."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Peer Pressure",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Peer pressure is the influence from people of your own age group.",
+          "points": [
+            "It can affect thoughts, decisions, and behavior."
+          ]
+        },
+        {
+          "title": "Types of Peer Pressure",
+          "content": "It can be either helpful or harmful.",
+          "points": [
+            "Positive: Encourages studying, good habits.",
+            "Negative: Encourages drugs, truancy, or risky behavior."
+          ]
+        },
+        {
+          "title": "Resisting Negative Peer Pressure",
+          "content": "It is important to stand firm in your values.",
+          "points": [
+            "Say no firmly and clearly.",
+            "Give a reason or make an excuse.",
+            "Avoid bad company or situations.",
+            "Seek support from trusted adults or friends."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,89 +3,145 @@
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Wtec1 LMS – Secondary School Subjects</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Wtec1 LMS</title>
+
+  <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
 
-  <link rel="stylesheet" href="./css/styles.css">
-  
-  <link rel="shortcut icon" href="./img/icon.ico" type="image/x-icon">
+  <!-- Optional: favicon -->
+  <link rel="shortcut icon" href="./img/icon.ico" type="image/png" />
+
+  <meta name="description" content="Create professional invoices easily with Wtec1 Invoice Studio. Fast, simple, and powerful invoice generator tailored for small businesses and shops.">
+
+  <style>
+    .fade-slide-up {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeSlide 1s ease-out forwards;
+    }
+
+    @keyframes fadeSlide {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+
 </head>
 
-<body class="bg-gray-100 min-h-screen text-gray-800">
+<body class="bg-gradient-to-r from-blue-50 to-indigo-50 min-h-screen flex flex-col">
 
-  <header class="bg-indigo-700 text-white py-6">
-    <div class="max-w-7xl mx-auto px-6 flex justify-between items-center">
-      <h1 class="text-3xl font-bold">Wtec1 LMS</h1>
+  <!-- HEADER -->
+  <header class="bg-gray-900 text-white px-6 py-4 w-full shadow-md">
+    <div class="max-w-7xl mx-auto flex justify-between items-center">
+      <div>
+         <h1 class="text-xl font-bold">Wtec1 LMS</h1>
+        <p class="text-sm text-gray-300">Powered by Wtec1 Technologies</p>
+      </div>
+      <div>
+        <img src="./img/JCE MSCE LESSONS.png" alt="Logo" class="w-16 h-16 rounded shadow-md" />
+      </div>
     </div>
   </header>
 
-  <main class="max-w-6xl mx-auto px-6 py-10">
-    <h2 class="text-2xl font-semibold mb-6 text-indigo-700">Choose a Subject</h2>
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+  <!-- MAIN CONTENT -->
+  <main class="flex-grow max-w-5xl mx-auto p-8 bg-white rounded-3xl shadow-xl mt-12 mb-16 flex flex-col md:flex-row items-center gap-12">
+    
+    <!-- Text Content -->
+    <section class="max-w-xl text-center md:text-left">
+      <h2 class="text-xl sm:text-2xl md:text-3xl font-bold mb-6 text-gray-700 leading-snug text-center">
+        Transform the Way You Teach and Learn
+      </h2>
+      <h2 class="text-xl sm:text-2xl md:text-3xl mb-6 text-gray-900 leading-snug text-center">
+        A Modern LMS Built for Schools and Students
+      </h2>
 
-      <!-- Subjects -->
-      <a href="subject.html?subject=Agriculture" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-green-600">Agriculture</h3>
+      <p class="text-indigo-600 font-semibold mb-6 text-center md:text-left">
+        Simple. Smart. Classroom-Ready.
+      </p>
+
+      <p class="text-gray-700 mb-8 text-lg">
+        Deliver lessons, monitor progress, and access digital resources — all in one seamless platform.
+      </p>
+
+      <a href="./all-students.html" 
+         class="inline-block bg-indigo-600 text-white px-10 py-4 rounded-full font-semibold shadow-lg hover:bg-indigo-700 hover:scale-105 transition duration-300">
+         Launch LMS Now
       </a>
-      <a href="subject.html?subject=Biology" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-green-700">Biology</h3>
+
+        <a href="./free.html" 
+         class="inline-block bg-yellow-600 text-white px-10 py-4 rounded-full font-semibold shadow-lg hover:bg-yellow-700 hover:scale-105 transition duration-300">
+         Free Demo
       </a>
-      <a href="subject.html?subject=Chemistry" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-blue-600">Chemistry</h3>
-      </a>
-      <a href="subject.html?subject=Mathematics" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-purple-600">Mathematics</h3>
-      </a>
-      <a href="subject.html?subject=Physics" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-blue-800">Physics</h3>
-      </a>
-      <a href="subject.html?subject=Chichewa" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-red-600">Chichewa</h3>
-      </a>
-      <a href="subject.html?subject=English" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-indigo-600">English</h3>
-      </a>
-      <a href="subject.html?subject=History" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-yellow-700">History</h3>
-      </a>
-      <a href="subject.html?subject=Geography" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-cyan-700">Geography</h3>
-      </a>
-      <a href="subject.html?subject=Life" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-pink-700">Life Skills</h3>
-      </a>
-      <a href="subject.html?subject=Social" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-orange-700">Social Studies</h3>
-      </a>
-      <a href="subject.html?subject=Bible" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-violet-700">Bible Knowledge</h3>
-      </a>
-      <a href="subject.html?subject=Business" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-emerald-700">Business Studies</h3>
-      </a>
-       <a href="subject.html?subject=humanities" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-gray-600">Questions for Humanities</h3>
-      </a>
-       <a href="subject.html?subject=science" class="block p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-        <h3 class="text-xl font-bold text-gray-600">Questions for sciences</h3>
-      </a>
-      
-    </div>
+    </section>
+
+    <!-- Image / Illustration -->
+    <section class="max-w-md mx-auto fade-slide-up transform transition hover:scale-105 duration-500">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"
+           class="rounded-xl shadow-lg mx-auto"
+           style="width: 100%; height: auto; max-width: 400px;" fill="none">
+           
+        <title>LMS course overview illustration</title>
+
+        <!-- Outer Device Frame -->
+        <rect x="30" y="30" width="340" height="240" rx="15" ry="15" fill="#f8fafc" stroke="#4f46e5" stroke-width="3" />
+
+        <!-- Header Bar -->
+        <rect x="40" y="45" width="320" height="25" fill="#4f46e5" rx="5" />
+
+        <!-- Course Card 1 -->
+        <rect x="50" y="80" width="130" height="60" fill="#c7d2fe" rx="8" />
+        <text x="60" y="105" font-family="Arial" font-size="12" fill="#1e1b4b" font-weight="bold">Physics</text>
+        <rect x="60" y="110" height="5" rx="2" fill="#6366f1">
+          <animate attributeName="width" from="0" to="90" dur="0.8s" fill="freeze" />
+        </rect>
+
+        <!-- Course Card 2 -->
+        <rect x="220" y="80" width="130" height="60" fill="#c7d2fe" rx="8" />
+        <text x="230" y="105" font-family="Arial" font-size="12" fill="#1e1b4b" font-weight="bold">English</text>
+        <rect x="230" y="110" height="5" rx="2" fill="#6366f1">
+          <animate attributeName="width" from="0" to="70" dur="0.8s" fill="freeze" />
+        </rect>
+
+        <!-- Course Card 3 -->
+        <rect x="50" y="160" width="130" height="60" fill="#c7d2fe" rx="8" />
+        <text x="60" y="185" font-family="Arial" font-size="12" fill="#1e1b4b" font-weight="bold">Geography</text>
+        <rect x="60" y="190" height="5" rx="2" fill="#6366f1">
+          <animate attributeName="width" from="0" to="100" dur="0.8s" fill="freeze" />
+        </rect>
+
+        <!-- Course Card 4 -->
+        <rect x="220" y="160" width="130" height="60" fill="#c7d2fe" rx="8" />
+        <text x="230" y="185" font-family="Arial" font-size="12" fill="#1e1b4b" font-weight="bold">History</text>
+        <rect x="230" y="190" height="5" rx="2" fill="#6366f1">
+          <animate attributeName="width" from="0" to="60" dur="0.8s" fill="freeze" />
+        </rect>
+
+        <!-- Footer Icon -->
+        <circle cx="200" cy="260" r="10" fill="#4f46e5" />
+        <polyline points="195,257 200,265 205,257" stroke="white" stroke-width="2" fill="none" />
+      </svg>
+    </section>
+
   </main>
 
-  <div class="spacer"></div>
-<div class="spacer"></div>
-
-
-  <footer id="footer" class="bg-indigo-700 text-white py-6 mt-10 text-center">
-    &copy; <span id="year"></span> Wtec1 Technologies – All rights reserved.
+  <!-- FOOTER -->
+  <footer class="bg-gray-100 text-center text-gray-500 text-sm py-6 border-t">
+    <p>&copy; <span id="year"></span> Wtec1 LMS. All rights reserved.</p>
+    <p>Developed by <strong>Wtec1 Technologies</strong> | WhatsApp: +265 995 591 835</p>
   </footer>
 
   <script>
-    document.getElementById("year").textContent = new Date().getFullYear();
+    // Dynamic year
+    document.getElementById('year').textContent = new Date().getFullYear();
   </script>
+
 </body>
+
 </html>
+

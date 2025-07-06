@@ -1,0 +1,108 @@
+
+
+{
+  "subject": "English",
+  "topics": [
+    {
+      "title": "Parts of Speech",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Parts of speech are categories of words based on their function in a sentence.",
+          "points": [
+            "They form the basic structure of grammar.",
+            "They help in constructing meaningful sentences."
+          ]
+        },
+        {
+          "title": "Types",
+          "content": "There are eight main parts of speech.",
+          "points": [
+            "Noun – names a person, place, thing, or idea.",
+            "Pronoun – replaces a noun (he, she, it).",
+            "Verb – shows action or state (run, is).",
+            "Adjective – describes a noun (beautiful).",
+            "Adverb – describes a verb or adjective (quickly).",
+            "Preposition – shows position or relationship (on, in).",
+            "Conjunction – joins words or groups (and, but).",
+            "Interjection – expresses emotion (wow, oh!)."
+          ]
+        },
+        {
+          "title": "Examples",
+          "content": "Examples help in understanding each part clearly.",
+          "points": [
+            "'Run' is a verb.",
+            "'Beautiful' is an adjective.",
+            "'He' is a pronoun.",
+            "'Quickly' is an adverb."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tenses",
+      "subsections": [
+        {
+          "title": "Definition",
+          "content": "Tenses indicate the time of action or state of being.",
+          "points": [
+            "They help us understand when something happened.",
+            "Tense affects verb forms."
+          ]
+        },
+        {
+          "title": "Main Types",
+          "content": "There are three main types of tenses.",
+          "points": [
+            "Present – action is happening now (e.g., She eats).",
+            "Past – action happened before (e.g., She ate).",
+            "Future – action will happen (e.g., She will eat)."
+          ]
+        },
+        {
+          "title": "Usage",
+          "content": "Each tense is used in specific contexts.",
+          "points": [
+            "Use present for habits or current events.",
+            "Use past for completed actions.",
+            "Use future for planned or expected actions."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Letter Writing",
+      "subsections": [
+        {
+          "title": "Types of Letters",
+          "content": "Letters are categorized as formal or informal.",
+          "points": [
+            "Formal letters – used in official settings.",
+            "Informal letters – used in personal communication."
+          ]
+        },
+        {
+          "title": "Structure of a Letter",
+          "content": "All letters follow a common structure.",
+          "points": [
+            "Sender's address.",
+            "Date of writing.",
+            "Salutation (Dear Sir/Madam or Dear John).",
+            "Body – the main message.",
+            "Closing – Yours sincerely / Yours faithfully."
+          ]
+        },
+        {
+          "title": "Purpose",
+          "content": "Letters serve different purposes depending on the type.",
+          "points": [
+            "Formal: job application, complaint, inquiry.",
+            "Informal: sharing news, inviting, thanking."
+          ]
+        }
+      ]
+    }
+  ]
+}
+
