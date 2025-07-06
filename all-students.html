@@ -28,6 +28,8 @@
 
 <body class="bg-gradient-to-br from-indigo-50 to-blue-100 min-h-screen flex flex-col items-center justify-center px-4">
 
+  
+
   <!-- Hero Section -->
   <header class="text-center fade-in max-w-2xl mb-12">
     <h1 class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-gray-800 leading-tight">
@@ -36,7 +38,17 @@
     <p class="mt-4 text-lg text-gray-600">
       Your gateway to digital learning for Form 1 to Form 4. Access curated lessons, quizzes, and more!
     </p>
+
+    <!-- Button to Open Modal -->
+<div class="text-center mt-4">
+  <button onclick="document.getElementById('orderModal').classList.remove('hidden')" 
+    class="bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-6 py-2 rounded-full transition duration-300">
+    Order Now
+  </button>
+</div>
+
   </header>
+  
 
   <!-- Form Buttons -->
   <main class="w-full max-w-4xl grid grid-cols-1 sm:grid-cols-2 gap-6 fade-in">
@@ -52,7 +64,46 @@
     <a href="./form4.html" class="block bg-white text-indigo-700 font-bold py-6 px-8 rounded-xl text-center shadow-md hover:bg-indigo-600 hover:text-white transition duration-300 text-lg">
       📕 Form 4
     </a>
+    
   </main>
+
+  <!-- Pricing Section -->
+<section class="mt-12 w-full max-w-4xl mx-auto fade-in">
+  <h2 class="text-2xl font-semibold text-indigo-700 mb-6 text-center">LMS Pricing per Class</h2>
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+    <!-- Form 1 -->
+    <div class="bg-white rounded-xl shadow p-6 text-center border hover:shadow-lg transition">
+      <h3 class="text-xl font-bold text-indigo-700 mb-2">Form 1</h3>
+      <p class="text-gray-600 text-lg mb-2">Access all subjects</p>
+      <p class="text-2xl font-extrabold text-green-600">MK3,000</p>
+    </div>
+
+    <!-- Form 2 -->
+    <div class="bg-white rounded-xl shadow p-6 text-center border hover:shadow-lg transition">
+      <h3 class="text-xl font-bold text-indigo-700 mb-2">Form 2</h3>
+      <p class="text-gray-600 text-lg mb-2">Access all subjects</p>
+      <p class="text-2xl font-extrabold text-green-600">MK3,000</p>
+    </div>
+
+    <!-- Form 3 -->
+    <div class="bg-white rounded-xl shadow p-6 text-center border hover:shadow-lg transition">
+      <h3 class="text-xl font-bold text-indigo-700 mb-2">Form 3</h3>
+      <p class="text-gray-600 text-lg mb-2">Access all subjects</p>
+      <p class="text-2xl font-extrabold text-green-600">MK4,000</p>
+    </div>
+
+    <!-- Form 4 -->
+    <div class="bg-white rounded-xl shadow p-6 text-center border hover:shadow-lg transition">
+      <h3 class="text-xl font-bold text-indigo-700 mb-2">Form 4</h3>
+      <p class="text-gray-600 text-lg mb-2">Access all subjects</p>
+      <p class="text-2xl font-extrabold text-green-600">MK5,000</p>
+    </div>
+  </div>
+</section>
+
+
+
 
   <!-- Footer -->
   <footer class="mt-16 text-center text-gray-500 text-sm">
@@ -62,6 +113,44 @@
   <script>
     document.getElementById('year').textContent = new Date().getFullYear();
   </script>
+
+
+
+<!-- Order Modal -->
+<div id="orderModal" class="fixed inset-0 bg-black bg-opacity-40 flex justify-center items-center hidden z-50">
+  <div class="bg-white rounded-xl p-6 max-w-md w-full shadow-lg relative">
+
+    <!-- Close Button -->
+    <button onclick="document.getElementById('orderModal').classList.add('hidden')"
+      class="absolute top-2 right-2 text-gray-500 hover:text-red-600 text-2xl">&times;</button>
+
+    <h2 class="text-xl font-bold text-indigo-700 mb-4">Order LMS Access</h2>
+
+    <form action="https://ac.wtec1.xyz/send.php" method="POST" class="space-y-4">
+      <div>
+        <label class="block text-sm font-medium text-gray-700">Full Name</label>
+        <input type="text" name="name" required class="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring focus:border-indigo-500" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700">Phone Number</label>
+        <input type="tel" name="number" required class="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring focus:border-indigo-500" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700">Location</label>
+        <input type="text" name="location" required class="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring focus:border-indigo-500" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700">Order Details</label>
+        <textarea name="message" rows="3" required placeholder="e.g. I want to order Form 4 LMS for my child." class="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring focus:border-indigo-500"></textarea>
+      </div>
+      <div class="text-center">
+        <button type="submit" class="bg-green-600 hover:bg-green-700 text-white px-6 py-2 rounded-full font-semibold transition">
+          Submit Order
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
 
 </body>
 </html>

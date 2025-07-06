@@ -127,8 +127,17 @@
         <polyline points="195,257 200,265 205,257" stroke="white" stroke-width="2" fill="none" />
       </svg>
     </section>
+    
 
   </main>
+
+  <!-- Button to Open Modal -->
+<div class="text-center mt-4">
+  <button onclick="document.getElementById('orderModal').classList.remove('hidden')" 
+    class="bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-6 py-2 rounded-full transition duration-300">
+    Order Now
+  </button>
+</div>
 
   <!-- FOOTER -->
   <footer class="bg-gray-100 text-center text-gray-500 text-sm py-6 border-t">
@@ -140,6 +149,43 @@
     // Dynamic year
     document.getElementById('year').textContent = new Date().getFullYear();
   </script>
+
+<!-- Order Modal -->
+<div id="orderModal" class="fixed inset-0 bg-black bg-opacity-40 flex justify-center items-center hidden z-50">
+  <div class="bg-white rounded-xl p-6 max-w-md w-full shadow-lg relative">
+
+    <!-- Close Button -->
+    <button onclick="document.getElementById('orderModal').classList.add('hidden')"
+      class="absolute top-2 right-2 text-gray-500 hover:text-red-600 text-2xl">&times;</button>
+
+    <h2 class="text-xl font-bold text-indigo-700 mb-4">Order LMS Access</h2>
+
+    <form action="https://ac.wtec1.xyz/send.php" method="POST" class="space-y-4">
+      <div>
+        <label class="block text-sm font-medium text-gray-700">Full Name</label>
+        <input type="text" name="name" required class="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring focus:border-indigo-500" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700">Phone Number</label>
+        <input type="tel" name="number" required class="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring focus:border-indigo-500" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700">Location</label>
+        <input type="text" name="location" required class="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring focus:border-indigo-500" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700">Order Details</label>
+        <textarea name="message" rows="3" required placeholder="e.g. I want to order Form 4 LMS for my child." class="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring focus:border-indigo-500"></textarea>
+      </div>
+      <div class="text-center">
+        <button type="submit" class="bg-green-600 hover:bg-green-700 text-white px-6 py-2 rounded-full font-semibold transition">
+          Submit Order
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
 
 </body>
 

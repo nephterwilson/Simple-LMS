@@ -213,32 +213,7 @@
     }
   ]
 },
- {
-      "title": "Basic Chemistry",
-      "subsections": [
-        {
-          "title": "Questions",
-          "content": "Answer these questions about basic chemistry.",
-          "points": [
-            "What are the building blocks of matter? \nOptions: Atoms, Molecules, Cells, Elements\nAnswer: Atoms",
-            "Which subatomic particle has a positive charge? \nOptions: Electron, Neutron, Proton, Photon\nAnswer: Proton"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Chemical Reactions",
-      "subsections": [
-        {
-          "title": "Questions",
-          "content": "Answer these questions on chemical reactions.",
-          "points": [
-            "What are substances called before a chemical reaction? \nOptions: Reactants, Products, Catalysts, Elements\nAnswer: Reactants",
-            "Which law states that mass is neither created nor destroyed in a reaction? \nOptions: Law of Conservation of Mass, Newton’s First Law, Law of Gravity, Law of Thermodynamics\nAnswer: Law of Conservation of Mass"
-          ]
-        }
-      ]
-    },
+ 
 
     {
       "title": "Physics Fundamentals",
