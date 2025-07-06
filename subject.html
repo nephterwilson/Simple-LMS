@@ -14,7 +14,8 @@
     .rotate-90 { transform: rotate(90deg); }
   </style>
 </head>
-<body class="bg-gray-50 min-h-screen font-sans text-gray-800">
+<body oncontextmenu="return false;" onselectstart="return false;" ondragstart="return false;" class="bg-gray-50 min-h-screen font-sans text-gray-800">
+
 
   <header class="bg-indigo-700 text-white py-6">
     <div class="max-w-6xl mx-auto px-6 flex justify-between items-center">
@@ -38,5 +39,30 @@
 
   <script src="js/toggle.js"></script>
   <script src="js/load-content.js"></script>
+
+
+  <script>
+  // Disable copy
+  document.addEventListener('copy', e => e.preventDefault());
+
+  // Disable paste
+  document.addEventListener('paste', e => e.preventDefault());
+
+  // Disable Print Screen (basic)
+  document.addEventListener('keyup', e => {
+    if (e.key === 'PrintScreen') {
+      navigator.clipboard.writeText('');
+      alert('Screenshots are disabled.');
+    }
+  });
+
+  // Optional: blur screen if DevTools open
+  setInterval(() => {
+    if (window.outerHeight - window.innerHeight > 100) {
+      document.body.innerHTML = "<h1 style='color:red;text-align:center;padding-top:100px;'>Unauthorized action detected.</h1>";
+    }
+  }, 1000);
+</script>
+
 </body>
 </html>

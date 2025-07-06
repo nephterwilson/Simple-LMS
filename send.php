@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $content  .= "Location: $location\n";
     $content  .= "Message:\n$message\n";
 
-    $headers   = "From: noreply@ne.wtec1.com";
+    $headers   = "From: noreply@ac.wtec1.com";
 
     // Send email
     if (mail($recipient, $subject, $content, $headers)) {
