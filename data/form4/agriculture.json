@@ -4,7 +4,1325 @@
   "subject": "Agriculture",
   "topics": [
 
-    
+    {
+  "title": "SOIL DEGRADATION",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Explanation of soil degradation.",
+      "points": [
+        "Soil degradation is the decline in soil quality and productivity.",
+        "It results in loss of value for agriculture and ecology.",
+        "Caused by natural and human processes harming soil properties."
+      ]
+    },
+    {
+      "title": "Forms of Soil Degradation",
+      "content": "Main types of soil degradation and their impacts.",
+      "points": [
+        "Physical Degradation: Caused by heavy rainfall and machinery use.",
+        "Leads to poor drainage, low porosity, and reduced water holding capacity.",
+        "Chemical Degradation: Caused by excessive agrochemicals and salination.",
+        "Results in contamination and nutrient depletion."
+      ]
+    },
+    {
+      "title": "Causes of Soil Degradation",
+      "content": "Factors contributing to soil degradation.",
+      "points": [
+        "Deforestation: Tree removal disrupts natural cycles causing erosion.",
+        "Bad Farming Practices: Unsustainable techniques like monocropping.",
+        "Poor Irrigation Management: Causes acid and salt buildup in soil.",
+        "Leaching: Rain washes nutrients deeper making them unavailable.",
+        "Soil Compaction: Machinery and foot traffic reduce air and water retention."
+      ]
+    },
+    {
+      "title": "Effects of Soil Degradation",
+      "content": "Consequences of degraded soils on environment and farming.",
+      "points": [
+        "Soil Erosion: Loss of nutrient-rich topsoil layer.",
+        "Reduced Fertility: Nutrient depletion lowers crop productivity.",
+        "Poor Soil Structure: Break down of aggregates affects water and roots.",
+        "Flooding: Increased runoff from compacted soils causes floods.",
+        "Silting: Sediment deposits harm aquatic life.",
+        "Water Pollution: Leaching chemicals contaminate water bodies.",
+        "Reduced Arable Land: Less land suitable for farming.",
+        "Invasive Weeds: Thrive in degraded soils and compete with crops."
+      ]
+    },
+    {
+      "title": "Population and Soil Degradation",
+      "content": "How population growth pressures soil resources.",
+      "points": [
+        "Increased demand for wood fuel causes deforestation.",
+        "Urban expansion leads to land degradation and soil loss.",
+        "Fiber crop cultivation may deplete soil nutrients if unsustainable.",
+        "Higher food demand intensifies agriculture and soil degradation."
+      ]
+    },
+    {
+      "title": "Ways to Control Soil Degradation",
+      "content": "Methods to reduce and prevent soil degradation.",
+      "points": [
+        "Biological Methods: Planting trees, cover crops, mulching, contour farming.",
+        "Physical Methods: Constructing stone lines, trash lines, and ridging."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "AGRICULTURE AND CLIMATE CHANGE",
+  "subsections": [
+    {
+      "title": "Overview",
+      "content": "Climate change causes unpredictable weather patterns and extreme events that affect agricultural productivity and environmental sustainability. Effective mitigation is essential to safeguard food security.",
+      "points": []
+    },
+    {
+      "title": "Mitigation Measures to Climate Change",
+      "content": "Adopting sustainable agricultural practices helps reduce climate change impacts and improves resilience of farming systems.",
+      "points": []
+    },
+    {
+      "title": "Conservation Agriculture",
+      "content": "A farming system aimed at preserving soil health and reducing environmental impact through minimal soil disturbance and sustainable practices.",
+      "points": [
+        "Minimum Soil Disturbance: Reduces tillage to maintain soil structure and biological activity.",
+        "Permanent Soil Cover: Protects soil from erosion and conserves moisture using cover crops or mulch.",
+        "Crop Rotation: Alternates crops to improve soil fertility and disrupt pest cycles."
+      ]
+    },
+    {
+      "title": "Agroforestry",
+      "content": "An integrated approach combining trees with crops to improve soil, water retention, and biodiversity.",
+      "points": [
+        "Improved Infiltration: Tree roots increase soil permeability, enhancing water absorption.",
+        "Control of Soil Erosion: Roots stabilize soil and reduce runoff.",
+        "Organic Matter Maintenance: Leaf litter and roots add organic material to the soil.",
+        "Tree Canopy Benefits: Provides shade to conserve soil moisture and habitats for beneficial organisms."
+      ]
+    },
+    {
+      "title": "Water Harvesting",
+      "content": "Techniques used to collect and store rainwater for agricultural use during dry periods.",
+      "points": [
+        "Catchment Areas: Natural or constructed surfaces that collect rainwater such as footpaths and rock catchments.",
+        "Conveyance Systems: Channels and pipes that transfer water to storage facilities.",
+        "Storage Facilities: Structures like tanks and dams that hold harvested water for irrigation."
+      ]
+    },
+    {
+      "title": "Reafforestation",
+      "content": "Planting trees in deforested areas to restore ecosystems, improve carbon storage, and increase biodiversity.",
+      "points": [
+        "Restores ecological balance by rebuilding forest habitats.",
+        "Enhances carbon sequestration to mitigate greenhouse gases.",
+        "Improves biodiversity and supports soil and water conservation."
+      ]
+    },
+    {
+      "title": "Integrated Farming Systems",
+      "content": "A sustainable farming approach combining forests, crops, livestock, and aquaculture to optimize resource use and productivity.",
+      "points": [
+        "Livestock provide manure that improves soil fertility and offer an income source.",
+        "Crop rotation and diversification reduce pests and improve soil health.",
+        "Trees contribute to ecosystem services and provide fruits, timber, and shade.",
+        "Fish farming diversifies production and enhances food security."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "LAND DRAINAGE",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Land drainage refers to the systematic removal of excess water from soil to improve agricultural productivity and prevent waterlogging.",
+      "points": []
+    },
+    {
+      "title": "Importance of Drainage",
+      "content": "Proper drainage improves soil conditions and prevents various problems caused by excess water.",
+      "points": [
+        "Improves Soil Aeration: Enhances root respiration and healthy plant growth.",
+        "Raises Soil Temperature: Well-drained soils warm up faster, allowing earlier planting and longer growing seasons.",
+        "Increases Microbial Activities: Creates optimal conditions for soil microbes essential for nutrient cycling.",
+        "Reduces Soil Erosion: Prevents waterlogging, minimizing erosion due to runoff.",
+        "Reduces Salt Build-Up: Helps leach excess salts from root zones, improving fertility.",
+        "Facilitates Land Reclamation: Transforms wetlands and marginal lands into productive areas.",
+        "Prevents Flooding: Manages excess water to reduce flooding risk in fields and surrounding areas."
+      ]
+    },
+    {
+      "title": "Methods of Drainage",
+      "content": "There are several drainage methods used to remove excess water, including surface, subsurface, and biodrainage techniques.",
+      "points": []
+    },
+    {
+      "title": "Surface Drainage",
+      "content": "Involves removing excess water from rainfall or irrigation through surface features and structures.",
+      "points": [
+        "Open Ditches: Trenches along roads or fields to channel water away.",
+        "Cambered Fields: Raised soil heaps between crops to promote runoff.",
+        "Pumping: Using pumps to remove water when other methods are insufficient."
+      ]
+    },
+    {
+      "title": "Open Ditches (Trenches Dug Alongside Roads or Fields)",
+      "content": "A cost-effective and simple method that facilitates natural water flow but requires maintenance.",
+      "points": [
+        "Advantages: Low cost, simple design, natural drainage, reduces erosion.",
+        "Disadvantages: Requires regular cleaning, safety hazards, uses space, limited in heavy rains."
+      ]
+    },
+    {
+      "title": "Cambered Fields (Raised Soil Heaps between Crop Fields)",
+      "content": "Raised soil mounds that help prevent waterlogging and improve soil aeration.",
+      "points": [
+        "Advantages: Prevents waterlogging, improves drainage, low cost, enhances crop growth.",
+        "Disadvantages: Labor intensive, risk of erosion, uneven water distribution, reduces planting area."
+      ]
+    },
+    {
+      "title": "Pumping (Utilizing Pumps to Remove Water)",
+      "content": "Mechanical removal of excess water, effective in difficult or low-lying areas.",
+      "points": [
+        "Advantages: Highly effective, works in extreme conditions, controlled drainage, versatile.",
+        "Disadvantages: High costs, energy intensive, maintenance needs, potential environmental impact."
+      ]
+    },
+    {
+      "title": "Subsurface Drainage",
+      "content": "Installation of underground pipes or tunnels to remove water from the root zone.",
+      "points": [
+        "Prevents waterlogging and improves soil aeration.",
+        "Increases crop yield and reduces soil salinity.",
+        "Reduces surface runoff and erosion.",
+        "Long-term solution adaptable to various terrains.",
+        "Disadvantages: High installation cost, complex installation, requires maintenance, environmental impact risks, soil compaction, not ideal for all soils, difficult to modify."
+      ]
+    },
+    {
+      "title": "When to Use Subsurface Drainage",
+      "content": "Best suited for areas with persistent waterlogging, high water tables, or saline soils.",
+      "points": [
+        "Waterlogged farms or fields after rains.",
+        "Saline or high-water table regions.",
+        "Long-term agricultural projects needing consistent drainage."
+      ]
+    },
+    {
+      "title": "Biodrainage",
+      "content": "A natural drainage method using deep-rooted plants to absorb excess soil water.",
+      "points": [
+        "Eco-friendly and cost-effective alternative to mechanical systems.",
+        "Improves soil structure and reduces salinity.",
+        "Enhances biodiversity and prevents waterlogging.",
+        "Contributes to carbon sequestration and sustainable water management.",
+        "Disadvantages: Slow process, requires large land area, limited to certain plant species, risk of groundwater depletion, competition with agriculture, requires management, long-term commitment."
+      ]
+    },
+    {
+      "title": "When to Use Biodrainage",
+      "content": "Suitable for waterlogged agricultural lands, salinity-prone areas, sustainable farming systems, and large-scale projects.",
+      "points": []
+    },
+    {
+      "title": "Suitable Plant Species for Biodrainage",
+      "content": "Certain deep-rooted trees are effective in removing excess water from soil.",
+      "points": [
+        "Eucalyptus",
+        "Poplar",
+        "Willow",
+        "Casuarina",
+        "Acacia"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "FARM MECHANISATION",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Farm mechanisation involves the use of power-driven machinery and equipment to perform agricultural activities, improving productivity and efficiency.",
+      "points": []
+    },
+    {
+      "title": "Types of Farm Mechanisation",
+      "content": "Different categories of machinery used in farming based on power source and purpose.",
+      "points": []
+    },
+    {
+      "title": "Tractor-Drawn Machines",
+      "content": "Machinery attached to tractors to facilitate various farming operations.",
+      "points": [
+        "Trailers: Transport goods and materials.",
+        "Ploughs: Turn and aerate the soil.",
+        "Planters: Plant seeds at proper depths and spacing.",
+        "Mowers: Cut grass and crops."
+      ]
+    },
+    {
+      "title": "Animal-Drawn Machines",
+      "content": "Implements powered by draught animals to assist farming tasks.",
+      "points": [
+        "Ox-Plough: A lighter plough pulled by oxen for ploughing, weeding, and creating furrows.",
+        "Ox-Carts: Two-wheeled carts pulled by animals to transport produce.",
+        "Ridges: Implements for creating raised ridges for planting."
+      ]
+    },
+    {
+      "title": "Factors to Consider When Mechanising a Farm",
+      "content": "Key considerations influencing the choice and success of farm mechanisation.",
+      "points": [
+        "Capital: Financial resources available for machinery investment.",
+        "Size of Land: Area under cultivation affects machinery choice.",
+        "Technical Skills: Expertise needed to operate and maintain equipment.",
+        "Topography: Landscape and terrain determine suitable machinery.",
+        "Accessibility: Ease of access to fields for machinery use.",
+        "Support Services: Availability of spare parts and maintenance."
+      ]
+    },
+    {
+      "title": "Advantages of Farm Mechanisation",
+      "content": "Benefits of using machinery in agricultural operations.",
+      "points": [
+        "Increases crop yield through efficient farming.",
+        "Allows timely planting, harvesting, and other operations.",
+        "Reduces physical labor and strain.",
+        "Replaces costly manual labor, reducing production costs.",
+        "Improves operational efficiency."
+      ]
+    },
+    {
+      "title": "Disadvantages of Farm Mechanisation",
+      "content": "Challenges and limitations associated with mechanisation.",
+      "points": [
+        "Requires skilled labour to operate machinery.",
+        "High initial capital investment may be prohibitive.",
+        "Small land holdings may not justify costs.",
+        "Machinery requires regular and sometimes complex maintenance.",
+        "Energy costs for running machines can be high."
+      ]
+    },
+    {
+      "title": "Safety Measures When Using Farm Machinery",
+      "content": "Important precautions to ensure safety during machinery operation.",
+      "points": [
+        "Never leave machines running unattended.",
+        "Keep hands away from cutting parts during operation.",
+        "Turn off power before freeing stalled blades.",
+        "Wear protective clothing such as overalls, masks, and gumboots.",
+        "Handle and dispose of chemicals properly to avoid poisoning and pollution.",
+        "Operate machinery only after reading instructions.",
+        "Keep blades sharp for safe and efficient cutting.",
+        "Use electrical equipment carefully to avoid accidents.",
+        "Train workers on proper lifting to prevent injuries.",
+        "Store machines safely with clear access paths.",
+        "Keep a fire extinguisher accessible.",
+        "Avoid smoking, eating, or drinking while spraying chemicals.",
+        "Wash hands thoroughly after chemical use before eating."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "FARM POWER",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Farm power refers to the various energy sources used to perform tasks on a farm, aimed at increasing the efficiency and productivity of agricultural work.",
+      "points": []
+    },
+    {
+      "title": "Animal Power",
+      "content": "Animal power involves the use of draught animals such as oxen, horses, or donkeys to perform farm tasks including ploughing, harrowing, and transporting produce.",
+      "points": [
+        "Sources:",
+        "Oxen",
+        "Horses",
+        "Donkeys",
+        "Mules",
+        "Camels (in some regions)",
+        "How to Improve Output:",
+        "Proper feeding and nutrition to maintain strength.",
+        "Regular veterinary care to prevent diseases and injuries.",
+        "Training animals for specific tasks to increase efficiency.",
+        "Using appropriate equipment (harnesses, carts, ploughs).",
+        "Advantages:",
+        "Renewable and low-cost source of power.",
+        "Available in remote areas lacking mechanical equipment.",
+        "Multipurpose for farm tasks and transportation.",
+        "Disadvantages:",
+        "Slower than mechanical power.",
+        "Requires large amounts of feed and water.",
+        "Animals may get sick or injured, reducing productivity."
+      ]
+    },
+    {
+      "title": "Human Power",
+      "content": "Human power is the physical energy exerted by farm workers to carry out tasks such as planting, weeding, harvesting, and irrigating.",
+      "points": [
+        "Sources:",
+        "Farm laborers",
+        "Family members working on the farm",
+        "How to Improve Output:",
+        "Provide appropriate tools to reduce manual strain.",
+        "Train workers in efficient farming techniques.",
+        "Encourage rest and proper nutrition for health and stamina.",
+        "Advantages:",
+        "Widely available and flexible for small-scale farms.",
+        "No fuel or energy costs required.",
+        "Can perform intricate tasks machines may not handle well.",
+        "Disadvantages:",
+        "Physically demanding and labor-intensive.",
+        "Slow and inefficient for large-scale operations.",
+        "Limited productivity compared to other power sources."
+      ]
+    },
+    {
+      "title": "Water Power",
+      "content": "Water power (hydropower) is energy from flowing water used to run water wheels or turbines for irrigation and grinding grain.",
+      "points": [
+        "Sources:",
+        "Rivers",
+        "Streams",
+        "Water canals",
+        "Dams",
+        "How to Improve Output:",
+        "Construct efficient water channels and dams.",
+        "Use modern water turbines.",
+        "Maintain water systems to prevent blockages and leaks.",
+        "Advantages:",
+        "Renewable and environmentally friendly.",
+        "Can provide consistent energy if water sources are reliable.",
+        "Efficient for powering irrigation and farm machinery.",
+        "Disadvantages:",
+        "Requires proximity to flowing water.",
+        "High initial infrastructure costs.",
+        "Vulnerable to droughts and seasonal water variation."
+      ]
+    },
+    {
+      "title": "Biogas Power",
+      "content": "Biogas is renewable energy produced from decomposing organic materials in anaerobic digesters.",
+      "points": [
+        "Sources:",
+        "Animal manure",
+        "Crop residues",
+        "Organic waste from households or farms",
+        "How to Improve Output:",
+        "Increase organic material input in digesters.",
+        "Maintain proper temperature and moisture.",
+        "Use modern biogas digesters for efficiency.",
+        "Advantages:",
+        "Reduces waste and provides renewable energy.",
+        "Usable for cooking, lighting, and small machines.",
+        "Reduces reliance on fossil fuels.",
+        "Disadvantages:",
+        "Requires regular input of organic waste.",
+        "Setup can be expensive.",
+        "Limited to small-scale unless large plants are used."
+      ]
+    },
+    {
+      "title": "Wind Power",
+      "content": "Wind power is energy from air movement used to turn windmills or turbines for irrigation and milling.",
+      "points": [
+        "Sources:",
+        "Wind turbines",
+        "Windmills",
+        "How to Improve Output:",
+        "Install turbines in high wind areas.",
+        "Regular maintenance to ensure efficiency.",
+        "Use advanced turbines with higher capacity.",
+        "Advantages:",
+        "Clean, renewable, and environmentally friendly.",
+        "Powers irrigation, water pumps, and farm electrical needs.",
+        "Reduces reliance on non-renewable energy.",
+        "Disadvantages:",
+        "Wind is intermittent and unpredictable.",
+        "High initial setup costs.",
+        "Requires specific locations with strong winds."
+      ]
+    },
+    {
+      "title": "Mechanical Power",
+      "content": "Mechanical power is generated from engines and machines like tractors, harvesters, and ploughs for farm operations.",
+      "points": [
+        "Sources:",
+        "Tractors",
+        "Combine harvesters",
+        "Irrigation pumps",
+        "Mechanical ploughs",
+        "How to Improve Output:",
+        "Regular maintenance to avoid breakdowns.",
+        "Use fuel-efficient machinery.",
+        "Train operators for safe and efficient use.",
+        "Advantages:",
+        "High efficiency and speed.",
+        "Suitable for large-scale farming.",
+        "Reduces physical labor and increases output.",
+        "Disadvantages:",
+        "High machinery and fuel costs.",
+        "Requires skilled labor.",
+        "Contributes to environmental pollution."
+      ]
+    },
+    {
+      "title": "Solar Power",
+      "content": "Solar power harnesses energy from the sun using panels for water pumping, lighting, and running machinery.",
+      "points": [
+        "Sources:",
+        "Solar panels",
+        "Solar-powered water pumps",
+        "Solar heaters",
+        "How to Improve Output:",
+        "Install high-efficiency panels in sunny areas.",
+        "Use battery storage for cloudy periods.",
+        "Clean and maintain panels regularly.",
+        "Advantages:",
+        "Renewable and clean energy source.",
+        "Usable in remote areas without electricity.",
+        "Low operational costs after installation.",
+        "Disadvantages:",
+        "High initial installation cost.",
+        "Dependent on sunlight; less efficient on cloudy days.",
+        "Limited capacity for large-scale needs unless large farms are used."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "IMPROVED FARMING TECHNOLOGY",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Improved farming technology refers to the use of advanced methods and tools to increase agricultural productivity and food production, ensuring food security for a growing population.",
+      "points": []
+    },
+    {
+      "title": "Farming Technology",
+      "content": "Two broad types of farming technology exist, unimproved and improved, each with distinct characteristics and effects.",
+      "points": [
+        "Unimproved Farming Technology:",
+        "Rain-fed agriculture depends on natural rainfall.",
+        "Use of traditional seeds with limited yield and disease resistance.",
+        "Regular land tillage which can cause soil degradation.",
+        "Over-reliance on agrochemicals harming soil and water quality.",
+        "Traditional livestock breeds with lower productivity.",
+        "Improved Farming Technology:",
+        "Use of high-yielding crops with better pest and disease resistance.",
+        "Improved livestock breeds and hybrids for higher productivity.",
+        "Advanced irrigation systems like drip irrigation conserving water.",
+        "Crop rotation to enhance soil fertility and reduce pests.",
+        "Use of animal power to reduce labor and energy use.",
+        "Legume seed inoculation to improve nitrogen fixation.",
+        "Control of parasites and diseases via biological and veterinary methods.",
+        "Improved communication systems using digital platforms.",
+        "Crop processing technologies such as greenhouses and efficient machinery."
+      ]
+    },
+    {
+      "title": "Ways Improved Farming Technology Affects Food Security",
+      "content": "Improved farming technology positively influences food security by increasing yields and conserving the environment.",
+      "points": [
+        "Increased yields from high-yield crops and improved livestock.",
+        "Environmental conservation through advanced irrigation and crop rotation.",
+        "Education and skill sharing via extension services.",
+        "Access to capital through financial support and subsidies.",
+        "Market development with better access and expansion.",
+        "Quality yields through pest and disease control.",
+        "Maintains soil fertility by preserving nutrient balance."
+      ]
+    },
+    {
+      "title": "Facets for Food Security",
+      "content": "Food security depends on multiple factors that ensure availability, access, and proper use of food.",
+      "points": [
+        "Food Availability: Sufficient quantity of food produced for the population.",
+        "Food Access: Economic means for individuals to purchase or produce food.",
+        "Food Use: Proper utilization including nutrition and food safety."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "CROP IMPROVEMENT",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Crop improvement refers to the process of enhancing the quality and quantity of crops through scientific methods like plant breeding. It focuses on developing plants with superior characteristics to boost productivity, resistance, and adaptability.",
+      "points": []
+    },
+    {
+      "title": "Aims of Crop Improvement",
+      "content": "The main aims of crop improvement are to increase adaptability, yield, quality, and resistance to challenges.",
+      "points": [
+        "Improving adaptation to the environment by developing plants suited to specific climates and conditions.",
+        "Increasing crop yield to produce more food per unit area to meet population demands.",
+        "Enhancing market value by developing crops with better flavor, color, size, or shelf life.",
+        "Improving nutritional content by increasing essential nutrients like proteins, vitamins, and minerals.",
+        "Boosting pest and disease resistance to reduce reliance on chemical pesticides.",
+        "Facilitating adaptation to new areas including drought, cold climates, weeds, and salinity."
+      ]
+    },
+    {
+      "title": "Methods of Crop Improvement",
+      "content": "Crop improvement is achieved through selection, hybridization, and introduction of new varieties.",
+      "points": [
+        "1. Selection: Identifying and choosing high-performing crops with desirable traits.",
+        "Techniques include:",
+        "i) Mass Selection: Based on observable traits and field performance.",
+        "ii) Pureline Selection: Selecting superior individual plants over multiple generations.",
+        "2. Hybridization: Crossing two or more varieties to combine desirable genes and produce superior offspring.",
+        "Stages:",
+        "Selection of parents with desirable traits.",
+        "Self-pollination of parents to preserve traits.",
+        "Emasculation: Removing male parts to prevent self-pollination.",
+        "Bagging: Covering flowers to prevent unwanted pollination.",
+        "Artificial cross-pollination by manual pollen transfer.",
+        "Harvesting and storing F1 seeds (first filial generation).",
+        "Raising F1 hybrids with superior traits.",
+        "3. Introduction of New Varieties: Importing superior varieties from other regions with similar conditions.",
+        "Benefits include multiplying and adapting these crops locally."
+      ]
+    },
+    {
+      "title": "Summary",
+      "content": "Crop improvement enhances plant adaptability, yield, market value, nutrition, and resistance. Methods like selection, hybridization, and introduction of new varieties enable farmers to grow efficient and resilient crops suitable for changing agricultural demands.",
+      "points": []
+    }
+  ]
+},
+
+{
+  "title": "CROP PROCESSING",
+  "content": "Crop processing involves transforming raw agricultural produce into finished products that are more durable, usable, and often more valuable.",
+  "subsections": [
+    {
+      "title": "Processing Methods",
+      "content": "Different methods of processing are applied depending on the scale of farming.",
+      "points": [
+        "For Small Farmers:",
+        "• Drying: Removes moisture to prolong shelf life.",
+        "• Fermenting: Enhances flavors and increases nutritional value.",
+        "• Milling: Converts grains into flour or powder.",
+        "• Juicing: Extracts liquid from fruits and vegetables.",
+        "For Large-Scale Farmers:",
+        "• Canning: Preserves food by sealing it in airtight containers.",
+        "• Emulsification: Combines oils and liquids to create products like sauces.",
+        "• Freezing: Extends the shelf life of products by storing them at low temperatures."
+      ]
+    },
+    {
+      "title": "Importance of Crop Processing",
+      "content": "Processing plays a key role in improving agricultural produce.",
+      "points": [
+        "• Improves shelf life by reducing spoilage.",
+        "• Enhances taste and nutritional value by adding or retaining important nutrients.",
+        "• Adds value by preventing deterioration and increasing marketability.",
+        "• Creates employment through processing facilities.",
+        "• Generates foreign exchange through export of processed goods."
+      ]
+    },
+    {
+      "title": "Processing Steps for Various Crops",
+      "content": "Different crops require specific processing steps to prepare them for market or consumption.",
+      "points": [
+        "Maize:",
+        "• Dehusking: Removal of outer husk.",
+        "• Shelling: Separating grains from the cob.",
+        "• Drying: Hardens grains, prevents germination, and minimizes mold.",
+        "• Cleaning: Removing dust via winnowing.",
+        "• Dusting: Treating grains to prevent pests.",
+        "• Packaging: Storing in bags.",
+        "• Milling: Grinding grains into flour.",
+        "Groundnuts:",
+        "• Shelling: Removing nuts from pods.",
+        "• Drying: Using black mats, solar driers, or electric driers to preserve.",
+        "• Oil Extraction: Pressing to extract oil or butter.",
+        "Mushroom:",
+        "• Preservation: Chill between 2-4°C for storage and grading.",
+        "• Processing: Can be dried, coated with olive oil, or preserved through canning."
+      ]
+    },
+    {
+      "title": "Techniques of Processing",
+      "content": "Several techniques are used to process agricultural products efficiently and safely.",
+      "points": [
+        "Canning:",
+        "• Food is preserved in brine or vinegar.",
+        "• After cleaning and grading, food is pre-cooked, placed in cans, sterilized, and labeled.",
+        "Drying:",
+        "• Methods include sun drying, mechanical drying, air drying, and microwave drying (most effective).",
+        "Pickling of Mushrooms:",
+        "• Mushrooms are boiled with water, wine, salt, garlic, and olive oil, then dried and preserved with olive oil.",
+        "Radiation:",
+        "• Gamma rays are used to stop post-harvest deterioration, especially for perishable products."
+      ]
+    },
+    {
+      "title": "Specific Examples of Processing",
+      "content": "Processing varies with different crops and vegetables.",
+      "points": [
+        "Mangoes:",
+        "• Highly perishable fruit.",
+        "• Processing steps: Clean, soak in water, cut into pieces, press for juice, add lemon juice for taste, then freeze or can for storage.",
+        "Bonongwe (Amaranthus):",
+        "• Green leafy vegetable preserved by drying or freezing.",
+        "• Drying: After blanching, dry in a home oven.",
+        "• Freezing: Blanch before freezing at -18 to -21°C, then pack in moisture- and vapor-proof containers."
+      ]
+    },
+    {
+      "title": "Steps in Drying Vegetables",
+      "content": "Proper drying involves multiple stages to ensure quality preservation.",
+      "points": [
+        "• Pluck: Harvest the leaves or vegetables.",
+        "• Clean: Wash thoroughly to remove dirt.",
+        "• Chop: Cut into smaller pieces.",
+        "• Blanch: Boil briefly to kill bacteria and preserve color.",
+        "• Dry: Use sun, oven, or mechanical drying techniques to remove moisture."
+      ]
+    },
+    {
+      "title": "Summary",
+      "content": "Crop processing is vital for enhancing food security, adding value to agricultural products, and boosting economies through trade and employment.",
+      "points": []
+    }
+  ]
+},
+
+
+{
+  "title": "UNIT 9: Mango Production",
+  "subsections": [
+    {
+      "title": "Mango Definition",
+      "content": "Mangoes are the edible, fleshy fruits of a perennial plant, developed after the fertilization of a flower.",
+      "points": []
+    },
+    {
+      "title": "Importance of Mango Production",
+      "content": "Mangoes provide multiple benefits to human health, income, and industry.",
+      "points": [
+        "Nutritional: Rich in vitamins (A, B, C, E, etc.) and minerals (Mg, Zn, Ca, Fe, K, P); boost immunity.",
+        "Socio-Economic: Can be sold locally and internationally, generating income.",
+        "Raw Materials: Used in agro-industries for juices and other products.",
+        "Employment: Provide job opportunities across the value chain."
+      ]
+    },
+    {
+      "title": "Mango Varieties",
+      "content": "There are many mango varieties grown for different climates, yields, and markets.",
+      "points": [
+        "Dodo (Maboloma)",
+        "Keitt",
+        "Tommy Atkins",
+        "Sensation",
+        "Haden",
+        "Irwin",
+        "Apple",
+        "Zill",
+        "Kent",
+        "Van Dyke"
+      ]
+    },
+    {
+      "title": "Factors for Site Selection",
+      "content": "Certain environmental and soil conditions are necessary for successful mango production.",
+      "points": [
+        "Soil: Prefer sandy loam; pH between 5.5 and 7.5.",
+        "Altitude: Best growth at around 1200m above sea level.",
+        "Temperature: Ideal is 24–25°C; avoid frost-prone areas.",
+        "Water: Rainfall of 600–1500mm; dry period aids flowering."
+      ]
+    },
+    {
+      "title": "Site Preparation",
+      "content": "Preparing land properly improves growth and fruit production.",
+      "points": [
+        "Clear land during the dry season to reduce weeds.",
+        "Dig holes of 60cm x 60cm x 100cm before rains.",
+        "Separate topsoil and subsoil for better nutrition.",
+        "Spacing ranges from 5m x 8m to 14m x 14m."
+      ]
+    },
+    {
+      "title": "Weed Control in Mango Orchard",
+      "content": "Weeds compete with mango trees for nutrients and water.",
+      "points": [
+        "Mechanical Methods: Digging, mulching, slashing.",
+        "Chemical Methods: Use of herbicides."
+      ]
+    },
+    {
+      "title": "Mango Pests",
+      "content": "Pests cause damage to fruits and trees, reducing quality and yield.",
+      "points": [
+        "Fruit Flies: Pierce mangoes causing rotting; control by destroying fallen fruit, removing host plants, and applying poison baits.",
+        "Mango Scales: Suck sap, weaken branches and cause fruit drop; control with insecticides and beetles/lacewings.",
+        "Mango Weevils: Bore into fruit and seeds; control by burying fallen fruits and spraying long-acting insecticides."
+      ]
+    },
+    {
+      "title": "Mango Diseases",
+      "content": "Fungal infections can harm leaves, flowers, and fruits.",
+      "points": [
+        "Anthracnose: Affects flowers; control by removing dead branches and spraying fungicides.",
+        "Powdery Mildew: Appears as white growth on parts; control with resistant varieties and sulfur spray."
+      ]
+    },
+    {
+      "title": "Transplanting Mango Seedlings",
+      "content": "Proper transplanting ensures strong plant growth and survival.",
+      "points": [
+        "Transplant when seedlings are 6–8 cm long.",
+        "Water seedlings before planting.",
+        "Transplant at the start of the rainy season.",
+        "Avoid damage to shoots and buds.",
+        "Cut polythene with a sharp knife.",
+        "Prune circular roots to encourage new growth.",
+        "Plant to the root collar and firm the soil.",
+        "Apply mulch and water regularly."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Livestock Improvement",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Livestock improvement is the science of changing the genetic composition of animals to enhance desirable characteristics, thereby improving productivity and sustainability in livestock farming.",
+        "points": []
+    },
+    {
+      "title": "Aims of Livestock Improvement",
+      "content": "The main goals of livestock improvement are to increase productivity, health, and adaptability of farm animals.",
+      "points": [
+        "High-quality Products – Produce superior milk, meat, and wool.",
+        "Increased Production Capacity – Enhance the output of animals for efficient meat and dairy production.",
+        "Disease and Parasite Resistance – Develop breeds less susceptible to diseases, reducing mortality.",
+        "Tolerance to Environmental Stress – Select animals that can thrive in harsh climates like drought or heat."
+      ]
+    },
+    {
+      "title": "Methods of Livestock Improvement",
+      "content": "Various methods are used to improve livestock genetics and performance.",
+      "points": [
+        "Breeding – Controlled mating of animals with desirable traits based on genetics and performance.",
+        "Introduction of Exotic Breeds – Importing breeds such as Friesians and Jerseys for milk production.",
+        "Artificial Insemination (AI) – Using harvested semen to impregnate females without maintaining a male.",
+        "Embryo Transfer – Transferring embryos from superior donors into local female animals to introduce better genetics."
+      ]
+    },
+    {
+      "title": "Characteristics of Livestock to be Selected for Breeding",
+      "content": "Selection is based on physical traits and genetic performance to ensure desirable offspring.",
+      "points": [
+        "Individual or Mass Selection – Choosing based on observable traits like body size and milk yield.",
+        "Selection by Contemporary Comparison – Comparing animals of the same age in the same environment.",
+        "Progeny Testing – Testing males based on the performance of their offspring."
+      ]
+    },
+    {
+      "title": "Desired Characteristics of Livestock for Breeding",
+      "content": "Animals selected for breeding should possess traits that improve farm profitability and sustainability.",
+      "points": [
+        "Fast Growth Rate – Ensures quicker returns through timely sales.",
+        "Disease and Pest Resistance – Reduces veterinary costs and losses.",
+        "High Survival Rate – Ensures herd continuity.",
+        "High Production Rate – Increases yield of milk or meat.",
+        "High Fertility Rate – Produces more offspring per year.",
+        "Good Mothering Ability – Ensures healthy, well-fed offspring.",
+        "Temperament – Docile animals are easier to handle.",
+        "High Meat Quality and Quantity – Preferred body composition and fat distribution."
+      ]
+    },
+    {
+      "title": "Factors to Consider When Choosing Dairy Cattle",
+      "content": "Several traits should be evaluated to ensure productive and healthy dairy cattle.",
+      "points": [
+        "Productivity – Milk yield, butterfat content, and lactation period length.",
+        "Body Conformation – Lean, wedge-shaped body for efficient milk production.",
+        "Reproductive Traits – Good mothering and calving intervals.",
+        "Health – Resistance to diseases and adaptability to local environments.",
+        "Physical Factors – Avoid animals with defects like lameness or missing teeth."
+      ]
+    },
+    {
+      "title": "Considerations for Pigs",
+      "content": "Specific growth and reproductive traits are essential when selecting pigs for breeding.",
+      "points": [
+        "Growth Rate – Rapid growth from 2 kg at birth to 100 kg at 26 weeks.",
+        "Adequate Milk Production – Sows must feed their piglets well.",
+        "Fertility – High fertility ensures larger, productive herds.",
+        "Health – Avoid hereditary issues like hernia.",
+        "Maturity – Reach market weight (90-100 kg) by 6–7 months.",
+        "Temperament – Calm pigs are easier to manage."
+      ]
+    },
+    {
+      "title": "Considerations for Meat Goats",
+      "content": "Choosing the right goat breed ensures better meat production and herd sustainability.",
+      "points": [
+        "Body – Should be compact and muscular.",
+        "Growth Rate – Ability to convert feed into meat efficiently.",
+        "Fertility – Ability to produce multiple offspring per kidding.",
+        "Adaptability – Thrive in local environmental conditions with minimal health issues."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Livestock Breeding Systems",
+  "subsections": [
+    {
+      "title": "Cross-breeding",
+      "content": "Mating animals from different breeds to combine desirable traits. Commonly used in the commercial livestock industry. Produces hybrid vigor, also known as heterosis, which leads to superior offspring.",
+      "points": [
+        "Examples: Fresian × Malawi Zebu.",
+        "Hereford Bull × Aberdeen Angus Cow."
+      ]
+    },
+    {
+      "title": "Advantages of Cross-breeding",
+      "content": "",
+      "points": [
+        "Better adaptation to harsh environments.",
+        "Combines genetic traits from both parents.",
+        "Increases genetic diversity (heterozygosity)."
+      ]
+    },
+    {
+      "title": "Disadvantages of Cross-breeding",
+      "content": "",
+      "points": [
+        "Determining when and how to cross-breed can be difficult.",
+        "Expensive for small-scale farmers."
+      ]
+    },
+    {
+      "title": "In-breeding",
+      "content": "Mating animals that are closely related (e.g., brother to sister or daughter to father). Commonly used by breeders to enhance desirable traits. Increases genetic similarity (gene pairing).",
+      "points": []
+    },
+    {
+      "title": "Advantages of In-breeding",
+      "content": "",
+      "points": [
+        "Retains known desirable genes.",
+        "Promotes uniformity within the population.",
+        "Helps identify carriers of hereditary defects."
+      ]
+    },
+    {
+      "title": "Disadvantages of In-breeding",
+      "content": "",
+      "points": [
+        "Increases the chances of undesirable recessive traits.",
+        "May lead to reduced vitality and performance."
+      ]
+    },
+    {
+      "title": "Out-breeding",
+      "content": "Mating animals of the same breed but without close genetic relationships (4–6 generations apart). Commonly used by purebred breeders (e.g., sheep).",
+      "points": []
+    },
+    {
+      "title": "Advantages of Out-breeding",
+      "content": "",
+      "points": [
+        "Enhances genetic improvement.",
+        "Ideal for beginners in livestock breeding.",
+        "Introduces desirable traits without close inbreeding."
+      ]
+    },
+    {
+      "title": "Disadvantages of Out-breeding",
+      "content": "",
+      "points": [
+        "Expensive to source semen for individual farmers.",
+        "Availability of semen may be affected by importation timing."
+      ]
+    },
+    {
+      "title": "Artificial Insemination (AI)",
+      "content": "The process of introducing semen into a female’s reproductive system without using a male (bull). Semen collection is from superior bulls using an artificial vagina. Stored in liquid nitrogen after dilution with diluents like egg yolk, milk, and glucose.",
+      "points": []
+    },
+    {
+      "title": "Advantages of Artificial Insemination",
+      "content": "",
+      "points": [
+        "One bull's semen can be used to inseminate many females (one ejaculation = 300 ml for 200 cows).",
+        "Semen can be stored for extended periods.",
+        "Reduces the cost of keeping and feeding a bull.",
+        "Allows the spread of superior traits across a wide area.",
+        "Reduces the spread of sexually transmitted diseases.",
+        "Easy to plan and manage."
+      ]
+    },
+    {
+      "title": "Disadvantages of Artificial Insemination",
+      "content": "",
+      "points": [
+        "Requires specialized skills.",
+        "Managing heat signs for insemination can be challenging.",
+        "Expensive to maintain an artificial insemination program."
+      ]
+    },
+    {
+      "title": "Selection",
+      "content": "The process of choosing the best animals based on performance and strength. Aims to improve livestock traits through selected breeding.",
+      "points": [
+        "Artificial Selection: Controlled by breeders.",
+        "Selection based on phenotypic traits like body size and egg size.",
+        "Individual Selection: Based on the performance of a single animal.",
+        "Sib Selection: When a bull is selected based on the performance of its relatives (e.g., high-yielding mother).",
+        "Natural Selection: Occurs without human intervention.",
+        "Animals adapt to survive in their environment.",
+        "Weaker animals may die off due to environmental pressures, ensuring only the strongest reproduce."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Gender and Agricultural Technology",
+  "subsections": [
+    {
+      "title": "Key Concepts",
+      "content": "",
+      "points": [
+        "Gender: The condition of being male or female and the roles assigned by society and culture.",
+        "Gender Bias: Unequal treatment or favoritism between males and females due to prejudice.",
+        "Gender Equality: Fair treatment of males and females."
+      ]
+    },
+    {
+      "title": "Benefits of Gender Equality in Agricultural Technology",
+      "content": "",
+      "points": [
+        "Reduction of rural poverty.",
+        "Improved food security.",
+        "Better health and nutrition.",
+        "Sustainable management of natural resources."
+      ]
+    },
+    {
+      "title": "Examples of Gender Bias in Agricultural Technology",
+      "content": "",
+      "points": [
+        "Lack of female-friendly farm tools.",
+        "Tools often designed for men, being too heavy for women to operate.",
+        "Women use simple hand tools, while men operate complex machinery.",
+        "Heavy equipment for large-scale farming is usually operated by men.",
+        "Women have limited access to finance, making it difficult to acquire agricultural resources.",
+        "Seminars and training on agricultural technology are often inaccessible to women due to distance and home responsibilities.",
+        "Male agricultural extension workers primarily interact with male farmers."
+      ]
+    },
+    {
+      "title": "Causes of Gender Bias in Agricultural Technology",
+      "content": "",
+      "points": [
+        "Cultural beliefs and gender role socialization.",
+        "Internal belief systems of farmers.",
+        "Lack of early exposure to technology for females.",
+        "Low confidence among women in using agricultural tools.",
+        "Low education and literacy levels among women.",
+        "Limited access to technological information.",
+        "Limited access to capital.",
+        "Gender stereotypes and expectations."
+      ]
+    },
+    {
+      "title": "Effects of Gender Bias in Agricultural Technology",
+      "content": "",
+      "points": [
+        "Limits women's full capabilities.",
+        "Lower contribution to agricultural production from women.",
+        "Reduced agricultural productivity.",
+        "Lower farm income and increased poverty.",
+        "Food insecurity and slow agricultural development."
+      ]
+    },
+    {
+      "title": "Ways to Address Gender Bias in Agricultural Technology",
+      "content": "",
+      "points": [
+        "Provide opportunities for women to build self-confidence and prove their capabilities.",
+        "Challenge and discredit gender stereotypes.",
+        "Promote equal education and skills development.",
+        "Reduce the work burden on women in agriculture.",
+        "Improve women’s access to financial resources and farm capital.",
+        "Empower women in the use of agricultural technology.",
+        "Develop media showcasing successful women farmers as role models.",
+        "Review policies on land and property ownership to favor gender equality."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Agricultural Marketing and Trading",
+  "subsections": [
+    {
+      "title": "Marketing and Trading Overview",
+      "content": "Marketing is the process of transforming and moving agricultural products from production to consumption, focusing on satisfying consumer needs. Trading involves buying and selling agricultural goods or exchanging commodities.",
+      "points": []
+    },
+    {
+      "title": "Key Elements of Marketing (The 4Ps)",
+      "content": "",
+      "points": [
+        "Product: Identification, selection, and development.",
+        "Price: Determination of the product's value.",
+        "Place: Distribution to ensure the product reaches the customer.",
+        "Promotion: Strategy to communicate and encourage product purchase."
+      ]
+    },
+    {
+      "title": "Difference Between Marketing and Trading",
+      "content": "",
+      "points": [
+        "Marketing focuses on consumer satisfaction and involves research, promotion, and communication. It directs farm resources based on market demand.",
+        "Trading focuses mainly on local sales and profit, involving straightforward buying and selling."
+      ]
+    },
+    {
+      "title": "Channels of Distribution",
+      "content": "",
+      "points": [
+        "Manufacturer → Consumer: Small-scale farmers sell directly to consumers without intermediaries.",
+        "Manufacturer → Retailer → Consumer: Farmers sell to retailers who sell to consumers; common with processed or large-scale production.",
+        "Manufacturer → Wholesaler → Retailer → Consumer: Farmers sell to wholesalers who distribute to retailers.",
+        "Manufacturer → Agent → Wholesaler → Retailer → Consumer: Agents sell products to wholesalers for a commission, speeding up delivery."
+      ]
+    },
+    {
+      "title": "Marketing Agencies",
+      "content": "",
+      "points": [
+        "Itinerant Traders: Middlemen who buy produce directly from farmers and sell to large businesses.",
+        "Processors: Transform raw products into finished goods.",
+        "Wholesalers: Buy in bulk from processors or farmers and sell to retailers.",
+        "Retailers: Buy in bulk from wholesalers and sell in smaller quantities to consumers.",
+        "Brokers and Agents: Link buyers and sellers, earning commissions.",
+        "Cooperative Societies and Unions: Facilitate marketing from rural to national and international levels.",
+        "Marketing Boards: Government bodies that stabilize farmer incomes by controlling supply and demand."
+      ]
+    },
+    {
+      "title": "Roles of Marketing Channels and Agencies",
+      "content": "",
+      "points": [
+        "Price Stability: Help maintain stable prices.",
+        "Promotion: Advertise agricultural products, often with incentives.",
+        "Consumer-Producer Link: Connect farmers with consumers.",
+        "Distribution: Ensure products reach consumers efficiently.",
+        "Market Provision: Provide farmers with reliable markets.",
+        "Information: Offer insights into consumer needs and trends.",
+        "Input Supply: Provide farmers with agricultural inputs at subsidized prices."
+      ]
+    },
+    {
+      "title": "Marketing Costs",
+      "content": "Total costs involved in delivering agricultural products from farmer to consumer.",
+      "points": [
+        "Example: Jams sold 300 bags of mangoes with MK1000 transport and MK400/day storage for 2 days.",
+        "Total Marketing Cost = MK1000 + (MK400 × 2) = MK1800."
+      ]
+    },
+    {
+      "title": "Marketing Margins",
+      "content": "Difference between selling price and purchasing (farm-gate) price; indicates profitability.",
+      "points": [
+        "Marketing Margin = Selling Price − Purchasing Price.",
+        "Example: Farmer buys milk for MK40 and sells cheese for MK100; margin = MK60.",
+        "High margins imply higher costs due to extended marketing channels."
+      ]
+    },
+    {
+      "title": "Effects of Population Distribution on Marketing",
+      "content": "",
+      "points": [
+        "High Population: Creates better markets, longer marketing channels, increased prices, and competition.",
+        "Low Population: Results in reduced markets, shorter channels, and lower demand."
+      ]
+    },
+    {
+      "title": "Importance of Agricultural Trading",
+      "content": "",
+      "points": [
+        "Community Level: Provides outlets for excess produce, promotes specialization, raises living standards, generates local revenue, and creates self-employment.",
+        "National Level: Ensures steady food supply, supports industries, generates government revenue, and promotes food security."
+      ]
+    },
+    {
+      "title": "International Trading",
+      "content": "Trade beyond national borders classified as bilateral or multilateral.",
+      "points": []
+    },
+    {
+      "title": "Importance of International Agricultural Trading",
+      "content": "",
+      "points": [
+        "Access to non-produced commodities through imports.",
+        "Export of surplus produce balances supply and demand.",
+        "Market expansion increases demand and opportunities.",
+        "Improved living standards through increased income.",
+        "Encourages specialization and competitiveness.",
+        "Earns foreign exchange vital for economic stability.",
+        "Food importation safeguards against shortages.",
+        "Builds diplomatic and economic relationships."
+      ]
+    },
+    {
+      "title": "Problems Associated with International Trade",
+      "content": "",
+      "points": [
+        "Hindrance to infant industries due to competition with imports.",
+        "Risk of importing harmful commodities damaging local ecosystems.",
+        "Instability from political tensions disrupting trade.",
+        "Unfavorable trade balance leading to deficits.",
+        "Political patronage reducing independence.",
+        "Cultural influence conflicting with local traditions."
+      ]
+    },
+    {
+      "title": "Factors that Facilitate Trade of Agricultural Commodities",
+      "content": "",
+      "points": [
+        "Geographic disparity in production creating demand.",
+        "Consumer preferences influencing trade.",
+        "Uneven production across regions or countries.",
+        "Variation in quality creating niche markets.",
+        "Harmonized taxation preventing overburdening traders."
+      ]
+    },
+    {
+      "title": "Ways to Improve the Trade of Agricultural Commodities",
+      "content": "",
+      "points": [
+        "Formation of produce cooperative societies.",
+        "Value addition through processing raw products.",
+        "Provision of storage facilities to maintain quality.",
+        "Improvement of road infrastructure for transport.",
+        "Subsidizing agricultural inputs to boost productivity.",
+        "Making capital available to traders via low-interest loans."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Price Elasticity of Demand and Supply",
+  "content": "Understanding how quantity demanded and supplied respond to price changes helps in making informed economic decisions.",
+  "points": [],
+  "subsections": [
+    {
+      "title": "Quantity Demanded",
+      "content": "Quantity Demanded refers to a specific amount of a product that consumers are willing to buy at a particular price over a designated time period.",
+      "points": []
+    },
+    {
+      "title": "Percentage Change in Price Calculation",
+      "content": "Formula to calculate percentage change in price:",
+      "points": [
+        "Percentage change in price = (Change in price × 100) / Original price",
+        "Example: ((5000 - 4000) × 100) / 4000 = (1000 × 100) / 4000 = 25%"
+      ]
+    },
+    {
+      "title": "Quantity Supplied",
+      "content": "Quantity Supplied refers to the amount of a commodity that is available in the market for sale.",
+      "points": []
+    },
+    {
+      "title": "Price Elasticity of Demand (Ed)",
+      "content": "Measures the responsiveness of quantity demanded to a percentage change in price.",
+      "points": [
+        "Ed = Percentage change in quantity demanded / Percentage change in price",
+        "Example Calculation: If price rises from MK4000 to MK5000, and quantity demanded decreases from 700 bags to 400 bags:",
+        "Change in quantity demanded = ((700 - 400) × 100) / 700 = 42.86%",
+        "Percentage change in price = 25%",
+        "Ed = 42.86 / 25 = 1.714"
+      ]
+    },
+    {
+      "title": "Degrees of Price Elasticity of Demand",
+      "content": "Different levels of responsiveness of quantity demanded relative to price changes.",
+      "points": [
+        "Elastic Demand: Ed > 1. Price changes cause significant changes in quantity demanded. Prices must be competitive.",
+        "Unitary Demand: Ed = 1. Percentage change in price equals percentage change in quantity demanded. Alternatives available.",
+        "Inelastic Demand: Ed < 1. Quantity demanded changes little with price. Price increases can increase profits."
+      ]
+    },
+    {
+      "title": "Implications of Price Elasticity of Demand",
+      "content": "Price elasticity helps farmers and producers make strategic decisions regarding pricing and sales forecasting.",
+      "points": [
+        "Risk Reduction: Helps farmers make informed decisions, minimizing demand risk.",
+        "Sales Forecasting: Predict impact of price changes on sales volume and revenue.",
+        "Pricing Policy: Guides when to adjust prices and use price discrimination."
+      ]
+    },
+    {
+      "title": "Price Elasticity of Supply (Es)",
+      "content": "Measures the responsiveness of quantity supplied due to a price change.",
+      "points": [
+        "Es = Percentage change in quantity supplied / Percentage change in price",
+        "Example Calculation: Mary supplied 1000 bags of beans at MK3000 each and increased supply to 2500 bags at MK4000 each:",
+        "Change in quantity supplied = ((2500 - 1000) × 100) / 1000 = 150%",
+        "Percentage change in price = ((4000 - 3000) × 100) / 3000 = 33.33%",
+        "Es = 150 / 33.33 = 4.5"
+      ]
+    },
+    {
+      "title": "Degrees of Price Elasticity of Supply",
+      "content": "Different levels of responsiveness of quantity supplied relative to price changes.",
+      "points": [
+        "Elastic Supply: Es > 1. Large change in quantity supplied with price change.",
+        "Unitary Supply: Es = 1. Equal change in quantity supplied and price.",
+        "Inelastic Supply: Es < 1. Little or no change in quantity supplied with price."
+      ]
+    },
+    {
+      "title": "Implications of Elasticity of Demand and Supply",
+      "content": "Effects and consequences of elasticity on market behavior and government policy.",
+      "points": [
+        "Small price reductions can boost demand and supply for unitary commodities.",
+        "Inelastic commodities sell regardless of price fluctuations.",
+        "Elastic commodities may be stored until demand rises to avoid low-price sales.",
+        "Government subsidies can lower prices, increasing competition.",
+        "Price increases for elastic commodities shift demand to alternatives, prompting producers to increase supply of alternatives."
+      ]
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
 
 
     {
