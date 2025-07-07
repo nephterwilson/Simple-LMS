@@ -1315,6 +1315,1458 @@
   ]
 },
 
+{
+  "title": "Pasture",
+  "subsections": [
+    {
+      "title": "Definition of Pasture",
+      "content": "Pasture refers to land that is covered with grass and other herbaceous plants suitable for feeding livestock.",
+      "points": []
+    },
+    {
+      "title": "Importance of Pasture",
+      "content": "Pasture plays a vital role in livestock productivity, land conservation, and soil health.",
+      "points": [
+        "Promotes water infiltration into the soil.",
+        "Reduces surface runoff and water loss.",
+        "Provides essential nutrients and energy to livestock.",
+        "Reduces stress in animals.",
+        "Improves reproductive efficiency in animals.",
+        "Extends the productive lifespan of livestock.",
+        "Leads to the production of high-quality meat and milk.",
+        "Serves as a permanent cover crop to protect the soil from erosion.",
+        "Improves soil structure and increases organic matter.",
+        "Enhances and maintains soil fertility over time.",
+        "Fixes atmospheric nitrogen through legumes, enriching the soil.",
+        "Adds organic residues that contribute to soil nutrient cycling.",
+        "Utilizes acidic and non-arable land for productive use.",
+        "Reduces pressure on arable land reserved for food crops.",
+        "Rotational grazing (paddocking) helps in breaking pest and disease cycles.",
+        "Reduces veterinary costs by minimizing disease exposure."
+      ]
+    },
+    {
+      "title": "Types of Pasture",
+      "content": "Pastures are broadly categorized into Indigenous (Natural) and Cultivated pastures.",
+      "points": []
+    },
+    {
+      "title": "Indigenous/Natural Pasture",
+      "content": "Naturally occurring pasture commonly found in communal grazing lands, consisting of native grasses and legumes. Grass type varies with ecological zones and altitude.",
+      "points": [
+        "Requires minimal management inputs.",
+        "Adapted to local climate and soil conditions.",
+        "Biodiverse and often more resilient to drought.",
+        "Can be overgrazed easily if not properly managed.",
+        "Common Leguminous Pasture Species:",
+        "- Stylosanthes spp (Stylo)",
+        "- Centrosema spp (Centro)",
+        "- Macroptilium spp",
+        "- Macrotyloma spp",
+        "- Desmodium spp",
+        "- Neonotonia spp",
+        "Leguminous Shrubs:",
+        "- Leucaena leucocephala (Leucaena)",
+        "- Faidherbia albida"
+      ]
+    },
+    {
+      "title": "Cultivated Pasture",
+      "content": "Planted and managed pasture that may consist of grasses, legumes, or a mixture of both. Cultivated pastures can be categorized into Pure Stand and Mixed Pasture.",
+      "points": []
+    },
+    {
+      "title": "Pure Stand",
+      "content": "This type of pasture consists of only one group: either grasses or legumes.",
+      "points": [
+        "Advantages:",
+        "- Weed control is easier using specific herbicides.",
+        "- Establishment is better due to less interspecies competition.",
+        "- Allows for simple and uniform seed harvesting.",
+        "- Easier to manage grazing schedules based on growth cycles.",
+        "Disadvantages:",
+        "- Susceptible to pests and disease outbreaks.",
+        "- No backup species in case of failure.",
+        "- Yield per unit area may be lower compared to mixed pasture.",
+        "- Risk of bloat is higher in animals grazing only on legumes.",
+        "- Less palatable or nutritious if a single species dominates."
+      ]
+    },
+    {
+      "title": "Mixed Pasture",
+      "content": "Combines grasses and legumes grown together in the same field, creating a more diverse and resilient ecosystem.",
+      "points": [
+        "Advantages:",
+        "- Higher nutritional value due to complementary feeding from grasses and legumes.",
+        "- Legumes fix atmospheric nitrogen, enriching soil fertility.",
+        "- Reduces dependence on synthetic nitrogen fertilizers.",
+        "- Produces higher yields per unit area.",
+        "- Lowers the risk of bloat due to balanced intake.",
+        "- Ensures feed availability in case one species fails.",
+        "- Improves palatability for livestock due to diversity.",
+        "- Utilizes soil nutrients more efficiently by combining shallow and deep-rooted species.",
+        "- Enhances soil cover and prevents erosion.",
+        "Disadvantages:",
+        "- Chemical weed control is more difficult due to crop diversity.",
+        "- Potential competition for light, water, and nutrients if planting is unbalanced.",
+        "- Harvesting seeds separately is complicated.",
+        "- Requires careful planning of seed rates and timing."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Pasture Establishment",
+  "subsections": [
+    {
+      "title": "Factors to Consider When Establishing Pasture",
+      "content": "",
+      "points": [
+        "Fertility Status of the Soil: Understanding soil fertility helps determine the necessary amount of fertilizer or manure to enhance soil health.",
+        "Condition of the Land: The land should be free from waterlogging to ensure proper drainage and growth.",
+        "Location of the Land: Proximity to a water source is essential for the sustenance of livestock.",
+        "Distance from the Milking Parlour or Shed: For dairy cattle, the pasture should be reasonably close to facilitate easy access."
+      ]
+    },
+    {
+      "title": "Methods of Pasture Establishment",
+      "content": "",
+      "points": []
+    },
+    {
+      "title": "Broadcasting",
+      "content": "Scattering seeds by hand or with a seed broadcaster.",
+      "points": [
+        "Steps for Broadcasting Seeds:",
+        "- Divide the field into small plots.",
+        "- Measure and distribute seeds according to the plot size.",
+        "- Lightly cover the seeds with soil.",
+        "- Apply fertilizer based on soil fertility.",
+        "Advantages:",
+        "- Cost-effective.",
+        "- Requires minimal labor.",
+        "- Quick process.",
+        "Disadvantages:",
+        "- Seed loss due to wind or birds.",
+        "- Potential for uneven seed population distribution."
+      ]
+    },
+    {
+      "title": "Undersowing",
+      "content": "Planting grass or legume seeds in a field already planted with a nurse crop (e.g., maize or wheat).",
+      "points": [
+        "Advantages:",
+        "- Lowers initial pasture establishment costs.",
+        "- Increases reliability.",
+        "- Minimizes soil structure disruption.",
+        "Disadvantages:",
+        "- Harvesting the main crops may become challenging, especially if the undersown pasture grows significantly."
+      ]
+    },
+    {
+      "title": "Oversowing",
+      "content": "Introducing better pasture species into unimproved grassland without destroying existing forage.",
+      "points": [
+        "Preparation Steps:",
+        "- Reduce the height and density of existing forage by trimming or grazing.",
+        "Advantages:",
+        "- Existing forage provides shade for seedlings.",
+        "- Enhances pasture quality by introducing superior species.",
+        "- Minimizes soil erosion and maintains moisture.",
+        "- Lowers labor costs and machinery investments.",
+        "Disadvantages:",
+        "- If not mowed, existing forage may block sunlight from reaching new seedlings.",
+        "- Competing for nutrients and sunlight can hinder seed growth.",
+        "- Increases pest populations.",
+        "- Requires advanced management skills."
+      ]
+    },
+    {
+      "title": "Drilling",
+      "content": "Sowing seeds using a seed drill, ensuring they are covered immediately.",
+      "points": [
+        "Advantages:",
+        "- Provides optimal seed placement and coverage.",
+        "- Reduces seed loss and enhances germination rates.",
+        "Disadvantages:",
+        "- Equipment costs and maintenance."
+      ]
+    },
+    {
+      "title": "Advantages of Vegetative Propagation",
+      "content": "",
+      "points": [
+        "Maintains superior traits from the parent crop, ensuring high-quality pasture.",
+        "Facilitates the rapid production of large quantities of pasture.",
+        "Promotes faster maturation of the pasture."
+      ]
+    },
+    {
+      "title": "Disadvantages of Vegetative Propagation",
+      "content": "",
+      "points": [
+        "Potential nutrient competition from fast-growing pasture.",
+        "Bulky planting materials are challenging to transport and store.",
+        "Planting materials have a short shelf life and cannot be stored for extended periods."
+      ]
+    },
+    {
+      "title": "Seed Rate",
+      "content": "Amount of seed used per hectare, expressed in kg/ha. Influences spacing, population density, growth rates, and yield.",
+      "points": [
+        "Calculation formula: Seed Rate = (Average weight of one seed × Number of seeds per hole × Number of holes) ÷ Number of hectares."
+      ]
+    },
+    {
+      "title": "Factors Affecting Pasture Seed Rate",
+      "content": "",
+      "points": [
+        "Size of the Seed: Smaller seeds require lower rates.",
+        "Soil Tilth: Better tilth allows lower seed rates.",
+        "Growth Habit: Spreading species need lower rates.",
+        "Type of Pasture: Mixed pastures require lower rates to avoid competition.",
+        "Method of Sowing: Broadcasting generally requires a higher seed rate than drilling.",
+        "Purity Percentage: Pure seeds need lower rates.",
+        "Germination Percentage: Lower viability seeds require higher rates."
+      ]
+    },
+    {
+      "title": "Methods of Pasture Treatment",
+      "content": "",
+      "points": []
+    },
+    {
+      "title": "Hulling",
+      "content": "Removal of the outer covering (husk) of seeds, mainly legume seeds.",
+      "points": [
+        "Promotes faster seed growth post-planting.",
+        "Increases water absorption rates."
+      ]
+    },
+    {
+      "title": "Scarification",
+      "content": "Weakening the seed coat to enhance germination.",
+      "points": [
+        "Mechanical Method: Rubbing seeds with sandpaper or rough surfaces.",
+        "Hot Water Method: Immersing seeds in hot water briefly; requires monitoring.",
+        "Acid Treatment Method: Soaking seeds in concentrated acid (e.g., sulfuric acid) in a lab setting.",
+        "Importance:",
+        "- Makes seed coats permeable to water and air.",
+        "- Speeds up germination."
+      ]
+    },
+    {
+      "title": "Inoculation",
+      "content": "Introducing nitrogen-fixing bacteria into legume seeds.",
+      "points": [
+        "Procedure:",
+        "- Place seeds in a clean polythene bag.",
+        "- Add water or milk to moisten seeds.",
+        "- Mix in inoculant thoroughly.",
+        "- Allow seeds to dry in the shade.",
+        "- Plant the seeds.",
+        "Precautions:",
+        "- Avoid sunlight exposure.",
+        "- Use viable inoculants.",
+        "- Keep away from acid fertilizers.",
+        "Importance:",
+        "- Ensures presence of Rhizobium bacteria for nitrogen fixation.",
+        "- Increases soil bacterial levels."
+      ]
+    },
+    {
+      "title": "Pelleting",
+      "content": "Coating seeds with inert materials to standardize size and shape.",
+      "points": [
+        "Enhances oxygen availability in the soil.",
+        "Ensures accurate seed spacing.",
+        "Reduces seed rates."
+      ]
+    },
+    {
+      "title": "Proper Time for Pasture Establishment",
+      "content": "",
+      "points": [
+        "Seeds should be sown early in the planting season for optimal results.",
+        "In vegetative propagation, plant materials should be used when soil moisture is sufficient."
+      ]
+    },
+    {
+      "title": "Causes of Failure in Pasture Establishment",
+      "content": "",
+      "points": [
+        "Poor Seed Germination: Deep planting, poor seedbed preparation, low seed viability.",
+        "Poor Inoculation.",
+        "Nutrient Deficiency.",
+        "Unfavorable Chemical Conditions.",
+        "Poor Drainage.",
+        "Pests and Diseases."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Pasture Management",
+  "subsections": [
+    {
+      "title": "Overview",
+      "content": "Encompasses practices to maintain pasture productivity.",
+      "points": []
+    },
+    {
+      "title": "Key Considerations for High Pasture Yield",
+      "content": "",
+      "points": [
+        "Maintain sufficient herbaceous vegetation for year-round animal feeding.",
+        "Ensure efficient pasture utilization to minimize waste.",
+        "Harvest pasture when quality is high.",
+        "Employ sustainable management methods to preserve pasture health."
+      ]
+    },
+    {
+      "title": "Activities in Pasture Management",
+      "content": "",
+      "points": []
+    },
+    {
+      "title": "Application of Manures or Fertilizers",
+      "content": "Use correct fertilizers based on soil tests for optimum growth.",
+      "points": [
+        "Top dress at the start of rains with nitrogen fertilizers.",
+        "Improves nutrient value and replenishes soil nutrients.",
+        "Increases pasture yield and improves soil structure."
+      ]
+    },
+    {
+      "title": "Weed Control",
+      "content": "Effective weed control is vital for pasture health and productivity.",
+      "points": [
+        "Common Pasture Weeds:",
+        "- Thorn apple (Datura stramonium)",
+        "- Sodom apple (Solanum incanum)",
+        "- Lantana/Tick berry (Lantana camara)",
+        "Weeding Methods:",
+        "- Clear land before planting.",
+        "- Use high-purity seeds.",
+        "- Mechanically uproot weeds.",
+        "- Apply livestock-safe herbicides (e.g., 2,4-D, Paraquat).",
+        "Reasons for Weed Control:",
+        "- Weeds compete for nutrients and space.",
+        "- Weeds reduce forage quality and yields.",
+        "- Some weeds can poison livestock."
+      ]
+    },
+    {
+      "title": "Controlling Pests and Diseases",
+      "content": "",
+      "points": [
+        "Effects:",
+        "- Stunted growth and low productivity.",
+        "- Pest damage to pasture.",
+        "Control Methods:",
+        "- Rotational grazing to reduce pest buildup.",
+        "- Use livestock-safe pesticides."
+      ]
+    },
+    {
+      "title": "Grazing Livestock",
+      "content": "Proper grazing management prevents pasture damage and optimizes feed.",
+      "points": [
+        "Controlled Grazing: Prevent pasture destruction.",
+        "Stocking Control: Avoid overstocking to prevent deterioration.",
+        "Avoid understocking which causes inedible material buildup."
+      ]
+    },
+    {
+      "title": "Controlling Burning of Pasture",
+      "content": "Burning pasture is discouraged due to negative effects.",
+      "points": [
+        "Detrimental effects on soil microorganisms.",
+        "Degrades soil structure and fertility."
+      ]
+    },
+    {
+      "title": "Grazing Animals: Defoliation Phases",
+      "content": "",
+      "points": []
+    },
+    {
+      "title": "Early Defoliation",
+      "content": "Grazing on pasture less than 4 weeks old.",
+      "points": [
+        "Results in low dry matter and nutrient yield.",
+        "Produces low crude protein yield.",
+        "High dry matter digestibility but low digestible nutrients.",
+        "High moisture content in forage.",
+        "Weakens pasture stand and reduces lifespan."
+      ]
+    },
+    {
+      "title": "Late Defoliation",
+      "content": "Grazing on pasture older than 10 weeks.",
+      "points": [
+        "High cellulose, dry matter, and lignin content.",
+        "Low crude protein and digestibility.",
+        "Low leaf-to-stem ratio, reducing palatability."
+      ]
+    },
+    {
+      "title": "Limitations of Grazing",
+      "content": "",
+      "points": [
+        "Overgrazing:",
+        "- Increase in weeds.",
+        "- Weakening of pasture crops.",
+        "- Land degradation and soil erosion.",
+        "Undergrazing:",
+        "- Increase in weeds.",
+        "- Forage wastage from trampling.",
+        "- Woody and unpalatable forage.",
+        "- Decline in pasture regrowth.",
+        "- Low plants smothered by shading."
+      ]
+    },
+    {
+      "title": "Grazing Systems in Pasture Management",
+      "content": "",
+      "points": []
+    },
+    {
+      "title": "Zero Grazing (Cut-and-Carry)",
+      "content": "Animals confined; forage cut and brought to them.",
+      "points": [
+        "Advantages:",
+        "- Uniform forage intake.",
+        "- Higher livestock yields.",
+        "- Reduced energy loss.",
+        "- Quick manure accumulation.",
+        "- Easier disease control.",
+        "Disadvantages:",
+        "- High establishment costs.",
+        "- Challenges with bedding material and disposal.",
+        "- Labor-intensive and requires supervision.",
+        "- Fast disease spread in confined animals."
+      ]
+    },
+    {
+      "title": "Rotational/Paddock Grazing",
+      "content": "Grazing livestock in sections (paddocks) to allow pasture recovery.",
+      "points": [
+        "Advantages:",
+        "- Breaks parasite life cycles.",
+        "- Utilizes pasture at optimal growth stages.",
+        "- Conserves excess pasture.",
+        "- Enables management in unused paddocks.",
+        "- Controlled grazing and manure distribution.",
+        "Disadvantages:",
+        "- Requires fencing and paddocking infrastructure.",
+        "- High livestock numbers needed.",
+        "- Requires large land tracts."
+      ]
+    },
+    {
+      "title": "Strip Grazing",
+      "content": "Livestock given new grazing areas daily using movable electric fences.",
+      "points": [
+        "Advantages:",
+        "- Minimizes bloating.",
+        "- Higher productivity per land unit.",
+        "- Effective pasture utilization.",
+        "- Lower construction costs than paddocks.",
+        "Disadvantages:",
+        "- Requires electric power supply.",
+        "- Incurs electricity costs."
+      ]
+    },
+    {
+      "title": "Continuous Grazing",
+      "content": "Livestock graze freely without restrictions.",
+      "points": [
+        "Advantages:",
+        "- Minimal investment required.",
+        "- High productivity with sufficient pasture.",
+        "- Simple management.",
+        "Disadvantages:",
+        "- Uneven grazing control.",
+        "- Difficult to manage stocking levels.",
+        "- Reduced pasture quality and quantity.",
+        "- Increased pests and weeds.",
+        "- Soil erosion risks."
+      ]
+    },
+    {
+      "title": "Deferred Grazing",
+      "content": "Livestock are delayed from grazing until pasture is short.",
+      "points": [
+        "Advantages:",
+        "- Reduces overgrazing.",
+        "- Increases stocking rate.",
+        "Disadvantages:",
+        "- Forage may become woody and unpalatable.",
+        "- Reduces grazing season duration."
+      ]
+    },
+    {
+      "title": "Pasture Conservation",
+      "content": "Preserving excess forage for future use and protecting pasture.",
+      "points": []
+    },
+    {
+      "title": "Hay Making",
+      "content": "Reduces moisture content of cut forage to prevent spoilage.",
+      "points": [
+        "Prevents deterioration from fermentation, mold, and decomposition.",
+        "Ideal moisture content: 20% for bales, 16% for loose hay.",
+        "Procedure:",
+        "- Cut at peak nutrient value.",
+        "- Dry in the field for 24 hours.",
+        "- Further dry for 48 hours before baling.",
+        "- Stack into bales or bundles."
+      ]
+    },
+    {
+      "title": "Silage Making",
+      "content": "Preserves forage with high moisture through fermentation.",
+      "points": [
+        "Procedure:",
+        "- Cut crop at the correct maturity stage.",
+        "- Wilt to acceptable moisture.",
+        "- Chop and fill in silo, compact well.",
+        "- Monitor temperature; complete filling by day 3 or 4.",
+        "- Cover silo to prevent air ingress.",
+        "Effects of too much air: Overheating and decomposition.",
+        "Types of Silos:",
+        "- Clamp silo: Above ground with slanting walls.",
+        "- Trench silo: Excavated underground.",
+        "- Bunker silo: Concrete above ground with perpendicular walls.",
+        "Qualities of Good Silage:",
+        "- High-quality forage.",
+        "- pH below 4.2.",
+        "- 5-9% lactic acid content.",
+        "- Free of mold and bad odors."
+      ]
+    },
+    {
+      "title": "Foggage",
+      "content": "Standing hay or pasture left for direct grazing during dry seasons.",
+      "points": [
+        "Can be from natural or established pasture."
+      ]
+    },
+    {
+      "title": "Factors Affecting Quality of Conserved Pasture",
+      "content": "",
+      "points": [
+        "Leafiness of Pasture: Leafy pastures yield better quality hay or silage.",
+        "Age at Cutting: Cutting at peak nutrient value ensures high nutrient and dry matter content.",
+        "Moisture Content: High moisture can cause mold and decomposition; excessively dry hay breaks easily.",
+        "Presence of Foreign Materials: Stones and twigs reduce quality.",
+        "Method of Storage: Poor storage degrades hay or silage quality.",
+        "Weather Conditions: Wet weather makes high-quality hay difficult to prepare.",
+        "Pasture Species Used: Pure stands of legumes or mixed grass-legume pastures produce higher-quality feed; some grasses are more nutritious."
+      ]
+    }
+  ]
+},
+{
+  "title": "Breeds of Cattle",
+  "subsections": [
+    {
+      "title": "Reasons for Keeping Cattle in Malawi",
+      "content": "Cattle serve several important purposes in Malawi, including:",
+      "points": [
+        "Dairy Production: Raising cattle primarily for milk.",
+        "Beef Production: Breeding cattle for meat.",
+        "Draught Power: Utilizing cattle for work, such as plowing fields."
+      ]
+    },
+    {
+      "title": "Dairy Cattle",
+      "content": "Dairy cattle are specifically kept for milk production.",
+      "points": [
+        "Typically have a wedge or triangular body shape.",
+        "Long, lean necks and large body capacities for effective feeding.",
+        "Prominent udders with well-spaced, uniform teats."
+      ]
+    },
+    {
+      "title": "Breeds of Dairy Animals in Malawi",
+      "content": "",
+      "points": []
+    },
+    {
+      "title": "Malawi Zebu",
+      "content": "Indigenous breed, often crossed with exotic and local breeds.",
+      "points": [
+        "Small body size.",
+        "Slow growth rate.",
+        "Long calving intervals (up to 540 days).",
+        "Average milk yield: 900-1000 kg/lactation.",
+        "Colors: black, brown, or white."
+      ]
+    },
+    {
+      "title": "Jersey",
+      "content": "Origin: Jersey Island, England Channel.",
+      "points": [
+        "Color ranges from light brown to black.",
+        "Black muzzle with a light-colored ring.",
+        "Smallest exotic breed.",
+        "Large udder with good conformation.",
+        "Milk yield: ~2700 kg/lactation (305 days) with 5.3% butter-fat.",
+        "Hardy; low maintenance costs; can thrive on good/poor pasture.",
+        "Calves mature in 24-26 months; bulls may exhibit aggression."
+      ]
+    },
+    {
+      "title": "Guernsey",
+      "content": "Origin: Guernsey Island, England Channel.",
+      "points": [
+        "Fairly large; mature weight ~410 kg.",
+        "Color varies from yellowish-brown to red with white markings.",
+        "Milk yield: ~3600 kg/lactation with 5% butter-fat.",
+        "Docile temperament; not as hardy as Jersey.",
+        "Calves weigh about 30 kg at birth."
+      ]
+    },
+    {
+      "title": "Friesian/Holstein",
+      "content": "Origin: Holland.",
+      "points": [
+        "Distinctive black and white coloration.",
+        "Largest exotic dairy breed; mature cow weight ~550 kg.",
+        "High milk production: ~5000 kg/lactation with 3.5% butter-fat.",
+        "Docile and excellent grazers; large calves (30-40 kg at birth)."
+      ]
+    },
+    {
+      "title": "Ayshire",
+      "content": "Origin: Scotland.",
+      "points": [
+        "Color varies from red with white markings to white with red markings.",
+        "Medium-sized breed; mature weight ~450 kg.",
+        "Good grazers; hardy on poor pasture.",
+        "Milk yield: ~4000 kg/lactation with 4% butter-fat.",
+        "Calves weigh 30-35 kg at birth; heifers calve for the first time at ~30 months."
+      ]
+    },
+    {
+      "title": "Brown Swiss",
+      "content": "Origin: Switzerland.",
+      "points": [
+        "Large breed with robust bones.",
+        "Mainly brown with variations from light to dark.",
+        "Lifetime milk production: ~20,000 to 25,000 kg."
+      ]
+    },
+    {
+      "title": "Fleckvieh",
+      "content": "Origin: Southern Germany.",
+      "points": [
+        "Highly disease-resistant; thick skin protects against pests.",
+        "Milk yield: ~7000 kg/lactation with 4.13% butter-fat.",
+        "Thrives on both grazing and zero-grazing systems.",
+        "Fast-growing bull calves can reach ~500 kg within 6 months."
+      ]
+    },
+    {
+      "title": "General Characteristics of Dairy Cattle",
+      "content": "",
+      "points": [
+        "Triangular body shape with long necks and wide capacity.",
+        "Large udders with visible mammary veins.",
+        "Straight top line and well-set hindquarters for udder support.",
+        "Slim bodies with minimal flesh compared to beef cattle.",
+        "Generally docile and mild-mannered."
+      ]
+    },
+    {
+      "title": "Management Practices for Dairy Production",
+      "content": "",
+        "points": []
+    },
+    {
+      "title": "Housing",
+      "content": "Milking Shed or Parlour (Dairy Shed)",
+      "points": [
+        "Designated area for milking.",
+        "Types include permanent and movable milking sheds.",
+        "Provide resting area and exercise space for animals.",
+        "Ensure feeding and watering stations are adequate.",
+        "Separate milking areas from feeding and exercise zones.",
+        "Include storage for feed, milking equipment, and medications.",
+        "Calf pens should be nearby with proper waste disposal.",
+        "Use concrete floors for easy cleaning and durability.",
+        "Maintain by repairing damaged parts, cleaning regularly, and ensuring proper drainage and ventilation."
+      ]
+    },
+    {
+      "title": "Calf Pens",
+      "content": "Structures designed specifically for housing calves.",
+      "points": [
+        "Types include permanent and movable pens."
+      ]
+    },
+    {
+      "title": "Selection of Breeding Stock",
+      "content": "Choose breeds suited to local climate conditions to ensure resilience and productivity.",
+      "points": []
+    },
+    {
+      "title": "Cattle Breeding",
+      "content": "",
+      "points": [
+        "Regular breeding: Aim for at least one calf per year.",
+        "Farmers should identify heat signs in cows for timely breeding.",
+        "Dairy cows need a 60-90 day resting period after calving; breed at third month post-calving.",
+        "Breed heifers at around 18 months of age.",
+        "Weight requirements: Heavy breeds 280-320 kg at service; Light breeds 250-270 kg at service.",
+        "Feed concentrated supplements during gestation to boost milk yield and ensure proper nutrition."
+      ]
+    },
+    {
+      "title": "Breeding Methods",
+      "content": "",
+      "points": [
+        "Natural breeding.",
+        "Artificial insemination."
+      ]
+    },
+    {
+      "title": "Milking the Cow",
+      "content": "Milking is the extraction of milk from a ruminant's udder after calving.",
+      "points": [
+        "Begin milking soon after calving.",
+        "Drying off occurs after seven months of pregnancy to manage milk production."
+      ]
+    },
+    {
+      "title": "Milking Methods",
+      "content": "",
+      "points": [
+        "Hand milking.",
+        "Using a milking machine."
+      ]
+    },
+    {
+      "title": "Milk Letdown Process",
+      "content": "Triggered by sounds related to milking or calf cries.",
+      "points": [
+        "Hormone oxytocin causes contraction of myo-epithelial cells, aiding milk flow from the udder."
+      ]
+    },
+    {
+      "title": "Factors Affecting Milk Yield",
+      "content": "",
+      "points": [
+        "Excitement (adrenaline release).",
+        "Lactation period.",
+        "Age and character of the cow.",
+        "Seasonal variations.",
+        "Treatment and feeding during milking.",
+        "Milking method and breed.",
+        "Kraal condition and health issues such as mastitis and milk fever.",
+        "Heat onset and fetal development stage.",
+        "Milking frequency."
+      ]
+    },
+    {
+      "title": "Beef Cattle Breeds in Malawi",
+      "content": "",
+      "points": []
+    },
+    {
+      "title": "Malawi Zebu",
+      "content": "",
+      "points": [
+        "Small body, slow growth, low production.",
+        "Colors: black, brown, white."
+      ]
+    },
+    {
+      "title": "Hereford",
+      "content": "",
+      "points": [
+        "Red with white face; muscular and compact.",
+        "Mature bull: 1000 kg, cow: 850 kg."
+      ]
+    },
+    {
+      "title": "Aberdeen",
+      "content": "",
+      "points": [
+        "Uniformly black, blocky, and muscular.",
+        "Mature cow: 750 kg, bull: 900 kg."
+      ]
+    },
+    {
+      "title": "Brahman",
+      "content": "",
+      "points": [
+        "Grey/red with a large hump; heat-resistant.",
+        "Bulls: 800-1100 kg, cows: 500-700 kg."
+      ]
+    },
+    {
+      "title": "Sussex",
+      "content": "",
+      "points": [
+        "Uniform red; medium-sized, heat-resistant.",
+        "Good milk production and high fertility."
+      ]
+    },
+    {
+      "title": "Afrikander",
+      "content": "",
+      "points": [
+        "Deep red with long horns and a small hump."
+      ]
+    },
+    {
+      "title": "Simmental",
+      "content": "",
+      "points": [
+        "Light red with white patches; large and heavy breed."
+      ]
+    },
+    {
+      "title": "Charolais",
+      "content": "",
+      "points": [
+        "White/creamy; largest exotic breed (up to 1200 kg)."
+      ]
+    },
+    {
+      "title": "Galloway",
+      "content": "",
+      "points": [
+        "Black with long curly hair; hardy and small."
+      ]
+    },
+    {
+      "title": "Santa Gertrudis",
+      "content": "",
+      "points": [
+        "Large, cherry-red, with loose hides."
+      ]
+    },
+    {
+      "title": "Shorthorn",
+      "content": "",
+      "points": [
+        "Color varies; large, compact, some are polled."
+      ]
+    },
+    {
+      "title": "Boran Cattle Overview",
+      "content": "Origin: Somalia and Ethiopia",
+      "points": [
+        "Hardy and adaptable to harsh conditions.",
+        "Common colors: white, grey, red.",
+        "Features: large hump, dewlap, deep and compact bodies, long legs, wide drooping rumps.",
+        "Mature bull: up to 650 kg; cow: up to 450 kg.",
+        "Resistant to tropical diseases.",
+        "Slow-growing and maturing; heifers calve at 30 months."
+      ]
+    },
+    {
+      "title": "General Characteristics of Beef Cattle",
+      "content": "",
+      "points": [
+        "Deep bodies with short legs.",
+        "Blocky shape with heavy hindquarters.",
+        "Strong muzzles for rough pasture.",
+        "Straight top and lower body lines with protruding breasts.",
+        "Fast growth and early maturity.",
+        "Strong and robust, suitable for harsh environments."
+      ]
+    },
+    {
+      "title": "Management Practices for Beef Cattle",
+      "content": "",
+      "points": []
+    },
+    {
+      "title": "Selection for Breeding",
+      "content": "",
+      "points": [
+        "Choose cows with good beef conformation.",
+        "Heifers should weigh 250-260 kg.",
+        "Bulls should be healthy, vigorous, and at least 18 months old.",
+        "Cows take nine months to calve."
+      ]
+    },
+    {
+      "title": "Rearing Young Animals",
+      "content": "",
+      "points": [
+        "Calves should nurse from mothers.",
+        "Dehorn calves within two months.",
+        "Castrate male calves selected for breeding.",
+        "Wean calves at 6-8 months.",
+        "Regular deworming.",
+        "Fattening starts at 18 months."
+      ]
+    },
+    {
+      "title": "Stocking Rate",
+      "content": "Based on available grass/pasture during dry periods.",
+      "points": []
+    },
+    {
+      "title": "Culling",
+      "content": "Remove unproductive animals.",
+      "points": [
+        "Examples: barren cows, weak calves, old cows."
+      ]
+    },
+    {
+      "title": "Feeding",
+      "content": "",
+      "points": [
+        "Supplementary feeds during dry seasons to maintain weight.",
+        "Quality of grass affects growth rate."
+      ]
+    },
+    {
+      "title": "General Management Practices for Cattle",
+      "content": "",
+        "points": []
+    },
+    {
+      "title": "Housing",
+      "content": "Protect cattle from extreme weather, predators, and theft.",
+      "points": [
+        "Loose Housing: Economical, with straw bedding.",
+        "Cubicle Housing: Easy to clean but more expensive.",
+        "Good housing characteristics include:",
+        "- Free from draughts.",
+        "- Proper drainage.",
+        "- Good ventilation.",
+        "- Waterproof roof.",
+        "- Dry bedding."
+      ]
+    },
+    {
+      "title": "Feeding",
+      "content": "Key to productive cattle management.",
+      "points": [
+        "Main feeds: roughages such as Napier grass and maize stovers.",
+        "Good quality roughage is essential for milk production.",
+        "Supplement with protein-rich feeds like desmodium and sweet potato vines.",
+        "Provide mineral blocks to supply essential nutrients."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Quiz: Breeds of Cattle",
+  "subsections": [
+    {
+      "title": "Question 1",
+      "content": "What is one primary reason for keeping cattle in Malawi?",
+      "points": [
+        "Dairy production",
+        "Beef production",
+        "Draught power",
+        "Other livestock farming"
+      ]
+    },
+    {
+      "title": "Question 2",
+      "content": "Which body shape is typical for dairy cattle?",
+      "points": [
+        "Wedge or triangular body shape",
+        "Round and bulky",
+        "Square",
+        "Flat"
+      ]
+    },
+    {
+      "title": "Question 3",
+      "content": "Which dairy breed is the smallest exotic breed in Malawi?",
+      "points": [
+        "Jersey",
+        "Friesian/Holstein",
+        "Guernsey",
+        "Ayshire"
+      ]
+    },
+    {
+      "title": "Question 4",
+      "content": "Which dairy breed is known for the highest average milk yield in Malawi?",
+      "points": [
+        "Friesian/Holstein",
+        "Malawi Zebu",
+        "Jersey",
+        "Guernsey"
+      ]
+    },
+    {
+      "title": "Question 5",
+      "content": "What is a common characteristic of beef cattle?",
+      "points": [
+        "Deep bodies with short legs",
+        "Long necks and lean bodies",
+        "Small udders",
+        "Light bone structure"
+      ]
+    },
+    {
+      "title": "Question 6",
+      "content": "Which breed is indigenous to Malawi and often crossed with exotic breeds?",
+      "points": [
+        "Malawi Zebu",
+        "Brahman",
+        "Hereford",
+        "Santa Gertrudis"
+      ]
+    },
+    {
+      "title": "Question 7",
+      "content": "What is an important management practice for dairy cattle housing?",
+      "points": [
+        "Provide separate milking and feeding areas",
+        "Keep animals in open fields only",
+        "No need for cleaning",
+        "Avoid feeding and watering stations"
+      ]
+    },
+    {
+      "title": "Question 8",
+      "content": "What hormone is responsible for milk letdown during milking?",
+      "points": [
+        "Oxytocin",
+        "Adrenaline",
+        "Insulin",
+        "Estrogen"
+      ]
+    },
+    {
+      "title": "Question 9",
+      "content": "At what age should heifers be bred in dairy cattle management?",
+      "points": [
+        "Around 18 months",
+        "6 months",
+        "3 years",
+        "At birth"
+      ]
+    },
+    {
+      "title": "Question 10",
+      "content": "Which grazing method confines animals and requires forage to be cut and brought to them?",
+      "points": [
+        "Zero grazing (cut-and-carry)",
+        "Rotational grazing",
+        "Continuous grazing",
+        "Strip grazing"
+      ]
+    },
+    {
+      "title": "Answer Key",
+      "content": "Answers for the quiz questions.",
+      "points": [
+        "1. Dairy production",
+        "2. Wedge or triangular body shape",
+        "3. Jersey",
+        "4. Friesian/Holstein",
+        "5. Deep bodies with short legs",
+        "6. Malawi Zebu",
+        "7. Provide separate milking and feeding areas",
+        "8. Oxytocin",
+        "9. Around 18 months",
+        "10. Zero grazing (cut-and-carry)"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Parasite and Disease Control in Cattle",
+  "content": "Overview of major parasites and diseases affecting cattle, their signs, symptoms, and control measures.",
+  "subsections": [
+    {
+      "title": "Ectoparasites (External Parasites)",
+      "content": "Common external parasites and their control methods.",
+      "points": [
+        "Fleas: Wingless insects that cause itching.",
+        "Control: Use insecticides, remove infected bedding, apply dusting powders.",
+        "Lice: Blood-sucking parasites causing irritation.",
+        "Control: Apply suitable acaricides twice to eliminate lice and larvae.",
+        "Ticks: Blood-feeding parasites causing diseases such as East Coast Fever, black quarter, anaplasmosis, and red water."
+      ]
+    },
+    {
+      "title": "Ticks",
+      "content": "Important vectors in cattle health with various life cycles.",
+      "points": [
+        "Adult ticks attach to hosts for feeding and reproduction.",
+        "Two-Host Ticks: Larva to nymph on one host, nymph to adult on another (e.g., Red-legged tick, Brown tick).",
+        "One-Host Ticks: Complete life cycle on one host (e.g., Blue tick, Cattle tick).",
+        "Three-Host Ticks: Require three different hosts for life cycle (most hard ticks)."
+      ]
+    },
+    {
+      "title": "Tick Control Measures",
+        "content": "",
+      "points": [
+        "Regular chemical dipping or spraying to eliminate ticks.",
+        "Fencing to restrict animal movement and reduce tick spread.",
+        "Rotational grazing and burning infected pastures.",
+        "Ploughing land to disrupt tick habitats."
+      ]
+    },
+    {
+      "title": "Tsetse Flies",
+      "content": "Transmit trypanosomiasis (nagana) and mastitis, affecting cattle growth and productivity.",
+      "points": [
+        "Clear bush areas to reduce habitats.",
+        "Spray insecticides in infested zones.",
+        "Sterilize male tsetse flies chemically.",
+        "Use traps with treated nets to capture flies.",
+        "Establish buffer zones near game reserves."
+      ]
+    },
+    {
+      "title": "Endo-parasites (Internal Parasites)",
+      "content": "Internal parasites affecting cattle health and production.",
+      "points": []
+    },
+    {
+      "title": "Roundworms (Ascaris spp.)",
+        "content": "",
+      "points": [
+        "Cause stunted growth, diarrhea, constipation, anemia.",
+        "Signs: Retarded growth, scours, pot-belly appearance.",
+        "Control: Avoid muddy grazing, practice rotational grazing, isolate and treat infected animals."
+      ]
+    },
+    {
+      "title": "Flukes",
+        "content": "",
+      "points": [
+        "Flatworms infecting liver and rumen, causing bile duct blockage.",
+        "Signs: Digestive disturbances, swollen abdomen, anemia, jaw oedema.",
+        "Control: Controlled grazing, avoid stagnant water, use antihelminthics."
+      ]
+    },
+    {
+      "title": "Tapeworms (Taenia spp.)",
+        "content": "",
+      "points": [
+        "Found in intestines, absorb nutrients causing poor health.",
+        "Signs: Rough coat, digestive issues, pot belly, anemia, oedema.",
+        "Control: Proper cooking of beef, responsible disposal of human feces, copper sulfate treatment every six weeks, ploughing pastures, meat inspection."
+      ]
+    }
+  ]
+},
+    {
+      "title": "Diseases in Cattle",
+      "subsections": [
+        {
+          "title": "Mastitis",
+          "content": "Infectious disease of the mammary glands caused by bacteria.",
+          "points": [
+            "Predisposing factors: Injuries to udders, poor milking hygiene, teat sores, incomplete milking, high milk production, old age, genetic susceptibility, pendulous udders.",
+            "Signs: Blood clots or pus in milk, udder pain and swelling, rise in body temperature, drop in milk yield.",
+            "Control: Good hygiene, milk infected cows last, use clean/disposable towels, teat dip after milking, milking jelly, long-acting antibiotics during drying-off, vaccination, cull unresponsive animals."
+          ]
+        },
+        {
+          "title": "Milk Fever (Parturient Paresis)",
+          "content": "Caused by hypocalcaemia (low blood calcium), common in heavy milkers.",
+          "points": [
+            "Signs: Muscle twitching, staggering, inability to stand, dull eyes, cold extremities, sternal recumbency, slow breathing, paralysis.",
+            "Control: Calcium-rich diet during pregnancy/lactation, intramuscular calcium injections before calving, partial milking, culling susceptible animals, intravenous calcium therapy."
+          ]
+        },
+        {
+          "title": "Bloat (Tympanites)",
+          "content": "Gas accumulation in rumen causing distension and potential death.",
+          "points": [
+            "Causes: Feeding lush legumes, sudden feed changes, oesophagus blockage, rumen nerve injury.",
+            "Signs: Left abdomen distension, breathing difficulty, salivation, inability to rise, grunting.",
+            "Control: Feed dry roughage before green feed, walk animal, medical oils as defrothing agents, epsom salt laxative, stomach pump, trocar/canula in extreme cases, methyl silicone injection."
+          ]
+        },
+        {
+          "title": "Foot-and-Mouth Disease (FMD)",
+          "content": "Highly contagious viral disease causing fever and blisters.",
+          "points": [
+            "Signs: High fever, dullness, loss of appetite, salivation, leg weakness, lameness, emaciation, blisters on tongue, mouth, feet, teats.",
+            "Control: Quarantine, vaccination every six months, disinfect hooves, slaughter infected animals, antibiotics and supportive care."
+          ]
+        },
+        {
+          "title": "Anaplasmosis (Gall Sickness)",
+          "content": "Vector-borne blood disease transmitted by ticks and contaminated equipment.",
+          "points": [
+            "Signs: High fever, constipation, loss of appetite, fast breathing and heartbeat, no cud chewing, yellow urine, anemia, weight loss, uncoordinated movement.",
+            "Control: Burn carcasses, tick control, clean surgical instruments, vaccination."
+          ]
+        },
+        {
+          "title": "Red Water (Bovine Babesiosis / Tick Fever)",
+          "content": "Bacterial disease spread by ticks.",
+          "points": [
+            "Signs: High fever, dark/red urine, uncoordinated movement, swollen lymph nodes.",
+            "Control: Dipping and spraying, vaccination."
+          ]
+        },
+        {
+          "title": "East Coast Fever (ECF)",
+          "content": "Protozoan disease transmitted by ticks.",
+          "points": [
+            "Signs: Difficulty breathing, discolored eyes and gums, enlarged lymph nodes, diarrhea with blood, death.",
+            "Control: Spraying/dipping, carcass disposal, fencing, drugs like Butalex and Clexon."
+          ]
+        },
+        {
+          "title": "Trypanosomiasis (Nagana)",
+          "content": "Protozoan disease transmitted by tsetse flies.",
+          "points": [
+            "Signs: Intermittent fever, dullness, anemia, swollen lymph nodes, blindness, hair loss, swollen belly, death within 2-3 weeks.",
+            "Control: Eliminate breeding grounds, clear bush, spray/dip animals, well-managed grazing, fly traps."
+          ]
+        },
+        {
+          "title": "Lumpy Skin Disease",
+          "content": "Acute infectious disease caused by a virus, transmitted by mosquitoes and flies.",
+          "points": [
+            "Signs: Fever, emaciation, stopped milk production, low mortality.",
+            "Control: Vaccination, quarantine, vector control, nursing care, antibiotics for secondary infections."
+          ]
+        },
+        {
+          "title": "Brucellosis (Contagious Abortion)",
+          "content": "Bacterial disease causing abortion and premature calving.",
+          "points": [
+            "Signs: Swollen vulva, vaginal discharges (blood-stained or yellowish), abortion between 5th and 8th month.",
+            "Control: Vaccination, quarantine, uterine washing with antiseptics."
+          ]
+        },
+        {
+          "title": "Anthrax",
+          "content": "Highly infectious and fatal bacterial disease affecting cattle and humans.",
+          "points": [
+            "Signs: Sudden death, weakness, high fever, excitement then depression, breathing difficulty, uncoordinated movement, bleeding from body openings.",
+            "Control: Early antibiotic treatment, vaccination, bury carcasses deep."
+          ]
+       
+    },
+    {
+      "title": "General Methods of Controlling Parasites and Diseases",
+       "content": "",
+      "points": [
+        "Vaccination",
+        "Deworming",
+        "Dipping using plunge dip",
+        "Spraying and hand spraying"
+      ]
+    }
+  ]
+},
+
+
+{
+  "title": "REPRODUCTIVE SYSTEMS OF CATTLE AND POULTRY",
+  "subsections": [
+    {
+      "title": "Reproductive System of Cattle",
+      "content": "The reproductive system produces male gametes, whereas the female produces female gametes. The male gametes are known as spermatozoa, while the female gametes are known as ova. Fertilization takes place when the male and female gametes fuse to form a zygote.",
+      "points": []
+    },
+    {
+      "title": "Functions of Parts of a Bull",
+      "content": "",
+      "points": [
+        "Testicles (Testes): They produce spermatozoa and testosterone.",
+        "Epididymis (Long Coiled Tube in Testes): Transports sperm cells from the testicles to the vas deferens, helps maturation of spermatozoa, and stores sperm cells in its tail."
+      ]
+    },
+    {
+      "title": "Female Reproductive System of a Cow",
+      "content": "",
+      "points": [
+        "Oestrus Cycle in Cows: Exotic breeds attain puberty at 15-19 months; indigenous breeds at 27-30 months. Variations depend on management, especially feeding."
+      ]
+    },
+    {
+      "title": "Factors That Affect Onset of Puberty",
+      "content": "",
+      "points": [
+        "Type and Breed of Animal: Some animals mature more quickly than others (e.g., exotic breeds).",
+        "Genetic Make-Up: Dairy cattle breeds tend to reach puberty much earlier than beef cattle breeds.",
+        "Body Weight: Most animals reach puberty when they have attained at least 30-50% of adult weight.",
+        "Mating: It may hasten puberty (e.g., in rabbits).",
+        "Environmental Factors: Puberty may be delayed due to unfavorable climatic conditions (e.g., drought).",
+        "General Management, Especially Feeding: Properly fed and well-looked after calves tend to reach puberty earlier."
+      ]
+    },
+    {
+      "title": "Oestrus Cycle",
+      "content": "Definition: Oestrus is the heat period for an animal. The oestrus cycle is the period between one heat period and the next. In cattle, the heat period averages 21 days.",
+      "points": [
+        "Egg development is stimulated by oestrogen.",
+        "Egg takes six hours in the oviduct before disintegrating.",
+        "Oestrogen level drops sharply after egg release; progesterone rises sharply.",
+        "Progesterone prepares the uterus to receive the embryo and maintains pregnancy if fertilized.",
+        "Sperm can stay in the cow's reproductive tract for 20 to 30 hours."
+      ]
+    },
+    {
+      "title": "Oestrus Cycle and Ovulation Periods",
+      "content": "Animal: Cow",
+      "points": [
+        "Length of Oestrus Cycle: 19-23 days",
+        "Duration of Oestrus Cycle: 10-26 hours",
+        "Ovulation Period: 4-6 hours after onset of oestrus"
+      ]
+    },
+    {
+      "title": "Phases of the Oestrus Cycle",
+      "content": "",
+      "points": [
+        "Pro-Oestrus (Day 17-20): Marks coming in heat. Follicles grow; follicular fluid with oestradiol increases cilia and thickens vaginal wall.",
+        "Oestrous (Day One): Period of desire for mating; follicles swollen; ovum maturing; heat lasts 12-24 hours; vulva swollen and congested.",
+        "Met-Oestrous (2-4 Days): Organ returns to normal size; corpus luteum forms, secreting progesterone preventing further follicle maturation.",
+        "Di-Oestrous (Day 5-17): Longest phase; corpus luteum fully developed; uterine muscles develop; prolonged if pregnant; else corpus luteum regresses."
+      ]
+    },
+    {
+      "title": "Signs of Heat in Cattle",
+      "content": "",
+      "points": [
+        "Behavioral Changes: Smells other cows, attempts to mount, restless, isolates from herd, frequent bellowing.",
+        "Physical Changes: Vulva moist, red, swollen; clear mucus discharge.",
+        "Reproductive Readiness: Stands to be mounted (standing heat).",
+        "Other Indicators: Loss of appetite, increased urination, slight rise in temperature, decline in milk yield in lactating cows."
+      ]
+    },
+    {
+      "title": "Timing for Breeding a Cow",
+      "content": "Based on standing heat observation:",
+      "points": [
+        "If observed in morning: Breed late afternoon same day.",
+        "If observed in afternoon: Breed next morning."
+      ]
+    },
+    {
+      "title": "Gestation Period for Various Animals",
+      "content": "",
+      "points": [
+        "Cattle (cow): 270-285 days",
+        "Goat (nanny): 150 days",
+        "Sheep (ewe): 145-150 days",
+        "Pig (sow): 112-116 days",
+        "Rabbit: 28-31 days"
+      ]
+    },
+    {
+      "title": "Processes of Reproduction in Cattle",
+      "content": "",
+      "points": [
+        "Mating: Union of male and female gametes naturally or via Artificial Insemination (AI).",
+        "(a) Natural Mating: Male mounts female directly. Advantages: detects heat, cost-effective, induces puberty/oestrus. Disadvantages: risk of inbreeding, disease transmission.",
+        "(b) Artificial Insemination (AI): Semen injected into female reproductive tract. Advantages: improves genetics, controls inbreeding, economical. Disadvantages: requires skill, heat detection critical, limited availability."
+      ]
+    },
+    {
+      "title": "Fertilization",
+      "content": "Occurs when viable sperm is deposited after ovulation, resulting in a zygote (one-cell embryo).",
+      "points": []
+    },
+    {
+      "title": "Embryo Development",
+      "content": "Early development stage without distinct structures; occurs in uterus.",
+      "points": [
+        "Embryo undergoes differentiation.",
+        "Cells (morula) become specialized.",
+        "Morula is the group of differentiated cells."
+      ]
+    },
+    {
+      "title": "Fetus Development",
+      "content": "Advanced stage after embryo development; fetus nourished via umbilical cord attached to placenta.",
+      "points": [
+        "Umbilical cord acts as waste passage to bloodstream.",
+        "Fetus cushioned in amniotic fluid for protection and temperature maintenance."
+      ]
+    },
+    {
+      "title": "Parturition (Birth)",
+      "content": "Process of giving birth with hormonal changes: corpus luteum decreases progesterone and increases estrogen triggering uterine contractions.",
+      "points": [
+        "Signs: restlessness, udder enlargement, muscle widening near pin bones, vulva swelling, mucus discharge, isolation, water bag appearance followed by labor."
+      ]
+    },
+    {
+      "title": "Signs of Complications During Parturition",
+      "content": "",
+      "points": [
+        "Delayed calf after water bag breaks.",
+        "Prolonged calving (>3 hours after calf parts appear).",
+        "Breech presentation (rear parts first).",
+        "Distress with no water bag after hours of straining.",
+        "Only one limb appearing after water bag bursts.",
+        "Foul-smelling discharge indicating calf death."
+      ]
+    },
+    {
+      "title": "Types of Calving Implications",
+      "content": "Breech Presentation: rear of calf emerges first instead of forelegs.",
+      "points": []
+    },
+    {
+      "title": "Factors to Consider When Assisting a Cow During Parturition",
+      "content": "",
+      "points": [
+        "Hygiene: wash hands and arms with warm soapy antiseptic water; sterilize equipment; lubricate vulva if dry.",
+        "Restraint and Position Check: restrain cow and check calf orientation.",
+        "Immediate Assistance and Post-Care: help promptly; treat cow with antibiotics if hands/ropes inserted."
+      ]
+    },
+    {
+      "title": "Important Notes",
+      "content": "",
+      "points": [
+        "Correct calf presentation: front feet first, head resting on feet.",
+        "Labor >2-3 hours suggests mal-presentation.",
+        "Afterbirth (placenta) is last stage; must be removed if retained to avoid barrenness."
+      ]
+    },
+    {
+      "title": "Female Reproductive System of Poultry",
+      "content": "",
+      "points": [
+        "Ovary: produces ova and hormones (estrogen and progesterone).",
+        "Oviduct: transports ovum, involved in egg formation (albumen, membranes, shell).",
+        "Infundibulum: catches ovum, site of fertilization if sperm present.",
+        "Magnum: secretes egg white (albumen).",
+        "Isthmus: forms shell membranes.",
+        "Uterus (Shell Gland): forms eggshell with calcium carbonate and pigments.",
+        "Vagina: stores sperm and passageway for egg exit."
+      ]
+    },
+    {
+      "title": "Male Reproductive System of Poultry",
+      "content": "",
+      "points": [
+        "Testis: produces sperm.",
+        "Vas Deferens: transports sperm to cloaca.",
+        "Cloaca: projects to vent opening; during mating fits into hen's cloaca to release sperm."
+      ]
+    }
+  ]
+},
+
+
+
+
 
 
 

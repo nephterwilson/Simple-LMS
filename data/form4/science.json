@@ -72,7 +72,7 @@
 },
 
 {
-  "title": "Chemistry – Form 4",
+  "title": "Chemistry",
   "subsections": [
     {
       "title": "Water",
@@ -214,6 +214,631 @@
   ]
 },
  
+{
+  "title": "Mango, Pasture, Crop processing and Cattle",
+  "subsections": [
+{
+  "title": "Reproductive Systems of Cattle and Poultry",
+  "content": "Structured questions covering the reproductive systems of cattle and poultry based on secondary school syllabus.",
+  "points": [
+    "Define male and female gametes in cattle.",
+    "Explain the process of fertilization in cattle.",
+    "What is the role of spermatozoa and ova in reproduction?",
+    "List two main functions of the testicles in a bull.",
+    "Describe the role of the epididymis in sperm development.",
+    "Why is the epididymis important for sperm storage?",
+    "Explain the function of testosterone produced by the testes.",
+    "At what age do exotic and indigenous cattle breeds reach puberty?",
+    "List four factors that affect the onset of puberty in cattle.",
+    "Define the oestrus cycle and its average length in cattle.",
+    "What hormone stimulates egg development during the oestrus cycle?",
+    "Explain how progesterone affects pregnancy in cows.",
+    "Outline the key events during the pro-oestrus phase.",
+    "Describe the signs and duration of the oestrous phase.",
+    "What occurs during the met-oestrous phase?",
+    "Explain the significance of the di-oestrous phase.",
+    "How does the corpus luteum regulate the oestrus cycle?",
+    "List three behavioral signs of heat in cattle.",
+    "Identify three physical changes observed during heat.",
+    "What is meant by 'standing heat'?",
+    "When should a cow be bred if standing heat is first observed in the morning?",
+    "Explain the recommended breeding time if standing heat is observed in the afternoon.",
+    "State the gestation period for cattle (cow).",
+    "Differentiate between natural mating and artificial insemination in cattle.",
+    "List two advantages and two disadvantages of artificial insemination.",
+    "Describe the morula stage in embryo development.",
+    "Explain how the fetus is nourished during development.",
+    "List three hormonal changes that occur during parturition.",
+    "What are three signs indicating complications during parturition?",
+    "What is the function of the ovary in poultry?",
+    "Describe the role of the infundibulum in egg formation."
+  ]
+},
+{
+  "title": "Pasture",
+  "content": "Structured questions on pasture based on the secondary agriculture syllabus. Includes grazing systems, pasture types, management practices, and importance in livestock production.",
+  "points": [
+    "Define pasture as used in livestock production.",
+    "List four types of pastures commonly used in animal farming.",
+    "State three characteristics of natural pasture.",
+    "Explain the difference between natural and artificial pasture.",
+    "Give two examples of grasses found in natural pasture in Malawi.",
+    "State three advantages of artificial pasture over natural pasture.",
+    "Outline four factors that affect pasture growth and productivity.",
+    "What are the main climatic conditions required for good pasture growth?",
+    "List three reasons why pasture is important in livestock production.",
+    "Explain two challenges faced in maintaining natural pastures.",
+    "What is rotational grazing?",
+    "Describe two advantages of rotational grazing over continuous grazing.",
+    "What is the main objective of zero grazing in livestock farming?",
+    "List three disadvantages of overgrazing.",
+    "Suggest four measures that help prevent overgrazing.",
+    "Describe strip grazing and its benefits.",
+    "What is paddocking in pasture management?",
+    "State two methods of improving natural pastures.",
+    "Explain the role of legumes in pasture improvement.",
+    "Give three examples of pasture legumes.",
+    "Why is fodder conservation important in dry seasons?",
+    "Describe how hay is prepared from pasture grasses.",
+    "What is silage and how is it different from hay?",
+    "List the steps in making silage from fresh pasture.",
+    "What are two signs of a well-prepared silage?",
+    "State three advantages of conserving pasture as silage.",
+    "Explain the term 'pasture reseeding' and when it is necessary.",
+    "List three benefits of fertilizing pastures.",
+    "Describe the impact of weeds on pasture quality.",
+    "Outline three methods of weed control in pastures."
+  ]
+},
+{
+  "title": "Crop Processing",
+  "content": "Structured questions on crop processing based on secondary agriculture syllabus. Covers methods of harvesting, drying, threshing, storage, value addition, and preservation of crops.",
+  "points": [
+    "Define crop processing.",
+    "State three purposes of processing agricultural crops.",
+    "List four common methods of drying harvested crops.",
+    "Differentiate between traditional and modern drying methods.",
+    "State three advantages of using mechanical dryers.",
+    "Explain the importance of proper drying in crop processing.",
+    "List three methods used for threshing cereals.",
+    "State two challenges faced during manual threshing.",
+    "What is winnowing and why is it important in crop processing?",
+    "Describe the steps involved in processing maize from harvest to storage.",
+    "Explain how rice is processed after harvesting.",
+    "List three crops that require shelling as part of processing.",
+    "What is milling and which crops undergo this process?",
+    "Explain how groundnuts are processed before consumption or storage.",
+    "State three safety precautions to observe during crop processing.",
+    "Describe how cassava is processed into flour.",
+    "Explain the importance of value addition in crop production.",
+    "List four products obtained from processed cassava.",
+    "State three benefits of value addition to farmers.",
+    "Describe how tomatoes can be preserved after harvesting.",
+    "What is solar drying and what are its advantages?",
+    "List three ways of preserving perishable crops.",
+    "Describe the process of making tomato paste from fresh tomatoes.",
+    "Explain the effects of poor post-harvest handling on crop quality.",
+    "Identify two insect pests that may affect stored grains.",
+    "State three methods of controlling pests in stored products.",
+    "Explain the role of moisture content in crop storage.",
+    "Describe how traditional granaries are used to store crops.",
+    "What is the importance of cleaning crops before storage?",
+    "List three factors that affect the shelf life of processed crops."
+  ]
+},
+{
+  "title": "Mango Production",
+  "content": "Structured questions on mango production based on the secondary agriculture syllabus. Covers varieties, propagation, management practices, harvesting, and marketing of mangoes.",
+  "points": [
+    "Define mango production.",
+    "List three common mango varieties grown in Malawi.",
+    "State the botanical name of the mango plant.",
+    "Explain two methods used in propagating mangoes.",
+    "State three advantages of grafting mangoes.",
+    "What are the ideal soil and climatic conditions for mango production?",
+    "Describe how to prepare land for planting mango trees.",
+    "State the correct spacing used when planting mango seedlings.",
+    "List three management practices required in a mango orchard.",
+    "Explain the importance of pruning in mango production.",
+    "State two reasons for mulching mango trees.",
+    "How is weeding carried out in a mango orchard?",
+    "List three common pests of mangoes.",
+    "Name two fungal diseases that affect mango trees.",
+    "Explain how anthracnose disease can be controlled in mango production.",
+    "Describe how fruit fly infestation in mangoes can be managed.",
+    "State three symptoms of powdery mildew in mango trees.",
+    "Outline the correct fertilization program for mangoes.",
+    "At what age do grafted mangoes start bearing fruits?",
+    "Describe the process of harvesting mango fruits.",
+    "State three indicators that show mangoes are ready for harvest.",
+    "Explain three post-harvest handling methods for mangoes.",
+    "List four value-added products that can be made from mangoes.",
+    "Describe the process of making mango juice from fresh fruit.",
+    "State three advantages of processing mangoes into products.",
+    "Explain the importance of sorting and grading mangoes after harvest.",
+    "What are three marketing challenges faced by mango farmers?",
+    "Suggest three ways to improve the profitability of mango production.",
+    "Explain the role of cooperatives in mango marketing.",
+    "State three environmental benefits of growing mango trees."
+  ]
+}
+  ]
+},
+
+{
+      "title": "Soil Degradation",
+      "subsections": [
+{
+  "title": "Soil Degradation",
+  "content": "Structured questions based on Unit 1: Soil Degradation. Covers definitions, forms, causes, effects, population pressures, and control methods for soil degradation.",
+  "points": [
+    "Define soil degradation.",
+    "List two forms of soil degradation.",
+    "Identify three characteristics of physical soil degradation.",
+    "Explain how heavy rainfall can contribute to soil degradation.",
+    "State two effects of using heavy machinery on soil.",
+    "List two causes of chemical soil degradation.",
+    "How does the use of agrochemicals lead to soil degradation?",
+    "Explain the process of salination and how it affects crops.",
+    "State three causes of soil degradation.",
+    "How does deforestation lead to soil degradation?",
+    "Mention two bad farming practices that degrade soil.",
+    "Explain how irrigation and soil drainage can cause degradation.",
+    "What is leaching and how does it affect soil fertility?",
+    "State the effect of soil compaction on water retention.",
+    "List three effects of soil degradation.",
+    "Describe how soil erosion affects agricultural productivity.",
+    "Explain how soil degradation can lead to flooding.",
+    "Describe how soil degradation affects aquatic life.",
+    "Explain how degraded soil can lead to reduced arable land.",
+    "State two ways in which degraded soil promotes the growth of weeds.",
+    "Explain the impact of population growth on soil degradation.",
+    "How does the demand for wood fuel contribute to soil degradation?",
+    "Explain how the need for shelter and furniture leads to land degradation.",
+    "State the relationship between food demand and soil health.",
+    "List three biological methods used to control soil degradation.",
+    "Explain how planting trees helps control soil degradation.",
+    "How does mulching reduce soil degradation?",
+    "State two physical methods used to control soil degradation.",
+    "Describe how ridging helps reduce erosion and improve drainage.",
+    "Explain the role of contour farming in preventing soil degradation."
+  ]
+}
+  ]
+},
+
+{
+  "title": "Agriculture – Climate Change and Land Drainage",
+  "subsections": [
+    {
+      "title": "Agriculture and Climate Change",
+      "content": "Structured questions focusing on mitigation strategies and practices under climate change.",
+      "points": [
+        "Define climate change in relation to agriculture.",
+        "State three effects of climate change on crop production.",
+        "List the three core principles of conservation agriculture.",
+        "Explain how minimum soil disturbance improves soil structure.",
+        "What is meant by 'permanent soil cover' in conservation farming?",
+        "Describe how crop rotation contributes to sustainable agriculture.",
+        "Define agroforestry and its importance in climate change mitigation.",
+        "List four benefits of agroforestry to the soil and environment.",
+        "Explain the role of tree canopy in agroforestry systems.",
+        "State two reasons why agroforestry helps conserve soil moisture.",
+        "Define water harvesting and its relevance in dry regions.",
+        "Name any four catchment areas used in water harvesting.",
+        "List three types of conveyance systems used in water harvesting.",
+        "Identify two common storage facilities used in water harvesting.",
+        "Explain how reafforestation supports carbon sequestration.",
+        "List two purposes of reafforestation in climate mitigation.",
+        "Define integrated farming systems.",
+        "Mention four components of an integrated farming system.",
+        "Describe two roles of livestock in an integrated farming system.",
+        "Explain how fish farming supports food security under climate change.",
+        "Give two reasons why conservation agriculture is preferred in climate-affected regions.",
+        "How does organic matter from agroforestry improve soil health?",
+        "Discuss the relationship between biodiversity and agroforestry.",
+        "Suggest three crops suitable for rotation under conservation agriculture.",
+        "Explain the impact of deforestation on climate and farming."
+      ]
+    },
+    {
+      "title": "Land Drainage",
+      "content": "Structured questions addressing land drainage methods, benefits, and limitations.",
+      "points": [
+        "Define land drainage.",
+        "State four importance of land drainage to agriculture.",
+        "Explain how proper drainage raises soil temperature.",
+        "Describe how drainage improves microbial activities in the soil.",
+        "Give two ways drainage prevents soil erosion.",
+        "Name three types of surface drainage methods.",
+        "List two advantages and two disadvantages of open ditches.",
+        "What are cambered fields and how do they improve drainage?",
+        "State two limitations of cambered fields.",
+        "Describe how pumps are used for land drainage.",
+        "Explain two advantages and disadvantages of using pumps.",
+        "Define subsurface drainage and give one advantage.",
+        "List three benefits of subsurface drainage.",
+        "What is biodrainage and how does it work?",
+        "List four plant species commonly used in biodrainage.",
+        "Mention three advantages of biodrainage over mechanical drainage.",
+        "Explain one major challenge of implementing subsurface drainage.",
+        "Compare open ditches and subsurface drainage (any three points).",
+        "What makes biodrainage a sustainable method?",
+        "Suggest two scenarios where subsurface drainage is preferred.",
+        "State two conditions that may lead to over-drainage.",
+        "Describe the environmental impact of improper drainage.",
+        "List three land conditions that require drainage intervention.",
+        "Give four indicators of poorly drained land.",
+        "Explain the role of deep-rooted trees in water management."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Agriculture – Mechanisation, Power and Technology",
+  "subsections": [
+    {
+      "title": "Farm Mechanisation",
+      "content": "Structured questions on the use, types, benefits, and limitations of farm mechanisation.",
+      "points": [
+        "Define farm mechanisation.",
+        "State two types of farm mechanisation.",
+        "List any four tractor-drawn machines and their uses.",
+        "Mention three animal-drawn implements and their specific uses.",
+        "Explain two advantages of using a tractor-drawn plough over an ox-plough.",
+        "List five factors to consider when mechanising a farm.",
+        "Explain how topography affects farm mechanisation.",
+        "Why is capital important in farm mechanisation?",
+        "Describe two advantages of farm mechanisation on crop yield.",
+        "Explain how mechanisation helps in timely farm operations.",
+        "State three disadvantages of farm mechanisation to smallholder farmers.",
+        "Why is skilled labour important in mechanised farming?",
+        "Explain the energy requirement as a challenge in farm mechanisation.",
+        "List four safety measures when operating farm machinery.",
+        "Why should machinery not be left running unattended?",
+        "Mention three personal protective gear recommended when spraying chemicals.",
+        "State two safety precautions to follow when handling electrical farming tools.",
+        "Why should hands be washed after handling farm chemicals?",
+        "List any four common hazards associated with farm machines.",
+        "Explain the importance of training workers in lifting techniques."
+      ]
+    },
+    {
+      "title": "Farm Power",
+      "content": "Structured questions on sources, uses, advantages, and disadvantages of various forms of farm power.",
+      "points": [
+        "Define farm power.",
+        "List any five sources of farm power.",
+        "State three examples of animal power and explain how each is used.",
+        "Describe two ways to improve the output of animal power.",
+        "Mention two advantages and two disadvantages of using animal power.",
+        "Define human power in agriculture.",
+        "State three ways to improve the productivity of human laborers.",
+        "Mention two benefits and two limitations of human power on a farm.",
+        "What is water power and give two examples where it is used?",
+        "State three ways to increase output from water power sources.",
+        "List two advantages and two disadvantages of using water power.",
+        "Define biogas and list two sources used in its production.",
+        "Explain how a biogas digester works.",
+        "Mention three advantages of using biogas as a farm energy source.",
+        "List two disadvantages of biogas systems.",
+        "Define wind power and list two ways it is used on farms.",
+        "State two factors that affect wind power output.",
+        "Explain two limitations of wind power in agriculture.",
+        "What is mechanical power and mention three machines that use it.",
+        "List two advantages and two disadvantages of mechanical farm power."
+      ]
+    },
+    {
+      "title": "Improved Farming Technology",
+      "content": "Structured questions on modern methods and tools used to enhance food security and productivity.",
+      "points": [
+        "Define improved farming technology.",
+        "Differentiate between improved and unimproved farming technology.",
+        "List three examples of unimproved farming practices.",
+        "State four examples of improved farming technologies.",
+        "Explain how high-yielding crops improve food production.",
+        "Mention three advantages of improved livestock breeds.",
+        "State two benefits of advanced irrigation systems.",
+        "What is legume seed inoculation and why is it important?",
+        "Describe crop rotation and its role in sustainable agriculture.",
+        "List two ways animal power supports improved farming technology.",
+        "Explain how control of parasites increases agricultural productivity.",
+        "Mention three modern communication technologies used by farmers.",
+        "How do greenhouses help in crop processing and production?",
+        "State three ways improved technology supports food availability.",
+        "Mention two roles of farming technology in food access.",
+        "How does technology help ensure proper food use and nutrition?",
+        "List any three ways farming technology promotes environmental conservation.",
+        "State two ways extension services improve technology adoption.",
+        "What is the relationship between market access and technology use?",
+        "Explain how improved technology helps maintain soil fertility."
+      ]
+    }
+  ]
+},
+{
+  "title": "Agriculture – Crop and Livestock Improvement & Processing",
+  "subsections": [
+    {
+      "title": "Crop Improvement",
+      "content": "Structured questions covering aims and methods of improving crops through scientific and genetic approaches.",
+      "points": [
+        "Define crop improvement.",
+        "List four aims of crop improvement.",
+        "Explain how crop improvement helps boost yield.",
+        "State two ways crop improvement enhances market value.",
+        "What is the role of nutritional improvement in crop breeding?",
+        "Explain how crop improvement helps in environmental adaptation.",
+        "Define mass selection and state its purpose.",
+        "Define pureline selection and how it is applied.",
+        "Differentiate between mass selection and pureline selection.",
+        "State two limitations of selection methods.",
+        "What is hybridization in crop improvement?",
+        "List the stages involved in hybridization.",
+        "Why is emasculation done during hybridization?",
+        "What is bagging and why is it important?",
+        "Define F1 generation in hybrid crops.",
+        "State two advantages of hybrid crops.",
+        "What is the importance of introducing new crop varieties?",
+        "List two benefits of crop variety introduction.",
+        "Explain how hybridization improves pest resistance.",
+        "State three characteristics of a good crop variety."
+      ]
+    },
+    {
+      "title": "Crop Processing",
+      "content": "Structured questions on methods, importance, and specific crop examples in crop processing.",
+      "points": [
+        "Define crop processing.",
+        "List four common methods of crop processing for small-scale farmers.",
+        "List three methods of processing used by large-scale farmers.",
+        "State three importance of crop processing.",
+        "Explain how crop processing improves shelf life.",
+        "What is the role of drying in food preservation?",
+        "List all processing steps for maize.",
+        "Describe the process of shelling groundnuts.",
+        "Mention three ways mushrooms can be preserved.",
+        "Define canning and explain the basic procedure.",
+        "What is radiation processing and what is it used for?",
+        "Explain the pickling process of mushrooms.",
+        "What are the steps involved in drying vegetables?",
+        "Describe how mangoes can be processed and preserved.",
+        "Explain two ways Bonongwe (Amaranthus) is preserved.",
+        "Mention three economic benefits of crop processing.",
+        "State two examples of value addition through crop processing.",
+        "Explain how processing supports export and foreign exchange.",
+        "List two advantages of mechanical drying over sun drying.",
+        "How does blanching help in vegetable preservation?"
+      ]
+    },
+    {
+      "title": "Livestock Improvement",
+      "content": "Structured questions on genetic improvement, breeding systems, selection, and animal traits.",
+      "points": [
+        "Define livestock improvement.",
+        "State four aims of livestock improvement.",
+        "List three methods used in livestock improvement.",
+        "Explain how artificial insemination works.",
+        "What is embryo transfer and why is it used?",
+        "State two benefits of introducing exotic breeds.",
+        "List three characteristics used for selecting breeding livestock.",
+        "Differentiate between individual and mass selection.",
+        "What is progeny testing?",
+        "Mention four desired characteristics of animals for breeding.",
+        "Why is temperament important in livestock selection?",
+        "List three factors to consider when choosing dairy cattle.",
+        "Describe three selection factors when choosing pigs.",
+        "List two characteristics of a good meat goat breed.",
+        "What is cross-breeding and what is hybrid vigor?",
+        "Give two advantages and one disadvantage of in-breeding.",
+        "Define out-breeding and mention its key advantage.",
+        "List two differences between artificial and natural selection.",
+        "Explain how AI reduces the spread of diseases in livestock.",
+        "Mention three disadvantages of artificial insemination."
+      ]
+    }
+  ]
+},
+{
+  "title": "Agricultural Technology, Marketing, and Gender Roles",
+  "subsections": [
+    {
+      "title": "Gender and Agricultural Technology",
+      "content": "Explores gender roles, bias, and equality in access to and use of agricultural technology.",
+      "points": [
+        "Define the term 'gender' in the context of agriculture.",
+        "What is gender bias?",
+        "Explain the meaning of gender equality.",
+        "List four benefits of achieving gender equality in agricultural technology.",
+        "Give three examples of gender bias in agricultural technology.",
+        "Why are most farm tools not suitable for women?",
+        "State three reasons why women have limited access to farm machinery.",
+        "How does gender bias affect agricultural productivity?",
+        "Mention four causes of gender bias in agricultural technology.",
+        "How do cultural beliefs contribute to gender bias in agriculture?",
+        "List three effects of gender bias on rural development.",
+        "State two effects of limited technology access on women farmers.",
+        "Explain how lack of education affects women’s use of agricultural technology.",
+        "Mention four ways to address gender bias in agricultural technology.",
+        "How can media help in reducing gender bias in agriculture?",
+        "Suggest two policies that could help promote gender equality in agriculture.",
+        "Explain how increasing financial access can empower women in agriculture.",
+        "What is the role of agricultural extension services in promoting gender equality?",
+        "List two gender stereotypes that affect agricultural tool design.",
+        "Why is it important to develop female-friendly farm tools?"
+      ]
+    },
+    {
+      "title": "Agricultural Marketing and Trading",
+      "content": "Examines processes of marketing and trading agricultural products, including distribution channels, marketing costs, and international trade.",
+      "points": [
+        "Define marketing in the context of agriculture.",
+        "What are the 4Ps of marketing?",
+        "Differentiate between marketing and trading.",
+        "Explain how marketing ensures consumer satisfaction.",
+        "Define agricultural trading.",
+        "List and explain four marketing distribution channels.",
+        "Who are itinerant traders and what is their role?",
+        "What is the function of marketing boards?",
+        "Describe the role of brokers and agents in agricultural marketing.",
+        "List three functions of wholesalers in the marketing chain.",
+        "Give two roles of cooperative societies in agricultural marketing.",
+        "What are the roles of marketing channels and agencies?",
+        "List three benefits of marketing channels to farmers.",
+        "Define marketing costs and provide an example.",
+        "Calculate the total marketing cost if storage costs MK500/day for 3 days and transport costs MK1200.",
+        "Define marketing margin and write the formula.",
+        "Calculate the marketing margin if a product is bought at MK80 and sold at MK150.",
+        "Explain how marketing margin relates to costs.",
+        "List two effects of high population on agricultural marketing.",
+        "How does low population affect marketing channels?",
+        "State three importance of agricultural trading at the community level.",
+        "Mention four benefits of agricultural trading at the national level.",
+        "What is international trade?",
+        "Differentiate between bilateral and multilateral trade.",
+        "List three benefits of international agricultural trade.",
+        "How does international trade contribute to food security?",
+        "What is the importance of foreign exchange in agriculture?",
+        "State four problems associated with international trade.",
+        "How can cultural influence be a disadvantage in international trade?",
+        "List five factors that facilitate agricultural commodity trade.",
+        "Explain how geographic disparity in production promotes trade.",
+        "List four ways to improve agricultural trade.",
+        "Why is road infrastructure important in agricultural trade?",
+        "How can cooperative societies help in trading agricultural commodities?",
+        "Define value addition and provide one example.",
+        "Why is subsidizing inputs important for agricultural trade?",
+        "How can capital support improve agricultural trading?"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Price Elasticity of Demand and Supply",
+  "subsections": [
+    {
+      "title": "Concepts and Definitions",
+      "content": "Introduction to the core concepts of demand, supply, and elasticity.",
+      "points": [
+        "Define quantity demanded.",
+        "Define quantity supplied.",
+        "What is price elasticity of demand?",
+        "What is price elasticity of supply?",
+        "Why is elasticity important in agriculture?"
+      ]
+    },
+    {
+      "title": "Price Elasticity of Demand",
+      "content": "Covers the formula, example, degrees, and implications of elasticity of demand.",
+      "points": [
+        "State the formula for calculating price elasticity of demand (Ed).",
+        "What does it mean if Ed > 1?",
+        "What does it mean if Ed = 1?",
+        "What does it mean if Ed < 1?",
+        "If the price of maize increases from MK4000 to MK5000 and demand decreases from 700 to 400 bags, calculate Ed.",
+        "Explain what is meant by elastic, inelastic, and unitary demand.",
+        "List three implications of price elasticity of demand in agriculture.",
+        "How can elasticity help in risk reduction for farmers?",
+        "How does elasticity affect sales forecasting?",
+        "What is price discrimination in the context of elasticity?"
+      ]
+    },
+    {
+      "title": "Price Elasticity of Supply",
+      "content": "Explains how supply responds to price changes and how to calculate Es.",
+      "points": [
+        "State the formula for calculating price elasticity of supply (Es).",
+        "If supply rises from 1000 to 2500 bags and price rises from MK3000 to MK4000, calculate Es.",
+        "What does Es > 1 mean?",
+        "What does Es = 1 mean?",
+        "What does Es < 1 mean?",
+        "Define elastic, inelastic, and unitary supply.",
+        "Give three implications of price elasticity of supply.",
+        "Why are elastic commodities often stored during low prices?",
+        "How do government subsidies affect elasticity?"
+      ]
+    },
+    {
+      "title": "Formula Application and Calculations",
+      "content": "Focuses on percentage change and elasticity formulas with sample calculations.",
+      "points": [
+        "Calculate percentage change in price when price rises from MK4000 to MK5000.",
+        "Calculate percentage change in quantity demanded when it drops from 700 to 400.",
+        "Calculate percentage change in quantity supplied when it increases from 1000 to 2500.",
+        "If price changes by 25% and quantity demanded changes by 42.86%, what is Ed?",
+        "If price changes by 33.33% and quantity supplied changes by 150%, what is Es?",
+        "What conclusion can be drawn if Ed = 1.714?",
+        "Explain the steps involved in calculating Ed and Es."
+      ]
+    },
+    {
+      "title": "Implications of Elasticity in Agriculture",
+      "content": "Discusses the real-life impact of elasticity for farmers and producers.",
+      "points": [
+        "How does price elasticity affect a farmer’s pricing decisions?",
+        "What is the effect of elasticity on total revenue?",
+        "How does elasticity help in planning crop storage?",
+        "Explain how elasticity supports government policy decisions.",
+        "What is the relationship between elasticity and consumer behavior?",
+        "Why is elasticity important in setting subsidies for farmers?"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Reproductive Systems of Cattle and Poultry",
+  "subsections": [
+    {
+      "title": "Reproductive System of Cattle",
+      "content": "Questions about the reproductive anatomy, physiology, and processes in cattle.",
+      "points": [
+        "Define the terms 'spermatozoa' and 'ova'.",
+        "What are the main functions of the testicles in a bull?",
+        "Explain the role of the epididymis in sperm maturation.",
+        "At what age do exotic cattle breeds typically reach puberty?",
+        "List four factors that affect the onset of puberty in cattle.",
+        "What is the average length of the oestrus cycle in cattle?",
+        "Describe the hormonal changes during the oestrus cycle.",
+        "What are the main phases of the oestrus cycle?",
+        "List three behavioral signs that indicate a cow is in heat.",
+        "When is the optimal time to breed a cow based on standing heat observation?",
+        "State the gestation period of cattle.",
+        "Compare natural mating and artificial insemination in cattle, giving two advantages and two disadvantages of each.",
+        "What happens during fertilization in cattle reproduction?",
+        "Describe the process of embryo development in the cow’s uterus.",
+        "Explain the role of the umbilical cord during fetal development.",
+        "What hormonal changes trigger parturition in cows?",
+        "List five signs that indicate a cow is about to give birth.",
+        "What complications might occur during parturition, and how can they be identified?",
+        "Explain the correct presentation of a calf during birth.",
+        "Describe proper hygiene practices when assisting a cow during calving."
+      ]
+    },
+    {
+      "title": "Reproductive System of Poultry",
+      "content": "Questions about the anatomy and functions of the male and female reproductive systems in poultry.",
+      "points": [
+        "What is the function of the ovary in female poultry?",
+        "Describe the role of the oviduct in egg formation.",
+        "Where does fertilization occur in poultry?",
+        "What parts of the oviduct contribute to the formation of the egg white and shell membranes?",
+        "Which part of the reproductive system secretes the eggshell in poultry?",
+        "What is the function of the vagina in female poultry reproduction?",
+        "What is the role of the testis in male poultry?",
+        "Explain the function of the vas deferens in male poultry.",
+        "Describe how mating occurs in poultry involving the cloaca."
+      ]
+    }
+  ]
+},
+
+
+
+
 
     {
       "title": "Physics Fundamentals",
