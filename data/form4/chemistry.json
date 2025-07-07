@@ -7,6 +7,1213 @@
 
 
     {
+  "title": "Topic 1: Rates of Reactions",
+  "subsections": [
+    {
+      "title": "Rate of Reaction",
+      "content": "The rate of a chemical reaction measures how quickly a reactant is consumed or a product is formed. It's expressed as the change in the amount of a reactant or product per unit time.",
+      "points": [
+        "It is often measured in moles per second (mol/s) or grams per second (g/s).",
+        "The rate can vary at different stages of the reaction.",
+        "Factors such as temperature, concentration, and catalysts influence the rate."
+      ]
+    },
+    {
+      "title": "Collision Theory",
+      "content": "For a chemical reaction to occur, reactant particles must collide with each other with enough energy to be successful. A successful collision leads to a reaction. The rate of reaction increases with more successful collisions. The minimum energy needed for a successful collision is called activation energy.",
+      "points": [
+        "Only collisions with energy equal to or greater than the activation energy result in reaction.",
+        "The orientation of particles during collisions also affects the reaction success.",
+        "Increasing temperature increases both the frequency and energy of collisions.",
+        "Catalysts provide an alternative pathway with lower activation energy."
+      ]
+    },
+    {
+      "title": "Factors Affecting the Rate of Reaction",
+      "content": "Several factors influence the speed at which a chemical reaction proceeds.",
+      "points": [
+        "Concentration of Reactants: Increasing reactant concentration raises the frequency of collisions, speeding up the reaction.",
+        "Temperature: Higher temperatures increase the kinetic energy of particles, leading to more frequent and energetic collisions, thus increasing the reaction rate.",
+        "Surface Area of Solid Reactants: Smaller solid particles have a larger surface area, allowing more collisions with other reactants, speeding up the reaction. For example, powdered solids react faster than lumps.",
+        "Use of a Catalyst: Catalysts speed up reactions without being consumed. They lower the activation energy, increasing the frequency of successful collisions.",
+        "Pressure (for gases): Increasing pressure increases concentration of gas particles, thus increasing reaction rate.",
+        "Nature of Reactants: Some substances react faster due to their chemical properties (e.g., ionic reactions are generally faster than covalent reactions)."
+      ]
+    },
+    {
+      "title": "Methods of Measuring Rates of Reactions",
+      "content": "Different methods are used based on the reactants and products involved to measure reaction rates.",
+      "points": [
+        "Measuring Volume of Gas Produced: Use a gas syringe to measure the volume of gas released at regular intervals.",
+        "Measuring Change in Mass: Monitor mass loss as reactants convert to products.",
+        "Time for Reactant to Disappear: Measure how long it takes for a specific mass of reactant to fully react.",
+        "Time for Product Formation: Measure the time taken to form a certain amount of product.",
+        "Color Change: For some reactions, the change in color over time can indicate reaction progress.",
+        "Change in Temperature: Monitoring temperature changes if the reaction is exothermic or endothermic."
+      ]
+    },
+    {
+      "title": "Example: Measuring the Volume of Gas Produced",
+      "content": "When gas is produced during a reaction, a gas syringe can be used to measure its volume over time.",
+      "points": [
+        "Measure the gas volume at regular intervals (e.g., every 30 seconds).",
+        "Record the plunger position to determine the volume collected (e.g., if the plunger reaches 20 cm³, then 20 cm³ of gas has been collected).",
+        "Plotting volume of gas against time gives a rate curve to analyze reaction speed.",
+        "Initial rate can be calculated by finding the slope at the beginning of the curve."
+      ]
+    },
+    {
+      "title": "Reversible Reactions",
+      "content": "A reversible reaction is one in which the products can be converted back into reactants under suitable conditions.",
+      "points": [
+        "Example: Hydration and dehydration of copper(II) sulfate.",
+        "Dehydration: Heating blue hydrated copper(II) sulfate causes it to lose water, forming white anhydrous copper sulfate: CuSO4⋅5H2O (s) → CuSO4 (s) + 5H2O (l).",
+        "Hydration: Adding water to white anhydrous copper sulfate restores the blue color: CuSO4 (s) + 5H2O (l) → CuSO4⋅5H2O (s).",
+        "Reversible reactions can reach equilibrium where the forward and backward reactions occur at the same rate.",
+        "They are important in industrial processes where reactant recovery is desired."
+      ]
+    },
+    {
+      "title": "Irreversible Reactions",
+      "content": "An irreversible reaction is one in which the products cannot be converted back into reactants.",
+      "points": [
+        "Example: Decomposition of calcium carbonate.",
+        "When calcium carbonate is heated, it decomposes into calcium oxide and carbon dioxide: CaCO3 (s) → CaO (s) + CO2 (g).",
+        "The carbon dioxide escapes into the air, so the reaction cannot be reversed.",
+        "These reactions usually release or absorb energy that drives the reaction forward.",
+        "Common in combustion and decomposition processes."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Topic 2: Acids and Bases",
+  "subsections": [
+    {
+      "title": "The Brønsted-Lowry Theory of Acids and Bases",
+      "content": "Developed by Johannes Brønsted and Thomas Lowry, this theory defines acids and bases based on their ability to donate or accept protons (H⁺).",
+      "points": [
+        "Acid: A proton donor.",
+        "Example: HCl → H⁺ + Cl⁻",
+        "Base: A proton acceptor.",
+        "Example: H₂O + H⁺ → H₃O⁺",
+        "Overall Acid-Base Reaction: HCl + H₂O → H₃O⁺ + Cl⁻",
+        "Proton transfer is fundamental in acid-base reactions."
+      ]
+    },
+    {
+      "title": "Formation of the Hydronium Ion (H₃O⁺)",
+      "content": "When an acid dissolves in water, it donates protons (H⁺), which are accepted by water molecules, resulting in the formation of hydronium ions (H₃O⁺).",
+      "points": [
+        "The hydronium ion is responsible for acidic properties in aqueous solutions.",
+        "H₃O⁺ ions increase the solution's acidity."
+      ]
+    },
+    {
+      "title": "Conjugate Acids and Conjugate Bases",
+      "content": "Conjugate acid-base pairs differ by one proton; the conjugate acid forms when a base gains a proton, and the conjugate base forms when an acid loses a proton.",
+      "points": [
+        "Example reactions illustrate identifying conjugate acids and bases:",
+        "CH₃COOH + HCl → CH₃COOH₂⁺ + Cl⁻",
+        "Base: CH₃COOH, Acid: HCl, Conjugate Acid: CH₃COOH₂⁺, Conjugate Base: Cl⁻",
+        "HNO₃ + H₂SO₄ → HNO₃⁺ + HSO₄⁻",
+        "Base: H₂SO₄, Acid: HNO₃, Conjugate Acid: HNO₃⁺, Conjugate Base: HSO₄⁻",
+        "HCl + HF → Cl⁻ + H₂F⁺",
+        "Acid: HCl, Base: HF, Conjugate Base: Cl⁻, Conjugate Acid: H₂F⁺"
+      ]
+    },
+    {
+      "title": "Conjugate Acid-Base Pairs",
+      "content": "A conjugate acid-base pair consists of two species related by the gain or loss of a proton (H⁺).",
+      "points": [
+        "Examples of conjugate acid-base pairs:",
+        "NH₃ + H₂O → NH₄⁺ + OH⁻ (Pairs: NH₄⁺/NH₃ and H₂O/OH⁻)",
+        "HNO₃ + H₂SO₄ → HNO₃⁺ + HSO₄⁻ (Pairs: H₂SO₄/HSO₄⁻ and HNO₃⁺/HNO₃)",
+        "CH₃COOH + H₂O → CH₃COO⁻ + H₃O⁺ (Pairs: CH₃COOH/CH₃COO⁻ and H₃O⁺/H₂O)"
+      ]
+    },
+    {
+      "title": "Strength of Acids and Bases",
+      "content": "The strength of acids and bases depends on their degree of ionization in water.",
+      "points": [
+        "Strong acids completely ionize in water, producing many hydrogen ions.",
+        "Examples: HCl, H₂SO₄, HNO₃",
+        "Weak acids partially ionize in water, producing fewer hydrogen ions.",
+        "Examples: CH₃COOH, H₂CO₃"
+      ]
+    },
+    {
+      "title": "Determining the Strength of Acids and Bases Using Conductivity",
+      "content": "Acids and bases conduct electricity due to ionization in water; stronger acids/bases have higher conductivity because of more ions.",
+      "points": [
+        "Materials needed: Beaker, carbon rods, cells, connecting wires, distilled water, ammeter, and equal concentration solutions of ethanoic acid, hydrochloric acid, sodium hydroxide, and ammonia.",
+        "Procedure involves measuring current flow in solutions using an ammeter.",
+        "Higher ammeter readings indicate stronger acids or bases.",
+        "Control variables include temperature, electrode surface area, electrode spacing, and solution concentration."
+      ]
+    },
+    {
+      "title": "Difference Between Strength and Concentration",
+      "content": "Strength refers to how easily an acid or base ionizes to produce ions, while concentration refers to the amount of acid or base dissolved in a given volume of solution.",
+      "points": [
+        "A strong acid can be dilute but still ionizes completely.",
+        "A weak acid can be concentrated but only partially ionizes.",
+        "Concentration affects the number of particles present in solution.",
+        "Strength affects the degree of ionization."
+      ]
+    },
+    {
+      "title": "Oxides",
+      "content": "Oxides are compounds containing oxygen and another element. They can be basic, acidic, or amphoteric depending on their properties.",
+      "points": [
+        "Basic Oxides: Formed from oxygen reacting with metals, mostly ionic, dissolve in water to form alkalis, neutralize acids.",
+        "Examples: Magnesium oxide (MgO), Iron(II) oxide (FeO), Copper(II) oxide (CuO).",
+        "Acidic Oxides: Formed from oxygen reacting with non-metals, form acidic solutions in water.",
+        "Examples: Carbon dioxide (CO₂), Sulfur dioxide (SO₂), Phosphorus pentoxide (P₂O₅).",
+        "Amphoteric Oxides: Show both acidic and basic properties, react with both acids and bases to form salts and water.",
+        "Examples: Aluminium oxide (Al₂O₃), Zinc oxide (ZnO), Lead(II) oxide (PbO)."
+      ]
+    },
+    {
+      "title": "Ways of Regulating pH in Different Environments",
+      "content": "Maintaining appropriate pH levels is essential in biological and environmental systems.",
+      "points": [
+        "Human Digestive System: Hydrochloric acid aids digestion; excess acid causes discomfort.",
+        "Antacids such as magnesium hydroxide neutralize excess stomach acid.",
+        "Soil and Water Acidity: Fertilizers and acid rain increase acidity.",
+        "Lime (calcium hydroxide) is added to neutralize acidic soils and water."
+      ]
+    },
+    {
+      "title": "Ways of Preparing Salts",
+      "content": "Salts are formed when the hydrogen ion of an acid is replaced by a metal or ammonium ion through various reactions.",
+      "points": [
+        "Reaction of an Acid with a Soluble Base (Alkali): e.g., HCl + NaOH → NaCl + H₂O (titration method).",
+        "Reaction of an Acid with a Metal: e.g., Mg + 2HNO₃ → Mg(NO₃)₂ + H₂ (used with less reactive metals).",
+        "Reaction of an Acid with a Carbonate: e.g., CuCO₃ + 2HNO₃ → Cu(NO₃)₂ + CO₂ + H₂O.",
+        "Reaction of an Acid with an Insoluble Base: e.g., H₂SO₄ + CuO → CuSO₄ + H₂O.",
+        "Precipitation: Mixing two soluble salts to form an insoluble salt (precipitate). Example: BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl."
+      ]
+    },
+    {
+      "title": "Solubility Rules",
+      "content": "Guidelines to predict solubility of ionic compounds in water.",
+      "points": [
+        "All potassium (K), sodium (Na), and ammonium (NH₄) salts are soluble.",
+        "All nitrates and hydrogen carbonates are soluble.",
+        "Most sulfates are soluble, except PbSO₄ and BaSO₄; CaSO₄ is sparingly soluble.",
+        "Most chlorides are soluble, except AgCl and PbCl₂ (soluble only in hot water).",
+        "Most carbonates are insoluble, except those of potassium, sodium, and ammonium."
+      ]
+    },
+    {
+      "title": "Applications of Precipitation Reactions",
+      "content": "Precipitation reactions are used in various practical applications to remove or detect substances.",
+      "points": [
+        "Treatment of Water: Sodium carbonate precipitates toxic cations as insoluble carbonates, softening hard water.",
+        "Treatment of Industrial Effluents: Removal of toxic ions by forming insoluble precipitates, which are filtered or settled out.",
+        "Soil Remediation: Immobilizing heavy metals in contaminated soils by precipitation to reduce uptake by plants.",
+        "Laboratory Analysis: Detecting specific ions; e.g., silver nitrate forms a white precipitate with chloride ions.",
+        "Medicine: Controlling drug release by forming insoluble drug compounds through precipitation."
+      ]
+    }
+  ]
+},
+{
+  "title": "Topic 6: Polymerisation",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Polymerisation is a chemical reaction where small molecules called monomers join to form long-chain molecules known as polymers.",
+      "points": [
+        "Polymers are large molecules made of repeating monomer units.",
+        "Polymerisation is essential in forming plastics, rubber, and biological macromolecules."
+      ]
+    },
+    {
+      "title": "Polymer and Monomer",
+      "content": "A polymer is a very large molecule made of many smaller, repeating units called monomers. A monomer is a small molecule that can join with other similar molecules to form a polymer.",
+      "points": [
+        "Example of a monomer: Glucose (for starch), Ethene (for polyethylene).",
+        "Polymers include plastics, rubber, proteins, and DNA."
+      ]
+    },
+    {
+      "title": "Types of Polymerisation",
+      "content": "Polymerisation occurs mainly in two ways: addition and condensation polymerisation.",
+      "points": [
+        "Addition Polymerisation: Monomers add together without losing atoms.",
+        "Condensation Polymerisation: Monomers join with elimination of a small molecule like water."
+      ]
+    },
+    {
+      "title": "Natural and Synthetic Polymers",
+      "content": "Polymers can be natural or synthetic depending on their origin.",
+      "points": [
+        "Natural Polymers found in living organisms: proteins, carbohydrates, starch, wood, rubber, DNA.",
+        "Synthetic Polymers manufactured in industries, often called plastics: polythene, PVC, terylene, nylon, perspex, PTFE, polystyrene."
+      ]
+    },
+    {
+      "title": "Addition Polymerisation",
+      "content": "Addition polymerisation involves repeated addition of monomers, usually unsaturated compounds, to form a polymer.",
+      "points": [
+        "Example: Polymerisation of Ethene to form polyethene.",
+        "Reaction: n C₂H₄ → (C₂H₄)ₙ",
+        "Conditions: High temperature, high pressure, catalyst.",
+        "Double bonds break allowing monomers to link."
+      ]
+    },
+    {
+      "title": "Condensation Polymerisation",
+      "content": "Condensation polymerisation involves reaction between two different monomers with elimination of a small molecule such as water.",
+      "points": [
+        "Example: Esterification - Carboxylic acid + Alkanol → Ester + Water.",
+        "Examples of condensation polymers include nylon and terylene (polyester)."
+      ]
+    },
+    {
+      "title": "Properties of Synthetic Polymers",
+      "content": "Synthetic polymers have several useful properties making them widely used in industries.",
+      "points": [
+        "Corrosion resistance – do not corrode in air or water.",
+        "Excellent heat and electrical insulators.",
+        "Stable and do not decompose easily.",
+        "Lightweight compared to metals and glass.",
+        "Some are transparent, useful in various applications."
+      ]
+    },
+    {
+      "title": "Uses of Synthetic Polymers",
+      "content": "Synthetic polymers have many applications based on their unique properties.",
+      "points": [
+        "Polyethene: pipes, plastic bags, packaging, electrical insulation.",
+        "PVC: crates, bottles, ropes, artificial leather, water pipes.",
+        "Polystyrene: insulation material, packaging foam, radio cabinets, pot handles.",
+        "PTFE (Teflon): soles of irons, non-stick frying pans.",
+        "Perspex: glass substitute, lenses."
+      ]
+    },
+    {
+      "title": "Advantages of Synthetic Polymers",
+      "content": "Synthetic polymers offer several advantages in manufacturing and use.",
+      "points": [
+        "Cheap to produce.",
+        "Resistant to corrosion from acids, alkalis, water, and air.",
+        "Lightweight and portable.",
+        "Soft and easy to manufacture.",
+        "Easily molded into complex shapes.",
+        "Good heat and electrical insulators."
+      ]
+    },
+    {
+      "title": "Disadvantages of Synthetic Polymers",
+      "content": "Despite advantages, synthetic polymers also have drawbacks.",
+      "points": [
+        "Non-biodegradable, leading to disposal issues.",
+        "Some release toxic gases like carbon monoxide when burned.",
+        "Expensive and difficult to recycle.",
+        "Some are flammable."
+      ]
+    },
+    {
+      "title": "Types of Plastics",
+      "content": "Plastics are categorized mainly into thermoplastics and thermosetting plastics based on their heating behavior.",
+      "points": [
+        "Thermoplastics (Thermosoftening plastics): soften when heated, can be reshaped multiple times.",
+        "Examples: Polythene, PVC, Polystyrene.",
+        "Thermoplastics have weak intermolecular forces, no cross-links.",
+        "Thermosetting plastics (Thermosets): harden permanently after heating, cannot be reshaped.",
+        "Examples: Melamine, Formica, Bakelite.",
+        "Thermosets have strong cross-links making them rigid and strong."
+      ]
+    },
+    {
+      "title": "Differences Between Thermoplastics and Thermosetting Plastics",
+      "content": "Comparison of thermoplastics and thermosetting plastics based on physical and chemical properties.",
+      "points": [
+        "Heating Behavior: Thermoplastics soften and melt on heating; thermosets do not soften once set.",
+        "Molding Capability: Thermoplastics can be reshaped; thermosets cannot.",
+        "Molecular Structure: Thermoplastics have no cross-links; thermosets have cross-linked chains.",
+        "Recyclability: Thermoplastics are recyclable; thermosets are not."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Water",
+  "subsections": [
+    {
+      "title": "Natural Sources of Water",
+      "content": "Water is sourced naturally from underground, surface, and atmospheric origins, vital for human use and ecosystems.",
+      "points": [
+        "Underground Water Sources:",
+        "Wells: Holes dug in the ground to obtain water.",
+        "Boreholes: Deep holes drilled to lift water using submersible pumps.",
+        "Springs: Natural points where water flows out of the ground as streams or pools.",
+        "Surface Water Sources: Include dams, lakes, streams, rivers, seas, and oceans.",
+        "Atmospheric Water Sources: Rainwater collected from rooftops during the rainy season."
+      ]
+    },
+    {
+      "title": "The Water Cycle",
+      "content": "The water cycle (hydrological cycle) is the continuous circulation of water between the earth's surface and the atmosphere, essential for sustaining life.",
+      "points": [
+        "Evaporation: Heat from the sun causes water to evaporate from oceans, seas, and lakes.",
+        "Transpiration: Plants release water vapor into the atmosphere.",
+        "Condensation: Water vapor cools and condenses to form clouds.",
+        "Precipitation: Water droplets fall as rain, replenishing streams, rivers, lakes, and oceans.",
+        "Runoff: Water flows over land into water bodies, continuing the cycle."
+      ]
+    },
+    {
+      "title": "Physical Properties of Water",
+      "content": "Water has unique physical characteristics that make it essential for life and various applications.",
+      "points": [
+        "Colorless, tasteless, and odorless liquid.",
+        "Boils at 100ºC and freezes at 0ºC.",
+        "Density of 1 g/cm³ at 4ºC.",
+        "High surface tension and specific heat capacity.",
+        "Excellent solvent properties, often called the 'universal solvent'."
+      ]
+    },
+    {
+      "title": "Importance of Water",
+      "content": "Water is crucial in natural processes, human activities, and industrial applications.",
+      "points": [
+        "Coolant: Maintains low temperatures in engines; used in liquefaction during distillation.",
+        "Solvent: Dissolves a wide range of substances, facilitating chemical reactions.",
+        "Chemical Reactant: Participates in many biological and chemical reactions.",
+        "Hydroelectric Power Generation: Moving water generates electricity via turbines.",
+        "Recreation: Used in swimming pools and water sports.",
+        "Transport Medium: Essential for transport via boats, ships, and ferries."
+      ]
+    },
+    {
+      "title": "Hard and Soft Water",
+      "content": "Water is classified based on mineral content, affecting its suitability for different uses.",
+      "points": [
+        "Soft Water: Contains low mineral content; easily produces soapy bubbles (e.g., rainwater, distilled water).",
+        "Hard Water: Contains high mineral content; resists soapy bubbles (e.g., tap water).",
+        "Temporary Hardness: Caused by dissolved calcium or magnesium hydrogen carbonates; removable by boiling.",
+        "Permanent Hardness: Caused by calcium or magnesium sulphates; difficult to remove but treatable chemically."
+      ]
+    },
+    {
+      "title": "Advantages of Hard Water",
+      "content": "Despite some drawbacks, hard water offers several benefits to health and environment.",
+      "points": [
+        "Provides calcium ions essential for strong bones and teeth.",
+        "Forms protective coatings inside lead pipes, preventing lead contamination.",
+        "Supports shell formation in aquatic animals.",
+        "Supplies essential minerals beneficial for plant and animal growth."
+      ]
+    },
+    {
+      "title": "Disadvantages of Hard Water",
+      "content": "Hard water causes practical problems in household and industrial contexts.",
+      "points": [
+        "Wastes soap due to scum formation, increasing detergent use.",
+        "Causes inefficiencies in electrical appliances like kettles and boilers.",
+        "Leads to clogging and scaling in hot water pipes.",
+        "Damages fabric finishes and reduces fabric softness."
+      ]
+    },
+    {
+      "title": "Methods of Removing Water Hardness",
+      "content": "Water hardness can be reduced or eliminated using various physical and chemical methods.",
+      "points": [
+        "Removing Temporary Hardness:",
+        "Boiling: Decomposes hydrogen carbonates into insoluble carbonates, reducing hardness.",
+        "Adding Calcium Hydroxide or Sodium Hydroxide: Precipitates calcium and magnesium ions as carbonates.",
+        "Removing Permanent Hardness:",
+        "Distillation: Purifies water by evaporation and condensation, separating minerals.",
+        "Addition of Sodium Carbonate (Soda): Precipitates hardness-causing ions as carbonates.",
+        "Ion Exchange: Passes hard water through resins exchanging calcium and magnesium for sodium ions."
+      ]
+    },
+    {
+      "title": "Water Pollution",
+      "content": "Water pollution results from harmful substances entering water bodies, posing risks to health and ecosystems.",
+      "points": [
+        "Definition: Introduction of toxic metals, plastics, pesticides, fertilizers, and other pollutants into water.",
+        "Sources of Water Pollution:",
+        "Domestic: Discharge of human waste and sewage into lakes and rivers.",
+        "Industrial: Effluents containing toxic chemicals from breweries, tanneries, textiles, and paper industries.",
+        "Agricultural: Runoff of pesticides, herbicides, and fertilizers into water bodies.",
+        "Effects:",
+        "Causes waterborne diseases like cholera, typhoid, and hepatitis.",
+        "Destroys aquatic ecosystems by depleting oxygen and poisoning life forms.",
+        "Disrupts food chains and contaminates human food supplies.",
+        "Control Measures:",
+        "Limit chemical use in agriculture to prevent runoff.",
+        "Sewage treatment to remove pollutants before discharge.",
+        "Encourage organic fertilizers instead of chemicals.",
+        "Proper pit latrine construction away from water sources.",
+        "Legislation to control industrial and domestic waste disposal.",
+        "Accident prevention to avoid petroleum spills."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Greenhouse Gases and the Ozone Layer",
+  "subsections": [
+    {
+      "title": "Natural Disasters",
+      "content": "Natural disasters are sudden, extreme events caused by environmental factors, leading to injury and damage.",
+      "points": [
+        "Examples: Droughts, Windstorms, Earthquakes, Wildfires, Floods, Hurricanes, Thunderstorms, Volcanic eruptions."
+      ]
+    },
+    {
+      "title": "Impact of Human Activities on Natural Disasters",
+      "content": "Human activities can worsen natural disasters, especially floods.",
+      "points": [
+        "Deforestation: Removal of trees leads to soil erosion and faster water runoff.",
+        "Urban Development: Disrupts natural waterways increasing flood risk.",
+        "Destruction of Wetlands: Wetlands absorb excess water; their loss increases flooding.",
+        "Agriculture: Large-scale farming depletes soil and reduces water absorption."
+      ]
+    },
+    {
+      "title": "Effects of Natural and Human Activities on the Atmosphere",
+      "content": "These activities cause destruction, loss of life, altered landscapes, and contribute to global warming.",
+       "points": []
+    },
+    {
+      "title": "Greenhouse Gases",
+      "content": "Gases that trap heat in the atmosphere, contributing to global warming.",
+      "points": [
+        "Carbon Dioxide (CO2): From combustion, respiration, fermentation, decomposition.",
+        "Methane (CH4): From natural gas, wetlands, termites, rice cultivation, livestock.",
+        "Nitrogen Oxides (NO, NO2): From lightning and fossil fuel combustion.",
+        "Sulphur Dioxide (SO2): From burning fossil fuels and metal ore extraction."
+      ]
+    },
+    {
+      "title": "Global Warming",
+      "content": "Increase in Earth's average temperature due to accumulation of greenhouse gases.",
+      "points": [
+        "Sun emits light and UV rays warming Earth.",
+        "Earth emits heat; greenhouse gases absorb and re-radiate heat, warming atmosphere.",
+        "CO2 and CH4 levels are increasing due to human activities."
+      ]
+    },
+    {
+      "title": "Mitigating Global Warming",
+      "content": "Strategies to reduce greenhouse gas emissions.",
+      "points": [
+        "Renewable Energy: Use solar, wind, hydroelectric power.",
+        "Catalytic Converters: Reduce car exhaust emissions.",
+        "Afforestation: Plant trees to absorb CO2."
+      ]
+    },
+    {
+      "title": "Air Quality Standards",
+      "content": "Regulations to control pollution levels, especially in Malawi.",
+      "points": [
+        "Suspended Particulate Matter: 25 µg/m³ (1 day).",
+        "Carbon Monoxide: 9 ppm (8 hours), 35 ppm (1 hour).",
+        "Sulphur Dioxide: 0.20 ppm (1 hour), 0.08 ppm (1 day), 0.02 ppm (1 year).",
+        "Nitrogen Dioxide: 0.3 ppm (1 year).",
+        "Ozone: 0.12 ppm (1 hour).",
+        "Lead: 0.50 µg/m³ (1 year)."
+      ]
+    },
+    {
+      "title": "The Ozone Layer",
+      "content": "A layer in the stratosphere 20-30 km above Earth that absorbs most harmful UV radiation.",
+      "points": [
+        "Absorbs 93% to 99% of UV light protecting living organisms.",
+        "UV exposure risks: skin cancer, crop damage, aquatic life harm."
+      ]
+    },
+    {
+      "title": "Depletion of the Ozone Layer",
+      "content": "Caused mainly by chlorofluorocarbons (CFCs) from coolants, foams, aerosols.",
+      "points": [
+        "CFCs release chlorine atoms under UV radiation.",
+        "Chlorine reacts with ozone, breaking it down to oxygen.",
+        "Chemical Reactions Involved:",
+        "O₃ → O₂ + [O]",
+        "O₃ + [O] → 2 O₂",
+        "This reduces ozone's ability to block UV radiation."
+      ]
+    },
+    {
+      "title": "Problems Associated with Ozone Layer Depletion",
+      "content": "Ozone depletion causes serious health and environmental issues.",
+      "points": [
+        "Health Effects: Increased skin cancer, cataracts, immune weakness, premature aging, respiratory problems.",
+        "Environmental Impact: Decline in amphibians, disruption of food chains, altered plant processes."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Waste Management",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Waste refers to unwanted materials produced by human activities.",
+      "points": [
+        "Can be solid, liquid, gaseous, or semi-solid (sludge)."
+      ]
+    },
+    {
+      "title": "Classification of Wastes",
+      "content": "Wastes are classified based on physical state and degradability.",
+      "points": [
+        "Physical State:",
+        "Solid Wastes: Food scraps, paper, plastics.",
+        "Liquid Wastes: Sewage, wastewater.",
+        "Gaseous Wastes: Industrial emissions and gases.",
+        "Sludge Wastes: Semi-solid waste from wastewater treatment.",
+        "Degradability:",
+        "Biodegradable Wastes: Decay quickly by microbes, e.g., food scraps, yard waste.",
+        "Non-Biodegradable Wastes: Do not decompose naturally, e.g., plastics, glass."
+      ]
+    },
+    {
+      "title": "Sources of Wastes",
+      "content": "Wastes originate from various sectors.",
+      "points": [
+        "Domestic: Food leftovers, plastics, metals, untreated sewage, expired medicines.",
+        "Industrial: Used oil, toxic gases, metals, plastics.",
+        "Agricultural: Plant remains, pesticides, herbicides, weedicides.",
+        "Medical: Plastics, glassware, expired drugs, syringes, needles.",
+        "Laboratory: Expired chemicals, broken glassware, contaminated materials."
+      ]
+    },
+    {
+      "title": "Ways of Treating and Disposing Waste",
+      "content": "Various methods are used to manage waste safely and reduce environmental impact.",
+      "points": [
+        "Open Burning: Discouraged due to air pollution risks.",
+        "Incineration: Controlled burning reducing waste volume and emissions.",
+        "Dump Sites: Uncontrolled disposal causing pollution risks.",
+        "Sanitary Landfills: Layered, compacted waste burial minimizing environmental harm.",
+        "Composting: Aerobic decomposition producing nutrient-rich fertilizer.",
+        "Recycling/Re-use: Reprocessing materials like bottles for new uses."
+      ]
+    },
+    {
+      "title": "Ways of Minimizing Waste",
+      "content": "Waste reduction strategies focus on reusing and recycling materials.",
+      "points": [
+        "Recycling: Processing materials to be reused.",
+        "Reusing: Finding new uses for discarded items.",
+        "Reduction at Source: Using fewer materials to decrease waste generation."
+      ]
+    },
+    {
+      "title": "Recycling of Metals and Plastics",
+      "content": "The recycling process involves several important steps to prepare materials for reuse.",
+      "points": [
+        "Collection: Gathering recyclables from disposal sites.",
+        "Sorting: Organizing by type, color, and manufacturing method.",
+        "Cleaning: Removing impurities.",
+        "Resizing: Shredding into smaller pieces.",
+        "Identification: Testing for quality and classification.",
+        "Compounding: Melting and reshaping into pellets for new products."
+      ]
+    },
+    {
+      "title": "Importance of Recycling Metals and Plastics",
+      "content": "Recycling has environmental, economic, and resource benefits.",
+      "points": [
+        "Preserves natural resources by reducing raw material extraction.",
+        "Reduces greenhouse gas emissions from manufacturing.",
+        "Saves costs on mining and processing.",
+        "Supports economic development by freeing resources for other programs.",
+        "Generally cheaper than producing new materials."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Oxidation and Reduction",
+  "subsections": [
+    {
+      "title": "Oxidation",
+      "content": "Oxidation is a chemical process involving addition of oxygen, removal of hydrogen, loss of electrons, or increase in oxidation number.",
+      "points": [
+        "Addition of oxygen: e.g., 2Mg (s) + O2 (g) → 2MgO (s), magnesium gains oxygen and is oxidized.",
+        "Removal of hydrogen: e.g., Ethanol oxidized to ethanal by losing hydrogen atoms: CH3CH2OH → CH3CHO + 2H.",
+        "Loss of electrons: Mg → Mg2+ + 2e-. Electrons lost are shown on products side.",
+        "Increase in oxidation number: Na → Na+ + e-. Sodium's charge increases from 0 to +1 during oxidation."
+      ]
+    },
+    {
+      "title": "Reduction",
+      "content": "Reduction involves removal of oxygen, addition of hydrogen, gain of electrons, or decrease in oxidation number.",
+      "points": [
+        "Removal of oxygen: e.g., 2CuO (s) + C (s) → 2Cu (s) + CO (g), copper oxide loses oxygen and is reduced.",
+        "Addition of hydrogen: e.g., N2 (g) + 3H2 (g) → 2NH3 (g), nitrogen gains hydrogen and is reduced.",
+        "Gain of electrons: O2 + 4e- → 2O2-. Electrons gained are shown on reactants side.",
+        "Decrease in oxidation number: Cl2 + 2e- → 2Cl-, chlorine's charge decreases from 0 to -1 during reduction."
+      ]
+    },
+    {
+      "title": "Oxidation Numbers",
+      "content": "Oxidation number is the charge assigned to an atom in a compound or ion, indicating electron loss or gain during reactions.",
+      "points": [
+        "Oxidation number of uncombined elements is zero (e.g., C, Cl2, Fe, H2 = 0).",
+        "Hydrogen usually has +1, oxygen usually has -2 oxidation number.",
+        "Sum of oxidation numbers in a neutral compound equals zero (e.g., H2O: 2(+1) + (-2) = 0).",
+        "Oxidation number of monatomic ions equals their charge (e.g., Na+ = +1, Cl- = -1).",
+        "Sum of oxidation numbers in polyatomic ion equals ion charge (e.g., SO4^2-)."
+      ]
+    },
+    {
+      "title": "Examples of Calculating Oxidation Numbers",
+      "content": "Worked examples to calculate oxidation numbers and determine oxidation or reduction.",
+      "points": [
+        "Na in NaCl: Na = +1, Cl = -1 since sum = 0.",
+        "S in SO4^2-: Let S = y, y + 4(-2) = -2 → y = +6.",
+        "Mn in MnO4^-: Let Mn = z, z + 4(-2) = -1 → z = +7, Mn changes from +7 to +2 in Mn2+, so Mn is reduced."
+      ]
+    },
+    {
+      "title": "Half Equations in Redox Reactions",
+      "content": "Half equations show separately oxidation and reduction reactions involving electron transfer.",
+      "points": [
+        "Oxidation: Na → Na+ + e- (electron lost by sodium).",
+        "Reduction: Cl2 + 2e- → 2Cl- (electrons gained by chlorine).",
+        "Together these form a redox reaction: 2Na + Cl2 → 2NaCl."
+      ]
+    },
+    {
+      "title": "Spectator Ions and Net Ionic Equations",
+      "content": "Spectator ions do not participate in the reaction and can be excluded in net ionic equations.",
+      "points": [
+        "In Fe + CuSO4 → Cu + FeSO4, SO4^2- is spectator ion.",
+        "Net ionic equation: Fe (s) + Cu2+ (aq) → Fe2+ (aq) + Cu (s)."
+      ]
+    },
+    {
+      "title": "Balancing Redox Equations",
+      "content": "Redox equations must balance both mass and charge by ensuring electrons lost equal electrons gained.",
+      "points": [
+        "Charge balance rule: Sum of charges LHS = Sum of charges RHS in ionic equations.",
+        "Example: Fe → Fe2+ + 2e- (oxidation), Cu2+ + 2e- → Cu (reduction), electrons lost = electrons gained.",
+        "Overall balanced reaction: Fe + Cu2+ → Fe2+ + Cu."
+      ]
+    },
+    {
+      "title": "Writing Overall Equations from Half Equations",
+      "content": "Combine oxidation and reduction half equations by equalizing and canceling electrons to write the full balanced equation.",
+      "points": [
+        "Example 1: Mg (s) → Mg2+ + 2e- and Cu2+ + 2e- → Cu (s). Full reaction: Mg (s) + Cu2+ (aq) → Mg2+ (aq) + Cu (s).",
+        "Example 2: Zn (s) → Zn2+ + 2e- and Ag+ + e- → Ag (s). To balance electrons, multiply Ag+ reduction half by 2:",
+        "2Ag+ + 2e- → 2Ag (s). Full reaction: Zn (s) + 2Ag+ (aq) → Zn2+ (aq) + 2Ag (s)."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Oxidising Agents, Reducing Agents and Reactivity of Metals",
+  "subsections": [
+    {
+      "title": "Oxidising Agents and Reducing Agents",
+      "content": "Oxidising and reducing agents are reactants in redox reactions. An oxidising agent causes oxidation by accepting electrons and is itself reduced. A reducing agent causes reduction by donating electrons and is itself oxidised.",
+      "points": [
+        "Oxidising agent accepts electrons and is reduced.",
+        "Reducing agent donates electrons and is oxidised."
+      ]
+    },
+    {
+      "title": "Examples of Oxidising and Reducing Agents",
+      "content": "Write oxidation and reduction half equations and identify the oxidising and reducing agents in given reactions.",
+      "points": [
+        
+          "example Cu (s) + 2Ag+ (aq) → Cu2+ (aq) + 2Ag (s)",
+          "oxidation_half Cu (s) → Cu2+ (aq) + 2e-",
+          "reduction_half 2Ag+ (aq) + 2e- → 2Ag (s)",
+          "reducing_agent Cu (s) - charge increases from 0 to +2",
+          "oxidising_agent Ag+ (aq) - charge decreases from +1 to 0",
+          "example Cl2 (aq) + 2Br- (aq) → 2Cl- (aq) + Br2 (aq)",
+          "oxidation_half 2Br- (aq) → Br2 (aq) + 2e-",
+          "reduction_half Cl2 (aq) + 2e- → 2Cl- (aq)",
+          "reducing_agent Br- (aq)",
+          "oxidising_agent Cl2 (aq)",
+          "example Zn (s) + Pb(NO3)2 → Zn(NO3)2 + Pb (s)",
+          "oxidation_half Zn (s) → Zn2+ + 2e-",
+          "reduction_half Pb2+ (aq) + 2e- → Pb (s)",
+          "reducing_agent Zn (s)",
+          "oxidising_agent Pb2+ (aq)"
+       
+      ]
+    },
+    {
+      "title": "Order of Reactivity of Metals",
+      "content": "The order of reactivity of metals is based on reactions with water, acids, and displacement reactions.",
+      "points": [
+        "Reactions of metals with water produce basic solutions or oxides and hydrogen gas.",
+        "Reactions of metals with hydrochloric acid produce salt solutions and hydrogen gas.",
+        "Displacement reactions involve one metal displacing another from solution."
+      ]
+    },
+    {
+      "title": "Displacement Reactions of Metals",
+      "content": "A metal displacement reaction occurs when a metal in solid form displaces another metal from its aqueous solution.",
+      "points": [
+        "Example: Iron metal placed in copper (II) sulphate solution.",
+        "Observation: Iron dissolves, copper deposits on iron, and solution color changes from blue to pale green.",
+        "Explanation: Iron oxidised to Fe2+, copper ions reduced to copper metal.",
+        "Iron is more reactive than copper because it displaces copper from solution."
+      ]
+    },
+    {
+      "title": "Displacement Series (Activity Series)",
+      "content": "The displacement series arranges metals by chemical reactivity, showing which metals can displace others from solution.",
+      "points": [
+        "Most reactive metals are at the top; least reactive at the bottom.",
+        "Metals high in the series can displace metals below them from compounds.",
+        "Metals high in the series are strong reducing agents (electropositive)."
+      ]
+    },
+    {
+      "title": "The Electrochemical Series",
+      "content": "The electrochemical series lists half equations showing metals' tendency to donate electrons and predicts displacement reactions.",
+      "points": [
+        "Elements above can displace ions of those below from solution.",
+        "Elements below cannot displace ions of those above.",
+        "Example half equations include:",
+        "K (s) - e- → K+ (aq)",
+        "Na (s) - e- → Na+ (aq)",
+        "... (full list as provided)",
+        "Reactions only occur if the metal atom is above the metal ion in the series."
+      ]
+    },
+    {
+      "title": "Positions of Metals in Electrochemical Series and Their Importance",
+      "content": "Positions in the series predict if a displacement reaction will occur and indicate the reaction rate.",
+      "points": [
+        "Reaction occurs if metal atom is higher than the metal ion in solution.",
+        "Reaction does not occur if metal atom is lower than the metal ion.",
+        "Greater difference in position results in faster reactions.",
+        "Example: Zn reacts quickly with CuSO4; Sn reacts slowly with CuSO4."
+      ]
+    },
+    {
+      "title": "Experiment: Investigating Displacement Reactions of Metals",
+      "content": "An experiment to observe displacement reactions using copper, zinc, iron, and magnesium metals and their sulphate solutions.",
+      "points": [
+        "Pour 2 cm³ of copper sulphate solution into four beakers.",
+        "Clean metals with sandpaper and place each into beakers with copper sulphate.",
+        "Record reaction or no reaction.",
+        "Repeat with zinc sulphate, iron sulphate, and magnesium sulphate.",
+        "Use results to order metals by increasing reactivity.",
+        "Hint: The metal reacting with all solutions is most reactive; the one reacting with none is least reactive."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "The Electrochemical Cell and Related Concepts",
+  "subsections": [
+    {
+      "title": "The Electrochemical Cell",
+      "content": "An electrochemical cell consists of metallic electrodes placed in an electrolyte where a chemical reaction generates or uses electricity. Cells that generate electric current are called voltaic or galvanic cells.",
+      "points": [
+        "Metal electrodes are placed in electrolyte solutions.",
+        "Chemical reactions in the cell produce electrical energy.",
+        "Voltaic (galvanic) cells generate electric current."
+      ]
+    },
+    {
+      "title": "Voltaic Cells",
+      "content": "Voltaic cells have two half-cells with electrolyte solutions and electrodes connected in a circuit. Two dissimilar metals are dipped in electrolyte, where one metal oxidizes and the other reduces.",
+      "points": [
+        "Consist of two half-cells, each with electrode and electrolyte.",
+        "Electrons flow from the more reactive metal (anode) to less reactive metal (cathode).",
+        "Oxidation occurs at anode; reduction occurs at cathode.",
+        "Salt bridge allows ion flow but prevents mixing of solutions."
+      ]
+    },
+    {
+      "title": "How Voltaic Cells Work",
+      "content": "Electrons move from anode to cathode. For example, in a zinc-copper cell, zinc atoms oxidize to Zn2+ releasing electrons, and copper ions reduce to copper metal by gaining electrons.",
+      "points": [
+        "Oxidation at anode: Zn (s) → Zn2+ (aq) + 2e−",
+        "Reduction at cathode: Cu2+ (aq) + 2e− → Cu (s)",
+        "Overall reaction: Zn (s) + Cu2+ (aq) → Zn2+ (aq) + Cu (s)",
+        "Salt bridge maintains ion balance without mixing solutions."
+      ]
+    },
+    {
+      "title": "Cell Notation of Galvanic Cells",
+      "content": "Standard notation represents the cell components and their phases, showing electrodes and electrolytes separated by boundaries and salt bridge.",
+      "points": [
+        "Format: anode|anode.electrolyte||cathode.electrolyte|cathode",
+        "Example: Zn(s)|Zn2+ (aq)||Cu2+ (aq)|Cu(s)",
+        "| represents phase boundary; || represents salt bridge."
+      ]
+    },
+    {
+      "title": "Standard Electrode Potentials",
+      "content": "Each half-reaction has a specific voltage called electrode potential. The difference in potentials between two electrodes determines the EMF of the cell, measured in volts.",
+      "points": [
+        "Electrode potential varies due to metal reactivity.",
+        "Higher electrode potential means stronger tendency to gain electrons.",
+        "Metals high in the series have higher electrode potentials and donate electrons easily.",
+        "Voltage series lists standard potentials of metals."
+      ]
+    },
+    {
+      "title": "Voltage Series",
+      "content": "The voltage series ranks metals by their standard electrode potentials (in volts).",
+      "points": [
+        "K (s) → K+ (aq): -2.92 V",
+        "Na (s) → Na+ (aq): -2.71 V",
+        "Mg (s) → Mg2+ (aq): -2.31 V",
+        "Al (s) → Al3+ (aq): -1.67 V",
+        "Zn (s) → Zn2+ (aq): -0.76 V",
+        "Fe (s) → Fe2+ (aq): -0.44 V",
+        "Sn (s) → Sn2+ (aq): -0.14 V",
+        "Pb (s) → Pb2+ (aq): -0.12 V",
+        "H2 (g) → 2H+ (aq): 0.00 V",
+        "Cu (s) → Cu2+ (aq): +0.34 V",
+        "Ag (s) → Ag+ (aq): +0.80 V"
+      ]
+    },
+    {
+      "title": "Using the Voltage Series",
+      "content": "EMF of a voltaic cell depends on the difference between oxidation and reduction electrode potentials. Metals far apart in series produce larger EMFs.",
+      "points": [
+        "EMF = Reduction potential + Oxidation potential",
+        "Greater difference in potentials = stronger cell voltage",
+        "Small differences yield lower voltages."
+      ]
+    },
+    {
+      "title": "Calculating Electromotive Force (EMF)",
+      "content": "Steps to calculate EMF involve writing half equations, using standard potentials, reversing oxidation sign, and adding potentials.",
+      "points": [
+        "Write half equations for oxidation and reduction.",
+        "Find electrode potentials from voltage series.",
+        "Reverse sign of oxidation potential.",
+        "Add potentials to find EMF.",
+        "Positive EMF indicates spontaneous reaction."
+      ],
+      "example": {
+        "problem": "Calculate EMF of Zn(s)|Zn2+ (aq)||Cu2+ (aq)|Cu(s)",
+        "solution": [
+          "Reduction half: Cu2+ + 2e- → Cu (E0 = +0.34 V)",
+          "Oxidation half: Zn → Zn2+ + 2e- (E0 = -0.76 V, reversed to +0.76 V)",
+          "EMF = 0.34 + 0.76 = 1.10 V"
+        ]
+      }
+    },
+    {
+      "title": "Corrosion and Rusting",
+      "content": "Corrosion is the degradation of metals by reaction with oxygen and water. Rusting is the oxidation of iron forming hydrated iron (III) oxide.",
+      "points": [
+        "Corrosion involves metal oxidation to oxides.",
+        "Example: 4Fe + 3O2 → 2Fe2O3 (iron oxide)",
+        "Rust forms when iron oxide reacts with water: 2Fe2O3 + H2O → 2Fe2O3·H2O",
+        "Rust is a soft, crumbly brown solid."
+      ]
+    },
+    {
+      "title": "Rusting as a Redox Reaction",
+      "content": "Rusting involves oxidation of iron and reduction of oxygen and water, leading to formation of rust.",
+      "points": [
+        "Iron oxidation: Fe (s) → Fe2+ (aq) + 2e-",
+        "Water and oxygen reduction: 2H2O + O2 + 4e- → 4OH-",
+        "Hydroxide ions react with Fe2+ and water forming rust.",
+        "Net ionic: 2Fe2+ + O2 → 4Fe3+ + 2O2-"
+      ]
+    },
+    {
+      "title": "Conditions for Rusting",
+      "content": "Rusting requires the presence of both oxygen and water. Without either, rusting does not occur.",
+      "points": [
+        "Oxygen must be present.",
+        "Water must be present."
+      ]
+    },
+    {
+      "title": "Investigating Conditions for Rusting",
+      "content": "An experiment with iron nails in different environments demonstrates the necessity of oxygen and water for rusting.",
+      "points": [
+        "Test tubes with nail + tap water (with oxygen), boiled water + oil (no oxygen), and calcium chloride (no water).",
+        "Nail rusts only in tap water tube.",
+        "No rust in tubes missing either oxygen or water."
+      ]
+    },
+    {
+      "title": "Prevention of Rusting",
+      "content": "Methods to prevent rusting include coating, alloying, galvanizing, and electroplating.",
+      "points": [
+        "Painting: blocks water and oxygen contact.",
+        "Greasing/oiling: prevents water and oxygen interaction.",
+        "Alloying: mixing metals to form corrosion-resistant alloys (e.g. stainless steel).",
+        "Galvanizing: coating iron with zinc, which sacrificially oxidizes instead of iron.",
+        "Plastic coating: physical barrier to oxygen and water.",
+        "Electroplating: coating metal with thin layer of another metal using electrolysis."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Topic 4: Electrolysis",
+  "subsections": [
+    {
+      "title": "Definition of Electrolysis",
+      "content": "Electrolysis is the decomposition of a compound in molten or aqueous state using electrical energy. It is carried out in an electrochemical cell and works on ionic compounds that are melted or dissolved in water, as well as covalent compounds that form ions in water.",
+      "points": [
+        "Electrolysis decomposes molten or aqueous ionic compounds using electricity.",
+        "Ions must be free to move for electrolysis to occur.",
+        "Works for ionic compounds and covalent compounds that ionize in water."
+      ]
+    },
+    {
+      "title": "Components of an Electrochemical Cell",
+      "content": "An electrochemical cell for electrolysis consists of dry cells, ammeter, bulb, graphite rods (electrodes), and an electrolyte.",
+      "points": [
+        "Electrolyte conducts electricity and decomposes during electrolysis.",
+        "Graphite rods serve as electrodes: anode (+) connected to positive terminal, cathode (-) connected to negative terminal.",
+        "Dry cells provide direct current.",
+        "Bulb or ammeter indicates current flow."
+      ]
+    },
+    {
+      "title": "Electrolysis of Molten Ionic Compounds",
+      "content": "Example: Electrolysis of molten lead bromide where lead ions (Pb2+) move to cathode and bromide ions (Br-) move to anode, producing lead metal and bromine gas.",
+      "points": [
+        "Electrons flow from negative terminal to cathode.",
+        "Pb2+ ions gain electrons (reduction) at cathode: Pb2+ + 2e- → Pb",
+        "Br- ions lose electrons (oxidation) at anode: 2Br- → Br2 + 2e-",
+        "Metal is produced at cathode; non-metal at anode.",
+        "Pb2+ + 2Br- → Pb + Br2"
+      ]
+    },
+    {
+      "title": "Electrolysis of Aqueous Ionic Compounds",
+      "content": "In aqueous solutions, water also ionizes, so H+ and OH- ions compete with other ions for discharge at electrodes. Discharge depends on reactivity and ion concentration.",
+      "points": [
+        "At cathode: metal or hydrogen formed.",
+        "If metal is more reactive than hydrogen, H+ ions discharge forming hydrogen gas.",
+        "If metal less reactive than hydrogen, metal ions discharge forming metal.",
+        "At anode: halide ions (Cl-, Br-, I-) discharge preferentially if present, else OH- ions discharge producing oxygen gas.",
+        "This selective discharge is called preferential discharge."
+      ]
+    },
+    {
+      "title": "Demonstration of Preferential Discharge",
+      "content": "Electrolysis of brine (concentrated NaCl solution) where hydrogen gas forms at cathode and chlorine gas at anode, leaving Na+ and OH- ions in solution forming sodium hydroxide.",
+      "points": [
+        "Cathode reaction: 2H+ + 2e- → H2 (gas)",
+        "Anode reaction: 2Cl- → Cl2 (gas) + 2e-",
+        "Sodium hydroxide solution forms from remaining ions."
+      ]
+    },
+    {
+      "title": "Electrolysis of Dilute Sodium Chloride",
+      "content": "In dilute solution, hydrogen ions discharge at cathode forming hydrogen gas, and hydroxide ions discharge at anode forming oxygen gas instead of chlorine.",
+      "points": [
+        "Cathode: 4H+ + 4e- → 2H2 (gas)",
+        "Anode: 4OH- → O2 (gas) + 2H2O + 4e-",
+        "This process is essentially the electrolysis of water."
+      ]
+    },
+    {
+      "title": "Effects of Electrodes on Electrolysis",
+      "content": "Results of electrolysis vary with electrode types, inert or reactive.",
+      "points": [
+        "Inert electrodes (e.g., graphite, platinum) do not react and allow current flow.",
+        "Using inert electrodes in copper sulfate: Cu2+ ions discharge at cathode to form copper; OH- ions discharge at anode producing oxygen gas.",
+        "Using copper electrodes: anode dissolves releasing Cu2+ ions; cathode copper deposition occurs, solution color remains."
+      ]
+    },
+    {
+      "title": "Writing Half-Equations for Electrode Reactions",
+      "content": "Steps to write correct half-equations:",
+      "points": [
+        "Identify ions and products.",
+        "Positive ions go to cathode; negative ions go to anode.",
+        "Use correct elemental symbols (e.g., Cl2 not Cl).",
+        "Balance electrons to match charges."
+      ]
+    },
+    {
+      "title":  "Write half-equations for electrolysis of molten magnesium chloride.",
+        "content": "Mg2+ + 2e- → Mg (l)",
+          "points": ["2Cl- → Cl2 (g) + 2e-"
+          ]
+      }
+  ]
+},
+    {
+  "title": "Uses of Electrolysis",
+  "content": "Electrolysis is applied in various important industrial and purification processes.",
+  "points": [],
+  "subsections": [
+    {
+      "title": "Extraction of Metals",
+      "content": "Less reactive metals are extracted by dipping a more reactive metal into their aqueous compound, causing displacement.",
+      "points": [
+        "Example reaction: Fe (s) + CuSO4 (aq) → Cu (s) + FeSO4 (aq)"
+      ]
+    },
+    {
+      "title": "Purification of Metals",
+      "content": "Impure metal anode dissolves, pure metal deposits at cathode; impurities settle at bottom.",
+      "points": [
+        "Anode reaction: Cu (s) → Cu2+ (aq) + 2e-",
+        "Cathode reaction: Cu2+ (aq) + 2e- → Cu (s)"
+      ]
+    },
+    {
+      "title": "Electroplating",
+      "content": "Coating a metal with a thin layer of another metal using electrolysis to improve appearance, prevent corrosion, or increase size/strength.",
+      "points": [
+        "Clean the metal to be plated.",
+        "Choose electrolyte with desired metal ions.",
+        "Use direct current; metal to be plated is cathode, coating metal is anode.",
+        "Example: Electroplating iron with copper – Cu anode dissolves to Cu2+ ions; Cu2+ ions are reduced to copper on iron cathode."
+      ]
+    },
+    {
+      "title": "Applications and Benefits of Electroplating",
+      "content": "Electroplating offers many advantages in industry and daily life.",
+      "points": [
+        "Makes objects attractive (e.g., silver-plated jewelry).",
+        "Protects metals from corrosion (e.g., chromium-plated steel bumpers).",
+        "Increases metal size or strength by layering.",
+        "Used for extracting and purifying metals (e.g., copper)."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Isomerism",
+  "content": "Isomerism is the existence of compounds with the same molecular formula but different structural formulae.",
+  "points": [],
+  "subsections": [
+    {
+      "title": "Isomers",
+      "content": "Isomers are compounds having the same molecular formula but different structural formulae.",
+      "points": []
+    },
+    {
+      "title": "Conformers",
+      "content": "Conformations are compounds that differ from each other by rotation of a single bond in the molecule.",
+      "points": [
+        "Conformers have the same molecular formula and structural formula but differ in shape due to bending, twisting, or turning of carbon–carbon bonds.",
+        "Bending or twisting C–C bonds does not change the molecular structure."
+      ]
+    },
+    {
+      "title": "Identifying Isomers or Conformers",
+      "content": "To decide if structures are isomers or conformers, check for branches or junctions and use the following steps:",
+      "points": [
+        "Work out the carbon skeleton to understand the molecule's structure.",
+        "Choose and number the longest carbon chain (parent chain) to locate junctions.",
+        "Name the compounds: isomers have different names, conformers have the same name.",
+        "Conformations have no junctions and same names (e.g., normal hexane).",
+        "Isomers have different structural formulae and names."
+      ]
+    },
+    {
+      "title": "Types of Structural Isomerism",
+      "content": "There are two types of structural isomerism: chain isomerism and position isomerism.",
+      "points": [
+        "Chain isomerism: difference in how carbon atoms connect (different carbon skeleton).",
+        "Position isomerism: difference in position of a functional group within the molecule."
+      ]
+    },
+    {
+      "title": "Naming Isomers",
+      "content": "Isomers are named systematically depending on their type and homologous series.",
+      "points": []
+    },
+    {
+      "title": "Rules for Naming Isomers of Alkanes",
+      "content": "Alkanes show only chain isomerism and have the following naming rules:",
+      "points": [
+        "Write the carbon skeleton (e.g., C5H12).",
+        "Number the parent chain starting nearest the first branch.",
+        "Count carbon atoms to assign base name.",
+        "Name attached alkyl groups (methyl, ethyl, propyl, butyl).",
+        "Straight chain alkanes use prefix 'n-' for normal (no branches).",
+        "State positions of branches and write final name (numbers before alkyl names).",
+        "Use prefixes di-, tri-, tetra- for multiple identical alkyl groups."
+      ]
+    },
+    {
+      "title": "Rules for Naming Isomers of Alkenes",
+      "content": "Alkenes show both chain and position isomerism due to the C=C double bond:",
+      "points": [
+        "Write the carbon skeleton (e.g., C5H10).",
+        "Choose and number parent chain starting nearest functional group.",
+        "Count carbons for base name.",
+        "Indicate position of double bond by lowest number before '-ene' (e.g., pent-1-ene).",
+        "State position and type of alkyl groups for full name."
+      ]
+    },
+    {
+      "title": "Rules for Naming Isomers of Alkanols",
+      "content": "Alkanols contain –OH group and show chain and position isomerism:",
+      "points": [
+        "Draw straight chain carbon skeleton and name it.",
+        "Place functional group and branches correctly.",
+        "Number parent chain so carbon with –OH has lowest number.",
+        "Indicate position of –OH by number before '-ol' (e.g., butan-2-ol).",
+        "Example: name all isomers of pentanol (C5H11OH)."
+      ]
+    },
+    {
+  "title": "Rules for Naming Isomers of Alkanals",
+  "content": "Alkanals are compounds with a carbonyl functional group (-CO). They exhibit only chain isomerism because the functional group is always at the end of the molecule.",
+  "points": [
+    "Alkanals do not show position isomerism due to the fixed position of the carbonyl group.",
+    "Example 1: Write down all structural isomers of butanal (C3H7CHO).",
+    "Example 2: Write down and name all structural isomers of pentanal (C4H9CHO)."
+  ]
+    },
+    
+    {
+      "title": "Rules for Naming Isomers of Alkanones",
+      "content": "Alkanones have a carbonyl functional group similar to alkanals but exhibit both chain and position isomerism because the carbonyl group can be located at different positions in the molecule.",
+      "points": [
+        "Position of the carbonyl group is indicated by the carbon number placed before '-one'.",
+        "Examples: butan-2-one, pentan-3-one.",
+        "Example: Write down and name all structural isomers of pentanone (C5H10O)."
+      ]
+    },
+    {
+      "title": "Rules for Naming Isomers of Alkanoic Acids",
+      "content": "Alkanoic acids contain the carboxyl group (-COOH) and exhibit only chain isomerism.",
+      "points": [
+        "The functional group is fixed at the end of the molecule, so no position isomerism occurs.",
+        "Example: Write down and name all structural isomers of pentanoic acid (C4H9COOH)."
+      ]
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+    {
   "title": "Chemical Bonding",
   "subsections": [
     {

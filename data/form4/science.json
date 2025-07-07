@@ -215,6 +215,57 @@
 },
  
 {
+  "title": "Rates of Reactions",
+  "content": "Explains the rate of chemical reactions, factors affecting reaction rates, methods to measure rates, and differences between reversible and irreversible reactions.",
+  "subsections": [
+    {
+      "title": "Rate of Reaction",
+      "content": "The rate of a chemical reaction measures how quickly a reactant is consumed or a product is formed, expressed as the change in amount per unit time.",
+      "points": [
+        "Define the term 'rate of reaction'.",
+        "What does the collision theory state about chemical reactions?",
+        "Explain the meaning of activation energy.",
+        "Why must collisions between reactant particles have enough energy?",
+        "How does the rate of reaction relate to successful collisions?"
+      ]
+    },
+    {
+      "title": "Factors Affecting the Rate of Reaction",
+      "content": "Discusses how concentration, temperature, surface area, and catalysts influence the rate of chemical reactions.",
+      "points": [
+        "How does increasing the concentration of reactants affect the rate of reaction?",
+        "Explain the effect of temperature on the rate of reaction.",
+        "Why does increasing the surface area of solid reactants speed up a reaction?",
+        "What is the role of a catalyst in chemical reactions?",
+        "How does a catalyst affect activation energy?"
+      ]
+    },
+    {
+      "title": "Methods of Measuring Rates of Reactions",
+      "content": "Describes different techniques for measuring how fast reactions occur, including volume of gas produced and change in mass.",
+      "points": [
+        "List four methods used to measure the rate of reaction.",
+        "How is the volume of gas produced used to measure reaction rate?",
+        "Explain how to measure rate by monitoring change in mass.",
+        "What does measuring the time for a reactant to disappear involve?",
+        "How can product formation be used to determine reaction rate?"
+      ]
+    },
+    {
+      "title": "Reversible and Irreversible Reactions",
+      "content": "Defines reversible and irreversible reactions with examples, highlighting differences in product and reactant conversion.",
+      "points": [
+        "Define a reversible reaction and give an example involving copper(II) sulfate.",
+        "Explain the dehydration and hydration processes in the reversible reaction of copper(II) sulfate.",
+        "Write the overall reversible reaction equation for copper(II) sulfate hydration and dehydration.",
+        "Define an irreversible reaction and give an example involving calcium carbonate.",
+        "Why can't the decomposition of calcium carbonate be reversed?"
+      ]
+    }
+  ]
+},
+
+{
   "title": "Mango, Pasture, Crop processing and Cattle",
   "subsections": [
 {
