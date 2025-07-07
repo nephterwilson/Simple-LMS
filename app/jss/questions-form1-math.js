@@ -40,18 +40,7 @@ const quizData = {
         answer: "5"
       }
     ],
-      "Algebra": [
-      {
-        question: "Simplify: 2x + 3x",
-        options: ["5", "2x3x", "6x", "5x"],
-        answer: "5x"
-      },
-      {
-        question: "What is the value of x if 2x = 10?",
-        options: ["2", "3", "4", "5"],
-        answer: "5"
-      }
-    ],
+  
       "Vectors": [
       {
         question: "Simplify: 2x + 3x",

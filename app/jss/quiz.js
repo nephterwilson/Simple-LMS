@@ -1,4 +1,9 @@
-let currentSubject = "mathematics"; // Default subject
+
+
+
+
+
+var currentSubject = typeof currentSubject !== "undefined" ? currentSubject : "mathematics";
 let currentTopic = null;
 let questions = [];
 let currentQuestion = 0;
@@ -6,8 +11,12 @@ let userAnswers = [];
 let timeLeft = 300; // 5 minutes in seconds
 let timerInterval;
 
+
 // Renders topic selection UI
 function renderTopicSelection() {
+  console.log("Loading subject:", currentSubject);
+console.log("Topics:", quizData[currentSubject]);
+
   const container = document.getElementById("quiz-container");
   const topics = Object.keys(quizData[currentSubject]);
   
