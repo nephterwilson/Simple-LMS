@@ -1,0 +1,33 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Form 2 History Quiz</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen py-8 px-4">
+  <div class="max-w-3xl mx-auto bg-white rounded-lg shadow-lg p-6">
+    <div class="flex justify-between items-center mb-4">
+      <h2 class="text-2xl font-bold text-green-700">Form 2 History Quiz</h2>
+      <div id="timer" class="text-lg font-semibold text-red-600">Time: 05:00</div>
+    </div>
+    <div class="w-full bg-gray-300 h-3 rounded mb-4">
+      <div id="progress-bar" class="h-3 bg-green-500 rounded" style="width: 0%"></div>
+    </div>
+    <div id="quiz-container"></div>
+    <div class="mt-6 flex justify-between">
+      <button id="prev-btn" class="bg-gray-300 text-gray-700 px-4 py-2 rounded" disabled>Previous</button>
+      <button id="next-btn" class="bg-green-600 text-white px-4 py-2 rounded">Next</button>
+    </div>
+  </div>
+  <script>
+    var currentSubject = "history";
+  </script>
+  <script src="../Q2/questions-form2-history.js"></script>
+  <script src="../jss/quiz.js"></script>
+</body>
+</html>
