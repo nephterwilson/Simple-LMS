@@ -5,8 +5,1324 @@
   "subject": "Biology",
   "topics": [
    
+
+    {
+  "title": "Plant Structure and Their Functions",
+  "subsections": [
+    {
+      "title": "Success Criteria",
+      "content": "Learning goals for students on the structure and functions of plants.",
+      "points": [
+        "Describe structure and functions of plants.",
+        "Discuss the functions of leaves, stems and roots.",
+        "Identify the internal structure of flowering plants (leaves, stems and roots).",
+        "Explain the functions of parts of a leaf (cuticle, epidermis, stomata, mesophyll cells, veins).",
+        "Identify distribution of stomata on the upper and lower sides of a leaf.",
+        "Describe the process of photosynthesis.",
+        "Discuss the conditions and raw materials necessary for photosynthesis (light, carbon dioxide and chlorophyll)."
+      ]
+    },
+    {
+      "title": "External Leaf Structure",
+      "content": "Descriptions and functions of external parts of a leaf.",
+      "points": [
+        "Petiole: Narrow stalk attaching leaf to stem.",
+        "Lamina: Thin, flat part for photosynthesis; large surface area.",
+        "Midrib: Central thick bundle with vascular bundles; supports and conducts water and food.",
+        "Veins: Smaller bundles from midrib; form net-vein appearance; supply water to cells.",
+        "Leaf margin types: smooth, dentate, serrated, entire.",
+        "Leaf size depends on environment: arid = small/needle-like; wet = broad leaves."
+      ]
+    },
+    {
+      "title": "Internal Leaf Structure",
+      "content": "Parts and functions inside the leaf related to photosynthesis.",
+      "points": [
+        "Cuticle: Waxy, transparent outer layer; waterproof; prevents water loss; protects against pathogens.",
+        "Epidermis: One-cell-thick, outer protective layer; lacks chloroplasts; secretes cuticle.",
+        "Stomata: Pores for gas exchange and transpiration; found on both leaf surfaces.",
+        "Guard cells: Bean-shaped with chloroplasts; control stomatal opening; thicker inner walls.",
+        "Palisade mesophyll: Main photosynthetic cells; many chloroplasts; under upper epidermis.",
+        "Spongy mesophyll: Loosely packed; air spaces for gas circulation; fewer chloroplasts.",
+        "Vascular bundle: Contains xylem (water) and phloem (food).",
+        "Chloroplasts: Photosynthesis organelle; has lamellae and matrix."
+      ]
+    },
+    {
+      "title": "Leaf Adaptations and Variations",
+      "content": "Modifications in leaves for survival and reproduction.",
+      "points": [
+        "Leaf tendrils for climbing.",
+        "Spines for protection against herbivores (e.g., cacti).",
+        "Pitchers to trap insects for nutrients.",
+        "Variations in leaf tips: pointed or rounded.",
+        "Venation: Networked (dicots) or parallel (monocots).",
+        "Compound leaves: Pinnate, bipinnate, trifoliate, digitate."
+      ]
+    },
+    {
+      "title": "Functions of Leaves",
+      "content": "The roles leaves play in plant survival.",
+      "points": [
+        "Sites for photosynthesis.",
+        "Store water and food in some plants.",
+        "Serve as reproductive organs in some species."
+      ]
+    },
+    {
+      "title": "Types and Structure of Stems",
+      "content": "Classification and anatomy of plant stems.",
+      "points": [
+        "Types: Erect, creeping, climbing, underground.",
+        "Underground types: Tuber (e.g., potato), rhizome (e.g., ginger), corm (e.g., gladiolus), bulb (e.g., onion).",
+        "External parts: Nodes, internodes, terminal buds, auxiliary buds, thorns/tendrils.",
+        "Dicot stem internal structure: Vascular bundles in rings, well-developed pith.",
+        "Monocot stem internal structure: Scattered vascular bundles, hollow/absent pith.",
+        "Both stems conduct substances, have epidermis, cortex and vascular bundles."
+      ]
+    },
+    {
+      "title": "Functions of Stems",
+      "content": "Key roles of stems in plant physiology.",
+      "points": [
+        "Support leaves and expose them to sunlight.",
+        "Store food in cortex.",
+        "Transport water and food.",
+        "Support flowers for pollination and seed dispersal.",
+        "Thorns protect against grazing."
+      ]
+    },
+    {
+      "title": "Root Systems",
+      "content": "Types, adaptations and functions of roots.",
+      "points": [
+        "Tap root: Develops from radicle (e.g., dicots).",
+        "Adventitious root: Grows from other parts (e.g., monocots).",
+        "Modified roots: Aerial, prop, buttress, climbing, breathing.",
+        "Functions: Anchor plant, absorb water/minerals, store food."
+      ]
+    },
     {
       "title": "Photosynthesis",
+      "content": "The process and importance of photosynthesis in plants.",
+      "points": [
+        "Green plants make food using carbon dioxide, water and sunlight.",
+        "Chlorophyll traps sunlight for photosynthesis.",
+        "Occurs in leaves, especially in chloroplasts.",
+        "Regulates atmospheric CO₂ and O₂.",
+        "Provides food for autotrophs; stores energy as glucose/starch."
+      ]
+    },
+    {
+      "title": "Photosynthesis Reactions",
+      "content": "Detailed stages of the photosynthesis process.",
+      "points": [
+        "Light Stage: Occurs in grana, includes photolysis (splitting of water) and ATP formation.",
+        "Dark Stage: Occurs in stroma; CO₂ fixed into carbohydrates using ATP and hydrogen.",
+        "Products: Oxygen (byproduct), glucose (stored as starch).",
+        "Word Equation: Carbon dioxide + water → glucose + oxygen.",
+        "Chemical Equation: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (in presence of light and chlorophyll)."
+      ]
+    },
+    {
+      "title": "Factors Affecting Photosynthesis",
+      "content": "Conditions that influence the rate of photosynthesis.",
+      "points": [
+        "Light intensity: Increases photosynthesis up to a maximum point.",
+        "Carbon dioxide concentration: Rate increases with CO₂ up to equilibrium.",
+        "Temperature: Low temp slows photosynthesis; very high temp denatures enzymes.",
+        "Chlorophyll amount: More chlorophyll = more photosynthesis.",
+        "Water: Essential for turgidity and reactant in photolysis."
+      ]
+    },
+    {
+      "title": "Photosynthesis Experiments",
+      "content": "Common lab procedures to verify photosynthesis.",
+      "points": [
+        "Testing for starch in leaves using iodine.",
+        "Demonstrating light, chlorophyll and CO₂ necessity using variegated leaves and flasks.",
+        "Showing oxygen release using aquatic plants and glowing splints.",
+        "Testing starch presence after blocking light (black paper foil experiment)."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Human Circulatory System",
+  "subsections": [
+    {
+      "title": "Success Criteria",
+      "content": "Learning outcomes for the human circulatory system.",
+      "points": [
+        "Describe the components of the human circulatory system and their functions.",
+        "Explain general functions of the heart and blood vessels.",
+        "Draw and label parts of the human circulatory system.",
+        "Explain the general blood circulation in the body.",
+        "Describe functions of components of blood.",
+        "Describe types of bleeding and their control."
+      ]
+    },
+    {
+      "title": "Circulatory System Overview",
+      "content": "The human circulatory system is divided into two parts.",
+      "points": [
+        "Blood circulatory system.",
+        "Lymph circulatory system.",
+        "Transports raw materials like oxygen and glucose.",
+        "Removes waste products such as carbon dioxide and urea.",
+        "Defends the body against disease-causing organisms."
+      ]
+    },
+    {
+      "title": "General Functions of Circulatory System",
+      "content": "Key functions of the blood and circulatory system.",
+      "points": [
+        "Transports oxygen from lungs to body tissues.",
+        "Transports food from intestines to tissues.",
+        "Transports hormones to target organs.",
+        "Removes waste like CO₂ and urea.",
+        "Protects against infections.",
+        "Maintains concentration of body substances (homeostasis).",
+        "Regulates body temperature (homeostasis)."
+      ]
+    },
+    {
+      "title": "Components of the Blood Circulatory System",
+      "content": "Main parts of the blood circulatory system.",
+      "points": [
+        "Heart – muscular pump made of cardiac muscle.",
+        "Blood vessels – arteries, veins and capillaries.",
+        "Blood – fluid transporting nutrients and waste."
+      ]
+    },
+    {
+      "title": "Structure of the Heart",
+      "content": "Description and parts of the human heart.",
+      "points": [
+        "Four chambers: Right auricle, Left auricle, Right ventricle, Left ventricle.",
+        "Heart is located in the pericardial cavity filled with fluid to reduce friction.",
+        "Cardiac muscles contract rhythmically from 4 weeks after fertilization to death.",
+        "Left side carries oxygenated blood (bright red).",
+        "Right side carries deoxygenated blood (dark red)."
+      ]
+    },
+    {
+      "title": "Differences in Heart Chambers",
+      "content": "Comparison between auricles and ventricles.",
+      "points": [
+        "Auricles receive blood; ventricles pump blood.",
+        "Auricles have thin walls; ventricles have thick walls.",
+        "Right ventricle pumps to lungs; left ventricle pumps to rest of body.",
+        "Left ventricle has thicker wall due to long-distance pumping."
+      ]
+    },
+    {
+      "title": "Heart Valves and Septum",
+      "content": "Internal control structures of the heart.",
+      "points": [
+        "Septum separates right and left sides to avoid blood mixing.",
+        "Semi-lunar valves – found in aorta and pulmonary artery.",
+        "Bicuspid valve – between left atrium and left ventricle.",
+        "Tricuspid valve – between right atrium and right ventricle.",
+        "Valves prevent backflow of blood."
+      ]
+    },
+    {
+      "title": "Types of Blood Vessels",
+      "content": "Classification and roles of blood vessels.",
+      "points": [
+        "Arteries – carry oxygenated blood away from the heart (except pulmonary artery), thick walls, no valves, high pressure.",
+        "Veins – carry deoxygenated blood to the heart (except pulmonary vein), thin walls, valves, low pressure.",
+        "Capillaries – very thin one-cell walls, no valves, allow exchange of gases and nutrients."
+      ]
+    },
+    {
+      "title": "Vessel Structure and Function Comparison",
+      "content": "Differences in structure and function between arteries, veins, and capillaries.",
+      "points": [
+        "Arteries: thick, elastic walls; narrow lumen; high pressure; no valves.",
+        "Veins: thinner walls; wide lumen; low pressure; valves at intervals.",
+        "Capillaries: very thin walls; very narrow lumen; leak fluid for tissue exchange.",
+        "Capillaries are the site for gas exchange (O₂ and CO₂)."
+      ]
+    },
+    {
+      "title": "Blood Supply to Organs",
+      "content": "How blood vessels serve various organs.",
+      "points": [
+        "Heart: supplied by coronary arteries and veins.",
+        "Lungs: pulmonary artery brings nutrients; pulmonary vein removes waste.",
+        "Kidneys: renal artery supplies blood; renal vein drains it.",
+        "Liver: served by hepatic blood vessels."
+      ]
+    },
+    {
+      "title": "Composition of Blood",
+      "content": "Parts and volume of blood in the body.",
+      "points": [
+        "Blood is composed of cells and plasma.",
+        "Plasma is the yellow liquid part (97% water, 3% dissolved substances).",
+        "Healthy adult has about 5.5 litres of blood.",
+        "Cells include red blood cells, white blood cells, and platelets."
+      ]
+    },
+    {
+      "title": "Red Blood Cells (RBCs)",
+      "content": "Structure, function, and formation of RBCs.",
+      "points": [
+        "Contain hemoglobin, lack nucleus, biconcave shape.",
+        "Formed in bone marrow (humerus, femur, sternum, ribs).",
+        "Destroyed in liver, spleen, bone marrow.",
+        "Hemoglobin transports oxygen to body cells.",
+        "Iron and vitamin B are essential for RBC and hemoglobin formation."
+      ]
+    },
+    {
+      "title": "White Blood Cells (WBCs)",
+      "content": "Types and functions of white blood cells.",
+      "points": [
+        "Help in defense against infection; have nucleus.",
+        "Two types: Phagocytes and Lymphocytes.",
+        "Phagocytes engulf germs; found in bone marrow, spleen, lymph nodes.",
+        "Neutrophils: digest bacteria at infection site.",
+        "Monocytes: clean infection site and digest dead cells.",
+        "Diapedesis: movement of phagocytes through capillaries.",
+        "Lymphocytes: produce antibodies (B-cells and T-cells).",
+        "T-cells activate B-cells and phagocytes; B-cells form plasma cells and memory cells."
+      ]
+    },
+    {
+      "title": "Lymph and Tissue Fluids",
+      "content": "Roles of lymph fluid and tissue fluid.",
+      "points": [
+        "Lymph fluid lubricates and supplies oxygen/food to organs (e.g., lungs).",
+        "Tissue fluid supplies oxygen and nutrients to cells; removes waste.",
+        "Lymphatic system returns tissue fluid to blood, transports fats, and destroys pathogens."
+      ]
+    },
+    {
+      "title": "Platelets and Plasma",
+      "content": "Functions and properties of platelets and blood plasma.",
+      "points": [
+        "Platelets are fragments formed in bone marrow; help clot blood.",
+        "Plasma is a yellow fluid transporting blood cells and substances.",
+        "Plasma distributes heat, supplies tissue fluid, and removes waste.",
+        "Antibodies released by plasma cells fight infections: antitoxins, lysins, agglutinins."
+      ]
+    },
+    {
+      "title": "Blood Circulation in the Heart",
+      "content": "Path and process of blood flow in the heart.",
+      "points": [
+        "Systole: contraction phase; pumps blood to lungs and body.",
+        "Diastole: relaxation phase; blood enters atria.",
+        "Right atrium receives blood from vena cava; right ventricle pumps it to lungs.",
+        "Oxygenated blood from lungs enters left atrium via pulmonary vein.",
+        "Left ventricle pumps it to the body via aorta.",
+        "Valves prevent backflow: tricuspid, bicuspid, semi-lunar."
+      ]
+    },
+    {
+      "title": "Blood Flow in Blood Vessels",
+      "content": "Differences in blood pressure and flow.",
+      "points": [
+        "Pulse caused by systolic and diastolic pressure, especially in arteries.",
+        "Arteries: high pressure, elastic to withstand pressure.",
+        "Veins: low pressure; valves prevent backflow."
+      ]
+    },
+    {
+      "title": "Double Circulatory System",
+      "content": "Description of the blood’s flow path in humans.",
+      "points": [
+        "Blood passes through the heart twice in one complete cycle.",
+        "Pulmonary circuit: heart → lungs → heart.",
+        "Systemic circuit: heart → body → heart.",
+        "Mass flow system: blood flows in one direction.",
+        "Closed system: blood flows within vessels only."
+      ]
+    },
+    {
+      "title": "Problems of the Circulatory System",
+      "content": "Diseases and conditions affecting the circulatory system.",
+      "points": [
+        "Malnutrition: lack of iron, protein, or vitamin C affects blood health.",
+        "Infectious diseases: malaria, bilharzia, amoeba dysentery, hookworms cause blood loss.",
+        "Anaemia: caused by nutrient deficiencies or excessive bleeding.",
+        "Vitamin C deficiency causes gum bleeding (vessel damage)."
+      ]
+    },
+    {
+      "title": "Types of Bleeding and Control",
+      "content": "Identification and treatment of bleeding.",
+      "points": [
+        "Arterial bleeding: severe, rapid blood loss.",
+        "Venous bleeding: steady flow.",
+        "Capillary bleeding: slow, oozing.",
+        "Control: medication, iron/protein/vitamin-rich foods, treating diseases early, blood transfusion."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Blood Donation",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Blood donation is the process whereby a healthy person voluntarily gives blood for use in blood transfusion to a patient.",
+      "points": [
+        "Helps save lives during emergencies and surgeries.",
+        "Blood collected is stored in blood banks under cool temperatures with anticoagulants.",
+        "Supports medical treatments such as for anaemia and malaria."
+      ]
+    },
+    {
+      "title": "Reasons for Blood Transfusion",
+      "content": "Blood transfusion is necessary in several medical situations.",
+      "points": [
+        "Excessive bleeding during childbirth.",
+        "Severe injuries or accidents.",
+        "Children with severe malaria.",
+        "Patients undergoing surgery.",
+        "Patients suffering from acute anaemia."
+      ]
+    },
+    {
+      "title": "Types of Blood Donors",
+      "content": "There are different types of blood donors based on motivation and relation to the recipient.",
+      "points": [
+        "Family Replacement Donors – family members donate to replace used blood.",
+        "Voluntary Non-Remunerated Donors – individuals donate out of goodwill without expecting payment.",
+        "Paid Donors – people who donate blood in exchange for money (not recommended for safety reasons)."
+      ]
+    },
+    {
+      "title": "Pre-Donation Counselling",
+      "content": "This is the first step before donating blood, ensuring safety and readiness of the donor.",
+      "points": [
+        "Donor is informed about the process and reassured.",
+        "Donor is advised to drink fluids after donation.",
+        "Donor is asked about their medical history, medication, and travel history.",
+        "Eligibility is determined based on health status and age."
+      ]
+    },
+    {
+      "title": "Eligibility Criteria",
+      "content": "These are requirements a donor must meet to be allowed to donate blood.",
+      "points": [
+        "Must be between 16 and 65 years old.",
+        "Must be healthy and not suffering from communicable diseases (e.g., HIV, Hepatitis B/C, syphilis).",
+        "Must have acceptable blood pressure and haemoglobin levels.",
+        "Screening questions assess lifestyle and health risks."
+      ]
+    },
+    {
+      "title": "Venipuncture",
+      "content": "Venipuncture is the process of inserting a needle into a vein to draw blood.",
+      "points": [
+        "Donor is seated comfortably and relaxed.",
+        "Skin area is cleaned using antiseptic.",
+        "A needle is inserted into a visible vein, and blood flows into a sterile bag.",
+        "Takes about 10 minutes; donor is then asked to rest briefly."
+      ]
+    },
+    {
+      "title": "Post-Donation Counselling",
+      "content": "After donating blood, the donor is given important guidance and information.",
+      "points": [
+        "Donated blood is tested for infections and blood type.",
+        "Donors with healthy blood are encouraged to continue donating.",
+        "If any infection is found, the donor is given counselling on how to live positively.",
+        "Donors are encouraged to maintain a healthy lifestyle."
+      ]
+    },
+    {
+      "title": "Malawi Blood Transfusion Service (MBTS)",
+      "content": "MBTS is a national organization that manages blood donation and transfusion services.",
+      "points": [
+        "Established in 2003 with EU support.",
+        "Reduces transmission of blood-borne diseases like HIV/AIDS.",
+        "Ensures safe and adequate blood supply across Malawi.",
+        "Works with hospitals, schools, communities, and youth groups."
+      ]
+    },
+    {
+      "title": "Activities of MBTS",
+      "content": "MBTS performs several key tasks to support the health system.",
+      "points": [
+        "Blood collection, processing, and screening.",
+        "Supplying blood to authorized health facilities.",
+        "Organizing mobile and static blood donation clinics.",
+        "Hosting district campaigns, school open days, and youth sensitization.",
+        "Promotion of Club 25 – members pledge to regularly donate blood and promote safe donation."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Respiratory System",
+  "content": "The respiratory system is responsible for taking in oxygen and removing carbon dioxide from the body. It consists of various organs working together to carry out breathing and gas exchange.",
+  "points": [],
+  "subsections": [
+    {
+      "title": "Components of the Respiratory System",
+      "content": "The respiratory system is made up of organs that allow air to enter and leave the lungs safely and efficiently.",
+      "points": [
+        "Nasal Passage: filters and warms air using mucus and cilia.",
+        "Epiglottis: prevents food from entering the trachea during swallowing.",
+        "Larynx: also called the voice box, produces sound.",
+        "Trachea: windpipe that carries air to the bronchi; supported by cartilage rings.",
+        "Bronchi: two main branches that lead air into each lung.",
+        "Alveoli: tiny air sacs where oxygen and carbon dioxide are exchanged with the blood.",
+        "Lungs: organs that house bronchi and alveoli for gas exchange.",
+        "Diaphragm: a muscle that controls the volume of the chest cavity during breathing.",
+        "Intercostal muscles: muscles between ribs that help move the rib cage."
+      ]
+    },
+    {
+      "title": "Functions of the Respiratory System",
+      "content": "The respiratory system allows the body to take in oxygen and remove carbon dioxide, essential for cellular respiration and overall body function.",
+      "points": [
+        "Breathing: enables the exchange of gases.",
+        "Filtering: removes dust and pathogens from the air.",
+        "Warming and moistening: prepares air before it reaches the lungs.",
+        "Gas exchange: oxygen enters the blood, carbon dioxide leaves the blood."
+      ]
+    },
+    {
+      "title": "Breathing Mechanism",
+      "content": "Breathing consists of inspiration (inhalation) and expiration (exhalation), involving movement of the diaphragm and rib cage.",
+      "points": [
+        "During inspiration, the diaphragm contracts and moves downwards, intercostal muscles contract, rib cage moves up and out, and air enters the lungs.",
+        "During expiration, the diaphragm relaxes and moves upwards, intercostal muscles relax, rib cage moves down and in, and air is pushed out of the lungs."
+      ]
+    },
+    {
+      "title": "Lung Capacity and Volumes",
+      "content": "The lungs hold varying amounts of air depending on breathing depth and effort.",
+      "points": [
+        "Tidal Volume: approximately 500 ml of air exchanged in normal breathing.",
+        "Vital Capacity: maximum air volume exhaled after a deep inhalation (~4600 ml).",
+        "Residual Volume: air remaining in the lungs after forced exhalation (~1200 ml).",
+        "Total Lung Capacity: total volume lungs can hold (~5800 ml)."
+      ]
+    },
+    {
+      "title": "Composition of Inhaled and Exhaled Air",
+      "content": "The gases in the air change as air moves in and out of the lungs.",
+      "points": [
+        "Oxygen decreases from about 21% in inhaled air to 16% in exhaled air.",
+        "Carbon dioxide increases from 0.04% in inhaled air to about 4% in exhaled air.",
+        "Nitrogen remains constant at around 79%.",
+        "Water vapour is variable and increases in exhaled air."
+      ]
+    },
+    {
+      "title": "Artificial Ventilation (Resuscitation)",
+      "content": "Artificial ventilation is a life-saving technique used when a person stops breathing.",
+      "points": [
+        "Mouth-to-mouth resuscitation involves clearing the airway, pinching the nose, and blowing air into the person's lungs.",
+        "The chest should rise and fall visibly during the process.",
+        "This procedure is repeated until normal breathing resumes."
+      ]
+    },
+    {
+      "title": "Common Respiratory Problems",
+      "content": "Several illnesses affect the respiratory system, caused by viruses, bacteria, or environmental factors.",
+      "points": [
+        "Common cold caused by viruses leads to sneezing, coughing, and runny nose.",
+        "Pneumonia is a bacterial infection affecting the lungs.",
+        "Tuberculosis (TB) is a serious lung infection caused by Mycobacterium tuberculosis.",
+        "Asthma involves narrowing of the airways, causing breathing difficulties.",
+        "Lung cancer can result from smoking and exposure to harmful substances.",
+        "Carbon monoxide poisoning prevents oxygen from being carried in the blood properly."
+      ]
+    },
+    {
+      "title": "Prevention of Respiratory Diseases",
+      "content": "Preventive measures help reduce the risk of respiratory illnesses.",
+      "points": [
+        "Avoid smoking and exposure to cigarette smoke.",
+        "Ensure proper ventilation in living spaces.",
+        "Use protective masks in polluted or dusty environments.",
+        "Practice good hygiene to prevent infection spread.",
+        "Get vaccinated against common respiratory diseases."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Nervous System",
+  "content": "The nervous system helps the body respond to changes in the environment by detecting stimuli and coordinating responses.",
+  "points": [],
+  "subsections": [
+    {
+      "title": "Stimulus",
+      "content": "A stimulus is any change in the environment that causes a response in an organism.",
+      "points": [
+        "Examples: water (moisture), heat, sound, waving hand, light, touch, chemicals like naphthalene.",
+        "Types: External stimulus (changes outside the body) and Internal stimulus (changes inside the body)."
+      ]
+    },
+    {
+      "title": "Response",
+      "content": "A response is the reaction of an organism to a stimulus.",
+      "points": [
+        "Examples: blinking when a hand waves, ants moving away from naphthalene, millipede coiling when touched."
+      ]
+    },
+    {
+      "title": "Parts of the Nervous System",
+      "content": "The nervous system is divided into central, peripheral, and autonomic parts that work together to coordinate body functions.",
+      "points": [
+        "Central Nervous System (CNS): brain and spinal cord.",
+        "Peripheral Nervous System (PNS): nerves connecting CNS to the rest of the body.",
+        "Autonomic Nervous System (ANS): controls involuntary actions, connecting CNS to internal organs."
+      ]
+    },
+    {
+      "title": "Central Nervous System",
+      "content": "The CNS consists of the brain and spinal cord which coordinate sensory information and motor commands.",
+      "points": [
+        "Spinal cord: extension of brain, contains white and grey matter, central canal with cerebrospinal fluid.",
+        "Brain: protected by skull, divided into hemispheres and parts like cerebrum, cerebellum, medulla oblongata, hypothalamus."
+      ]
+    },
+    {
+      "title": "Functions of the Brain Parts",
+      "content": "Different parts of the brain control specific functions and activities.",
+      "points": [
+        "Cerebrum: intelligence, thinking, learning, memory, emotions, and senses control.",
+        "Cerebellum: balance, muscular coordination, posture, and locomotion.",
+        "Medulla oblongata: involuntary reflexes like heartbeat, sneezing, coughing, digestion.",
+        "Hypothalamus: hormone regulation, homeostasis, hunger, thirst, and sleep control."
+      ]
+    },
+    {
+      "title": "Peripheral Nervous System",
+      "content": "The PNS connects the CNS to limbs and organs, carrying messages between the brain/spinal cord and the body.",
+      "points": [
+        "Cranial nerves connect brain to sense organs in the head.",
+        "Spinal nerves connect spinal cord to the rest of the body like limbs and torso.",
+        "Links receptors (sensory) to CNS and CNS to effectors (muscles, glands)."
+      ]
+    },
+    {
+      "title": "Autonomic Nervous System",
+      "content": "A subdivision of the PNS, it controls involuntary activities of internal organs and glands.",
+      "points": [
+        "Controls heart rate, breathing, digestion, pupil dilation, swallowing, vomiting, and sneezing."
+      ]
+    },
+    {
+      "title": "Reflex Actions",
+      "content": "Reflexes are automatic, involuntary responses to stimuli that protect the body.",
+      "points": [
+        "Reflexes occur without conscious thought and are rapid."
+      ]
+    },
+    {
+      "title": "Effects of Alcohol and Indian Hemp on the Nervous System",
+      "content": "Alcohol and drugs like Indian hemp affect brain function and overall nervous system health.",
+      "points": [
+        "Alcohol depresses brain function, causes liver damage, and slurred speech.",
+        "Indian hemp causes euphoria, slows reaction time, affects short-term memory, can cause hallucinations and mental disorders.",
+        "Other effects: sleep disturbances, male impotence, blood clots."
+      ]
+    },
+    {
+      "title": "Other Effects of Drug and Substance Abuse",
+      "content": "Substance abuse can negatively impact the nervous and cardiovascular systems.",
+      "points": [
+        "Loss of sleep and increased sleepiness.",
+        "Nicotine from smoking narrows blood vessels, affecting circulation."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Locomotion",
+  "subsections": [
+    {
+      "title": "Success Criteria",
+      "content": "Learners should be able to understand the structures and functions involved in human movement, types of muscles and joints, injuries affecting locomotion, and first aid responses.",
+      "points": [
+        "Describe locomotory structures in the human body",
+        "Describe types of muscles and their functions (voluntary, involuntary, and heart muscle)",
+        "Explain how antagonistic muscles work",
+        "Explain types of joints (movable and immovable)",
+        "Discuss different types of injuries to bones and joints",
+        "Explain how to carry out first aid for injuries to bones and joints"
+      ]
+    },
+    {
+      "title": "Introduction to Locomotion",
+      "content": "Locomotion is the movement of the whole organism from one place to another. It is made possible by the coordinated action of muscles and bones.",
+      "points": [
+        "Muscles contract and relax to produce movement.",
+        "Bones provide structure and support for muscle attachment.",
+        "Joints connect bones and allow various types of movement."
+      ]
+    },
+    {
+      "title": "Types of Skeletons",
+      "content": "Skeletons provide the framework for the body and come in different types depending on the organism.",
+      "points": [
+        "Exoskeleton: hard outer covering found in insects, crabs, and millipedes; provides protection but restricts growth.",
+        "Endoskeleton: internal skeleton found in vertebrates including humans; supports body and allows growth.",
+        "Hydrostatic Skeleton: layers of muscle around fluid-filled cavities; found in worms; offers limited protection."
+      ]
+    },
+    {
+      "title": "Functions of the Skeleton",
+      "content": "The skeleton plays several vital roles in the body beyond providing shape.",
+      "points": [
+        "Supports the body and maintains its shape.",
+        "Protects vital organs such as brain, heart, lungs, and reproductive organs.",
+        "Allows movement by serving as attachment points for muscles.",
+        "Produces blood cells in bone marrow.",
+        "Stores minerals such as calcium for body use.",
+        "Assists in breathing through rib movement.",
+        "Helps in feeding through jawbone movement."
+      ]
+    },
+    {
+      "title": "Human Skeleton Structure",
+      "content": "The human skeleton consists of 206 bones categorized into axial and appendicular skeletons.",
+      "points": [
+        "Axial skeleton includes skull, vertebral column, ribs, and sternum.",
+        "Appendicular skeleton includes pectoral girdle, pelvic girdle, and limbs (arms and legs).",
+        "The vertebral column’s S-shape provides flexibility and supports body weight.",
+        "Pelvic girdle is sturdy to support the upper body."
+      ]
+    },
+    {
+      "title": "Structure of Bones",
+      "content": "Bones have a complex structure that combines strength with lightness.",
+      "points": [
+        "Compact bone forms the hard outer layer.",
+        "Spongy bone is porous and lighter, found inside bones.",
+        "Bone marrow produces blood cells and stores fat.",
+        "Cartilage cushions joints and reduces friction."
+      ]
+    },
+    {
+      "title": "Composition of Bones",
+      "content": "Bones contain organic and inorganic materials that determine their properties.",
+      "points": [
+        "Organic components (mainly collagen) provide flexibility.",
+        "Inorganic components (calcium compounds) provide hardness.",
+        "Removal of organic part makes bones brittle; removal of inorganic part makes bones too flexible."
+      ]
+    },
+    {
+      "title": "Joints",
+      "content": "Joints connect bones and can be immovable or movable.",
+      "points": [
+        "Immovable joints (fixed joints) allow little or no movement, e.g., sutures of the skull.",
+        "Movable joints (synovial joints) allow various movements and have synovial fluid to lubricate them."
+      ]
+    },
+    {
+      "title": "Types of Movable Joints",
+      "content": "There are several types of movable joints that allow different kinds of movement.",
+      "points": [
+        "Hinge joints: allow movement in one plane, like a door; examples are knee and elbow.",
+        "Ball and socket joints: allow movement in many directions; examples are shoulder and hip joints.",
+        "Gliding joints: allow slight sliding movements; found in vertebrae and wrist bones."
+      ]
+    },
+    {
+      "title": "Parts of a Movable Joint and Their Functions",
+      "content": "Movable joints have specialized parts that facilitate smooth movement.",
+      "points": [
+        "Capsule: surrounds and binds the joint.",
+        "Synovial membrane: secretes synovial fluid for lubrication.",
+        "Synovial fluid: lubricates and nourishes the joint.",
+        "Cartilage: reduces friction and cushions bone ends.",
+        "Ligaments: hold bones firmly together."
+      ]
+    },
+    {
+      "title": "Muscles and Their Functions",
+      "content": "Muscles are responsible for movement and give shape to the body.",
+      "points": [
+        "Provide body shape and protection for internal organs.",
+        "Cause movement by contracting and relaxing.",
+        "Help maintain posture and body heat."
+      ]
+    },
+    {
+      "title": "Types of Muscles",
+      "content": "There are three main types of muscles with different properties and functions.",
+      "points": [
+        "Skeletal (voluntary) muscles: attached to bones, controlled consciously, tire quickly, and have rapid contractions.",
+        "Cardiac (heart) muscles: found in the heart, involuntary, striated, contract continuously without tiring.",
+        "Smooth (involuntary) muscles: found in internal organs like intestines and stomach, non-striated, controlled unconsciously."
+      ]
+    },
+    {
+      "title": "Antagonistic Muscles",
+      "content": "Muscles work in pairs called antagonistic muscles to produce movement.",
+      "points": [
+        "When one muscle contracts, the opposing muscle relaxes.",
+        "Example: biceps and triceps in the arm.",
+        "Contraction of biceps bends the arm; contraction of triceps straightens it.",
+        "Muscles attach to bones by tendons."
+      ]
+    },
+    {
+      "title": "Muscle Tone",
+      "content": "Muscle tone refers to the continuous and passive partial contraction of muscles.",
+      "points": [
+        "Important for posture and readiness for movement.",
+        "Improved by regular exercise and balanced diet."
+      ]
+    },
+    {
+      "title": "Injuries to Bones and Joints",
+      "content": "Bones and joints can be injured in various ways which affect locomotion.",
+      "points": [
+        "Fractures: broken or cracked bones; can be simple (closed) or compound (open).",
+        "Sprains: injuries to ligaments around joints due to overstretching or twisting.",
+        "Strains: injuries to muscles or tendons caused by overstretching.",
+        "Dislocations: bones displaced out of their normal position at a joint."
+      ]
+    },
+    {
+      "title": "Signs and Symptoms of Fractures",
+      "content": "Recognizing fractures is important for prompt first aid.",
+      "points": [
+        "Swelling and bruising around the injured area.",
+        "Deformity or unnatural position of the limb.",
+        "Severe pain and tenderness.",
+        "Inability to move the affected limb.",
+        "Snapping or cracking sound at the time of injury."
+      ]
+    },
+    {
+      "title": "First Aid for Fractures",
+      "content": "Proper first aid can prevent further injury and reduce pain.",
+      "points": [
+        "Do not move the patient unless necessary.",
+        "Do not push protruding bones back into place.",
+        "Support the injured limb with slings or splints.",
+        "Control bleeding with clean cloth or bandages.",
+        "Treat for shock if present.",
+        "Seek medical help immediately."
+      ]
+    },
+    {
+      "title": "First Aid for Sprains and Dislocations",
+      "content": "Prompt care reduces pain and prevents complications.",
+      "points": [
+        "Rest the injured joint and avoid movement.",
+        "Apply cold compress to reduce swelling.",
+        "Wrap the joint with an elastic bandage for support.",
+        "Elevate the injured limb if possible.",
+        "Never try to reposition a dislocated joint yourself.",
+        "Seek professional medical treatment."
+      ]
+    }
+  ]
+},
+
+
+
+{
+  "title": "Sense Organs",
+  "subsections": [
+    {
+      "title": "Sense Organs and Their Functions",
+      "content": "Sense organs are specialized organs that detect stimuli from the environment and send messages to the central nervous system for interpretation. These organs contain sensory nerve cells that convert stimuli into nerve impulses.",
+      "points": [
+        "Eye detects light and enables sight",
+        "Ear detects sound and helps in balance",
+        "Skin detects temperature, touch, and pain",
+        "Nose detects smell",
+        "Tongue detects taste"
+      ]
+    },
+    {
+      "title": "The Eye: Structure and Functions",
+      "content": "The eye is an organ responsible for sight. It has three main internal layers: sclera (outermost), choroid (middle), and retina (innermost).",
+      "points": [
+        "Pupil allows light to enter the eye",
+        "Iris controls the amount of light entering",
+        "Lens refracts light onto the retina",
+        "Ciliary body produces aqueous humour to maintain eyeball shape",
+        "Vitreous humour is a jelly that maintains eye shape",
+        "Suspensory ligaments and ciliary muscles adjust lens shape for focusing",
+        "Choroid supplies oxygen and nutrients",
+        "Retina contains light-sensitive cells that form images and send signals to the brain",
+        "Fovea is a spot with many sensory cells for sharp vision",
+        "Blind spot is where the optic nerve leaves the eye with no sensory cells",
+        "Optic nerve transmits impulses from retina to brain"
+      ]
+    },
+    {
+      "title": "How the Eye Works",
+      "content": "Light enters through the pupil and is focused by the lens on the retina. The retina converts light into electrical impulses sent via the optic nerve to the brain. The brain interprets the impulses into images.",
+      "points": [
+        "Lens changes shape to focus on near or distant objects (accommodation)",
+        "Ciliary muscles contract for near objects causing lens to bulge",
+        "Ciliary muscles relax for distant objects causing lens to flatten"
+      ]
+    },
+    {
+      "title": "Eye Defects and Corrections",
+      "content": "Common defects of the eye include short sightedness, long sightedness, glaucoma, cataract, astigmatism, and presbyopia.",
+      "points": [
+        "Short sightedness (myopia): eye is too long; corrected with concave lenses",
+        "Long sightedness (hypermetropia): eye is too short; corrected with convex lenses",
+        "Glaucoma: caused by high pressure damaging optic nerve; needs special lens or surgery",
+        "Presbyopia (old sight): caused by inelastic lens; corrected with bifocal lenses",
+        "Cataract: clouding of lens; treated by surgery to replace lens",
+        "Astigmatism: uneven lens surface causing blurred vision; corrected with cylindrical lenses"
+      ]
+    },
+    {
+      "title": "Caring for Your Eyes",
+      "content": "Proper care helps maintain good eye health and prevents defects.",
+      "points": [
+        "Avoid reading in poor or very bright light",
+        "Do not hold books too close to your eyes",
+        "Avoid using sunglasses indoors or at night",
+        "See a doctor if a foreign body enters the eye",
+        "Take regular breaks when reading or using screens"
+      ]
+    },
+    {
+      "title": "The Ear: Structure and Functions",
+      "content": "The ear is responsible for hearing and balance. It has three parts: outer ear, middle ear, and inner ear.",
+      "points": [
+        "Outer ear includes pinna (earlobe) and ear canal which collect sound",
+        "Eardrum vibrates with sound waves and transmits vibrations",
+        "Middle ear contains ossicles (hammer, anvil, stirrup) that amplify vibrations",
+        "Eustachian tube balances air pressure between ear and outside",
+        "Inner ear contains cochlea (for hearing) and semicircular canals (for balance)",
+        "Auditory nerve transmits sound signals to the brain"
+      ]
+    },
+    {
+      "title": "Hearing Process",
+      "content": "Sound waves are collected by the pinna, travel through the ear canal, and vibrate the eardrum. These vibrations are amplified by ossicles, transmitted to cochlear fluid, which stimulates sensory cells to send impulses to the brain.",
+      "points": []
+    },
+    {
+      "title": "Defects of the Ear",
+      "content": "Hearing defects include conductive deafness and nerve (absolute) deafness.",
+      "points": [
+        "Conductive deafness results from damaged eardrum or ossicles; caused by injury, wax build-up, infections, or loud noise; corrected with hearing aids or wax removal",
+        "Nerve deafness results from damaged cochlea, auditory nerve, or brain areas; caused by diseases or injury; no cure but managed by lip reading or sign language"
+      ]
+    },
+    {
+      "title": "Caring for Your Ears",
+      "content": "Proper ear care prevents infections and hearing loss.",
+      "points": [
+        "Clean outer ear with a soft cloth and warm water",
+        "Do not insert objects to remove wax",
+        "Protect ears from loud noise and avoid prolonged headphone use",
+        "Seek medical help for excessive wax or pain"
+      ]
+    },
+    {
+      "title": "The Skin: Structure and Functions",
+      "content": "The skin is the largest organ and protects the body. It consists of two layers: epidermis (outer) and dermis (inner).",
+      "points": [
+        "Epidermis has layers with dead cells protecting against injury and microbes",
+        "Melanin in epidermis protects against UV rays",
+        "Dermis contains hair follicles, sweat glands, blood vessels, nerves, and sebaceous glands",
+        "Sweat glands help regulate body temperature by releasing sweat",
+        "Sebaceous glands produce sebum that softens skin and kills bacteria",
+        "Hair erector muscles make hair stand and help regulate temperature"
+      ]
+    },
+    {
+      "title": "Functions of the Skin",
+      "content": "The skin performs multiple roles in protection, sensation, and regulation.",
+      "points": [
+        "Detects touch, heat, pressure, and pain",
+        "Prevents entry of microbes",
+        "Reduces water loss from the body",
+        "Helps regulate body temperature through sweating and blood flow",
+        "Stores fats and produces vitamin D"
+      ]
+    },
+    {
+      "title": "Caring for Your Skin",
+      "content": "Good skin care keeps the skin healthy and functioning properly.",
+      "points": [
+        "Wash regularly with soap and warm water",
+        "Wash hands before eating and after using the toilet",
+        "Eat foods rich in vitamin C",
+        "Wear protective clothing when handling chemicals or in the sun",
+        "Use moisturizer for dry skin"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Diarrhoeal Diseases",
+  "subsections": [
+    {
+      "title": "Meaning of Diarrhoea",
+      "content": "Diarrhoea is a condition where a person passes out frequent loose watery stools due to infection or irritation in the alimentary canal. The colon fails to absorb water and nutrients, resulting in watery stool.",
+      "points": []
+    },
+    {
+      "title": "Main Diarrhoeal Diseases",
+      "content": "The most common diarrhoeal diseases include cholera, dysentery, and typhoid.",
+      "points": [
+        "Cholera",
+        "Dysentery",
+        "Typhoid"
+      ]
+    },
+    {
+      "title": "Cholera",
+      "content": "Cholera is caused by the bacterium Vibrio cholerae and is characterized by severe watery diarrhoea and vomiting.",
+      "points": [
+        "Symptoms include severe watery diarrhoea, vomiting, weakness, rapid weak pulse, low blood pressure, wrinkled skin, and sunken eyes due to dehydration.",
+        "Transmission occurs through contaminated food or water, handling contaminated objects, and vectors such as flies.",
+        "Prevention includes washing hands after toilet use, drinking boiled water, cooking food well, washing hands before eating, covering food, and maintaining cleanliness.",
+        "Treatment involves antibiotics like tetracycline or chloramphenicol and oral rehydration solutions (ORS).",
+        "Vaccination is possible.",
+        "Effects include dehydration leading to death if untreated, extra medical costs, and inability to perform daily activities."
+      ]
+    },
+    {
+      "title": "Dysentery",
+      "content": "Dysentery is an inflammation of the colon causing diarrhoea with mucus or blood in faeces. It has two main types: bacillary and amoebic dysentery.",
+      "points": []
+    },
+    {
+      "title": "Bacillary Dysentery",
+      "content": "Caused by the bacteria Shigella, spread mainly by poor hygiene and contaminated food or water.",
+      "points": [
+        "Symptoms include diarrhoea, fever, nausea, vomiting, stomach cramps, flatulence, and blood or mucus in faeces.",
+        "Transmission occurs through eating contaminated food or drinking contaminated water.",
+        "Treatment involves oral rehydration and antibiotics."
+      ]
+    },
+    {
+      "title": "Amoebic Dysentery",
+      "content": "Caused by the parasite Entamoeba histolytica, found in contaminated fresh water especially in tropical regions.",
+      "points": [
+        "Transmission occurs by drinking or eating contaminated water and food, and poor waste disposal.",
+        "Effects include ulcers in the gut, blood loss causing anaemia, and possible spread to the liver causing liver problems.",
+        "Symptoms include frequent diarrhoea alternating with constipation, cramps, loose stools with blood or mucus, weakness, and anaemia in severe cases.",
+        "Prevention includes drinking boiled or treated water, cooking food properly, washing hands, proper medication, and good sewage treatment."
+      ]
+    },
+    {
+      "title": "Typhoid",
+      "content": "Typhoid is caused by the bacterium Salmonella typhi and spreads mainly through unhygienic food handling.",
+      "points": [
+        "Transmission occurs through contaminated food or water, and carriers who show no symptoms but spread the bacteria.",
+        "Symptoms include fever, headache, abdominal pain, diarrhoea, and intestinal ulcers.",
+        "Prevention includes hand washing, protecting food and water from contamination, boiling water, vaccination, proper sewage disposal, and eating properly cooked food.",
+        "Treatment uses antibiotics like tetracycline and chloramphenicol.",
+        "Effects can be severe including death, intestinal rupture, and enlarged spleen."
+      ]
+    },
+    {
+      "title": "Prevention and Control of Diarrhoeal Diseases",
+      "content": "Preventing diarrhoeal diseases involves safe water, hygiene, and sanitation practices.",
+      "points": [
+        "Drink safe, boiled or treated water.",
+        "Avoid eating food sold in open places.",
+        "Wash fruits and vegetables thoroughly.",
+        "Wash hands after using the toilet and before eating.",
+        "Use toilets or pit latrines to dispose of waste properly.",
+        "Report cases of diarrhoea to healthcare facilities promptly."
+      ]
+    },
+    {
+      "title": "Home-made Treatment for Diarrhoea",
+      "content": "Oral Rehydration Solution (ORS) is a homemade treatment to replace fluids and salts lost during diarrhoea to prevent dehydration.",
+      "points": [
+        "Mix clean water with salt and sugar in the correct proportions to make ORS.",
+        "Give ORS frequently to the patient to maintain hydration.",
+        "ORS helps reduce the risk of severe dehydration and supports recovery."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Sexually Transmitted Infections (STIs)",
+  "subsections": [
+    {
+      "title": "Success Criteria",
+      "content": [],
+      "points": [
+        "Explain the meaning of the term sexually-transmitted infections (STIs)",
+        "State the causative agents of STIs",
+        "Discuss the modes of transmission of STIs",
+        "Explain the signs and symptoms of STIs",
+        "Describe ways of caring for HIV and AIDS patients",
+        "Explain ways of preventing STIs",
+        "Discuss misconceptions about HIV and AIDS",
+        "Explain the effects of STIs, HIV and AIDS on individual, family and nation"
+      ]
+    },
+    {
+      "title": "Definition and Common STIs",
+      "content": [
+        "Sexually transmitted infections (STIs), also known as sexually transmitted diseases (STDs) or venereal diseases, are infections commonly spread by sexual contact, including vaginal, anal, and oral sex.",
+        "Most STIs may initially show no symptoms."
+      ],
+      "points": [
+        "Human Immunodeficiency Virus (HIV)",
+        "Gonorrhoea",
+        "Chlamydia",
+        "Syphilis",
+        "Trichomoniasis",
+        "Chancroid",
+        "Genital herpes",
+        "Genital warts",
+        "Hepatitis B infection"
+      ]
+    },
+    {
+      "title": "HIV and AIDS Overview",
+      "content": [
+        "HIV (Human Immunodeficiency Virus) attacks the immune system, weakening it and making the body susceptible to infections and some cancers.",
+        "AIDS (Acquired Immune Deficiency Syndrome) is the advanced stage of HIV infection."
+      ],
+      "points": [
+        "There are two major types: HIV-1 (most common) and HIV-2 (less virulent).",
+        "HIV is found in body fluids such as blood, semen, vaginal fluids, tears, saliva, urine, and breast milk.",
+        "Not all HIV infections lead immediately to AIDS; some people may be asymptomatic carriers."
+      ]
+    },
+    {
+      "title": "Transmission of STIs including HIV",
+      "content": [],
+      "points": [
+        "Unprotected sexual intercourse with an infected person.",
+        "Transmission from mother to baby during pregnancy, childbirth, or breastfeeding.",
+        "Sharing needles, razor blades, toothbrushes, or other sharp objects.",
+        "Blood transfusion with infected blood.",
+        "Contact with infected body fluids through mucous membranes or broken skin."
+      ]
+    },
+    {
+      "title": "Signs and Symptoms of STIs and HIV/AIDS",
+      "content": [],
+      "points": [
+        "Unusual discharge from genital organs.",
+        "Pain during urination or intercourse.",
+        "Sores, warts, or ulcers on genital areas.",
+        "Persistent fever, weight loss, chronic diarrhea (in HIV/AIDS).",
+        "Swollen lymph nodes and fatigue.",
+        "Rashes, thrush in the mouth or throat (common in AIDS)."
+      ]
+    },
+    {
+      "title": "Care for People Living with HIV/AIDS (PLWHA)",
+      "content": [],
+      "points": [
+        "Show love, respect, and emotional support.",
+        "Provide balanced and nutritious meals.",
+        "Encourage adherence to antiretroviral therapy (ART).",
+        "Help reduce stress and maintain mental well-being.",
+        "Assist with daily activities as needed without discrimination.",
+        "Ensure clean and hygienic environment.",
+        "Encourage regular medical check-ups and treatment for opportunistic infections."
+      ]
+    },
+    {
+      "title": "Prevention of STIs including HIV",
+      "content": [],
+      "points": [
+        "Abstain from sexual intercourse or delay sexual debut.",
+        "Be faithful to one uninfected partner.",
+        "Use condoms correctly every time during sex.",
+        "Avoid multiple sexual partners.",
+        "Avoid sharing needles or sharp instruments.",
+        "Ensure blood products are screened before transfusion.",
+        "Pregnant mothers should attend clinics for prevention of mother-to-child transmission.",
+        "Avoid alcohol and drug abuse to maintain sound decision making."
+      ]
+    },
+    {
+      "title": "Misconceptions about HIV and AIDS",
+      "content": [],
+      "points": [
+        "HIV cannot be transmitted by casual contact like hugging or shaking hands.",
+        "HIV is not spread by sharing food or utensils.",
+        "Mosquito bites do not transmit HIV.",
+        "People living with HIV can live healthy lives with proper treatment.",
+        "HIV is not a punishment or caused by immoral behavior."
+      ]
+    },
+    {
+      "title": "Effects of STIs, HIV, and AIDS on Individual, Family, and Nation",
+      "content": [],
+      "points": [
+        "Loss of income and livelihood due to illness.",
+        "Social stigma and discrimination leading to isolation.",
+        "Breakdown of family relationships and childbearing options.",
+        "Increased healthcare costs and burden on medical facilities.",
+        "Loss of productivity affecting the nation’s economy.",
+        "Psychological impacts including depression and loss of hope."
+      ]
+    },
+    {
+      "title": "Precautions When Caring for PLWHA",
+      "content": [],
+      "points": [
+        "Use gloves or barriers when handling blood or body fluids.",
+        "Avoid direct contact with wounds or sores.",
+        "Wash hands thoroughly after care activities.",
+        "Do not share personal items like toothbrushes, razors, or needles.",
+        "Dispose of contaminated materials safely.",
+        "Educate family and community to reduce fear and stigma."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Microorganisms",
+  "content": "Microorganisms are living things that can only be seen using a microscope.",
+  "objectives": [
+    "List the main groups of micro-organisms",
+    "Describe the structure of 5 main groups of micro-organisms",
+    "Explain the conditions for growth of micro-organisms",
+    "Describe the importance of micro-organisms (parasites, decomposers, symbionts, biotechnology, preservation and storage of food)",
+    "Explain the methods of preserving food (e.g., drying, salting, refrigeration)"
+  ],
+  "subsections": [
+    {
+      "title": "Groups of Microorganisms",
+      "content": "Microorganisms are divided into five main groups: Bacteria, Protozoa, Algae, Fungi, and Viruses.",
+      "points": [
+        "Bacteria",
+        "Protozoa",
+        "Algae",
+        "Fungi",
+        "Viruses"
+      ]
+    },
+    {
+      "title": "Bacteria",
+      "content": "They are single celled animals. They have a size about 0.0001 mm wide. The cells of a bacteria has a cell wall made up of proteins and lipids...",
+      "points": []
+    },
+    {
+      "title": "Structure of Bacteria",
+      "content": "Has a rigid and porous cell wall that gives its distinct shape and also allows substances pass in and out of the body...",
+      "points": []
+    },
+    {
+      "title": "Forms of Bacteria",
+      "content": "Bacterial shape is an important aid to classification. There are four main shapes: Coccus, Bacilli, Spirilla, Vibrio...",
+      "points": []
+    },
+    {
+      "title": "Economic Importance of Bacteria",
+      "content": "Nitrogen fixation, Nitrification, Ammonification, Decomposition, Fermentation, Enzyme production, Antibiotic production, Hydrogen production...",
+      "points": []
+    },
+    {
+      "title": "Disadvantage of Bacteria",
+      "content": "Some of the species cause food poisoning. Some are responsible for human and plant diseases...",
+      "points": []
+    },
+    {
+      "title": "Characteristics of Pathogenic and Non-Pathogenic Bacteria",
+      "content": "Pathogenic bacteria cause infection while non-pathogenic organisms do not cause disease.",
+      "points": []
+    },
+    {
+      "title": "Protozoa",
+      "content": "They are single celled animals. All protozoa live in water. Examples include Amoeba, Paramecium, Euglena, Trypanosoma...",
+      "points": []
+    },
+    {
+      "title": "Algae",
+      "content": "Algae are microorganisms that look like plants because they have chlorophyll. They manufacture their own food by photosynthesis.",
+      "points": []
+    },
+    {
+      "title": "Fungi",
+      "content": "Fungi do not have chlorophyll. They feed by saprophytic, parasitic and symbiotic feeding. They reproduce by spores...",
+      "points": []
+    },
+    {
+      "title": "Viruses",
+      "content": "Viruses are the smallest organisms. They reproduce only inside other living organisms...",
+      "points": []
+    },
+    {
+      "title": "Kingdom Monera",
+      "content": "This kingdom is made up of organisms known as bacteria. They are prokaryotic and reproduce by binary fission...",
+      "points": []
+    },
+    {
+      "title": "Structure of Viruses",
+      "content": "Viruses have RNA or DNA core, a capsid, and some have an envelope...",
+      "points": []
+    },
+    {
+      "title": "Advantages and Disadvantages of Viruses",
+      "content": "Advantages include vaccine development and genetic engineering. Disadvantages include disease causation...",
+      "points": []
+    },
+    {
+      "title": "Factors Affecting Growth of Microorganisms",
+      "content": "Temperature, pH, salt concentration, and sugar concentration affect growth of microorganisms...",
+      "points": []
+    },
+    {
+      "title": "Importance of Microorganisms",
+      "content": "They play roles in nutrient cycling, soil fertility, sewage treatment, and production of vitamins and beer...",
+      "points": []
+    },
+    {
+      "title": "Problems with Microorganisms",
+      "content": "They cause food spoilage, building damage, and diseases in humans, plants, and animals...",
+      "points": []
+    },
+    {
+      "title": "Biotechnology",
+      "content": "Biotechnology uses microorganisms to increase production. Includes tissue culture, micro protein food, insulin, GMOs...",
+      "points": []
+    },
+    {
+      "title": "Culturing Microorganisms",
+      "content": "Microorganisms can be cultured on nutrient agar. Viruses require living cells for culture...",
+      "points": []
+    },
+    {
+      "title": "Procedure for Culturing Microorganisms",
+      "content": "Sterilize materials, expose nutrient agar, incubate, and observe colonies...",
+      "points": []
+    },
+    {
+      "title": "Methods of Preserving Food",
+      "content": "Preservation methods include pasteurization, refrigeration, drying, salting, sterilization, canning, and chemical preservatives...",
+      "points": []
+    }
+  ]
+},
+
+
+
+
+
+    {
+      "title": "Photosynthesis trial",
       "subsections": [
         {
           "title": "Definition",
@@ -30,7 +1346,7 @@
     },
    
     {
-      "title": "Respiration",
+      "title": "Respiration trial",
       "subsections": [
         {
           "title": "Definition",
