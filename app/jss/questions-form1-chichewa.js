@@ -2,7 +2,7 @@
 
 
 window.quizData = window.quizData || {};
-window.quizData.chichewa = {
+window.quizData.Chichewa = {
   "Zigawo za Mawu": [
     {
       question: "Kodi mawu oti 'ndikudya' ndi gawo lanji la mawu?",
