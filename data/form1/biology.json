@@ -4,7 +4,2047 @@
 {
   "subject": "Biology",
   "topics": [
-   
+
+    {
+  "title": "Biology as a Field of Study",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Biology is the study of living things, including animals and plants, and their interactions with their environments. The term is derived from the Greek words 'bios' meaning life, and 'logos' meaning study.",
+      "points": [
+        "A biologist is a specialist who studies living organisms.",
+        "An organism is any living thing composed of cells.",
+        "Biology involves understanding both structure and function in life forms."
+      ]
+    },
+    {
+      "title": "Importance of Studying Biology",
+      "content": "Studying biology helps in understanding the structure, function, and interactions of living organisms, as well as solving real-world problems.",
+      "points": [
+        "Helps understand body functions and parts.",
+        "Assists in identifying disease-causing organisms.",
+        "Supports environmental management.",
+        "Contributes to hygiene, food preservation, nutrition, and First Aid knowledge.",
+        "Improves agricultural techniques.",
+        "Forms a foundation for careers such as medicine, veterinary science, nursing, pharmacy, and biotechnology."
+      ]
+    },
+    {
+      "title": "Biology Laboratory",
+      "content": "A biology laboratory is a facility designed for conducting biological experiments and practical work.",
+      "points": [
+        "Should have proper ventilation and visibility.",
+        "Equipped with shelves for storage of apparatus and chemicals.",
+        "Must have access to gas, electricity, and water.",
+        "Contains working benches, sinks, and emergency exits."
+      ]
+    },
+    {
+      "title": "Safe Use of Glassware",
+      "content": "Glassware in biology labs should be handled with care to ensure safety.",
+      "points": [
+        "Never use glassware for food or drink.",
+        "Avoid pouring hot substances into glass containers.",
+        "Use racks or clamps to secure glassware.",
+        "Only use heat-resistant glassware for heating substances."
+      ]
+    },
+    {
+      "title": "Laboratory Safety Signs: Meanings",
+      "content": "Safety signs are essential for guiding safe behavior in the lab.",
+      "points": [
+        "No Smoking – Prohibits smoking to avoid fire hazards.",
+        "Electric Shock Hazard – Warns of areas with dangerous electrical currents.",
+        "Flammable Materials – Indicates substances that catch fire easily.",
+        "Explosive Substances – Alerts to chemicals that may explode.",
+        "Corrosive Materials – Warns about substances that damage skin or materials.",
+        "Radioactive Materials – Identifies radiation sources that may harm health.",
+        "Laser Radiation – Signals presence of laser beams that may injure eyes."
+      ]
+    },
+    {
+      "title": "Common Apparatus and Equipment in a Biology Laboratory",
+      "content": "Various tools are used in biology labs for experiments and observations.",
+      "points": [
+        "Microscopes – Magnify small objects for observation.",
+        "Hand Lenses – Used for enlarging objects during study.",
+        "Thermometers – Measure the temperature of liquids.",
+        "Dissecting Kits – Contain tools for specimen dissection.",
+        "Mortar and Pestle – Grind and mix substances.",
+        "Measuring Cylinders – Measure liquid volumes accurately.",
+        "Bunsen Burners – Heat substances using a gas flame.",
+        "Beakers – Hold, mix, or heat liquids.",
+        "Test Tubes – Contain small samples for testing.",
+        "Scissors – Used for trimming or dissecting specimens."
+      ]
+    },
+    {
+      "title": "Specific Equipment Functions",
+      "content": "Some common lab tools and their specific roles.",
+      "points": [
+        "Thermometer – Measures the temperature of liquids.",
+        "Beam Balance – Used to weigh materials or substances.",
+        "Hand Lens – Magnifies small features for close inspection.",
+        "Measuring Cylinder – Used to measure precise liquid volumes."
+      ]
+    },
+    {
+      "title": "Safety Measures in a Laboratory",
+      "content": "Following safety precautions in the laboratory is essential to prevent accidents.",
+      "points": [
+        "Do not eat, drink, or taste anything in the lab.",
+        "Never taste chemicals; follow proper testing methods.",
+        "Handle all materials with care.",
+        "Hold glassware with both hands to avoid dropping.",
+        "Avoid running or playing in the laboratory.",
+        "Wear protective clothing such as lab coats and goggles.",
+        "Do not work barefooted; wear appropriate footwear.",
+        "Avoid disturbing others while working.",
+        "Clean all used equipment and working areas.",
+        "Tie up long hair and avoid wearing loose clothing.",
+        "Follow instructions for all experiments.",
+        "Do not perform unauthorized experiments.",
+        "Turn off electrical outlets when not in use.",
+        "Keep flammable substances away from flames.",
+        "Ensure electrical equipment stays dry.",
+        "Always clean glassware before use.",
+        "Work in a space with good ventilation.",
+        "Avoid touching your face while handling chemicals.",
+        "Maintain cleanliness in all work areas.",
+        "Only handle equipment after instructions are given."
+      ]
+    },
+    {
+      "title": "Common Laboratory Safety Scenarios",
+      "content": "Examples of safety questions to promote awareness and proper behavior.",
+      "points": [
+        "Q: What risk would student X have? A: Student X could be exposed to harmful chemicals or face accidents if they do not follow safety rules.",
+        "Reason: The lab contains dangerous materials, and safety measures are designed to prevent accidents.",
+        "Q: Student Z is working near a gas burner. What two pieces of advice would be given?",
+        "A: 1. Keep flammable materials away from the burner. 2. Tie back hair and avoid loose clothing to prevent fire accidents."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Using a Microscope",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "A microscope is an instrument used to magnify and observe tiny organisms not visible to the naked eye.",
+      "points": [
+        "Essential tool in biological studies.",
+        "Allows observation of cell structures and microorganisms."
+      ]
+    },
+    {
+      "title": "Types of Microscopes",
+      "content": "Microscopes vary based on their magnification mechanism and usage.",
+      "points": [
+        "Light Microscope – Uses light and lenses to magnify objects. Common in schools.",
+        "Electron Microscope – Uses electrons for extremely high magnification, used in research labs.",
+        "Light microscopes are suitable for viewing cells and pond microorganisms.",
+        "Electron microscopes can magnify viruses and bacteria."
+      ]
+    },
+    {
+      "title": "Functions of Microscope Parts",
+      "content": "Each part of a microscope serves a specific role in image magnification and clarity.",
+      "points": [
+        "Eyepiece – Top part containing lenses to view the magnified object.",
+        "Body Tube – Connects eyepiece to objective lenses; moves vertically.",
+        "Coarse Adjustment Knob – Raises/lowers body tube for initial focusing.",
+        "Fine Adjustment Knob – Sharpens the image after coarse focus.",
+        "Nosepiece – Holds and rotates objective lenses.",
+        "Objective Lens – Magnifies the specimen (Low: 4x, Medium: 10x, High: 60x+).",
+        "Stage – Platform for placing slides; includes clips to hold slides.",
+        "Condenser – Focuses light onto the specimen.",
+        "Diaphragm – Controls the amount of light reaching the specimen.",
+        "Base – Bottom support structure for stability.",
+        "Arm – Curved support used to carry the microscope."
+      ]
+    },
+    {
+      "title": "Points to Observe When Using a Microscope",
+      "content": "Proper handling ensures clear viewing and prevents equipment damage.",
+      "points": [
+        "Keep lenses clean using special lens tissue only.",
+        "Never use water or regular tissue on lenses.",
+        "Always carry the microscope with two hands (arm and base).",
+        "Keep both eyes open to prevent eyestrain.",
+        "Use a cover slip over specimens and ensure slide cleanliness.",
+        "Avoid tilting the microscope to prevent spills.",
+        "Keep the stage dry and clean at all times."
+      ]
+    },
+    {
+      "title": "How to Care for a Microscope",
+      "content": "Proper maintenance increases microscope life and accuracy.",
+      "points": [
+        "Do not oil any parts unless it's an oil immersion lens.",
+        "Avoid fingerprints on optical lenses.",
+        "Do not force any adjustment knobs.",
+        "Clean stage and body after each use.",
+        "Use both hands when carrying.",
+        "Never unscrew or dismantle lens components."
+      ]
+    },
+    {
+      "title": "Magnification Calculation",
+      "content": "Magnification shows how much larger the object appears under the microscope.",
+      "points": [
+        "Formula: Magnification = Size on Paper ÷ Actual Size of Specimen.",
+        "Example 1: Drawing = 5 cm, Actual = 15 cm → Magnification = 5/15 = 1/3 or 0.33.",
+        "Example 2: Drawing = 6 cm, Magnification = X3 → Actual Size = 6 ÷ 3 = 2 cm.",
+        "Microscope Magnification = Eyepiece x Objective lens.",
+        "E.g., X4 eyepiece x X10 objective = X40 magnification."
+      ]
+    },
+    {
+      "title": "Proper Handling of a Microscope",
+      "content": "Safe handling practices are vital for user and equipment safety.",
+      "points": [
+        "Always carry using both hands (one on arm, one under base).",
+        "Keep away from edge of the table to avoid falls.",
+        "Do not touch mirrors or lenses with fingers.",
+        "Use lens paper or ethanol-moistened tissue for cleaning lenses.",
+        "Store in a dry and secure place after use."
+      ]
+    },
+    {
+      "title": "How to Use the Microscope",
+      "content": "Step-by-step procedure for viewing specimens under the microscope.",
+      "points": [
+        "Place microscope on bench with stage facing away from you.",
+        "Turn low power lens into position (should click).",
+        "Open the diaphragm fully for maximum light.",
+        "Adjust mirror while looking through eyepiece to allow light.",
+        "The circular view seen is called the 'field of view'.",
+        "Adjust mirror again to improve brightness.",
+        "Use coarse knob to bring lens close to the slide.",
+        "Look through the eyepiece and gently focus with the coarse knob.",
+        "Use the fine knob for a sharper image.",
+        "Switch to medium power lens and refocus.",
+        "Switch to high power lens and use only the fine knob."
+      ]
+    },
+    {
+      "title": "Storing the Microscope",
+      "content": "Microscope must be properly stored to avoid damage.",
+      "points": [
+        "Rotate nosepiece to low power objective.",
+        "Raise body tube or lower stage to protect lens.",
+        "Clean lenses using appropriate materials (xylene or lens paper).",
+        "Turn off light if electric microscope is used.",
+        "Cover microscope to avoid dust. Use improvised cover if necessary.",
+        "Transport using both hands; return to storage box or cabinet."
+      ]
+    },
+    {
+      "title": "Additional Microscope Tools",
+      "content": "Other essential items used alongside the microscope.",
+      "points": [
+        "Microscope Slides – Rectangular glass for specimen placement; clean before use.",
+        "Cover Slips – Thin glass sheets placed over specimen on a slide.",
+        "Slides and cover slips must be handled gently to avoid breakage."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Cell Structures Seen Under the Microscope",
+  "subsections": [
+    {
+      "title": "Cell Structures Seen Under the Light Microscope",
+      "content": "These are the basic structures visible in plant and animal cells using a standard light microscope.",
+      "points": [
+        "Cell Wall – Provides structural support and protection (visible in plant cells only).",
+        "Cell Membrane – Controls what enters and leaves the cell.",
+        "Cytoplasm – Jelly-like substance that suspends organelles and facilitates chemical reactions.",
+        "Nucleus – Contains genetic material and directs cell activities.",
+        "Vacuole – Stores nutrients, water, and waste products (large in plant cells).",
+        "Chloroplasts – Green structures in plant cells responsible for photosynthesis."
+      ]
+    },
+    {
+      "title": "The Cell as Seen Under the Electron Microscope",
+      "content": "An electron microscope allows for greater magnification and resolution, revealing more cell organelles in detail.",
+      "points": [
+        "Uses a beam of electrons instead of light.",
+        "Can magnify up to 500,000 times.",
+        "High resolving power reveals fine structures such as membranes and organelles.",
+        "Essential for studying viruses, bacteria, and internal organelles.",
+        "Helps in advanced biological and microbiological research."
+      ]
+    },
+    {
+      "title": "Structure and Functions of Cell Organelles",
+      "content": "Organelles are specialized structures within the cytoplasm that perform specific cellular functions.",
+      "points": [
+        "Cell Membrane – Made of a phospholipid bilayer with embedded proteins. It is selectively permeable and regulates the exchange of substances.",
+        "Cytoplasm – Contains organelles and dissolved substances; site of metabolic reactions and allows movement of materials through cytoplasmic streaming.",
+        "Mitochondrion – Sausage-shaped with folded inner membranes (cristae); site of cellular respiration and energy production.",
+        "Ribosomes – Small spherical structures that synthesize proteins; can be free in the cytoplasm or attached to the endoplasmic reticulum.",
+        "Lysosomes – Sac-like structures containing enzymes for breaking down waste, damaged organelles, and invading microbes.",
+        "Golgi Bodies – Flattened sacs responsible for modifying, packaging, and transporting proteins and carbohydrates; also produce lysosomes.",
+        "Centrioles – Cylindrical structures found in animal cells; involved in cell division and formation of cilia and flagella.",
+        "Chloroplasts – Present only in plant cells; contain chlorophyll for capturing light energy and carrying out photosynthesis. Surrounded by double membranes and contain grana for increased surface area."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Laboratory Equipment and Procedures",
+  "subsections": [
+    {
+      "title": "Procedure for Lighting a Bunsen Burner",
+      "content": "Bunsen burners are used to provide heat in laboratory experiments. Proper lighting and safety practices must be followed.",
+      "points": [
+        "Connect the gas hose to the laboratory table gas outlet.",
+        "Remove all flammable materials from the surrounding area.",
+        "Adjust the air intake openings for desired flame type.",
+        "Open the gas valve and light the burner using a lighter or matchstick.",
+        "Adjust the barrel to obtain a pale blue (non-luminous) flame.",
+        "Use a support stand, wire gauze, and ring for safe heating."
+      ]
+    },
+    {
+      "title": "Safety Measures",
+      "content": "Following proper safety precautions helps prevent accidents in the laboratory.",
+      "points": [
+        "Always turn off gas taps after use.",
+        "Ensure all burners are turned off after completing experiments.",
+        "Handle chemicals cautiously according to lab safety protocols.",
+        "Be prepared to follow safety procedures in case of accidents or spills."
+      ]
+    },
+    {
+      "title": "Tools for Collecting Specimens",
+      "content": "Various tools are used for collecting and studying living organisms in their habitats.",
+      "points": [
+        "Pooter – Used to collect small insects by gently sucking them into a container.",
+        "Pitfall Trap – A buried container with a preserving agent to trap crawling animals like ants or beetles."
+      ]
+    },
+    {
+      "title": "Biological Drawings",
+      "content": "Drawings are essential for recording biological observations clearly and accurately.",
+      "points": [
+        "Must be large, neat, and clear.",
+        "Use simple lines without shading or coloring.",
+        "Use a sharp HB pencil.",
+        "Labels should be in straight, horizontal lines without crossing each other."
+      ]
+    },
+    {
+      "title": "Recording Measurements",
+      "content": "Accurate measurement and recording are crucial in biological investigations.",
+      "points": [
+        "Record measurements of variables like temperature, volume, height, length, and mass.",
+        "Use standard units and appropriate instruments for precision."
+      ]
+    },
+    {
+      "title": "Measurement of Length",
+      "content": "Length is the distance between two points and is measured using standard tools.",
+      "points": [
+        "Definition: How long an object or organism is.",
+        "Instruments: Meter ruler, tape measure.",
+        "Units: Meters (m), centimeters (cm), millimeters (mm)."
+      ]
+    },
+    {
+      "title": "Measuring Temperature",
+      "content": "Temperature tells how hot or cold something is.",
+      "points": [
+        "Measured in degrees Celsius (°C).",
+        "Instruments: Ordinary thermometer and clinical thermometer.",
+        "Ordinary thermometer – used for environmental temperatures.",
+        "Clinical thermometer – used to measure body temperature."
+      ]
+    },
+    {
+      "title": "Measuring Mass",
+      "content": "Mass is the amount of matter in a substance.",
+      "points": [
+        "Instrument: Beam balance.",
+        "Standard unit: Kilogram (kg).",
+        "Used to measure both solid and liquid samples in a lab."
+      ]
+    },
+    {
+      "title": "Measuring Volume",
+      "content": "Volume is the space occupied by an object or liquid.",
+      "points": [
+        "Units: Cubic meters (m³) for solids; milliliters (ml) or liters (l) for liquids.",
+        "Instruments: Measuring cylinders, burettes, pipettes.",
+        "Regular objects: Volume = length × width × height.",
+        "Irregular objects: Use water displacement method in a measuring cylinder."
+      ]
+    },
+    {
+      "title": "Measuring Area",
+      "content": "Area is the surface a flat object covers.",
+      "points": [
+        "Formula: Area = length × width for rectangles.",
+        "To calculate leaf area: Trace leaf on squared paper, count full and half squares.",
+        "Half squares are divided by 2 and added to full squares."
+      ]
+    },
+    {
+      "title": "Measuring Time",
+      "content": "Time helps determine the duration of biological processes.",
+      "points": [
+        "Standard unit: Second (s).",
+        "Instruments: Digital watch, stopwatch.",
+        "Time is crucial in timed experiments like enzyme reactions."
+      ]
+    },
+    {
+      "title": "Study Skills in Biology",
+      "content": "Effective study methods improve understanding and retention.",
+      "points": [
+        "Use diagrams, tables, and flowcharts for summarization.",
+        "Make short notes and practice answering questions.",
+        "Understand the differences between facts, assumptions, and predictions.",
+        "Example of a fact: 'Malaria is caused by plasmodium.'",
+        "Example of a prediction: 'If you eat too much, you will be constipated.'"
+      ]
+    },
+    {
+      "title": "Fair Testing and Variables",
+      "content": "Scientific investigations must follow fair testing methods.",
+      "points": [
+        "Fair Test – Only one variable changes, all others remain constant.",
+        "Input Variable – The variable changed by the experimenter (e.g., amount of water).",
+        "Output Variable – The observed variable that changes in response (e.g., plant growth)."
+      ]
+    },
+    {
+      "title": "Biological Report Writing",
+      "content": "Reports are written to summarize findings from investigations.",
+      "points": [
+        "Include the topic or aim of the investigation.",
+        "State the variables changed, measured, and kept constant.",
+        "Record results using a table if necessary.",
+        "Write a clear and logical conclusion."
+      ]
+    },
+    {
+      "title": "Investigative Techniques",
+      "content": "Biology investigations follow organized steps for reliable results.",
+      "points": [
+        "Observation – Noting what is seen during an investigation.",
+        "Data Recording – Writing down observations and measurements.",
+        "Data Analysis – Interpreting the data to find patterns.",
+        "Conclusion – Stating findings based on data.",
+        "Report Writing – Documenting the entire process and results."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Living Things Around Us",
+  "subsections": [
+    {
+      "title": "Characteristics of Living Things",
+      "content": "All living things share certain characteristics that distinguish them from non-living things.",
+      "points": [
+        "Growth – Increase in size and mass over time.",
+        "Feeding – Taking in food for energy. Animals feed on plants or other animals. Plants make their own food via photosynthesis.",
+        "Respiration – Breaking down food to release energy.",
+        "Locomotion – Movement to find food, mates, or escape danger (common in animals).",
+        "Irritability (Sensitivity) – Responding to stimuli like light, temperature, or touch.",
+        "Excretion – Removal of waste products like urine or sweat.",
+        "Reproduction – Producing new organisms for species survival."
+      ]
+    },
+    {
+      "title": "Cell Structure",
+      "content": "Plant and animal cells have differences in structure.",
+      "points": [
+        "Plant Cells – Have a cell wall, chloroplasts, and a large vacuole.",
+        "Animal Cells – Lack a cell wall and chloroplasts; have small vacuoles."
+      ]
+    },
+    {
+      "title": "Classification of Living Things",
+      "content": "Organizing living things into groups based on similarities makes study easier.",
+      "points": [
+        "Main groups: Plants and Animals.",
+        "Subdivided based on feeding, movement, habitat, and physical characteristics."
+      ]
+    },
+    {
+      "title": "Classification Considerations",
+      "content": "Living things are classified by shared traits.",
+      "points": [
+        "Feeding – Herbivores, carnivores, omnivores.",
+        "Movement – Animals move actively, plants are rooted.",
+        "Chlorophyll – Present in plants for photosynthesis.",
+        "Sensitivity – Both plants and animals respond to the environment."
+      ]
+    },
+    {
+      "title": "Types of Consumers",
+      "content": "Consumers are animals that depend on plants or other animals for food.",
+      "points": [
+        "Herbivores – Eat only plants (e.g., cow, giraffe).",
+        "Carnivores – Eat other animals (e.g., lion, eagle).",
+        "Omnivores – Eat both plants and animals (e.g., humans, monkeys)."
+      ]
+    },
+    {
+      "title": "Food Chains and Food Webs",
+      "content": "These show how energy moves through an ecosystem.",
+      "points": [
+        "Food Chain – A simple sequence showing energy transfer. Example: Grass → Grasshopper → Frog → Snake → Eagle.",
+        "Food Web – A complex network of interconnected food chains."
+      ]
+    },
+    {
+      "title": "Feeding Structures in Animals",
+      "content": "Animal teeth and body structures are adapted to their feeding habits.",
+      "points": [
+        "Herbivores – Have flat teeth for grinding plants.",
+        "Carnivores – Have sharp teeth and claws for tearing meat.",
+        "Omnivores – Have both sharp and flat teeth for mixed diets."
+      ]
+    },
+    {
+      "title": "Historical Background of Classification",
+      "content": "Modern classification was introduced in the 18th century.",
+      "points": [
+        "Carolus Linnaeus developed the current system.",
+        "Grouped organisms based on shared characteristics.",
+        "His system is still used today in biology."
+      ]
+    },
+    {
+      "title": "Taxonomic Units of Classification",
+      "content": "Living things are grouped into hierarchical levels called taxa.",
+      "points": [
+        "Kingdom Monera – Unicellular organisms like bacteria (e.g., Amoeba).",
+        "Kingdom Protoctista – Microscopic and larger simple organisms (e.g., Algae, Protozoa).",
+        "Kingdom Fungi – Includes molds, mushrooms, yeasts; important in decomposition.",
+        "Kingdom Plantae – Includes all green plants that photosynthesize.",
+        "Kingdom Animalia – Includes multicellular organisms like humans, fish, and reptiles."
+      ]
+    },
+    {
+      "title": "Hierarchy of Classification",
+      "content": "Classification goes from broad to specific categories.",
+      "points": [
+        "Kingdom → Phylum (Division in plants) → Class → Order → Family → Genus → Species.",
+        "Each level is based on shared physical and functional characteristics."
+      ]
+    },
+    {
+      "title": "Species and Varieties",
+      "content": "Species is the basic unit of classification.",
+      "points": [
+        "Members of a species can breed and produce fertile offspring.",
+        "Differences within a species: Races (humans), Breeds (animals), Varieties (plants), Strains (bacteria).",
+        "Closely related species can interbreed but offspring may be sterile (e.g., mule = horse + donkey)."
+      ]
+    },
+    {
+      "title": "Scientific Naming of Living Organisms",
+      "content": "The scientific naming system is known as binomial nomenclature.",
+      "points": [
+        "Developed by Carolus Linnaeus.",
+        "Names are in Latin to avoid language confusion.",
+        "Format: Genus name (Capitalized) + species name (lowercase).",
+        "Examples: Zea mays (maize), Panthera leo (lion), Homo sapiens (human)."
+      ]
+    },
+    {
+      "title": "Rules of Binomial Nomenclature",
+      "content": "Scientific names must follow specific formatting rules.",
+      "points": [
+        "Genus name is capitalized.",
+        "Species name is written in lowercase.",
+        "Both names are italicized (or underlined if handwritten)."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Feeding and Food Chains",
+  "subsections": [
+    {
+      "title": "Food Chains",
+      "content": "A food chain shows how energy is transferred through feeding relationships.",
+      "points": [
+        "Starts with a producer (usually plants).",
+        "Follows through consumers: herbivores, then carnivores.",
+        "Example: Grass → Grasshopper → Praying Mantis."
+      ]
+    },
+    {
+      "title": "Food Webs",
+      "content": "Food webs show multiple interconnected food chains.",
+      "points": [
+        "Demonstrates complex feeding relationships in ecosystems.",
+        "More realistic than a single food chain."
+      ]
+    },
+    {
+      "title": "Trophic Levels",
+      "content": "Trophic levels describe the position of organisms in a food chain.",
+      "points": [
+        "Producers are at the first level.",
+        "Followed by herbivores (primary consumers), then carnivores (secondary/tertiary consumers)."
+      ]
+    },
+    {
+      "title": "Energy Transfer in the Food Chain",
+      "content": "Energy decreases as it moves through trophic levels.",
+      "points": [
+        "Begins with photosynthesis in plants.",
+        "Herbivores consume plants and store some energy.",
+        "Carnivores consume herbivores and receive less energy.",
+        "Energy is lost through respiration, excretion, and incomplete digestion."
+      ]
+    },
+    {
+      "title": "Decomposition and Energy",
+      "content": "Dead organisms release energy into the environment.",
+      "points": [
+        "Decomposers break down organic matter.",
+        "Energy from remains can form fossil fuels (e.g., coal)."
+      ]
+    },
+    {
+      "title": "Food Pyramids",
+      "content": "Food pyramids represent feeding relationships and energy distribution.",
+      "points": [
+        "Two main types: Pyramid of Numbers and Pyramid of Biomass."
+      ]
+    },
+    {
+      "title": "Pyramid of Numbers",
+      "content": "Shows the number of organisms at each trophic level.",
+      "points": [
+        "Number decreases from bottom to top.",
+        "Energy loss occurs at each level.",
+        "Not all producers are consumed.",
+        "Food is not fully digested; energy lost via urine and feces."
+      ]
+    },
+    {
+      "title": "Pyramid of Biomass",
+      "content": "Displays total dry mass of organisms at each trophic level.",
+      "points": [
+        "More accurate than pyramid of numbers.",
+        "Organisms are dried and weighed.",
+        "Disadvantage: Organisms must be killed to measure."
+      ]
+    },
+    {
+      "title": "Physical World Interactions",
+      "content": "The physical environment affects living organisms.",
+      "points": [
+        "Air – Provides oxygen and carbon dioxide.",
+        "Soil – Supplies nutrients and houses organisms.",
+        "Light – Essential for photosynthesis and affects behavior.",
+        "Temperature – Influences metabolism and hibernation.",
+        "Water – Necessary for life and habitat to many organisms."
+      ]
+    },
+    {
+      "title": "Mammal Teeth and Feeding Structures",
+      "content": "Mammals have different types of teeth for different feeding functions.",
+      "points": [
+        "Incisors – Front teeth for cutting and biting.",
+        "Canines – Pointed teeth for piercing and holding food.",
+        "Premolars – Two-cusped teeth for grinding.",
+        "Molars – Multiple cusps, used for crushing and grinding."
+      ]
+    },
+    {
+      "title": "Structure of a Mammalian Tooth",
+      "content": "A tooth has several parts with different functions.",
+      "points": [
+        "Crown – Visible part above gum.",
+        "Root – Anchors tooth in jaw.",
+        "Neck – Narrow part between crown and root.",
+        "Enamel – Hard outer layer for protection.",
+        "Dentine – Living layer supporting enamel.",
+        "Pulp Cavity – Contains nerves and blood vessels.",
+        "Cement – Secures tooth in socket.",
+        "Periodontal Membrane – Secretes cement and allows slight movement."
+      ]
+    },
+    {
+      "title": "Care for Teeth",
+      "content": "Proper dental care prevents diseases and maintains function.",
+      "points": [
+        "Brush after meals.",
+        "Limit sugary foods.",
+        "Eat hard foods like carrots.",
+        "Consume calcium, phosphate, and vitamins A, C, D.",
+        "Use teeth properly and visit dentists regularly."
+      ]
+    },
+    {
+      "title": "Common Tooth Diseases",
+      "content": "Tooth diseases result from poor hygiene and diet.",
+      "points": [
+        "Dental Caries – Caused by bacteria, leads to decay.",
+        "Periodontal Disease – Inflammation of gums.",
+        "Gingivitis – Swollen, bleeding gums.",
+        "Pyorrhea – Infection leading to loose teeth."
+      ]
+    },
+    {
+      "title": "Teeth of Carnivores",
+      "content": "Carnivores have specialized teeth for meat consumption.",
+      "points": [
+        "Large canines for catching prey.",
+        "Carnassial teeth (sharp molars) for cutting flesh.",
+        "All four types of teeth are present."
+      ]
+    },
+    {
+      "title": "Teeth of Herbivores",
+      "content": "Herbivores are adapted for grinding plant material.",
+      "points": [
+        "No upper incisors or canines – replaced by a horny pad.",
+        "Molars and premolars are large and flat for grinding.",
+        "Diastema – Gap between incisors and molars.",
+        "Cusps – Raised areas on molars to improve grinding."
+      ]
+    },
+    {
+      "title": "Feeding in Birds – Beaks",
+      "content": "Bird beaks vary based on their diet.",
+      "points": [
+        "Hawk – Curved for tearing meat.",
+        "Woodpecker – Chisel-shaped for removing bark.",
+        "Chicken – Pointed for picking insects.",
+        "Stork – Long for catching aquatic animals.",
+        "Hornbill – Strong for eating fruits.",
+        "Parrot – Hooked for cracking nuts.",
+        "Sunbird – Long, sharp for sucking nectar.",
+        "Swift – Adapted for seeds.",
+        "Duck – Wide for filtering food in mud."
+      ]
+    },
+    {
+      "title": "Feeding in Birds – Feet",
+      "content": "Bird feet support their feeding and habitat behaviors.",
+      "points": [
+        "Hawk – Sharp talons for catching prey.",
+        "Duck – Webbed feet for swimming.",
+        "Pigeon – Four toes for perching.",
+        "Sparrow – Slender toes for grasping twigs."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Flowering and Non-Flowering Plants",
+  "subsections": [
+    {
+      "title": "Classification of Plants",
+      "content": "Plants are divided into two major groups: flowering and non-flowering plants.",
+      "points": [
+        "Flowering plants bear flowers and seeds.",
+        "Non-flowering plants do not produce flowers or seeds.",
+        "Non-flowering plants include algae, liverworts, mosses, ferns, and conifers."
+      ]
+    },
+    {
+      "title": "Characteristics of Non-Flowering Plants",
+      "content": "Non-flowering plants have unique features depending on their category.",
+      "points": [
+        "Algae live mainly in water and can be unicellular (e.g., diatoms, euglena) or multicellular (e.g., spirogyra, seaweed).",
+        "Liverworts and mosses grow in shady, damp areas and have thallus bodies with rhizoids.",
+        "Ferns have true roots, stems, and leaves. They reproduce by spores and grow in moist, shady places.",
+        "Conifers are evergreen plants with needle-like leaves and reproduce sexually using cones. They grow in upland and mountain areas."
+      ]
+    },
+    {
+      "title": "Characteristics of Flowering Plants",
+      "content": "Flowering plants reproduce through flowers and are classified into monocots and dicots.",
+      "points": [
+        "Monocots have one cotyledon, parallel leaf venation, fibrous roots, and wind-pollinated flowers.",
+        "Dicots have two cotyledons, reticulate venation, tap roots, and insect-pollinated flowers.",
+        "Examples of monocots: maize, millet, sorghum.",
+        "Examples of dicots: beans, pumpkins, mangoes."
+      ]
+    },
+    {
+      "title": "Types of Stems",
+      "content": "Plants have different types of stems based on their growth habits.",
+      "points": [
+        "Erect stem – stands upright.",
+        "Creeping stem – spreads horizontally.",
+        "Climbing stem – uses support to grow upward.",
+        "Underground stem – grows below the soil surface."
+      ]
+    },
+    {
+      "title": "Types of Leaves and Their Arrangement",
+      "content": "Leaves differ in structure and arrangement.",
+      "points": [
+        "Simple leaf – single blade attached to stem by petiole.",
+        "Compound leaf – multiple leaflets attached to one petiole.",
+        "Leaf arrangements: alternate, opposite, whorled.",
+        "Types of compound leaves: pinnate, bipinnate, trifoliate, digitate."
+      ]
+    },
+    {
+      "title": "Leaf Venation",
+      "content": "Venation refers to the arrangement of veins in a leaf.",
+      "points": [
+        "Monocots have parallel venation.",
+        "Dicots have reticulate venation."
+      ]
+    },
+    {
+      "title": "Structure and Types of Flowers",
+      "content": "Flowers are reproductive parts of flowering plants.",
+      "points": [
+        "Parts of a flower include: stigma, anther, petals, sepals, ovary, ovules, flower stalk.",
+        "Two types of flowers: wind-pollinated and insect-pollinated."
+      ]
+    },
+    {
+      "title": "Wind-Pollinated vs Insect-Pollinated Flowers",
+      "content": "Flowers adapt differently depending on their pollinators.",
+      "points": [
+        "Wind-pollinated: large anthers and stigmas, tiny colorless petals, no nectar, produce large amounts of pollen.",
+        "Insect-pollinated: small anthers and stigmas, large colorful petals, produce nectar, little pollen.",
+        "Examples of wind-pollinated flowers: maize, rice, millet.",
+        "Examples of insect-pollinated flowers: beans, mangoes."
+      ]
+    },
+    {
+      "title": "Root Systems",
+      "content": "Roots anchor the plant and absorb water and nutrients.",
+      "points": [
+        "Tap root system: has a main root with lateral branches (common in dicots).",
+        "Adventitious (fibrous) root system: roots arise from parts other than the radicle (common in monocots).",
+        "Modified roots include aerial roots (absorb moisture), prop roots (support), buttress roots (anchorage), climbing roots (support), and breathing roots (absorb air)."
+      ]
+    },
+    {
+      "title": "Functions of Roots",
+      "content": "Roots serve essential functions for plant growth and survival.",
+      "points": [
+        "Anchor the plant in the soil.",
+        "Absorb water and minerals.",
+        "Store food in some plants (e.g., carrots, cassava)."
+      ]
+    },
+    {
+      "title": "Habitats of Plants",
+      "content": "Plants grow in different environments based on their adaptations.",
+      "points": [
+        "Algae live in aquatic environments.",
+        "Liverworts and mosses prefer damp, shady places.",
+        "Ferns grow on trees, in water, and in shaded soils.",
+        "Conifers are found in highland and mountainous areas.",
+        "Flowering plants adapt to a wide range of habitats based on root type, leaf structure, and reproductive strategy."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Animal Structures and Functions",
+  "subsections": [
+    {
+      "title": "Introduction",
+      "content": "Animals are divided into two main groups: vertebrates, which have a backbone, and invertebrates, which lack a backbone.",
+      "points": [
+        "Vertebrates have an internal skeleton with a backbone.",
+        "Invertebrates do not have a backbone and usually have external skeletons or soft bodies."
+      ]
+    },
+    {
+      "title": "Invertebrates",
+      "content": "Invertebrates are animals without a backbone. They include various groups such as insects, crustaceans, nematodes, arachnids, mollusks, annelids, and millipedes.",
+      "points": [
+        "Most invertebrates have an exoskeleton made of chitin or calcium carbonate.",
+        "They usually have segmented bodies and jointed appendages (insects and crustaceans)."
+      ]
+    },
+      
+        {
+          "title": "Insects",
+          "content": "Insects have bodies divided into head, thorax, and abdomen, covered with a chitinous exoskeleton.",
+          "points": [
+            "Head has a pair of antennae, compound eyes, and three parts of jaws (mandibles and maxillae).",
+            "Thorax has three segments with one pair of jointed legs on each.",
+            "Examples: beetles, mosquitoes, houseflies, butterflies, grasshoppers.",
+            "Grasshoppers have sharp chewing mouthparts and can be crop pests.",
+            "Butterflies and moths feed on nectar using a proboscis; larvae are caterpillars."
+          ]
+        },
+        {
+          "title": "Crustaceans",
+          "content": "Crustaceans have exoskeletons made of chitin and chalk. The head and thorax are fused.",
+          "points": [
+            "They have pincers used for catching prey.",
+            "They have swimmerets on the abdomen for swimming.",
+            "Examples include crabs and prawns.",
+            "Mostly carnivores."
+          ]
+        },
+        {
+          "title": "Nematodes",
+          "content": "Nematodes are cylindrical, non-segmented worms with pointed bodies at one end.",
+          "points": [
+            "Reproduce sexually.",
+            "Examples include Ascaris and hookworms."
+          ]
+        },
+        {
+          "title": "Arachnids",
+          "content": "Arachnids have bodies divided into cephalothorax and abdomen with four pairs of legs.",
+          "points": [
+            "They have several simple eyes and segmented mouthparts with pincers.",
+            "Examples: spiders, ticks, scorpions.",
+            "Spiders produce silk with spinnerets for web-making.",
+            "Ticks can be controlled by dipping or spraying chemicals."
+          ]
+        },
+        {
+          "title": "Mollusks",
+          "content": "Mollusks have soft bodies often enclosed by a shell and use a muscular foot for movement.",
+          "points": [
+            "Examples: snails, slugs, cuttlefish.",
+            "Snails are hermaphrodites and use shells for protection."
+          ]
+        },
+        {
+          "title": "Annelids",
+          "content": "Annelids are segmented worms with bristles (chaetae) that live mostly in soil.",
+          "points": [
+            "Example: earthworms."
+          ]
+        },
+        {
+          "title": "Millipedes",
+          "content": "Millipedes have long, segmented bodies with many legs—two pairs per segment.",
+          "points": []
+        }
+      ]
+    },
+
+    {
+      "title": "Vertebrates",
+      "subsections": [
+        {
+          "title": "Fish",
+          "content": "Fish are cold-blooded animals with scales, fins for movement, and gills for breathing.",
+          "points": [
+            "Reproduce sexually by external fertilization."
+          ]
+        },
+        {
+          "title": "Amphibians",
+          "content": "Amphibians are cold-blooded with soft, moist skin, and they breathe through lungs and skin.",
+          "points": [
+            "Move using four limbs.",
+            "Examples include frogs and toads.",
+            "Fertilization is external (oviparous)."
+          ]
+        },
+        {
+          "title": "Reptiles",
+          "content": "Reptiles are cold-blooded animals with lungs, four limbs, and dry scaly skin.",
+          "points": [
+            "Fertilization is internal; they can be oviparous or viviparous.",
+            "Examples: snakes, tortoises, chameleons, lizards.",
+            "Some snakes have fangs that inject venom.",
+            "Pythons have loose jaws to swallow large prey."
+          ]
+        },
+        {
+          "title": "Birds",
+          "content": "Birds are warm-blooded with feathers covering their bodies and scales on legs.",
+          "points": [
+            "Move using legs and wings.",
+            "Breathe using lungs.",
+            "Fertilization is internal and viviparous."
+          ]
+        },
+        {
+          "title": "Mammals",
+          "content": "Mammals are warm-blooded with hair covering their bodies and breathe using lungs.",
+          "points": [
+            "Move using four limbs.",
+            "Fertilization is internal and viviparous.",
+            "Examples include bats, dogs, and goats."
+          ]
+       
+    },
+    {
+      "title": "Classes of Consumers",
+      "content": "Animals are classified based on their feeding habits into herbivores, carnivores, and omnivores.",
+      "points": [
+        "Herbivores feed directly on plants and have longer alimentary canals (e.g., sheep, cattle, elephants).",
+        "Carnivores feed on other animals (e.g., dogs, leopards, crocodiles).",
+        "Omnivores feed on both plants and animals (e.g., humans, monkeys)."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Nutrition in Humans",
+  "subsections": [
+    {
+      "title": "Food Nutrients",
+      "content": "Food nutrients are chemical substances found in food that the body uses for energy, growth, repair, and proper functioning.",
+      "points": [
+        "Carbohydrates – provide energy",
+        "Proteins – help in growth and tissue repair",
+        "Fats and Oils – provide energy and support vitamin absorption",
+        "Vitamins – help regulate body processes",
+        "Minerals – support body structure and function",
+        "Water – helps transport nutrients and regulate temperature",
+        "Fibre – aids in digestion and prevents constipation"
+      ]
+    },
+    {
+      "title": "Food Substances",
+      "content": "Food substances refer to the actual foods we eat that provide different nutrients.",
+      "points": [
+        "Carbohydrates: maize, rice, cassava, bread, potatoes",
+        "Proteins: meat, beans, fish, groundnuts, eggs",
+        "Fats and Oils: cooking oil, avocados, nuts, butter",
+        "Vitamins: fruits, vegetables, milk, eggs",
+        "Minerals: salt, liver, spinach, seafood",
+        "Water: clean drinking water, watermelon",
+        "Fibre: fruits, vegetables, beans, whole grains"
+      ]
+    },
+    {
+      "title": "Functions of Food Nutrients",
+      "content": "Each nutrient has a specific role in maintaining body health.",
+      "points": [
+        "Carbohydrates: Provide energy",
+        "Proteins: Help growth and repair body tissues",
+        "Fats and Oils: Provide energy and assist vitamin absorption",
+        "Vitamins: Regulate body functions and build immunity",
+        "Minerals: Help form bones, blood, and support nerve function",
+        "Water: Transports nutrients, controls temperature, removes waste",
+        "Fibre: Aids in digestion and prevents constipation"
+      ]
+    },
+    {
+      "title": "Food Tests",
+      "content": "Food tests help identify nutrients in different food substances.",
+      "points": [
+        "Starch – Iodine Test: Add iodine → turns blue-black if starch is present",
+        "Reducing Sugar – Benedict’s Test: Add Benedict’s solution and heat → brick-red precipitate",
+        "Protein – Biuret Test: Add Biuret solution → turns purple/violet",
+        "Fats and Oils – Emulsion Test: Mix with ethanol and water → cloudy white emulsion appears"
+      ]
+    },
+    {
+      "title": "Common Sources of Food Nutrients",
+      "content": "These are common local and global sources for each nutrient.",
+      "points": [
+        "Carbohydrates: Maize, rice, bread, cassava",
+        "Proteins: Beans, meat, eggs, fish",
+        "Fats & Oils: Avocados, groundnuts, vegetable oils",
+        "Vitamins: Carrots, oranges, spinach, mangoes",
+        "Minerals: Salt, liver, bananas, milk",
+        "Water: Drinking water, fruits",
+        "Fibre: Maize bran, vegetables, legumes"
+      ]
+    },
+    {
+      "title": "Balanced Diet",
+      "content": "A balanced diet contains all essential nutrients in the correct proportions for health and proper functioning.",
+      "points": [
+        "Includes carbohydrates, proteins, fats, vitamins, minerals, water, and fibre",
+        "Requires variety: fruits, vegetables, cereals, proteins",
+        "Avoid too much fat, salt, and sugar",
+        "Depends on age, health status, and activity level",
+        "Example: Nsima + beans + rape leaves + oil + water"
+      ]
+    },
+    {
+      "title": "Deficiency Diseases",
+      "content": "Diseases caused by lack of essential nutrients in the diet.",
+      "points": [
+        "Kwashiorkor – Lack of protein: Swollen belly, thin limbs, discolored hair",
+        "Marasmus – Lack of carbohydrates and protein: Severe weight loss, weak muscles",
+        "Rickets – Lack of Vitamin D and calcium: Soft bones, bowed legs",
+        "Scurvy – Lack of Vitamin C: Bleeding gums, joint pain",
+        "Night Blindness – Lack of Vitamin A: Poor vision in dim light",
+        "Goitre – Lack of iodine: Swollen neck",
+        "Anaemia – Lack of iron: Pale skin, fatigue"
+      ]
+    },
+    {
+      "title": "Prevention and Treatment of Deficiency Diseases",
+      "content": "These strategies help reduce and manage deficiency conditions.",
+      "points": [
+        "Eat a balanced diet with all nutrients",
+        "Take vitamin and mineral supplements when needed",
+        "Expose to sunlight (Vitamin D)",
+        "Use iodized salt (Iodine)",
+        "Eat iron-rich foods (Iron)",
+        "Nutrition rehabilitation for severe cases"
+      ]
+    },
+    {
+      "title": "Obesity",
+      "content": "Obesity is a condition of excessive body fat which can affect health.",
+      "points": [
+        "Caused by overeating and lack of physical activity",
+        "Can be due to hormonal or genetic factors",
+        "Prevent by eating a balanced diet",
+        "Avoid junk foods and sugary snacks",
+        "Exercise regularly",
+        "Practice portion control and avoid overeating"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Digestive System",
+  "subsections": [
+    {
+      "title": "Parts of the Human Digestive Tract",
+      "content": "The digestive system is a group of organs that work together to break down food into simpler substances for absorption.",
+      "points": [
+        "Mouth",
+        "Esophagus",
+        "Stomach",
+        "Small Intestine (duodenum, jejunum, ileum)",
+        "Large Intestine (colon, rectum)",
+        "Anus",
+        "Associated glands: Salivary glands, Liver, Pancreas, Gall bladder"
+      ]
+    },
+    {
+      "title": "Functions of Parts of the Digestive Tract",
+      "content": "Each part of the digestive tract has specific functions to aid in digestion and absorption.",
+      "points": [
+        "**Mouth**: Begins digestion by chewing and mixing food with saliva.",
+        "**Esophagus**: Transports food from the mouth to the stomach via peristalsis.",
+        "**Stomach**: Mixes food with gastric juices; begins protein digestion.",
+        "**Small Intestine**: Completes digestion and absorbs nutrients into the blood.",
+        "**Large Intestine**: Absorbs water and forms feces.",
+        "**Anus**: Removes undigested waste from the body.",
+        "**Liver**: Produces bile for fat emulsification.",
+        "**Pancreas**: Produces digestive enzymes and bicarbonate.",
+        "**Gall bladder**: Stores and releases bile."
+      ]
+    },
+    {
+      "title": "Process of Digestion",
+      "content": "Digestion is the breakdown of food into smaller, absorbable substances.",
+      "points": [
+        "Food is ingested through the mouth.",
+        "Chewed food is mixed with saliva (contains amylase).",
+        "Swallowed and moved via esophagus into the stomach.",
+        "Stomach churns and mixes food with acid and enzymes.",
+        "Partially digested food enters the small intestine.",
+        "Bile and pancreatic juice help further digest fats and other nutrients.",
+        "Nutrients are absorbed in the small intestine.",
+        "Water is absorbed in the large intestine; waste is expelled through the anus."
+      ]
+    },
+    {
+      "title": "Physical and Chemical Digestion",
+      "content": "There are two main types of digestion: physical and chemical.",
+      "points": [
+        "**Physical digestion**: Mechanical breakdown of food (e.g., chewing, churning in stomach).",
+        "**Chemical digestion**: Breakdown of food by enzymes and digestive juices into simpler molecules."
+      ]
+    },
+    {
+      "title": "Enzymes Involved in Digestion",
+      "content": "Enzymes are biological catalysts that speed up digestion.",
+      "points": [
+        "**Amylase**: Breaks down starch into maltose (found in saliva and pancreas).",
+        "**Protease (Pepsin/Trypsin)**: Breaks down proteins into peptides and then amino acids (found in stomach and pancreas).",
+        "**Lipase**: Breaks down fats into fatty acids and glycerol (produced in pancreas).",
+        "**Maltase**: Converts maltose to glucose (in small intestine)."
+      ]
+    },
+    {
+      "title": "End Products of Digestion",
+      "content": "These are the simplified nutrients absorbed into the blood for use by the body.",
+      "points": [
+        "**Proteins → Amino acids**",
+        "**Carbohydrates → Glucose**",
+        "**Fats → Fatty acids and Glycerol**"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Circulatory System",
+  "subsections": [
+    {
+      "title": "Parts of the Human Circulatory System and Their Functions",
+      "content": "The circulatory system transports blood, oxygen, nutrients, and waste products throughout the body. It consists of the heart, blood vessels (arteries, veins, capillaries), and blood.",
+      "points": [
+        "**Heart**: A muscular organ that pumps blood throughout the body. It has four chambers: left and right atria, and left and right ventricles.",
+        "**Arteries**: Carry oxygenated blood away from the heart to body tissues. They have thick, muscular walls.",
+        "**Veins**: Return deoxygenated blood to the heart. They have valves to prevent backflow.",
+        "**Capillaries**: Tiny blood vessels that connect arteries to veins. They allow exchange of gases, nutrients, and wastes between blood and tissues."
+      ]
+    },
+    {
+      "title": "Blood Circulation",
+      "content": "Blood circulation is the continuous movement of blood through the heart and blood vessels.",
+      "points": [
+        "Blood is pumped from the heart to the lungs to collect oxygen (pulmonary circulation).",
+        "Oxygenated blood returns to the heart and is pumped to the rest of the body (systemic circulation).",
+        "Deoxygenated blood from the body returns to the heart and the cycle repeats."
+      ]
+    },
+    {
+      "title": "Composition of Blood",
+      "content": "Blood is a fluid that carries nutrients, gases, and waste products. It is made up of plasma and different types of blood cells.",
+      "points": [
+        "**Plasma**: Yellowish fluid that carries dissolved nutrients, hormones, and waste products.",
+        "**Red Blood Cells (RBCs)**: Carry oxygen from the lungs to the body and carbon dioxide back to the lungs.",
+        "**White Blood Cells (WBCs)**: Defend the body against infections and diseases.",
+        "**Platelets**: Help in blood clotting to stop bleeding."
+      ]
+    },
+    {
+      "title": "Functions of Components of Blood",
+      "content": "Each component of blood has a specific role in keeping the body healthy.",
+      "points": [
+        "**Plasma**: Transports food, hormones, and waste products.",
+        "**Red Blood Cells**: Transport oxygen using hemoglobin.",
+        "**White Blood Cells**: Protect the body from pathogens.",
+        "**Platelets**: Help seal wounds by forming clots to stop bleeding."
+      ]
+    },
+    {
+      "title": "Anaemia",
+      "content": "Anaemia is a condition where the number of red blood cells or the amount of hemoglobin is low, leading to reduced oxygen transport in the body.",
+      "points": [
+        "**Causes**:",
+        "- Blood loss from injury or menstruation.",
+        "- Worm infestation (e.g., hookworms).",
+        "- Poor diet lacking iron, folic acid, or vitamin B12.",
+        "**Signs and Symptoms**:",
+        "- Tiredness and weakness.",
+        "- Pale skin and gums.",
+        "- Dizziness or shortness of breath.",
+        "**Prevention**:",
+        "- Eat iron-rich foods like liver, beans, and green vegetables.",
+        "- Treat worm infections.",
+        "- Practice proper hygiene and sanitation.",
+        "**Treatment**:",
+        "- Iron supplements or multivitamins.",
+        "- Medical treatment for underlying causes (e.g., worms).",
+        "- Balanced diet with sufficient nutrients."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Nutrition in Humans, Digestive and Circulatory Systems",
+  "subsections": [
+    {
+      "title": "Food Nutrients",
+      "content": "Food nutrients are chemical substances in food essential for energy, growth, and repair.",
+      "points": ["Carbohydrates", "Proteins", "Fats and Oils", "Vitamins", "Minerals", "Water", "Fibre"]
+    },
+    {
+      "title": "Food Substances and Their Sources",
+      "content": "Examples of food substances rich in each nutrient.",
+      "points": [
+        "Carbohydrates – maize, rice, potatoes",
+        "Proteins – meat, fish, eggs",
+        "Fats and Oils – nuts, avocado, butter",
+        "Vitamins – fruits, vegetables",
+        "Minerals – milk, salt, liver",
+        "Water – drinking water, fruits",
+        "Fibre – vegetables, whole grains"
+      ]
+    },
+    {
+      "title": "Functions of Food Nutrients",
+      "content": "Each nutrient supports specific body functions.",
+      "points": [
+        "Carbohydrates – energy",
+        "Proteins – growth and repair",
+        "Fats – insulation, energy, vitamin absorption",
+        "Vitamins – regulate body processes",
+        "Minerals – bone and nerve function",
+        "Water – transport, temperature regulation",
+        "Fibre – digestion support"
+      ]
+    },
+    {
+      "title": "Food Tests",
+      "content": "Methods for identifying nutrients in food.",
+      "points": [
+        "Starch – Iodine test: blue-black",
+        "Sugar – Benedict's test: brick-red",
+        "Protein – Biuret test: purple",
+        "Fats – Emulsion test: cloudy emulsion"
+      ]
+    },
+    {
+      "title": "Balanced Diet",
+      "content": "A meal containing all essential nutrients in proper proportions.",
+      "points": [
+        "Includes carbs, proteins, fats, vitamins, minerals, fibre, and water",
+        "Considers age, health, and activity level",
+        "Example: Nsima + beans + rape + water"
+      ]
+    },
+    {
+      "title": "Deficiency Diseases and Obesity",
+      "content": "Diseases caused by lack of specific nutrients and excess energy intake.",
+      "points": [
+        "Kwashiorkor – lack of protein",
+        "Marasmus – lack of energy and protein",
+        "Rickets – vitamin D and calcium deficiency",
+        "Scurvy – vitamin C deficiency",
+        "Night blindness – vitamin A deficiency",
+        "Goitre – iodine deficiency",
+        "Anaemia – iron deficiency",
+        "Obesity – excessive food intake, inactivity"
+      ]
+    },
+    {
+      "title": "Digestive System",
+      "content": "Organs and processes involved in food digestion.",
+      "points": [
+        "Mouth – chewing, saliva breaks starch",
+        "Oesophagus – moves food by peristalsis",
+        "Stomach – churns food, enzymes start digestion",
+        "Small intestine – final digestion and absorption",
+        "Large intestine – absorbs water, forms feces",
+        "Anus – expels waste"
+      ]
+    },
+    {
+      "title": "Digestion Process",
+      "content": "Digestion involves physical and chemical breakdown of food.",
+      "points": [
+        "Physical – chewing, peristalsis",
+        "Chemical – enzymes break macromolecules",
+        "Enzymes: amylase (carbs), protease (proteins), lipase (fats)"
+      ]
+    },
+    {
+      "title": "End Products of Digestion",
+      "content": "Nutrients are broken into absorbable units.",
+      "points": [
+        "Proteins → Amino acids",
+        "Carbohydrates → Glucose",
+        "Fats → Fatty acids + Glycerol"
+      ]
+    },
+    {
+      "title": "Circulatory System",
+      "content": "Components and function of the system that transports materials.",
+      "points": [
+        "Heart – pumps blood",
+        "Arteries – carry blood from heart",
+        "Veins – return blood to heart",
+        "Capillaries – exchange materials with cells"
+      ]
+    },
+    {
+      "title": "Composition and Functions of Blood",
+      "content": "Blood is composed of plasma, red and white blood cells, and platelets.",
+      "points": [
+        "Plasma – transports nutrients, hormones",
+        "Red blood cells – carry oxygen",
+        "White blood cells – fight infection",
+        "Platelets – help in clotting"
+      ]
+    },
+    {
+      "title": "Anaemia",
+      "content": "Anaemia is a condition caused by lack of red blood cells or haemoglobin.",
+      "points": [
+        "Causes – worms, bleeding, poor diet",
+        "Symptoms – tiredness, pale skin, dizziness",
+        "Prevention – iron-rich diet, deworming",
+        "Treatment – iron supplements, treat cause"
+      ]
+    },
+    {
+      "title": "Worm Infestations",
+      "content": "Parasitic worms that affect humans.",
+      "points": [
+        "Types: Roundworms, Hookworms, Tapeworms, Threadworms, Bilharzia worms",
+        "Transmission – contaminated water, soil, undercooked food",
+        "Symptoms – abdominal pain, weight loss, fatigue",
+        "Prevention – hygiene, deworming, safe food",
+        "Life cycles – involve eggs, larvae, adult stages"
+      ]
+    }
+  ]
+},
+
+
+
+    {
+  "title": "Worm Infestation",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Worms are parasitic organisms that live inside the bodies of other living beings, including humans. The organisms they live in are called hosts. Worms feed on nutrients from the host, often causing illness or death.",
+      "points": [
+        "Common human-infecting worms include tapeworms, roundworms, hookworms, threadworms, and bilharzia worms.",
+        "Worms are transmitted through contaminated food, water, soil, or contact with infected individuals.",
+        "They affect the digestive system, blood, or other organs depending on the type."
+      ]
+    },
+    {
+      "title": "Types of Worms",
+      "content": "The main types of worms that infest humans include:",
+      "points": [
+        "Tapeworms",
+        "Roundworms (Ascaris lumbricoides)",
+        "Hookworms",
+        "Threadworms (Pinworms)",
+        "Bilharzia worms (Schistosoma haematobium and Schistosoma mansoni)",
+        "Filarial worms (cause elephantiasis)"
+      ]
+    },
+    {
+      "title": "Tapeworms",
+      "content": "Tapeworms are flat, segmented worms that infect mammals including humans and fish.",
+      "points": [
+        "Body is flat and segmented, up to 3.5 meters long.",
+        "Head (scolex) has hooks and suckers for attachment.",
+        "Fastens to the intestines and absorbs digested food.",
+        "Causes intestinal blockage and releases harmful chemicals."
+      ]
+    },
+    {
+      "title": "Tapeworm Lifecycle and Transmission",
+      "content": "Tapeworms develop from eggs to bladderworms and then adults.",
+      "points": [
+        "Eggs passed in faeces are consumed by cattle or pigs.",
+        "Develop into bladderworms in animal muscles.",
+        "Humans ingest bladderworms through undercooked meat.",
+        "They develop into adult tapeworms in the intestines."
+      ]
+    },
+    {
+      "title": "Tapeworm Symptoms and Prevention",
+      "content": "Tapeworm infestations present various signs and can be prevented by proper hygiene and food safety.",
+      "points": [
+        "Symptoms: abdominal pain, anaemia, diarrhea, epilepsy, intestinal blockage.",
+        "Prevention: cook meat thoroughly, inspect meat, use latrines properly, give animals anti-worms, seek medical help."
+      ]
+    },
+    {
+      "title": "Roundworms (Ascaris lumbricoides)",
+      "content": "Roundworms are unsegmented, white or pink worms that infect both humans and pigs.",
+      "points": [
+        "Grow up to 20 cm long.",
+        "Each female lays up to 200,000 eggs that survive up to 5 years.",
+        "Feed on digested food, causing malnutrition and lung damage."
+      ]
+    },
+    {
+      "title": "Roundworm Lifecycle and Symptoms",
+      "content": "Roundworms enter through contaminated food and migrate within the body.",
+      "points": [
+        "Eggs are ingested via uncooked food.",
+        "Larvae migrate to lungs, then trachea, then back to intestines.",
+        "Symptoms: nausea, vomiting, dullness, loss of appetite, malnutrition."
+      ]
+    },
+    {
+      "title": "Roundworm Prevention",
+      "content": "Maintaining hygiene prevents roundworm infections.",
+      "points": [
+        "Wash vegetables and fruits before eating.",
+        "Cook food properly.",
+        "Use latrines properly.",
+        "Wash hands before eating."
+      ]
+    },
+    {
+      "title": "Hookworms",
+      "content": "Hookworms are small, unsegmented worms that attach to intestinal walls and suck blood.",
+      "points": [
+        "Each hookworm grows up to 10 cm long.",
+        "Body has hooks or spines for attachment.",
+        "Cause anemia, abdominal pain, and coughing."
+      ]
+    },
+    {
+      "title": "Hookworm Lifecycle and Prevention",
+      "content": "Hookworms are spread through contaminated soil and skin contact.",
+      "points": [
+        "Eggs hatch in damp soil and develop into larvae.",
+        "Larvae penetrate skin, travel to lungs, are coughed up and swallowed.",
+        "Prevention: wear shoes, disinfect latrines, proper waste disposal, medication."
+      ]
+    },
+    {
+      "title": "Threadworms (Pinworms)",
+      "content": "Threadworms are small worms mostly affecting children due to poor hygiene.",
+      "points": [
+        "About 1 cm long; live in the large intestines.",
+        "Cause itching around the anus.",
+        "Eggs transferred by scratching and poor handwashing."
+      ]
+    },
+    {
+      "title": "Threadworm Lifecycle and Prevention",
+      "content": "Threadworms spread through contaminated hands and surfaces.",
+      "points": [
+        "Female lays eggs around anus causing itching.",
+        "Eggs stick to fingers and are swallowed through food.",
+        "Prevention: clean toilets, wash underwear, discourage finger-in-mouth habit, deworm regularly."
+      ]
+    },
+    {
+      "title": "Bilharzia Worms (Schistosoma)",
+      "content": "Bilharzia worms are flatworms causing schistosomiasis, a serious disease affecting the intestines or urinary bladder.",
+      "points": [
+        "Caused by Schistosoma haematobium (urinary) and Schistosoma mansoni (intestinal).",
+        "Live in human blood vessels.",
+        "Transmitted through contact with contaminated water containing infected snails."
+      ]
+    },
+    {
+      "title": "Bilharzia Lifecycle and Symptoms",
+      "content": "Bilharzia worms develop in water and infect humans through skin.",
+      "points": [
+        "Eggs hatch in water and infect snails.",
+        "Cercaria (larvae) leave snails and enter human skin.",
+        "Symptoms: anemia, blood in urine or feces, rash, abdominal pain, bladder damage, cancer."
+      ]
+    },
+    {
+      "title": "Bilharzia Prevention and Control",
+      "content": "Bilharzia control requires environmental management and hygiene.",
+      "points": [
+        "Kill snails using chemicals.",
+        "Drain stagnant water and remove reeds.",
+        "Use latrines properly.",
+        "Seek medical help."
+      ]
+    },
+    {
+      "title": "Sources of Worm Infestations and Control Measures",
+      "content": "Worm infestations arise from poor sanitation, contaminated food/water, and contact with infected environments.",
+      "points": [
+        "Contaminated water bodies, soil, and food are main sources.",
+        "Control measures include proper latrine use, personal hygiene, safe food handling, and regular deworming.",
+        "Community-wide health education and environmental sanitation are essential."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Human Circulatory System",
+  "subsections": [
+    {
+      "title": "Definition and Components",
+      "content": "The human circulatory system transports fluids throughout the body and consists of two main systems: the blood circulatory system and the lymphatic system.",
+      "points": [
+        "Blood circulatory system includes the heart, blood vessels, and blood.",
+        "Lymphatic system transports lymph and helps in body defense.",
+        "Functions include transport of nutrients, gases, waste products, hormones, and defense against infections."
+      ]
+    },
+    {
+      "title": "General Functions of the Circulatory System",
+      "content": "The circulatory system performs several vital roles in the human body.",
+      "points": [
+        "Transports oxygen, nutrients, and hormones.",
+        "Removes waste products like carbon dioxide and urea.",
+        "Protects the body against infections.",
+        "Regulates body temperature and maintains homeostasis."
+      ]
+    },
+    {
+      "title": "The Heart",
+      "content": "The human heart is a muscular organ responsible for pumping blood.",
+      "points": [
+        "Made of cardiac muscle that contracts continuously.",
+        "Has four chambers: right atrium, left atrium, right ventricle, and left ventricle.",
+        "Right side carries deoxygenated blood; left side carries oxygenated blood.",
+        "Pericardial fluid prevents friction between heart and chest cavity."
+      ]
+    },
+    {
+      "title": "Heart Valves and Septum",
+      "content": "Valves and septum ensure unidirectional flow and separation of blood types.",
+      "points": [
+        "Valves: bicuspid, tricuspid, and semi-lunar valves.",
+        "Valves prevent backflow of blood.",
+        "Septum separates left and right sides of the heart."
+      ]
+    },
+    {
+      "title": "Differences in Heart Chambers",
+      "content": "Auricles receive blood while ventricles pump blood.",
+      "points": [
+        "Auricles have thin walls; ventricles have thick walls.",
+        "Right ventricle pumps blood to lungs; left ventricle pumps to the body.",
+        "Left ventricle has thicker walls due to longer distance of blood flow."
+      ]
+    },
+    {
+      "title": "Blood Vessels",
+      "content": "Blood vessels transport blood throughout the body.",
+      "points": [
+        "Arteries: thick-walled, high-pressure, carry oxygenated blood (except pulmonary artery).",
+        "Veins: thin-walled, low-pressure, carry deoxygenated blood (except pulmonary vein), have valves.",
+        "Capillaries: very thin walls, connect arteries to veins, site of exchange of gases and nutrients."
+      ]
+    },
+    {
+      "title": "Circulation in Organs",
+      "content": "Specific organs receive blood through specialized vessels.",
+      "points": [
+        "Heart: coronary arteries and veins.",
+        "Lungs: pulmonary artery and vein.",
+        "Kidneys: renal artery and vein.",
+        "Liver: hepatic artery and vein."
+      ]
+    },
+    {
+      "title": "The Blood",
+      "content": "Blood is made of cells and plasma and performs various functions.",
+      "points": [
+        "Red blood cells carry oxygen via hemoglobin.",
+        "White blood cells defend the body (phagocytes and lymphocytes).",
+        "Platelets help in blood clotting.",
+        "Plasma transports nutrients, hormones, and waste products."
+      ]
+    },
+    {
+      "title": "Red Blood Cells",
+      "content": "Red blood cells are responsible for oxygen transport.",
+      "points": [
+        "Formed in bone marrow.",
+        "Biconcave shape and no nucleus for efficient oxygen transport.",
+        "Contain hemoglobin, which binds oxygen."
+      ]
+    },
+    {
+      "title": "White Blood Cells",
+      "content": "White blood cells protect the body from infections.",
+      "points": [
+        "Phagocytes engulf and digest germs (e.g. monocytes, neutrophils).",
+        "Lymphocytes produce antibodies (T-cells and B-cells).",
+        "Produced in bone marrow, spleen, and lymph nodes."
+      ]
+    },
+    {
+      "title": "Platelets and Plasma",
+      "content": "Platelets and plasma are vital for clotting and transport.",
+      "points": [
+        "Platelets are fragments that help in blood clotting.",
+        "Plasma is 97% water and carries cells, nutrients, waste, and heat.",
+        "Plasma cells produce antibodies (antitoxins, lysins, agglutinins)."
+      ]
+    },
+    {
+      "title": "Lymphatic System and Tissue Fluid",
+      "content": "The lymphatic system and tissue fluid aid in transport and defense.",
+      "points": [
+        "Lymph transports fats and returns fluids to blood vessels.",
+        "Tissue fluid supplies oxygen and nutrients to tissue cells.",
+        "Lymphatic organs include spleen and lymph nodes."
+      ]
+    },
+    {
+      "title": "Blood Circulation in the Heart",
+      "content": "Describes how blood flows through heart chambers and vessels.",
+      "points": [
+        "Right ventricle pumps blood to lungs (pulmonary artery).",
+        "Left ventricle pumps blood to the body (aorta).",
+        "Blood enters via vena cava and pulmonary vein into atria.",
+        "Valves prevent backflow during contractions (systole and diastole)."
+      ]
+    },
+    {
+      "title": "Double Circulatory System",
+      "content": "The human circulatory system is a double circulatory system.",
+      "points": [
+        "Blood passes through the heart twice per complete cycle.",
+        "Pulmonary circuit: heart → lungs → heart.",
+        "Systemic circuit: heart → body → heart.",
+        "Called mass flow and closed system (blood remains in vessels)."
+      ]
+    },
+    {
+      "title": "Circulatory System Disorders",
+      "content": "Various disorders affect the circulatory system.",
+      "points": [
+        "Malnutrition: lack of iron, protein, vitamin C affects blood production.",
+        "Infectious diseases: malaria, amoeba dysentery, bilharzia, hookworm.",
+        "These diseases damage vessels, cause bleeding, and destroy red blood cells."
+      ]
+    },
+    {
+      "title": "Anaemia",
+      "content": "Anaemia is a condition with insufficient red blood cells.",
+      "points": [
+        "Causes: poor diet, diseases, hereditary disorders, heavy bleeding.",
+        "Symptoms: fatigue, pale face, fainting, headaches.",
+        "Prevention: eat iron and protein-rich food, deworming, treat diseases early.",
+        "Treatment: medication and blood transfusion."
+      ]
+    },
+    {
+      "title": "Types of Bleeding",
+      "content": "Bleeding types vary based on the vessel damaged.",
+      "points": [
+        "Arterial bleeding: bright red, spurting blood – most serious.",
+        "Venous bleeding: steady flow of dark red blood.",
+        "Capillary bleeding: oozing bright red blood from small cuts."
+      ]
+    },
+    {
+      "title": "First Aid for Bleeding",
+      "content": "First aid steps help control bleeding and save lives.",
+      "points": [
+        "Lay person down with head lower than body.",
+        "Elevate bleeding part.",
+        "Apply direct pressure with clean cloth.",
+        "Seek medical help if bleeding persists or is serious."
+      ]
+    },
+    {
+      "title": "First Aid for Minor Cuts",
+      "content": "Treat small wounds quickly to avoid infection.",
+      "points": [
+        "Wash with water and soap or use antibiotic.",
+        "Cover with bandage.",
+        "Seek medical help for puncture wounds or head injuries."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Human Circulatory System",
+  "subsections": [
+    {
+      "title": "Definition and Overview",
+      "content": "The human circulatory system is responsible for the transport of nutrients, gases, hormones, and waste products throughout the body. It consists of two main components: the blood circulatory system and the lymphatic system.",
+      "points": [
+        "Blood circulatory system includes the heart, blood vessels, and blood.",
+        "Lymphatic system includes lymph, lymph nodes, and lymphatic vessels.",
+        "It supplies oxygen and nutrients and removes waste products.",
+        "Helps in disease defense and regulation of body temperature."
+      ]
+    },
+    {
+      "title": "Functions of the Circulatory System",
+      "content": "The circulatory system performs multiple vital functions to sustain life and maintain homeostasis.",
+      "points": [
+        "Transports oxygen from lungs to tissues.",
+        "Transports food from intestines to body cells.",
+        "Transports hormones from endocrine glands to organs.",
+        "Removes waste products like carbon dioxide and urea.",
+        "Protects the body against infections.",
+        "Maintains internal balance (homeostasis)."
+      ]
+    },
+    {
+      "title": "Components of the Circulatory System",
+      "content": "The circulatory system is made up of the heart, blood vessels, and blood.",
+      "points": [
+        "Heart – muscular organ that pumps blood.",
+        "Blood vessels – tubes (arteries, veins, capillaries) that transport blood.",
+        "Blood – consists of red cells, white cells, plasma, and platelets."
+      ]
+    },
+    {
+      "title": "Structure and Function of the Heart",
+      "content": "The heart is a muscular organ with four chambers responsible for pumping blood.",
+      "points": [
+        "Made of cardiac muscle that contracts continuously.",
+        "Has four chambers: right atrium, left atrium, right ventricle, left ventricle.",
+        "Valves prevent backflow of blood (tricuspid, bicuspid, semi-lunar).",
+        "Septum separates oxygenated and deoxygenated blood.",
+        "Left ventricle has thicker walls as it pumps blood to the entire body."
+      ]
+    },
+    {
+      "title": "Blood Vessels",
+      "content": "Blood vessels are channels through which blood flows throughout the body.",
+      "points": [
+        "Arteries – carry blood away from heart, have thick walls, no valves.",
+        "Veins – carry blood to the heart, have valves, thinner walls.",
+        "Capillaries – thin-walled vessels where exchange of gases and nutrients occurs.",
+        "Arteries have narrow lumen, veins have wide lumen, capillaries have narrow lumen.",
+        "Arteries carry oxygenated blood (except pulmonary artery), veins carry deoxygenated blood (except pulmonary vein)."
+      ]
+    },
+    {
+      "title": "Blood Circulation in the Heart",
+      "content": "The heart undergoes systole (contraction) and diastole (relaxation) to pump blood.",
+      "points": [
+        "Right side receives deoxygenated blood and pumps to lungs.",
+        "Left side receives oxygenated blood and pumps to body.",
+        "Valves ensure one-way flow and prevent backflow.",
+        "Pulmonary circuit – heart to lungs and back.",
+        "Systemic circuit – heart to body and back.",
+        "Blood flows twice through the heart in one complete cycle – double circulatory system."
+      ]
+    },
+    {
+      "title": "Components of Blood and Their Functions",
+      "content": "Blood consists of plasma and blood cells, each with specific functions.",
+      "points": [
+        "Red blood cells – contain hemoglobin, carry oxygen, biconcave shape, no nucleus.",
+        "White blood cells – defense against infection, include phagocytes and lymphocytes.",
+        "Platelets – help in clotting blood at wound sites.",
+        "Plasma – liquid part, transports nutrients, hormones, and waste products."
+      ]
+    },
+    {
+      "title": "White Blood Cells (WBCs)",
+      "content": "WBCs protect the body by destroying pathogens and producing antibodies.",
+      "points": [
+        "Phagocytes – engulf germs (include monocytes and neutrophils).",
+        "Lymphocytes – produce antibodies (T-cells and B-cells).",
+        "B-cells turn into plasma cells and memory cells.",
+        "Plasma cells release antibodies: antitoxins, lysins, and agglutinins.",
+        "Vaccination stimulates antibody production."
+      ]
+    },
+    {
+      "title": "Lymph and Lymphatic System",
+      "content": "Lymphatic system transports lymph, helps in immunity and fat absorption.",
+      "points": [
+        "Lymph nodes produce lymphocytes.",
+        "Lymph fluid supplies oxygen and food to organs.",
+        "Acts as lubricant in pleural and pericardial cavities.",
+        "Carries waste from tissues and returns fluid to bloodstream."
+      ]
+    },
+    {
+      "title": "Blood Circulation in Blood Vessels",
+      "content": "Blood flows through arteries and veins due to pressure created by the heart.",
+      "points": [
+        "Arterial blood is under high pressure; elastic walls prevent bursting.",
+        "Venous blood flows under low pressure; valves prevent backflow.",
+        "Pulse rate is due to systolic and diastolic pressure."
+      ]
+    },
+    {
+      "title": "Problems of the Circulatory System",
+      "content": "Diseases and conditions that affect blood and circulation.",
+      "points": [
+        "Malnutrition (lack of iron, protein, vitamin C) causes anaemia and gum bleeding.",
+        "Infections like bilharzia, malaria, amoeba dysentery damage blood vessels.",
+        "Worms like hookworms suck blood and cause bleeding."
+      ]
+    },
+    {
+      "title": "Anaemia",
+      "content": "A condition in which there are not enough red blood cells or hemoglobin.",
+      "points": [
+        "Caused by lack of iron, protein, heavy bleeding, infections, hereditary factors.",
+        "Symptoms include fatigue, pale face, headaches, fainting.",
+        "Prevention – proper diet, treating infections, deworming.",
+        "Treatment – medication, blood transfusion."
+      ]
+    },
+    {
+      "title": "Types of Bleeding and Control",
+      "content": "Bleeding can be classified based on the blood vessel involved.",
+      "points": [
+        "Arterial – bright red, spurts with heartbeat, very serious.",
+        "Venous – dark red, steady slow flow.",
+        "Capillary – bright red, steady flow, common with cuts.",
+        "Control: direct pressure, elevate limb, clean wound, use clean cloth or bandage."
+      ]
+    },
+    {
+      "title": "First Aid for Bleeding",
+      "content": "Steps to manage bleeding and prevent further injury.",
+      "points": [
+        "Lay person down, head lower than body.",
+        "Elevate bleeding part to reduce flow.",
+        "Apply firm, direct pressure with clean cloth.",
+        "For minor cuts: wash, apply antibiotic, bandage.",
+        "Seek medical aid for puncture wounds or head injuries."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Digestion in Mammals",
+  "subsections": [
+    {
+      "title": "Definition and Overview",
+      "content": "Digestion is the process of breaking down food into small particles that can be absorbed by the body. It involves changing complex organic nutrient molecules into simple molecules that can be absorbed into the blood or lymph and transported to cells.",
+      "points": [
+        "Occurs along the alimentary canal or digestive tract.",
+        "Ingestion is the taking in of food into the alimentary canal.",
+        "Egestion is the removal of undigested food from the alimentary canal."
+      ]
+    },
+    {
+      "title": "Types of Digestion",
+      "content": "There are two main types of digestion: physical (mechanical) and chemical digestion.",
+      "points": [
+        "Physical digestion breaks large food pieces into smaller pieces by chewing.",
+        "Advantages: Easier swallowing and increased surface area for enzyme action.",
+        "Chemical digestion breaks down large molecules into smaller molecules by enzymes.",
+        "Advantages: Produces molecules small enough to be absorbed into the bloodstream."
+      ]
+    },
+    {
+      "title": "Parts and Functions of the Human Digestive System",
+      "content": "The digestive system includes several parts each with specific roles in digestion.",
+      "points": [
+        "Mouth: Teeth chew food; saliva contains enzyme ptyalin to digest starch.",
+        "Oesophagus: Transports food to stomach; no digestion occurs here.",
+        "Stomach: Secretes gastric juice with enzymes and acid for protein digestion.",
+        "Small Intestine: Duodenum receives bile and pancreatic juice for digestion; ileum absorbs nutrients.",
+        "Large Intestine: Absorbs water and forms feces.",
+        "Liver: Produces bile; detoxifies substances and stores vitamins.",
+        "Pancreas: Produces pancreatic juice with enzymes and alkaline salts."
+      ]
+    },
+    {
+      "title": "Digestion in the Mouth",
+      "content": "In the mouth, digestion begins with physical and chemical processes.",
+      "points": [
+        "Teeth physically break down food.",
+        "Saliva moistens food and contains enzyme ptyalin which converts starch to maltose.",
+        "Mucus in saliva makes food slippery for easy swallowing."
+      ]
+    },
+    {
+      "title": "Types of Teeth",
+      "content": "There are two types of teeth important in digestion.",
+      "points": [
+        "Temporary (milk) teeth: Appear in childhood and are later replaced.",
+        "Permanent teeth: Replace temporary teeth and last for life.",
+        "Care includes eating abrasive foods and regular brushing."
+      ]
+    },
+    {
+      "title": "Role of Oesophagus",
+      "content": "The oesophagus transports food from the mouth to the stomach.",
+      "points": [
+        "Epiglottis prevents food from entering the trachea.",
+        "Food moves by peristalsis down the oesophagus.",
+        "No digestion takes place here."
+      ]
+    },
+    {
+      "title": "Digestion in the Stomach",
+      "content": "The stomach performs physical and chemical digestion.",
+      "points": [
+        "Cardiac sphincter prevents food from returning to the oesophagus.",
+        "Pyloric sphincter controls food leaving the stomach to intestines.",
+        "Gastric juice contains mucus, hydrochloric acid, renin, pepsin, and chymotrypsin.",
+        "Hydrochloric acid provides acidic environment, kills germs, and softens food.",
+        "Renin coagulates milk in babies.",
+        "Pepsin digests proteins into polypeptides."
+      ]
+    },
+    {
+      "title": "Digestion in the Intestines",
+      "content": "Digestion continues in the intestines with help from bile and pancreatic juice.",
+      "points": [
+        "Bile emulsifies fats and neutralizes stomach acid.",
+        "Pancreatic juice contains enzymes lipase, trypsin, and amylase.",
+        "Lipase breaks down fats into fatty acids and glycerol.",
+        "Trypsin digests polypeptides into peptides.",
+        "Amylase breaks starch into maltose."
+      ]
+    },
+    {
+      "title": "Digestion and Absorption in the Ileum",
+      "content": "The ileum secretes intestinal juice with enzymes to complete digestion and absorbs nutrients.",
+      "points": [
+        "Maltase breaks maltose into glucose.",
+        "Peptidase breaks peptides into amino acids.",
+        "Sucrase breaks sucrose into glucose and fructose.",
+        "Lactase breaks lactose into galactose.",
+        "Cellulase breaks cellulose into glucose.",
+        "Nutrients absorbed into blood capillaries and lacteals."
+      ]
+    },
+    {
+      "title": "Absorption Adaptations of the Small Intestine",
+      "content": "The small intestine is adapted to maximize absorption.",
+      "points": [
+        "Long length and villi increase surface area.",
+        "Villi have thin walls for fast diffusion.",
+        "Rich blood supply transports absorbed nutrients.",
+        "Lacteals absorb fatty acids and glycerol."
+      ]
+    },
+    {
+      "title": "End Products of Digestion",
+      "points": [
+        "Carbohydrates are broken down into glucose.",
+        "Fats are broken down into fatty acids and glycerol.",
+        "Proteins are broken down into amino acids."
+      ]
+    },
+    {
+      "title": "Function of the Large Intestine",
+      "content": "The large intestine absorbs water and minerals and forms feces.",
+      "points": [
+        "Undigested food enters the large intestine.",
+        "Water and mineral salts are absorbed.",
+        "Feces are temporarily stored in the rectum before egestion."
+      ]
+    },
+    {
+      "title": "Functions of the Liver",
+      "content": "The liver has several functions related to digestion and metabolism.",
+      "points": [
+        "Produces bile for fat digestion.",
+        "Stores vitamins A, D, and iron.",
+        "Converts excess glucose to glycogen for storage.",
+        "Deaminates excess proteins.",
+        "Detoxifies poisonous substances."
+      ]
+    },
+    {
+      "title": "Common Digestive Problems",
+      "content": "Some common problems affecting the digestive system include constipation and ulcers.",
+      "points": [
+        "Constipation caused by lack of fiber, stress, dehydration.",
+        "Treatment includes increased water intake, exercise, and medication.",
+        "Ulcers caused by excess hydrochloric acid.",
+        "Prevention includes eating roughage, avoiding stress, and medical treatment."
+      ]
+    }
+  ]
+},
+
+
+
+
     {
       "title": "Photosynthesis",
       "subsections": [
@@ -29,6 +2069,7 @@
       ]
     },
    
+
     {
       "title": "Respiration",
       "subsections": [
