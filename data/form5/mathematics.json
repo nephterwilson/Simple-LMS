@@ -4,36 +4,335 @@
   "subject": "Mathematics",
   "topics": [
     {
-      "title": "Fractions and Decimals",
-      "subsections": [
-        {
-          "title": "Fractions",
-          "content": "Fractions represent parts of a whole.",
-          "points": [
-            "Numerator: number of parts considered.",
-            "Denominator: total parts in the whole.",
-            "Operations: addition and subtraction need common denominators."
-          ]
-        },
-        {
-          "title": "Decimals",
-          "content": "Decimals represent fractions using base-10 notation.",
-          "points": [
-            "Convert fractions to decimals by division.",
-            "Decimals are easier to use in addition, subtraction, multiplication.",
-            "Place value is important for understanding decimals."
-          ]
-        },
-        {
-          "title": "Conversion Between Fractions and Decimals",
-          "content": "How to convert fractions to decimals and vice versa.",
-          "points": [
-            "Divide numerator by denominator to get decimal.",
-            "Decimal to fraction by reading place value and simplifying."
-          ]
-        }
+  "title": "Algebraic Expressions",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Algebraic expressions are combinations of variables, numbers, and operations.",
+      "points": [
+        "Variables represent unknown or changing values, usually denoted by letters like x, y, or z.",
+        "Constants are fixed numbers.",
+        "Operations include addition, subtraction, multiplication, division, and exponents."
       ]
     },
+    {
+      "title": "Types of Algebraic Expressions",
+      "content": "Expressions can be categorized based on the number of terms.",
+      "points": [
+        "Monomial: an expression with only one term (e.g., 3x, 5).",
+        "Binomial: an expression with two terms separated by + or - (e.g., x + 2).",
+        "Trinomial: an expression with three terms (e.g., x² + 3x + 4).",
+        "Polynomial: an expression with one or more terms involving variables raised to whole-number powers."
+      ]
+    },
+    {
+      "title": "Simplifying Algebraic Expressions",
+      "content": "Simplification involves combining like terms and applying arithmetic operations.",
+      "points": [
+        "Like terms have the same variables raised to the same power.",
+        "Add or subtract coefficients of like terms.",
+        "Apply distributive property when needed (e.g., a(b + c) = ab + ac)."
+      ]
+    },
+    {
+      "title": "Evaluating Algebraic Expressions",
+      "content": "Substitute values for variables and perform operations to find the value.",
+      "points": [
+        "Replace each variable with its given number.",
+        "Follow order of operations (PEMDAS/BODMAS).",
+        "Calculate step-by-step to get the final value."
+      ]
+    },
+    {
+      "title": "Common Mistakes",
+      "content": "Be careful with signs, exponents, and combining unlike terms.",
+      "points": [
+        "Do not add unlike terms (e.g., x and x² cannot be combined).",
+        "Remember to distribute multiplication over addition or subtraction.",
+        "Watch for negative signs and apply them correctly."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Income Tax",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Income tax is a percentage of a person's or a business’s income paid to the government.",
+      "points": [
+        "It is calculated using the formula: Income Tax = Tax Rate × Taxable Income.",
+        "Some income may be exempted, and tax is only calculated on taxable income."
+      ]
+    },
+    {
+      "title": "Practice Questions",
+      "content": "Solve the following income tax problems.",
+      "points": [
+        "1. A man earns MWK 400,000 per month. If the income tax rate is 15%, calculate his monthly income tax.",
+        "2. Calculate the annual income tax for someone earning MWK 120,000 per month at a tax rate of 20%.",
+        "3. A company makes MWK 5,000,000 in annual profit. If the tax rate is 30%, how much tax does it pay?",
+        "4. If an employee earns MWK 250,000 and the first MWK 100,000 is tax-free, calculate tax at 25% on the remainder.",
+        "5. A teacher earns MWK 800,000 monthly. If tax bands are: 0% for the first 100,000, 10% for the next 300,000, and 20% for the rest, calculate total monthly tax.",
+        "6. Calculate net income for a person who earns MWK 600,000 and pays 18% income tax.",
+        "7. A worker receives a bonus of MWK 120,000 in a month. If bonuses are taxed at 10%, how much tax is paid on the bonus?",
+        "8. A trader’s taxable income is MWK 1,200,000 and is taxed in full at 12.5%. Find the income tax.",
+        "9. A company pays MWK 300,000 in income tax at 25%. What was its taxable income?",
+        "10. After paying MWK 90,000 in income tax at a rate of 15%, what was the person’s gross income?"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Number Patterns",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Number patterns are sequences of numbers that follow a certain rule.",
+      "points": [
+        "They may increase or decrease by a fixed amount or ratio.",
+        "Common types: arithmetic sequences, geometric sequences, and quadratic patterns."
+      ]
+    },
+    {
+      "title": "Types of Patterns",
+      "content": "Patterns can follow different mathematical rules.",
+      "points": [
+        "Arithmetic Sequence: A pattern where each term increases or decreases by a constant value.",
+        "Geometric Sequence: A pattern where each term is multiplied by a constant value.",
+        "Quadratic Pattern: A pattern formed when the second difference between terms is constant."
+      ]
+    },
+    {
+      "title": "Practice Questions",
+      "content": "Solve the following number pattern problems.",
+      "points": [
+        "1. Find the next three terms in the sequence: 3, 7, 11, 15, ...",
+        "2. What is the 10th term of the sequence: 2, 5, 8, 11, ...?",
+        "3. A sequence is given by: 6, 12, 24, 48, ... Find the 5th term.",
+        "4. Find the nth term of the arithmetic sequence: 4, 9, 14, 19, ...",
+        "5. A pattern increases by 3 each time. If the first term is 5, find the 12th term.",
+        "6. The nth term of a sequence is given by Tn = 2n² + 1. Find the 4th term.",
+        "7. The first term of a geometric sequence is 2 and the common ratio is 3. Find the 5th term.",
+        "8. Find the sum of the first 6 terms of the arithmetic sequence: 10, 13, 16, ...",
+        "9. Given Tn = 5n - 2, find the 15th term.",
+        "10. A sequence is formed by the rule Tn = n² - n. Find the 6th term."
+      ]
+    }
+  ]
+},
+
+
+
+{
+  "title": "Solving Algebraic Expressions",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Solving algebraic expressions involves finding the value of the variable(s) that make the expression true.",
+      "points": [
+        "Usually involves equations where two expressions are set equal.",
+        "Goal is to isolate the variable on one side of the equation."
+      ]
+    },
+    {
+      "title": "Steps to Solve Simple Equations",
+      "content": "A step-by-step approach helps in solving basic algebraic equations.",
+      "points": [
+        "Simplify both sides by expanding and combining like terms.",
+        "Use inverse operations to move terms and isolate the variable.",
+        "Perform the same operation on both sides to keep the equation balanced.",
+        "Check your solution by substituting the value back into the original equation."
+      ]
+    },
+    {
+      "title": "Solving Linear Equations",
+      "content": "Linear equations have variables raised to the power of one.",
+      "points": [
+        "Example: 3x + 5 = 20",
+        "Subtract 5 from both sides: 3x = 15",
+        "Divide both sides by 3: x = 5"
+      ]
+    },
+    {
+      "title": "Solving Equations with Variables on Both Sides",
+      "content": "When variables appear on both sides, move all variables to one side first.",
+      "points": [
+        "Example: 2x + 3 = x + 7",
+        "Subtract x from both sides: x + 3 = 7",
+        "Subtract 3 from both sides: x = 4"
+      ]
+    },
+    {
+      "title": "Common Mistakes to Avoid",
+      "content": "Watch for errors that can lead to wrong answers.",
+      "points": [
+        "Failing to perform operations on both sides of the equation.",
+        "Ignoring negative signs.",
+        "Not simplifying expressions fully before solving."
+      ]
+    }
+  ]
+},
+{
+  "title": "Practice on Algebraic Expressions",
+  "subsections": [
+    {
+      "title": "Problems and Solutions",
+      "content": "Solve the following algebraic equations.",
+      "points": [
+        "1. Solve for x: 4x + 7 = 23\nSolution: Subtract 7 → 4x = 16; Divide by 4 → x = 4.",
+        "2. Solve for y: 3y - 5 = 16\nSolution: Add 5 → 3y = 21; Divide by 3 → y = 7.",
+        "3. Solve for a: 5a + 2a = 21\nSolution: Combine like terms → 7a = 21; Divide by 7 → a = 3.",
+        "4. Solve for x: 2x + 3 = x + 9\nSolution: Subtract x → x + 3 = 9; Subtract 3 → x = 6.",
+        "5. Solve for m: 7m - 4 = 3m + 12\nSolution: Subtract 3m → 4m - 4 = 12; Add 4 → 4m = 16; Divide by 4 → m = 4.",
+        "6. Solve for p: 3(p - 2) = 12\nSolution: Expand → 3p - 6 = 12; Add 6 → 3p = 18; Divide by 3 → p = 6.",
+        "7. Solve for t: 5t/2 = 15\nSolution: Multiply both sides by 2 → 5t = 30; Divide by 5 → t = 6.",
+        "8. Solve for x: (x/3) + 4 = 10\nSolution: Subtract 4 → x/3 = 6; Multiply by 3 → x = 18.",
+        "9. Solve for y: 2(y + 5) = 16\nSolution: Expand → 2y + 10 = 16; Subtract 10 → 2y = 6; Divide by 2 → y = 3.",
+        "10. Solve for z: 4z - (2z + 3) = 5\nSolution: Expand brackets → 4z - 2z - 3 = 5; Simplify → 2z - 3 = 5; Add 3 → 2z = 8; Divide by 2 → z = 4."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Coordinate Geometry",
+  "subsections": [
+    {
+      "title": "Key Concepts",
+      "content": "Coordinate geometry deals with points, lines, and shapes on a plane using ordered pairs (x, y).",
+      "points": [
+        "The x-axis is horizontal; the y-axis is vertical.",
+        "The origin is the point (0, 0).",
+        "A point is represented as (x, y)."
+      ]
+    },
+    {
+      "title": "Important Formulas",
+      "content": "Common formulas used in coordinate geometry problems.",
+      "points": [
+        "Distance between two points (x₁, y₁) and (x₂, y₂): √[(x₂ - x₁)² + (y₂ - y₁)²]",
+        "Midpoint of a line joining (x₁, y₁) and (x₂, y₂): ((x₁ + x₂)/2, (y₁ + y₂)/2)",
+        "Gradient (slope) between two points: (y₂ - y₁) / (x₂ - x₁)",
+        "Equation of a straight line: y = mx + c"
+      ]
+    },
+    {
+      "title": "Practice Questions",
+      "content": "Solve the following coordinate geometry problems.",
+      "points": [
+        "1. Find the distance between the points (3, 4) and (7, 1).",
+        "2. Find the midpoint of the line joining (2, 3) and (10, 7).",
+        "3. Calculate the gradient of the line passing through the points (5, 2) and (9, 10).",
+        "4. Find the equation of the line with gradient 3 and y-intercept -2.",
+        "5. Determine the equation of the line passing through (1, 2) and (3, 6).",
+        "6. A line passes through (0, 4) and has a gradient of -2. Write its equation.",
+        "7. If the midpoint of a line is (5, -3) and one end is (2, -5), find the other end.",
+        "8. Find the coordinates of a point that is 5 units away from (1, 2) on the x-axis.",
+        "9. Show that the triangle with vertices (1, 2), (4, 6), and (7, 2) is isosceles.",
+        "10. Find the length of the diagonal of a rectangle whose corners are (1, 1) and (6, 4)."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Vectors",
+  "subsections": [
+    {
+      "title": "Key Concepts",
+      "content": "Vectors are quantities that have both magnitude and direction, represented in coordinate form.",
+      "points": [
+        "A vector from point A(x₁, y₁) to B(x₂, y₂) is written as AB = (x₂ - x₁, y₂ - y₁).",
+        "Magnitude of vector a = (x, y) is |a| = √(x² + y²).",
+        "Two vectors are equal if they have the same magnitude and direction."
+      ]
+    },
+    {
+      "title": "Vector Operations",
+      "content": "Vectors can be added, subtracted, and multiplied by scalars.",
+      "points": [
+        "Vector addition: a + b = (x₁ + x₂, y₁ + y₂).",
+        "Vector subtraction: a - b = (x₁ - x₂, y₁ - y₂).",
+        "Scalar multiplication: k × a = (k × x, k × y)."
+      ]
+    },
+    {
+      "title": "Position Vectors",
+      "content": "A position vector locates a point relative to the origin.",
+      "points": [
+        "If A is (x, y), then position vector OA = (x, y).",
+        "AB = OB - OA."
+      ]
+    },
+    {
+      "title": "Practice Questions",
+      "content": "Solve the following vector problems.",
+      "points": [
+        "1. Find the vector AB given A(2, 3) and B(7, 6).",
+        "2. Calculate the magnitude of vector a = (4, -3).",
+        "3. Find the result of adding vectors a = (2, 1) and b = (-5, 4).",
+        "4. If vector p = (6, 2), find 3p.",
+        "5. Subtract vector b = (3, -1) from a = (5, 2).",
+        "6. Find the position vector AB, given OA = (3, 2) and OB = (7, 5).",
+        "7. A vector c = (x, 2) has a magnitude of √13. Find the value of x.",
+        "8. Find the midpoint M of a line joining A(1, 2) and B(5, 6) using vectors.",
+        "9. Given vectors a = (1, 4) and b = (2, -3), find the vector 2a - 3b.",
+        "10. Find the unit vector in the direction of (6, 8)."
+      ]
+    }
+  ]
+},
+
+
+
+{
+  "title": "Speed, Distance and Time",
+  "subsections": [
+    {
+      "title": "Key Concepts",
+      "content": "Speed, distance, and time are related through a simple formula used to solve motion problems.",
+      "points": [
+        "Speed = Distance ÷ Time",
+        "Distance = Speed × Time",
+        "Time = Distance ÷ Speed"
+      ]
+    },
+    {
+      "title": "Units and Conversions",
+      "content": "Ensure consistent units when solving problems.",
+      "points": [
+        "Speed: km/h, m/s",
+        "Distance: km, m",
+        "Time: hours, minutes, seconds",
+        "To convert km/h to m/s, multiply by 5/18",
+        "To convert m/s to km/h, multiply by 18/5"
+      ]
+    },
+    {
+      "title": "Practice Questions",
+      "content": "Solve the following problems on speed, distance, and time.",
+      "points": [
+        "1. A car travels 180 km in 3 hours. What is its speed?",
+        "2. A cyclist rides at 25 km/h for 2.5 hours. How far does he travel?",
+        "3. A bus moves at 60 km/h. How long does it take to travel 240 km?",
+        "4. A runner covers 400 m in 50 seconds. Calculate his speed in m/s.",
+        "5. Convert 72 km/h to m/s.",
+        "6. Convert 15 m/s to km/h.",
+        "7. A truck travels 90 km in 1 hour 30 minutes. Find its speed in km/h.",
+        "8. A person walks at 5 km/h. How long will it take to walk 12 km?",
+        "9. A plane flies 1200 km in 2 hours 30 minutes. Find its speed.",
+        "10. A train travels at 45 km/h. How far will it go in 40 minutes?"
+      ]
+    }
+  ]
+},
+
+
+
     {
       "title": "Algebraic Expressions",
       "subsections": [
@@ -65,33 +364,121 @@
       ]
     },
     {
-      "title": "Perimeter and Area",
-      "subsections": [
-        {
-          "title": "Perimeter",
-          "content": "The total length around a shape.",
-          "points": [
-            "Rectangle perimeter = 2 × (length + width).",
-            "Triangle perimeter = sum of all sides."
-          ]
-        },
-        {
-          "title": "Area",
-          "content": "The space enclosed within a shape.",
-          "points": [
-            "Rectangle area = length × width.",
-            "Triangle area = ½ × base × height.",
-            "Circle area = π × radius²."
-          ]
-        },
-        {
-          "title": "Circumference of a Circle",
-          "content": "The perimeter of a circle.",
-          "points": [
-            "Circumference = 2 × π × radius."
-          ]
-        }
+  "title": "Surds",
+  "subsections": [
+    {
+      "title": "Definition of Surds",
+      "content": "Surds are irrational numbers expressed as roots that cannot be simplified to remove the root.",
+      "points": [
+        "Examples include √2, √3, √5.",
+        "They are used to represent exact values instead of decimals."
+      ]
+    },
+    {
+      "title": "Simplifying Surds",
+      "content": "Breaking down surds into simpler forms by factoring.",
+      "points": [
+        "Find the largest perfect square factor of the number under the root.",
+        "Example: √50 = √(25 × 2) = 5√2.",
+        "Only simplify surds by removing perfect square factors."
+      ]
+    },
+    {
+      "title": "Operations with Surds",
+      "content": "How to add, subtract, multiply, and divide surds.",
+      "points": [
+        "Add or subtract only like surds (same root number).",
+        "Multiply surds by multiplying numbers under the root: √a × √b = √(a×b).",
+        "Divide surds by dividing numbers under the root: √a ÷ √b = √(a÷b).",
+        "Rationalize denominators by removing surds from the denominator."
       ]
     }
+  ]
+},
+{
+  "title": "Surds Understanding",
+  "subsections": [
+    {
+      "title": "Definition of Surds",
+      "content": "Surds are irrational numbers expressed as roots that cannot be simplified to remove the root.",
+      "points": [
+        "Examples include √2, √3, √5.",
+        "Used to represent exact values instead of decimals."
+      ]
+    },
+    {
+      "title": "Simplifying Surds",
+      "content": "Breaking down surds into simpler forms by factoring.",
+      "points": [
+        "Find the largest perfect square factor of the number under the root.",
+        "Example: √50 can be simplified by factoring.",
+        "Simplify by removing perfect square factors."
+      ]
+    },
+    {
+      "title": "Operations with Surds",
+      "content": "Rules for adding, subtracting, multiplying, and dividing surds.",
+      "points": [
+        "Add or subtract only like surds (with the same root number).",
+        "Multiply surds by multiplying the numbers under the roots.",
+        "Divide surds by dividing the numbers under the roots.",
+        "Rationalize denominators to remove surds from denominators."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Surds Exercises",
+  "subsections": [
+    {
+      "title": "Definition of Surds",
+      "content": "Surds are irrational numbers expressed as roots that cannot be simplified to remove the root.",
+      "points": [
+        "Examples include √2, √3, √5.",
+        "Used to represent exact values instead of decimals."
+      ]
+    },
+    {
+      "title": "Simplifying Surds",
+      "content": "Breaking down surds into simpler forms by factoring.",
+      "points": [
+        "Find the largest perfect square factor of the number under the root.",
+        "Example: √50 can be simplified by factoring.",
+        "Simplify by removing perfect square factors."
+      ]
+    },
+    {
+      "title": "Operations with Surds",
+      "content": "Rules for adding, subtracting, multiplying, and dividing surds.",
+      "points": [
+        "Add or subtract only like surds (with the same root number).",
+        "Multiply surds by multiplying the numbers under the roots.",
+        "Divide surds by dividing the numbers under the roots.",
+        "Rationalize denominators to remove surds from denominators."
+      ]
+    },
+    {
+      "title": "Practice Exercises",
+      "content": "Solve the following exercises involving surds.",
+      "points": [
+        "1. Simplify √72.",
+        "2. Simplify √18 + 2√8.",
+        "3. Multiply: √3 × √12.",
+        "4. Divide: √50 ÷ √2.",
+        "5. Simplify: 3√5 + 2√5.",
+        "6. Rationalize the denominator: 5 / √3.",
+        "7. Simplify: √45 - √20.",
+        "8. Multiply and simplify: (2√2)(3√8).",
+        "9. Simplify: (√27)².",
+        "10. Rationalize the denominator: 7 / (2√5)."
+      ]
+    }
+  ]
+}
+
+
+
+
   ]
 }

@@ -5,68 +5,376 @@
   "subject": "Life Skills",
   "topics": [
     {
-      "title": "Decision Making",
-      "subsections": [
-        {
-          "title": "Definition",
-          "content": "Decision making involves selecting the best option among alternatives.",
-          "points": [
-            "We make decisions every day, big or small.",
-            "Poor decisions can lead to negative outcomes; good ones improve life quality."
-          ]
-        },
-        {
-          "title": "Steps in Decision Making",
-          "content": "A structured process improves decision quality.",
-          "points": [
-            "Identify the problem.",
-            "Gather relevant information.",
-            "Evaluate options.",
-            "Make a choice.",
-            "Take action and review the results."
-          ]
-        },
-        {
-          "title": "Importance",
-          "content": "Making wise choices improves various aspects of life.",
-          "points": [
-            "Improves health, relationships, and long-term success.",
-            "Builds responsibility and independence."
-          ]
-        }
+  "title": "Decision Making",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Decision making is the process of choosing the most appropriate option from several alternatives to solve a problem or achieve a goal.",
+      "points": [
+        "Decisions are made daily, ranging from simple choices to complex judgments.",
+        "Good decisions lead to positive outcomes and personal growth.",
+        "Poor decisions may result in challenges or setbacks."
       ]
     },
     {
-      "title": "Self-Awareness",
-      "subsections": [
-        {
-          "title": "Definition",
-          "content": "Self-awareness is understanding your own emotions, strengths, weaknesses, and values.",
-          "points": [
-            "It involves being honest with yourself.",
-            "Helps you know how others see you."
-          ]
-        },
-        {
-          "title": "Benefits",
-          "content": "Being self-aware promotes personal growth.",
-          "points": [
-            "Increases confidence and emotional intelligence.",
-            "Leads to better relationships and decisions."
-          ]
-        },
-        {
-          "title": "How to Improve Self-Awareness",
-          "content": "It is a skill that can be developed.",
-          "points": [
-            "Reflect regularly on your behavior and feelings.",
-            "Seek feedback from trusted people.",
-            "Practice mindfulness or journaling."
-          ]
-        }
+      "title": "Steps in Decision Making",
+      "content": "Following a clear sequence of steps helps make informed and effective decisions.",
+      "points": [
+        "Identify and clearly define the problem or decision to be made.",
+        "Gather relevant information and data related to the options available.",
+        "Evaluate the advantages and disadvantages of each alternative.",
+        "Select the best option based on careful analysis.",
+        "Implement the decision through appropriate actions.",
+        "Review the outcomes and learn from the results for future decisions."
       ]
     },
     {
+      "title": "Importance",
+      "content": "Effective decision making enhances various aspects of personal and professional life.",
+      "points": [
+        "Leads to improved health, stronger relationships, and better career opportunities.",
+        "Builds confidence, responsibility, and independence.",
+        "Helps manage risks and avoid unnecessary problems."
+      ]
+    }
+  ]
+},
+
+  {
+  "title": "Self-Awareness",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Self-awareness is the conscious knowledge of one’s own character, feelings, motives, and desires.",
+      "points": [
+        "It involves honest reflection on your emotions, strengths, weaknesses, and values.",
+        "Helps you understand how your behavior affects others and how others perceive you.",
+        "Is a foundation for emotional intelligence and personal development."
+      ]
+    },
+    {
+      "title": "Benefits",
+      "content": "Developing self-awareness leads to significant improvements in various areas of life.",
+      "points": [
+        "Increases confidence and emotional intelligence.",
+        "Enhances decision-making and problem-solving abilities.",
+        "Fosters healthier and more meaningful relationships.",
+        "Encourages personal growth and resilience."
+      ]
+    },
+    {
+      "title": "How to Improve Self-Awareness",
+      "content": "Self-awareness is a skill that can be cultivated through consistent practice.",
+      "points": [
+        "Regularly reflect on your thoughts, feelings, and behaviors.",
+        "Seek honest and constructive feedback from trusted friends, family, or mentors.",
+        "Practice mindfulness techniques such as meditation or journaling to connect with your inner self.",
+        "Observe your reactions in different situations to understand your triggers and patterns."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Time Management",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Time management is the process of planning and controlling how much time to spend on specific activities to increase efficiency and productivity.",
+      "points": [
+        "Helps prioritize tasks and meet deadlines.",
+        "Reduces stress by organizing work and personal life.",
+        "Enables better decision making and goal achievement."
+      ]
+    },
+    {
+      "title": "Principles of Time Management",
+      "content": "Effective time management is guided by key principles that help maximize productivity.",
+      "points": [
+        "Set clear and achievable goals.",
+        "Prioritize tasks based on importance and urgency.",
+        "Avoid procrastination by starting tasks early.",
+        "Break large tasks into smaller, manageable steps.",
+        "Allocate specific time slots for activities.",
+        "Eliminate distractions to maintain focus."
+      ]
+    },
+    {
+      "title": "Techniques for Time Management",
+      "content": "Various techniques help individuals manage their time effectively.",
+      "points": [
+        "To-Do Lists: Writing down tasks to keep track of activities.",
+        "Pomodoro Technique: Working in focused intervals with short breaks.",
+        "Eisenhower Matrix: Prioritizing tasks by urgency and importance.",
+        "Time Blocking: Scheduling specific periods for different activities.",
+        "Setting Deadlines: Creating time limits to increase accountability."
+      ]
+    },
+    {
+      "title": "Benefits of Time Management",
+      "content": "Good time management skills lead to improved personal and professional outcomes.",
+      "points": [
+        "Increases productivity and efficiency.",
+        "Enhances work-life balance.",
+        "Reduces stress and anxiety.",
+        "Improves focus and motivation.",
+        "Helps achieve goals and meet deadlines consistently."
+      ]
+    },
+    {
+      "title": "Common Challenges",
+      "content": "Many face obstacles that hinder effective time management.",
+      "points": [
+        "Procrastination and distractions.",
+        "Poor planning and goal setting.",
+        "Underestimating task duration.",
+        "Lack of motivation or focus.",
+        "Overcommitment and inability to say no."
+      ]
+    }
+  ]
+},
+{
+  "title": "Business Skills for Life Skills",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Business skills are practical abilities that help individuals start, manage, and grow business ventures, contributing to personal development and economic empowerment.",
+      "points": [
+        "Enable individuals to make informed financial and operational decisions.",
+        "Support entrepreneurship and self-reliance.",
+        "Enhance problem-solving and communication abilities."
+      ]
+    },
+    {
+      "title": "Essential Business Skills",
+      "content": "Key business skills important for life skills development include:",
+      "points": [
+        "Financial Literacy: Understanding money management, budgeting, and accounting.",
+        "Marketing: Knowing how to promote products or services effectively.",
+        "Customer Service: Building positive relationships and meeting customer needs.",
+        "Planning and Organization: Setting goals, managing time, and coordinating resources.",
+        "Problem-Solving: Identifying challenges and finding practical solutions.",
+        "Communication: Conveying ideas clearly to customers, employees, and partners."
+      ]
+    },
+    {
+      "title": "Importance of Business Skills in Life Skills",
+      "content": "Business skills empower individuals to achieve economic independence and improve quality of life.",
+      "points": [
+        "Encourages entrepreneurship and job creation.",
+        "Helps manage personal and family finances better.",
+        "Fosters confidence and decision-making abilities.",
+        "Promotes critical thinking and adaptability in various life situations."
+      ]
+    },
+    {
+      "title": "Developing Business Skills",
+      "content": "Business skills can be developed through education, practice, and experience.",
+      "points": [
+        "Participate in training workshops and courses.",
+        "Engage in small business ventures or simulations.",
+        "Seek mentorship from experienced entrepreneurs.",
+        "Practice budgeting, planning, and marketing in daily activities."
+      ]
+    },
+    {
+      "title": "Challenges in Acquiring Business Skills",
+      "content": "Several factors may hinder the development of business skills.",
+      "points": [
+        "Limited access to quality education and training.",
+        "Lack of practical experience opportunities.",
+        "Financial constraints to start or run businesses.",
+        "Fear of failure and lack of confidence."
+      ]
+    }
+  ]
+},
+
+
+{
+  "title": "Blood Donation",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Blood donation is the voluntary process of giving blood to be used for medical transfusions and treatments.",
+      "points": [
+        "Helps save lives in emergencies, surgeries, and for patients with certain diseases.",
+        "Can be done by healthy individuals who meet donation criteria.",
+        "Is a safe and simple procedure."
+      ]
+    },
+   {
+  "title": "Types of Blood Donation",
+  "content": "Blood donation can be classified into two main categories based on compensation.",
+  "points": [
+    "Paid Donation: Donors receive monetary or other compensation for giving blood.",
+    "Free (Voluntary) Donation: Donors give blood voluntarily without any payment, motivated by altruism."
+  ]
+},
+
+    {
+      "title": "Eligibility Criteria",
+      "content": "Certain conditions must be met to safely donate blood.",
+      "points": [
+        "Be aged between 16 and 65 years (age limits may vary).",
+        "Be in good health and weigh at least 50 kg.",
+        "Not have donated blood in the past 3 months (varies by country).",
+        "Free from infectious diseases like HIV, Hepatitis B and C.",
+        "Not be pregnant or breastfeeding."
+      ]
+    },
+    {
+      "title": "Benefits of Blood Donation",
+      "content": "Donating blood benefits both the donor and recipients.",
+      "points": [
+        "Saves lives by providing needed blood for transfusions.",
+        "Promotes healthy blood production and circulation in donors.",
+        "Encourages community solidarity and altruism.",
+        "Provides free health screening for donors."
+      ]
+    },
+    {
+      "title": "The Blood Donation Process",
+      "content": "The donation process is straightforward and carefully managed.",
+      "points": [
+        "Registration and health screening.",
+        "Blood collection, which usually takes 10-15 minutes.",
+        "Post-donation rest and refreshments.",
+        "Advice on aftercare to prevent dizziness or complications."
+      ]
+    },
+    {
+      "title": "Safety and Risks",
+      "content": "Blood donation is generally safe but some precautions are necessary.",
+      "points": [
+        "Sterile equipment is used to prevent infections.",
+        "Donors may experience mild side effects like dizziness or bruising.",
+        "Serious complications are rare with proper procedures.",
+        "Donors should avoid heavy physical activity immediately after donation."
+      ]
+    },
+    {
+      "title": "Encouraging Blood Donation",
+      "content": "Raising awareness is vital to maintain adequate blood supplies.",
+      "points": [
+        "Educate communities on the importance of donation.",
+        "Organize blood drives and campaigns.",
+        "Address myths and fears about donating blood.",
+        "Recognize and appreciate regular donors."
+      ]
+    }
+  ]
+},
+{
+  "title": "Positive and Negative Peer Pressure",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Peer pressure is the influence exerted by a peer group encouraging individuals to change their attitudes, values, or behaviors to conform.",
+      "points": [
+        "Can be positive or negative depending on the impact on behavior.",
+        "Affects decision-making, especially among young people.",
+        "Plays a significant role in social development."
+      ]
+    },
+    {
+      "title": "Positive Peer Pressure",
+      "content": "Positive peer pressure encourages good behavior and personal growth.",
+      "points": [
+        "Motivates individuals to work hard and achieve goals.",
+        "Promotes healthy habits like exercise and studying.",
+        "Encourages participation in community service and teamwork.",
+        "Supports making responsible and ethical decisions."
+      ]
+    },
+    {
+      "title": "Negative Peer Pressure",
+      "content": "Negative peer pressure pushes individuals towards harmful or risky behaviors.",
+      "points": [
+        "May lead to involvement in drug abuse, smoking, or alcohol consumption.",
+        "Can cause neglect of studies or dropping out of school.",
+        "Encourages bullying, cheating, or breaking rules.",
+        "Creates stress and anxiety from trying to fit in."
+      ]
+    },
+    {
+      "title": "How to Handle Peer Pressure",
+      "content": "Developing skills to resist negative peer pressure is important for personal well-being.",
+      "points": [
+        "Build self-confidence and know your values.",
+        "Learn to say no firmly and politely.",
+        "Choose friends who respect your decisions.",
+        "Seek support from trusted adults or mentors.",
+        "Focus on positive goals and activities."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Noncommunicable Diseases",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Noncommunicable diseases (NCDs) are medical conditions or diseases that are not transmitted from person to person.",
+      "points": [
+        "Usually have long duration and slow progression.",
+        "Also called chronic diseases.",
+        "Include diseases like heart disease, diabetes, cancer, and respiratory diseases."
+      ]
+    },
+    {
+      "title": "Common Types of Noncommunicable Diseases",
+      "content": "Several major types of NCDs affect people worldwide.",
+      "points": [
+        "Cardiovascular diseases (e.g., heart attacks, stroke).",
+        "Cancers.",
+        "Chronic respiratory diseases (e.g., asthma, chronic obstructive pulmonary disease).",
+        "Diabetes."
+      ]
+    },
+    {
+      "title": "Risk Factors",
+      "content": "Certain behaviors and conditions increase the risk of developing NCDs.",
+      "points": [
+        "Tobacco use and exposure to secondhand smoke.",
+        "Unhealthy diet high in fats, sugars, and salt.",
+        "Physical inactivity.",
+        "Excessive alcohol consumption.",
+        "Environmental factors like pollution.",
+        "Genetic predisposition."
+      ]
+    },
+    {
+      "title": "Prevention and Control",
+      "content": "Many NCDs can be prevented or managed through lifestyle changes and medical care.",
+      "points": [
+        "Adopt a balanced diet rich in fruits and vegetables.",
+        "Engage in regular physical activity.",
+        "Avoid tobacco and limit alcohol intake.",
+        "Regular health screenings and early diagnosis.",
+        "Manage stress effectively.",
+        "Follow prescribed treatments and medications."
+      ]
+    },
+    {
+      "title": "Impact on Society",
+      "content": "NCDs cause significant health, social, and economic challenges.",
+      "points": [
+        "Leading cause of death globally.",
+        "Increase healthcare costs and burden health systems.",
+        "Reduce productivity and quality of life.",
+        "Affect families and communities through long-term care needs."
+      ]
+    }
+  ]
+},
+
+
+
+
+  {
       "title": "Peer Pressure",
       "subsections": [
         {

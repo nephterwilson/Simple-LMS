@@ -3,106 +3,182 @@
 {
   "subject": "English",
   "topics": [
+
     {
-      "title": "Parts of Speech",
-      "subsections": [
-        {
-          "title": "Definition",
-          "content": "Parts of speech are categories of words based on their function in a sentence.",
-          "points": [
-            "They form the basic structure of grammar.",
-            "They help in constructing meaningful sentences."
-          ]
-        },
-        {
-          "title": "Types",
-          "content": "There are eight main parts of speech.",
-          "points": [
-            "Noun – names a person, place, thing, or idea.",
-            "Pronoun – replaces a noun (he, she, it).",
-            "Verb – shows action or state (run, is).",
-            "Adjective – describes a noun (beautiful).",
-            "Adverb – describes a verb or adjective (quickly).",
-            "Preposition – shows position or relationship (on, in).",
-            "Conjunction – joins words or groups (and, but).",
-            "Interjection – expresses emotion (wow, oh!)."
-          ]
-        },
-        {
-          "title": "Examples",
-          "content": "Examples help in understanding each part clearly.",
-          "points": [
-            "'Run' is a verb.",
-            "'Beautiful' is an adjective.",
-            "'He' is a pronoun.",
-            "'Quickly' is an adverb."
-          ]
-        }
+  "title": "Parts of Speech",
+  "subsections": [
+    {
+      "title": "Nouns",
+      "content": "Nouns are words that name people, places, things, or ideas.",
+      "points": [
+        "Common Nouns: General names for a person, place, or thing (e.g., teacher, city, book).",
+        "Proper Nouns: Specific names of people, places, or organizations and are capitalized (e.g., Malawi, John, Amazon).",
+        "Abstract Nouns: Names of ideas, qualities, or states that cannot be seen or touched (e.g., freedom, love, courage).",
+        "Collective Nouns: Words that name a group of individuals or things (e.g., team, family, flock)."
       ]
     },
     {
-      "title": "Tenses",
-      "subsections": [
-        {
-          "title": "Definition",
-          "content": "Tenses indicate the time of action or state of being.",
-          "points": [
-            "They help us understand when something happened.",
-            "Tense affects verb forms."
-          ]
-        },
-        {
-          "title": "Main Types",
-          "content": "There are three main types of tenses.",
-          "points": [
-            "Present – action is happening now (e.g., She eats).",
-            "Past – action happened before (e.g., She ate).",
-            "Future – action will happen (e.g., She will eat)."
-          ]
-        },
-        {
-          "title": "Usage",
-          "content": "Each tense is used in specific contexts.",
-          "points": [
-            "Use present for habits or current events.",
-            "Use past for completed actions.",
-            "Use future for planned or expected actions."
-          ]
-        }
+      "title": "Pronouns",
+      "content": "Pronouns are words used in place of nouns to avoid repetition.",
+      "points": [
+        "Personal Pronouns: Refer to specific persons or things (e.g., I, you, he, she, it, we, they).",
+        "Possessive Pronouns: Show ownership (e.g., mine, yours, his, hers, ours, theirs).",
+        "Reflexive Pronouns: Refer back to the subject of the sentence (e.g., myself, yourself, himself).",
+        "Demonstrative Pronouns: Point to specific things (e.g., this, that, these, those).",
+        "Interrogative Pronouns: Used to ask questions (e.g., who, whom, which, what).",
+        "Relative Pronouns: Introduce relative clauses (e.g., who, whom, whose, which, that)."
       ]
     },
     {
-      "title": "Letter Writing",
-      "subsections": [
-        {
-          "title": "Types of Letters",
-          "content": "Letters are categorized as formal or informal.",
-          "points": [
-            "Formal letters – used in official settings.",
-            "Informal letters – used in personal communication."
-          ]
-        },
-        {
-          "title": "Structure of a Letter",
-          "content": "All letters follow a common structure.",
-          "points": [
-            "Sender's address.",
-            "Date of writing.",
-            "Salutation (Dear Sir/Madam or Dear John).",
-            "Body – the main message.",
-            "Closing – Yours sincerely / Yours faithfully."
-          ]
-        },
-        {
-          "title": "Purpose",
-          "content": "Letters serve different purposes depending on the type.",
-          "points": [
-            "Formal: job application, complaint, inquiry.",
-            "Informal: sharing news, inviting, thanking."
-          ]
-        }
+      "title": "Verbs",
+      "content": "Verbs express actions, states, or occurrences.",
+      "points": [
+        "Action Verbs: Show physical or mental action (e.g., run, think, jump).",
+        "Linking Verbs: Connect the subject to a subject complement (e.g., am, is, are, was, were, become, seem).",
+        "Auxiliary (Helping) Verbs: Help form different tenses, moods, or voices (e.g., have, do, will, can, shall).",
+        "Modal Verbs: Express necessity, possibility, permission, or ability (e.g., must, might, could, should).",
+        "Transitive Verbs: Require a direct object to complete their meaning (e.g., She reads a book).",
+        "Intransitive Verbs: Do not take a direct object (e.g., He sleeps)."
+      ]
+    },
+    {
+      "title": "Adjectives",
+      "content": "Adjectives describe or modify nouns or pronouns by giving more information about them.",
+      "points": [
+        "Descriptive Adjectives: Describe qualities or states (e.g., happy, tall, blue).",
+        "Quantitative Adjectives: Indicate quantity (e.g., some, many, few, several).",
+        "Demonstrative Adjectives: Point out specific things (e.g., this, that, these, those).",
+        "Possessive Adjectives: Show ownership (e.g., my, your, his, her, its, our, their).",
+        "Interrogative Adjectives: Used in questions (e.g., which, what, whose).",
+        "Comparative and Superlative Adjectives: Compare two or more things (e.g., taller, tallest)."
+      ]
+    },
+    {
+      "title": "Adverbs",
+      "content": "Adverbs modify verbs, adjectives, or other adverbs by giving information about how, when, where, or to what extent something happens.",
+      "points": [
+        "Adverbs of Manner: Describe how something happens (e.g., quickly, slowly, carefully).",
+        "Adverbs of Time: Indicate when something happens (e.g., now, yesterday, soon).",
+        "Adverbs of Place: Indicate where something happens (e.g., here, there, everywhere).",
+        "Adverbs of Frequency: Show how often something happens (e.g., always, sometimes, never).",
+        "Adverbs of Degree: Indicate the intensity or degree (e.g., very, quite, almost)."
+      ]
+    },
+    {
+      "title": "Prepositions",
+      "content": "Prepositions show relationships between a noun (or pronoun) and other words in a sentence.",
+      "points": [
+        "Prepositions of Place: Indicate location (e.g., in, on, at, under, beside).",
+        "Prepositions of Time: Indicate time (e.g., before, after, during, until).",
+        "Prepositions of Direction: Indicate movement (e.g., to, into, toward, through).",
+        "Prepositions of Cause, Reason, or Purpose: (e.g., because of, due to, for).",
+        "Prepositions of Agent or Instrument: (e.g., by, with)."
+      ]
+    },
+    {
+      "title": "Conjunctions",
+      "content": "Conjunctions connect words, phrases, or clauses.",
+      "points": [
+        "Coordinating Conjunctions: Connect words, phrases, or independent clauses of equal rank (e.g., and, but, or, nor, for, so, yet).",
+        "Subordinating Conjunctions: Connect a dependent clause to an independent clause (e.g., because, although, since, unless).",
+        "Correlative Conjunctions: Paired conjunctions that work together (e.g., either...or, neither...nor, both...and)."
+      ]
+    },
+    {
+      "title": "Interjections",
+      "content": "Interjections are words or phrases that express strong emotion or sudden feeling.",
+      "points": [
+        "Examples: Oh!, Wow!, Ouch!, Hurray!, Alas!",
+        "Often stand alone or are followed by an exclamation mark.",
+        "Not grammatically related to other parts of the sentence."
       ]
     }
+  ]
+},
+
+   {
+  "title": "Tenses",
+  "subsections": [
+    {
+      "title": "Definition",
+      "content": "Tenses are grammatical forms that express the time at which an action occurs or a state exists.",
+      "points": [
+        "Tenses indicate whether an action or state is in the past, present, or future.",
+        "They determine the form of the verb to show timing and duration.",
+        "Understanding tense helps in constructing clear and accurate sentences."
+      ]
+    },
+    {
+      "title": "Main Types of Tenses",
+      "content": "English verbs primarily have three main tense categories to indicate time.",
+      "points": [
+        "Present Tense: Describes actions or states happening now or regularly (e.g., She eats breakfast every day).",
+        "Past Tense: Describes actions or states that occurred before the present time (e.g., She ate breakfast this morning).",
+        "Future Tense: Describes actions or states that will happen later (e.g., She will eat breakfast tomorrow)."
+      ]
+    },
+    {
+      "title": "Forms and Usage of Tenses",
+      "content": "Each main tense has various forms to express different aspects like completion, continuity, or repetition.",
+      "points": [
+        "Simple Present: For habits, facts, and general truths (e.g., The sun rises in the east).",
+        "Present Continuous: For actions happening right now or temporary situations (e.g., She is eating lunch).",
+        "Present Perfect: For actions completed at an unspecified time before now (e.g., She has eaten already).",
+        "Simple Past: For completed actions at a definite time in the past (e.g., She ate at 7 am).",
+        "Past Continuous: For actions ongoing in the past (e.g., She was eating when I called).",
+        "Past Perfect: For actions completed before another past action (e.g., She had eaten before he arrived).",
+        "Simple Future: For planned or predicted actions (e.g., She will eat soon).",
+        "Future Continuous: For actions that will be ongoing in the future (e.g., She will be eating at noon).",
+        "Future Perfect: For actions that will be completed before a specific future time (e.g., She will have eaten by then)."
+      ]
+    },
+    {
+      "title": "Examples of Tense Usage",
+      "content": "Using correct tenses helps convey accurate timing in communication.",
+      "points": [
+        "Present: I study every day. (habit)",
+        "Past: I studied yesterday. (completed action)",
+        "Future: I will study tomorrow. (planned action)",
+        "Present Continuous: I am studying now. (action in progress)",
+        "Past Perfect: I had studied before the test. (action completed before another past event)"
+      ]
+    }
+  ]
+},
+
+    {
+  "title": "Letter Writing",
+  "subsections": [
+    {
+      "title": "Types of Letters",
+      "content": "Letters can be classified into formal and informal types, each serving different communication needs.",
+      "points": [
+        "Formal Letters: Used for official or professional communication such as job applications, complaints, requests, and business correspondence.",
+        "Informal Letters: Used for personal communication with friends, family, or acquaintances to share news, invitations, or thanks."
+      ]
+    },
+    {
+      "title": "Structure of a Letter",
+      "content": "Letters follow a standardized format to ensure clarity and proper communication.",
+      "points": [
+        "Sender's Address: The address of the person writing the letter, usually placed at the top right or left.",
+        "Date of Writing: The date when the letter is written, placed below the sender’s address.",
+        "Salutation: A greeting that varies based on the type of letter (e.g., 'Dear Sir/Madam' for formal, 'Dear John' for informal).",
+        "Body: The main content of the letter where the message is conveyed clearly and politely.",
+        "Closing: A polite ending phrase such as 'Yours sincerely' (when the recipient’s name is known) or 'Yours faithfully' (when unknown), followed by the sender’s signature."
+      ]
+    },
+    {
+      "title": "Purpose of Letters",
+      "content": "Different types of letters are written to fulfill various communication objectives.",
+      "points": [
+        "Formal Letters: Used for applications, complaints, inquiries, recommendations, and official requests.",
+        "Informal Letters: Used for sharing personal news, invitations, thank-you notes, congratulations, and apologies."
+      ]
+    }
+  ]
+}
+
   ]
 }
 

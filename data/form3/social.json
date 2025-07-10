@@ -618,7 +618,7 @@
   ]
 },
 {
-  "title": "Prejudice and Discrimination. TERM 2 STARTS HERE",
+  "title": "Prejudice and Discrimination. TERM 2 STARTS",
   "subsections": [
     {
       "title": "Relationship Between Prejudice and Discrimination",
@@ -1515,6 +1515,166 @@
     }
   ]
 },
+
+{
+  "title": "Climate Change",
+  "subsections": [
+    {
+      "title": "Meaning of the Term ‘Climate Change’",
+      "content": "Climate change refers to long-term shifts in weather patterns and temperatures, largely caused by human activities and natural factors.",
+      "points": [
+        "Changes in temperature, rainfall, and weather extremes over time.",
+        "Influenced by greenhouse gas emissions from burning fossil fuels, deforestation, and industrial activities.",
+        "Natural phenomena such as volcanic eruptions and solar cycles also contribute.",
+        "Leads to global warming and changes in regional climates.",
+        "Affects ecosystems, agriculture, water resources, and human health."
+      ]
+    },
+    {
+      "title": "Socio-Economic Impact of Climate Change",
+      "content": "Climate change has wide-reaching effects on societies and economies.",
+      "points": [
+        "Agricultural productivity declines due to unpredictable weather and droughts.",
+        "Food insecurity increases as crop yields decrease.",
+        "Water shortages affect drinking water and irrigation.",
+        "Health risks rise from heatwaves, malaria, and other diseases.",
+        "Damage to infrastructure from floods, storms, and erosion.",
+        "Loss of livelihoods especially for communities dependent on farming and fishing.",
+        "Increased poverty and migration due to displacement by disasters.",
+        "Strain on government resources for disaster response and adaptation measures."
+      ]
+    },
+    {
+      "title": "Climatic Disasters in Malawi",
+      "content": "Malawi is vulnerable to several climate-related disasters that impact its population and development.",
+      "points": [
+        "Flooding – caused by heavy rains leading to displacement and property loss.",
+        "Droughts – resulting in water shortages and crop failures.",
+        "Cyclones – strong storms causing destruction of homes and infrastructure.",
+        "Soil erosion – worsened by intense rainfall and poor land management.",
+        "Heatwaves – affecting health and agricultural productivity."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Disaster Risk Management",
+  "subsections": [
+    {
+      "title": "Explanation of Terms: Disaster, Risk, and Disaster Risk Management",
+      "content": "Disaster risk management involves understanding key concepts that guide prevention and response efforts.",
+      "points": [
+        "Disaster: A sudden, severe event causing significant harm to people, property, and the environment, disrupting normal life. Examples include floods, earthquakes, epidemics, and famines.",
+        "Risk: The likelihood or probability that a disaster will occur and cause harm or loss to life, property, and livelihoods. Risk is a combination of hazard, vulnerability, and exposure.",
+        "Disaster Risk Management: The systematic process of identifying, assessing, and reducing risks of disasters through preparedness, prevention, mitigation, and response strategies to minimize damage and losses."
+      ]
+    },
+    {
+      "title": "Types of Disasters",
+      "content": "Disasters are categorized based on their causes, such as climatic, geomorphologic, and biological origins.",
+      "points": [
+        "Climatic Disasters: Result from weather and climate changes. Examples: Floods (overflowing water), Droughts (prolonged dry periods), Famine (severe food shortage).",
+        "Geomorphologic Disasters: Caused by earth movements. Examples: Earthquakes (ground shaking), Earth tremors (minor seismic activity).",
+        "Biological Disasters: Caused by organisms or diseases. Examples: Epidemics (disease outbreaks within populations), Pandemics (epidemics spreading across continents)."
+      ]
+    },
+    {
+      "title": "Common Disasters Affecting Malawi",
+      "content": "Malawi is frequently affected by a variety of natural and biological disasters.",
+      "points": [
+        "Earthquakes and Earth Tremors: Occasional seismic activity causing structural damage and fear.",
+        "Drought: A recurring issue causing water shortages and agricultural losses.",
+        "Famine: Often triggered by extended droughts, leading to hunger and malnutrition.",
+        "Floods: Common during the rainy season, leading to displacement and destruction.",
+        "Cyclones: Bring heavy rains and winds, damaging infrastructure and homes.",
+        "Epidemics: Outbreaks of diseases like cholera and malaria, especially in the rainy season."
+      ]
+    },
+    {
+      "title": "Effects of Disasters on Individuals, Communities, and Nations",
+      "content": "Disasters have far-reaching consequences at personal, community, and national levels.",
+      "points": [
+        "Individuals: Experience injuries, trauma, death, loss of property, and displacement.",
+        "Communities: Face destruction of infrastructure, food insecurity, loss of livelihoods, and social disintegration.",
+        "Nations: Suffer economic setbacks, infrastructure damage, increased poverty, and strain on emergency resources."
+      ]
+    },
+    {
+      "title": "Preventive and Mitigation Measures for Different Types of Disasters",
+      "content": "Various strategies are used to prevent or reduce the impact of different types of disasters.",
+      "points": [
+        "Floods: Build dams and levees, reforestation, proper drainage systems, early warning systems.",
+        "Drought: Implement water harvesting, irrigation, plant drought-resistant crops, and manage land sustainably.",
+        "Famine: Improve food storage, diversify crops, and establish emergency food programs.",
+        "Earthquakes: Enforce building codes, conduct public safety education, and hold emergency drills.",
+        "Epidemics: Promote vaccination, sanitation, hygiene education, and improve disease surveillance.",
+        "Cyclones: Use early warning systems, build cyclone-resistant infrastructure, and plan community evacuations."
+      ]
+    },
+    {
+      "title": "Advantages of Managing Disaster Risks Over Managing Disasters",
+      "content": "Focusing on risk management is more effective than dealing with disasters after they occur.",
+      "points": [
+        "Proactive Approach: Reduces the impact before disasters occur.",
+        "Cost-Effectiveness: Lowers long-term costs by reducing damage and recovery needs.",
+        "Saving Lives and Property: Prevents loss through early intervention.",
+        "Sustainable Development: Builds resilient communities and supports economic progress.",
+        "Improved Preparedness: Increases readiness and response capabilities.",
+        "Reduces Vulnerability: Strengthens community infrastructure and systems."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Global Issues and Challenges",
+  "subsections": [
+    {
+      "title": "Global Challenges Faced in the 21st Century",
+      "content": "The 21st century has brought complex global issues that affect multiple countries and require collective action.",
+      "points": [
+        "Climate Change: Rising global temperatures, extreme weather events, and environmental degradation affecting ecosystems and human life.",
+        "Poverty and Inequality: Persistent global poverty, widening income gaps, and social disparities within and between countries.",
+        "Health Crises: Emergence and spread of pandemics like COVID-19, HIV/AIDS, and other infectious diseases.",
+        "Conflict and Terrorism: Ongoing wars, ethnic conflicts, political instability, and terrorism impacting security worldwide.",
+        "Migration and Refugee Crises: Large-scale displacement of people due to conflicts, disasters, and economic hardship.",
+        "Resource Depletion: Overuse of natural resources such as water, forests, and fossil fuels threatening sustainability.",
+        "Technological Disruptions: Rapid technological changes creating challenges in privacy, employment, and digital divide.",
+        "Global Economic Instability: Financial crises, trade wars, and economic fluctuations affecting global markets."
+      ]
+    },
+    {
+      "title": "Implications of Global Issues and Challenges on Development",
+      "content": "Global issues have significant effects on economic, social, and environmental development around the world.",
+      "points": [
+        "Slowed Economic Growth: Disruptions from climate change, conflicts, and pandemics hinder economic progress.",
+        "Increased Poverty: Vulnerable populations face worsening living conditions due to global crises.",
+        "Health System Strain: Epidemics and pandemics overwhelm healthcare infrastructure, reducing productivity.",
+        "Social Instability: Inequality and conflict fuel unrest, displacement, and social fragmentation.",
+        "Environmental Damage: Loss of biodiversity and ecosystem services affecting agriculture and livelihoods.",
+        "Migration Pressures: Mass displacement creates challenges for both origin and host countries.",
+        "Development Setbacks: Infrastructure damage and resource scarcity slow down progress toward sustainable development goals."
+      ]
+    },
+    {
+      "title": "Efforts Being Made to Deal with Global Issues and Challenges",
+      "content": "Governments, organizations, and international bodies are implementing measures to address and mitigate global challenges.",
+      "points": [
+        "International Agreements: Paris Agreement on climate change, Sustainable Development Goals (SDGs) by the UN.",
+        "Global Health Initiatives: WHO-led vaccination campaigns, pandemic preparedness plans, and health education.",
+        "Peacekeeping and Conflict Resolution: UN peacekeeping missions, diplomatic negotiations, and regional cooperation.",
+        "Humanitarian Aid and Refugee Support: UNHCR and NGOs providing emergency relief, shelter, and resettlement.",
+        "Sustainable Resource Management: Promotion of renewable energy, conservation programs, and responsible consumption.",
+        "Technological Collaboration: Sharing innovations, improving digital access, and regulating emerging technologies.",
+        "Economic Partnerships: Trade agreements, financial aid, and debt relief for developing countries."
+      ]
+    }
+  ]
+},
+
+
+
 
 
 
