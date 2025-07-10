@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
   topicsContainer.insertAdjacentElement('afterend', paginationContainer);
 
   const topicsPerPage = 10;
-  let currentPage = 1;
+  let currentPage = 3;
   let allTopics = [];
 
  const form = urlParams.get('form'); // e.g., "form1"
