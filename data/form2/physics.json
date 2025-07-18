@@ -4,71 +4,1803 @@
 {
   "subject": "Physics",
   "topics": [
+
     {
-      "title": "Newton’s Laws of Motion",
-      "subsections": [
-        {
-          "title": "Newton’s First Law",
-          "content": "This law states that an object will remain at rest or move in a straight line at constant speed unless acted upon by an external force.",
-          "points": [
-            "Also called the Law of Inertia.",
-            "Objects resist changes in motion.",
-            "Example: A book on a table stays put unless pushed."
-          ]
-        },
-        {
-          "title": "Newton’s Second Law",
-          "content": "This law relates force, mass, and acceleration. It is expressed by the equation F = ma.",
-          "points": [
-            "F = ma: Force equals mass times acceleration.",
-            "The greater the force, the greater the acceleration (if mass is constant).",
-            "Used to calculate force, mass, or acceleration in motion problems."
-          ]
-        },
-        {
-          "title": "Newton’s Third Law",
-          "content": "For every action, there is an equal and opposite reaction.",
-          "points": [
-            "When object A exerts a force on object B, object B exerts an equal force in the opposite direction.",
-            "Example: A balloon moves forward when air rushes out the back.",
-            "Crucial in rocket propulsion and movement."
-          ]
-        }
+  "title": "Scientific Investigation",
+  "subsections": [
+    {
+      "title": "1. Introduction",
+      "content": "This unit explains how basic scientific investigations are carried out in physics. It builds on the scientific method previously discussed in Book 1.",
+      "points": []
+    },
+    {
+      "title": "2. Making an Observation",
+      "content": "This involves critically observing natural phenomena as they occur in order to generate a scientific question.",
+      "points": []
+    },
+    {
+      "title": "3. Proposing a Hypothesis",
+      "content": "A hypothesis is a suggested explanation for an observation. It is a testable statement derived from the observed phenomenon.",
+      "points": []
+    },
+    {
+      "title": "4. Designing an Experiment",
+      "content": "Design an experiment to test the hypothesis by identifying variables and planning procedures carefully.",
+      "points": [
+        "Identify variables:",
+        "Controlled: kept constant.",
+        "Independent: changed deliberately.",
+        "Dependent: measured in response.",
+        "List apparatus and outline procedure.",
+        "Ensure variables are handled appropriately and safely."
+      ]
+    },
+    {
+      "title": "5. Strategies for Planning an Investigation",
+      "content": "",
+      "points": [
+        "Take safety precautions with chemicals and apparatus.",
+        "Choose appropriate apparatus based on quantity and scale sensitivity.",
+        "Clearly define variable types and methods for measuring them.",
+        "Make repeated readings for improved accuracy."
+      ]
+    },
+    {
+      "title": "6. Methods of Presenting Results",
+      "content": "",
+      "points": [
+        "Use data tables with correct units.",
+        "Draw line or bar graphs for trends.",
+        "Label axes and include units.",
+        "Indicate independent and dependent variables."
+      ]
+    },
+    {
+      "title": "7. Drawing Conclusions",
+      "content": "Interpret the data, compare it with the hypothesis, and decide whether to accept or reject the hypothesis based on evidence.",
+      "points": []
+    },
+    {
+      "title": "8. Evaluating the Strength of the Evidence",
+      "content": "Discuss limitations of the hypothesis and whether the conclusion can be generalized after acceptance.",
+      "points": []
+    },
+    {
+      "title": "9. Structure of a Scientific Investigation Report",
+      "content": "",
+      "points": [
+        "Aim: State the objective of the experiment.",
+        "Apparatus: List the required materials.",
+        "Method: Describe steps clearly with a diagram if needed.",
+        "Results: Include tables, graphs, and/or calculations.",
+        "Analysis: Discuss trends, gradients, or area under the graph.",
+        "Conclusion: State whether the hypothesis is supported or not."
+      ]
+    },
+    {
+      "title": "10. Sample Investigation 1: Expansion of Water Upon Freezing",
+      "content": "A student observed a bottle of water breaking in the freezer due to ice formation. The hypothesis was that water expands as it freezes.",
+      "points": [
+        "Apparatus: Two plastic measuring cylinders (25 cm³), water (20 cm³ each), refrigerator.",
+        "Procedure: Fill cylinders with 20 cm³ water, place one in freezer and other in cooling compartment, observe after freezing.",
+        "Results: Ice level rose above 20 cm³; water in cooling compartment slightly decreased.",
+        "Analysis: Water expanded on freezing as no water was added or removed.",
+        "Conclusion: The hypothesis is supported; water expands on freezing.",
+        "Comment: Only water was tested; more experiments needed for generalization."
+      ]
+    },
+    {
+      "title": "11. Sample Investigation 2: Density of Water",
+      "content": "The hypothesis stated that the mass-to-volume ratio of water is constant at room temperature.",
+      "points": [
+        "Apparatus: Measuring cylinder, water, mass balance.",
+        "Procedure: Measure empty cylinder mass, add water, measure total mass; calculate water mass and density for volumes up to 280 cm³; plot mass vs. volume graph.",
+        "Results Summary: Density remained around 1.02 g/cm³; graph was a straight line with slope ≈ 1.02 g/cm³.",
+        "Analysis: Density is constant for water at 24°C.",
+        "Conclusion: The hypothesis is supported.",
+        "Comment: Results apply to water only; density varies for other liquids and temperatures."
+      ]
+    },
+    {
+      "title": "12. Common Experimental Errors",
+      "content": "",
+      "points": [
+        "Parallax error when reading measuring cylinder.",
+        "Inconsistent measurement methods.",
+        "Improper handling of apparatus.",
+        "Not taking repeated readings for accuracy."
+      ]
+    }
+  ]
+},
+
+
+
+{
+  "title": "Thermal Expansion",
+  "subsections": [
+    {
+      "title": "Thermal Expansion and Contraction",
+      "content": "Most substances increase in size when heated (expansion) and decrease when cooled (contraction). This happens due to changes in molecular vibrations and spacing.",
+      "points": [
+        "Expansion: Increase in size due to heating.",
+        "Contraction: Decrease in size due to cooling.",
+        "Occurs in solids, liquids, and gases.",
+        "Caused by increased molecular vibrations pushing molecules further apart.",
+        "Contraction is the reverse process when molecular vibrations decrease."
+      ]
+    },
+    {
+      "title": "Expansion and Contraction in Solids",
+      "content": "Solids expand and contract with temperature changes, but different solids expand by different amounts under the same heating conditions.",
+      "points": [
+        "Different solids have different coefficients of linear expansion.",
+        "Expansion is usually along length (linear expansion).",
+        "Molecules vibrate more intensely when heated, increasing spacing.",
+        "On cooling, molecules vibrate less and come closer, causing contraction."
+      ]
+    },
+    {
+      "title": "Experiment 1: Expansion and Contraction Using a Thin Metal Rod",
+      "content": "",
+      "points": [
+        "Aim: To demonstrate expansion and contraction of a solid on heating and cooling.",
+        "Materials/Apparatus:",
+        " - Thin metal rod",
+        " - Rollers connected to a pointer",
+        " - Source of heat (e.g., Bunsen burner or spirit lamp)",
+        " - G-clamp or firm support",
+        "Procedure:",
+        " 1. Clamp one end of the thin metal rod firmly to a support with the other end resting on rollers connected to a pointer.",
+        " 2. Note the initial pointer position.",
+        " 3. Heat the metal rod for some minutes using the heat source.",
+        " 4. Observe the movement of the pointer during heating.",
+        " 5. Remove the heat source and allow the rod to cool.",
+        " 6. Observe the pointer movement during cooling.",
+        " 7. Repeat the experiment with rods made from different materials.",
+        "Results/Observations:",
+        " - The pointer deflects clockwise when the rod is heated (indicating expansion).",
+        " - The pointer deflects anticlockwise when the rod cools (indicating contraction).",
+        " - Different materials cause different extents of pointer deflection.",
+        "Conclusion:",
+        " - Solids expand when heated and contract when cooled.",
+        " - Different solids expand by different amounts under equal heating."
+      ]
+    },
+    {
+      "title": "Experiment 2: Expansion and Contraction Using Bar and Gauge Apparatus",
+      "content": "",
+      "points": [
+        "Aim: To demonstrate the expansion and contraction of a solid metal bar.",
+        "Materials/Apparatus:",
+        " - Bar and gauge apparatus",
+        " - Bunsen burner",
+        "Procedure:",
+        " 1. At room temperature, try to fit the metal bar into the gauge; it should fit exactly.",
+        " 2. Heat the metal bar using the Bunsen burner.",
+        " 3. Attempt to fit the heated bar into the gauge.",
+        " 4. Allow the bar to cool and try fitting it into the gauge again.",
+        "Results/Observations:",
+        " - At room temperature, the bar fits into the gauge perfectly.",
+        " - On heating, the bar no longer fits into the gauge as it expands.",
+        " - After cooling, the bar fits into the gauge again due to contraction.",
+        "Conclusion:",
+        " - Heating causes solids to expand, increasing their length.",
+        " - Cooling causes solids to contract."
+      ]
+    },
+    {
+      "title": "Experiment 3: Expansion and Contraction Using Ball and Ring Apparatus",
+      "content": "",
+      "points": [
+        "Aim: To demonstrate volume expansion of solids.",
+        "Materials/Apparatus:",
+        " - Ball and ring apparatus (metal ball and ring of the same metal)",
+        " - Bunsen burner",
+        " - Bowl of cold water",
+        "Procedure:",
+        " 1. Pass the metal ball through the ring at room temperature; it should pass freely.",
+        " 2. Heat the metal ball using the Bunsen burner.",
+        " 3. Try to pass the heated ball through the ring; it should not pass.",
+        " 4. Cool the ball in cold water.",
+        " 5. Try passing the cooled ball through the ring again; it should pass.",
+        "Results/Observations:",
+        " - Ball passes through ring at room temperature.",
+        " - Ball does not pass through ring when heated.",
+        " - Ball passes through ring again after cooling.",
+        "Conclusion:",
+        " - Solids expand in volume when heated.",
+        " - Cooling causes solids to contract to original size."
+      ]
+    },
+    {
+      "title": "Expansion of Liquids",
+      "content": "Liquids expand when heated because their molecules move more rapidly and are less tightly bound than in solids.",
+      "points": [
+        "Liquids have weaker intermolecular forces than solids.",
+        "Molecules move freely and farther apart when heated.",
+        "Expansion in liquids is usually observed as volume expansion.",
+        "Liquids contract when cooled."
+      ]
+    },
+    {
+      "title": "Experiment 4: Demonstration of Liquid Expansion",
+      "content": "",
+      "points": [
+        "Aim: To demonstrate expansion of liquids on heating.",
+        "Materials/Apparatus:",
+        " - Glass flask",
+        " - Coloured water",
+        " - Rubber stopper with a narrow glass tube",
+        " - Tripod stand",
+        " - Bunsen burner",
+        " - Wire gauze",
+        "Procedure:",
+        " 1. Fill the flask with coloured water and fit the rubber stopper with the glass tube.",
+        " 2. Note the initial water level in the glass tube.",
+        " 3. Heat the flask gently using the Bunsen burner.",
+        " 4. Observe the water level changes in the tube during heating.",
+        " 5. Allow the setup to cool and observe the water level.",
+        "Results/Observations:",
+        " - Initially, water level drops slightly due to flask expansion.",
+        " - Then the water level rises due to liquid expansion.",
+        " - On cooling, water level drops below the initial level due to contraction.",
+        "Conclusion:",
+        " - Liquids expand on heating and contract on cooling."
+      ]
+    },
+    {
+      "title": "Expansion of Gases",
+      "content": "Gases expand significantly on heating because their molecules move rapidly and are widely spaced with minimal attraction.",
+      "points": [
+        "Gas molecules have large spaces and weak forces.",
+        "Heating increases molecular energy and separation.",
+        "Gases expand more than solids and liquids for the same temperature increase.",
+        "Gases contract when cooled."
+      ]
+    },
+    {
+      "title": "Experiment 5: Demonstration of Air Expansion",
+      "content": "",
+      "points": [
+        "Aim: To demonstrate expansion of air on heating and contraction on cooling.",
+        "Materials/Apparatus:",
+        " - Thin glass flask",
+        " - Rubber stopper with a long narrow glass tube",
+        " - Container with water",
+        "Procedure:",
+        " 1. Invert the flask so the glass tube dips into water in the container.",
+        " 2. Observe the water level in the glass tube.",
+        " 3. Warm the flask by placing hands around it.",
+        " 4. Observe water level changes and any bubbles.",
+        " 5. Remove hands and observe water level return.",
+        "Results/Observations:",
+        " - Water level rises initially due to flask inversion.",
+        " - On heating, water level in tube drops and bubbles escape.",
+        " - On cooling, water level rises back up the tube.",
+        "Conclusion:",
+        " - Air expands on heating, pushing water down.",
+        " - Air contracts on cooling, pulling water up."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Applications and Effects of Thermal Expansion",
+  "subsections": [
+    {
+      "title": "Applications of Thermal Expansion",
+      "content": "Thermal expansion and contraction affect many materials and can be both a challenge and an advantage. Engineers and scientists use this knowledge in practical applications to ensure safety, efficiency, and durability in everyday objects and structures.",
+      "points": [
+        "Electric Thermostats:",
+        " - Use a bimetallic strip that bends with temperature changes.",
+        " - Maintains steady temperature in devices like electric irons, refrigerators, geysers, incubators, fire alarms, and car indicator lamps.",
+        " - The bending of the strip opens or closes an electrical circuit to control heating or cooling.",
+        "Rivets:",
+        " - Hot rivets are inserted into holes of steel plates and hammered flat.",
+        " - On cooling, rivets contract and pull plates tightly together, creating strong joints.",
+        "Expansion Joints in Pipes:",
+        " - Pipes carrying steam or hot water have loops or expansion joints.",
+        " - These allow pipes to expand and contract without damage during temperature changes.",
+        "Loosely Fitted Cables:",
+        " - Telephone and electricity cables are hung loosely between poles.",
+        " - This allows for contraction in cold weather without snapping.",
+        "Use of Alloys:",
+        " - Surveyors’ measuring tapes are made of 'Invar', an iron-nickel alloy.",
+        " - Invar has very low thermal expansion, ensuring accurate measurements over temperature variations.",
+        "Expansion Channels in Concrete:",
+        " - Concrete roads have expansion channels between sections.",
+        " - These gaps allow the concrete to expand and contract without cracking.",
+        "Gaps in Railway Tracks:",
+        " - Gaps between rails allow expansion and contraction with temperature changes.",
+        " - Rails are joined by fishplates with oval bolt holes to permit movement.",
+        " - Modern railways may use welded rails with overlapping joints to reduce gaps.",
+        "Rollers on Bridges:",
+        " - Steel and concrete bridge ends rest on rollers.",
+        " - Rollers allow free expansion and contraction of the bridge without damage."
+      ]
+    },
+    {
+      "title": "Effects of Sudden Expansion and Contraction",
+      "content": "Sudden changes in temperature can cause rapid expansion or contraction in materials, often resulting in cracks or breaks due to shock and strain on the molecular structure.",
+      "points": [
+        "Sudden expansion of an egg:",
+        " - Transferring an egg instantly from hot water to cold water causes the shell to crack.",
+        " - Rapid contraction causes strain exceeding the shell’s strength.",
+        "Sudden cooling of stones:",
+        " - Stones can crack or break when cooled suddenly due to shock and strain.",
+        "Cracking of ordinary glass:",
+        " - Pouring hot liquid into a cold glass or vice versa can cause it to crack or break suddenly.",
+        " - Unequal expansion or contraction between inner and outer glass surfaces produces stress.",
+        "Pyrex glass:",
+        " - Made of materials that withstand sudden expansion and contraction.",
+        " - Expands and contracts uniformly inside and outside.",
+        " - This uniform behavior prevents cracking and breaking in thermal shocks."
+      ]
+    },
+
+{
+      "title": "Effects of Sudden Expansion",
+      "content": "Sudden expansion occurs when a material is heated rapidly, leading to stress and possible damage.",
+      "points": [
+        "1. Cracking of metal pipes when exposed to intense heat suddenly.",
+        "2. Bursting of tightly sealed containers (e.g. glass bottles in hot water).",
+        "3. Deformation of railway tracks during extreme heatwaves.",
+        "4. Damage to engine parts if not preheated properly (e.g. car engines in cold climates)."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Density",
+  "subsections": [
+    {
+      "title": "Definition of Density",
+      "content": "Density is a measure of how much mass is contained in a given volume of a substance. It shows how compact the matter in a substance is.",
+      "points": [
+        "Density (𝜌) is defined as the mass per unit volume of a substance.",
+        "Mathematically: 𝜌 = mass (m) / volume (V)",
+        "SI unit of density is kilogram per cubic metre (kg/m³).",
+        "Other common unit: grams per cubic centimetre (g/cm³)."
+      ]
+    },
+    {
+      "title": "Determining Density of Various Objects",
+      "content": "The density of solids, liquids, and gases can be found experimentally by measuring their mass and volume using appropriate apparatus.",
+      "points": [
+        "Experiment 1: Relationship between mass and volume of water",
+        " - Apparatus: measuring cylinder, beam balance, water",
+        " - Procedure:",
+        "    • Measure mass of empty cylinder (m₀).",
+        "    • Add water volumes (20 cm³, 40 cm³, 60 cm³, etc.) and measure total mass (mₙ).",
+        "    • Find mass of water = mₙ - m₀.",
+        "    • Observe that mass/volume ratio is constant, which defines density.",
+        "Experiment 2: Density of irregular solid using displacement method",
+        " - Apparatus: irregular stone, beam balance, measuring cylinder",
+        " - Procedure:",
+        "    • Measure mass of stone.",
+        "    • Measure volume displaced by stone in water (V = V₁ - V₂).",
+        "    • Calculate density: 𝜌 = mass / volume.",
+        "Experiment 3: Density of regularly shaped solid",
+        " - Apparatus: iron block, beam balance, metre rule",
+        " - Procedure:",
+        "    • Measure mass of block.",
+        "    • Measure dimensions (length, width, height).",
+        "    • Calculate volume: V = length × width × height.",
+        "    • Calculate density: 𝜌 = mass / volume.",
+        "Experiment 4: Density of a liquid",
+        " - Apparatus: measuring cylinder, liquid, beam balance",
+        " - Procedure:",
+        "    • Measure mass of empty cylinder (m₁).",
+        "    • Add liquid and measure combined mass (m₂).",
+        "    • Calculate mass of liquid = m₂ - m₁.",
+        "    • Measure volume of liquid in cylinder.",
+        "    • Calculate density: 𝜌 = (m₂ - m₁) / volume.",
+        "Experiment 5: Density of gases (air)",
+        " - Apparatus: plastic container, beam balance, measuring cylinder, bicycle pump",
+        " - Procedure:",
+        "    • Measure mass of empty container (m₁).",
+        "    • Pump air into container, measure new mass (m₂).",
+        "    • Collect air into measuring cylinder, measure volume.",
+        "    • Calculate density: 𝜌 = (m₂ - m₁) / volume of air."
+      ]
+    },
+    {
+      "title": "Relating Density to States of Matter",
+      "content": "Density varies with the state of matter due to differences in molecular arrangement.",
+      "points": [
+        "Solids: molecules closely packed → high density.",
+        "Liquids: molecules loosely packed compared to solids → lower density.",
+        "Gases: molecules far apart → lowest density.",
+        "Examples:",
+        " - Iron (solid) density ≈ 7800 kg/m³",
+        " - Water (liquid) density ≈ 1000 kg/m³",
+        " - Air (gas) density ≈ 1.3 kg/m³."
+      ]
+    },
+    {
+      "title": "Effect of Temperature on Density",
+      "content": "Temperature affects volume and therefore density, as mass remains constant.",
+      "points": [
+        "Heating a solid or liquid increases its volume, decreasing its density (𝜌 = m/V).",
+        "Cooling decreases volume and increases density.",
+        "Water exhibits unusual behavior between 0°C and 4°C:",
+        " - Between 0°C and 4°C, water contracts (volume decreases) when heated → density increases.",
+        " - Above 4°C, water expands when heated → density decreases.",
+        "This is known as anomalous expansion of water.",
+        "This behavior allows aquatic life to survive in frozen lakes as ice floats on water."
+      ]
+    },
+    {
+      "title": "Why Substances Sink or Float in Water",
+      "content": "Whether an object sinks or floats depends on its density relative to water.",
+      "points": [
+        "Objects denser than water sink (e.g., stone, iron).",
+        "Objects less dense than water float (e.g., cork, wood).",
+        "Observations:",
+        " - Fresh egg sinks in water (denser than water).",
+        " - Rotten egg floats (less dense than water).",
+        "Average density explains floating of large objects like ships:",
+        " - A hollow ship contains air which lowers its average density below that of water, allowing it to float."
+      ]
+    },
+    {
+      "title": "Average Density",
+      "content": "Average density is the total mass of all parts of an object divided by its total volume, including empty spaces.",
+      "points": [
+        "Example: An iron plate floats although iron sinks because it contains air inside, lowering average density.",
+        "Average density = total mass / total volume.",
+        "This concept explains why heavy metal ships and boats float on water."
+      ]
+    },
+    {
+      "title": "Densities of Common Substances",
+      "content": "Different materials have characteristic densities.",
+      "points": [
+        "Examples from table:",
+        " - Hydrogen gas: 0.0899 kg/m³",
+        " - Air: 1.293 kg/m³",
+        " - Water: 1000 kg/m³",
+        " - Mercury: 13,600 kg/m³",
+        " - Iron: 7,500 kg/m³",
+        " - Copper: 8,930 kg/m³",
+        "Densities vary widely among solids, liquids, and gases."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Average Density Observations and Applications",
+  "subsections": [
+    {
+      "title": "Observing a Matchbox Containing Iron Nails Placed on Water",
+      "content": "",
+      "points": [
+        "Materials: Matchbox (empty or lightweight), few iron nails, container filled with water.",
+        "Procedure:",
+        " - Place a few iron nails inside the matchbox.",
+        " - Carefully place the matchbox gently on the surface of water.",
+        "Observation:",
+        " - The matchbox floats on water despite containing heavy iron nails.",
+        " - The nails alone would sink if placed directly in water.",
+        "Explanation:",
+        " - The matchbox traps air inside, increasing total volume but only slightly increasing total mass.",
+        " - This reduces the average density of the combined system (matchbox + nails + air) to less than that of water.",
+        " - Since average density is less than water, the matchbox floats."
+      ]
+    },
+    {
+      "title": "Observing Rotten and Fresh Eggs Placed in Water",
+      "content": "",
+      "points": [
+        "Materials: Fresh egg, rotten egg, container filled with water.",
+        "Procedure:",
+        " - Place a fresh egg gently on the surface of water.",
+        " - Observe whether it sinks or floats.",
+        " - Place a rotten egg gently on the surface of water.",
+        " - Observe whether it sinks or floats.",
+        "Observation:",
+        " - Fresh egg sinks in water.",
+        " - Rotten egg floats on water.",
+        "Explanation:",
+        " - Fresh egg has a higher density than water, so it sinks.",
+        " - Rotten egg produces gases inside due to decomposition, increasing volume and decreasing average density, so it floats."
+      ]
+    },
+    {
+      "title": "Discussing the Observations",
+      "content": "",
+      "points": [
+        "Floatation of matchbox with nails and rotten egg demonstrate that average density matters more than the density of individual parts.",
+        "Objects with trapped air or gases can have lower average density than water and float, even if components alone are denser than water.",
+        "This explains why some heavy objects float if designed to trap air."
+      ]
+    },
+    {
+      "title": "Application of Average Density: Why Ships, Boats, or Canoes Float on Water",
+      "content": "",
+      "points": [
+        "Ships, boats, and canoes are made from dense materials like metal or wood that would normally sink.",
+        "Their hollow structure traps large volumes of air, increasing total volume with relatively little added mass.",
+        "This lowers the average density of the entire vessel to less than water.",
+        "Because the average density is less than water, these vessels float.",
+        "This principle is fundamental in shipbuilding and explains buoyancy and stability of watercraft."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Specific Heat Capacity",
+  "subsections": [
+    {
+      "title": "Introduction to Heat",
+      "content": "Heat is a form of energy that flows from a region of high temperature to a region of lower temperature. Cold substances absorb heat energy while hot substances lose heat energy.",
+      "points": [
+        "Heat energy flows from hot to cold regions.",
+        "Cold substances absorb heat energy.",
+        "Hot substances lose heat energy.",
+        "This unit explores how substances gain or lose heat energy and their capacity to do so."
+      ]
+    },
+    {
+      "title": "Experiment 4.1: Heat Energy and Mass",
+      "content": "To show that the heat energy required to produce a certain change in temperature depends on the mass of the substance.",
+      "points": [
+        "Apparatus:",
+        " - Beaker",
+        " - Immersion heater",
+        " - Water",
+        " - Thermometer",
+        " - Measuring cylinder",
+        " - Stopwatch",
+        "Procedure:",
+        " - Measure 200 g of water in the beaker and note initial temperature (θ1).",
+        " - Heat the water with the immersion heater for 10 minutes.",
+        " - Note final temperature (θ2) and calculate temperature change Δθ = θ2 – θ1.",
+        " - Repeat using 400 g of water with the same initial temperature (θ1).",
+        " - Note the time taken to produce the same temperature change.",
+        "Observation:",
+        " - Heating 400 g of water takes approximately double the time to produce the same temperature change as 200 g.",
+        "Conclusion:",
+        " - Heat energy supplied is directly proportional to the mass of the substance when temperature change is constant (Q ∝ m)."
+      ]
+    },
+    {
+      "title": "Experiment 4.2: Heat Energy and Temperature Change",
+      "content": "To show that the heat energy required by a substance of given mass depends on the change in temperature.",
+      "points": [
+        "Procedure:",
+        " - Repeat Experiment 4.1 using 200 g of water but heat to produce twice the temperature change.",
+        " - Note the time taken to produce this change.",
+        "Observation:",
+        " - It takes double the time to produce twice the temperature change for 200 g of water.",
+        "Conclusion:",
+        " - Heat energy supplied is directly proportional to the temperature change when mass is constant (Q ∝ Δθ)."
+      ]
+    },
+    {
+      "title": "Heat Capacity",
+      "content": "Heat capacity is the heat energy required to raise the temperature of a substance by 1 kelvin.",
+      "points": [
+        "Heat capacity formula: C = Q / Δθ",
+        "SI unit: joule per kelvin (J/K)",
+        "Example:",
+        " - Calculate heat energy needed to raise temperature of a metal block with capacity 520 J/K from 9˚C to 39˚C.",
+        " - Solution: Q = C × Δθ = 520 × (39 – 9) = 15,600 J"
+      ]
+    },
+    {
+      "title": "Specific Heat Capacity",
+      "content": "Specific heat capacity (c) is the heat energy required to raise the temperature of 1 kilogram of a substance by 1 kelvin.",
+      "points": [
+        "Formula: Q = m × c × Δθ",
+        "Where Q = heat energy, m = mass, c = specific heat capacity, Δθ = temperature change.",
+        "SI unit: joule per kilogram per kelvin (J/kg·K).",
+        "Example:",
+        " - Calculate heat energy to raise temperature of 2.5 kg aluminium from 20˚C to 40˚C, with c = 900 J/kg·K.",
+        " - Solution: Q = 2.5 × 900 × (40 – 20) = 45,000 J."
+      ]
+    },
+    {
+      "title": "Experiment 4.3: Comparing Specific Heat Capacities",
+      "content": "To show that different substances have different specific heat capacities.",
+      "points": [
+        "Apparatus:",
+        " - Two thermometers",
+        " - Lid with two holes",
+        " - Two boiling tubes (one with cooking oil, one with water)",
+        " - Hot water bath",
+        "Procedure:",
+        " - Pour equal volumes of cooking oil and water into two identical test tubes.",
+        " - Place identical thermometers in each test tube.",
+        " - Heat both tubes in hot water bath for the same time.",
+        " - Observe temperature changes.",
+        "Observation:",
+        " - Temperature of cooking oil rises faster than water.",
+        "Conclusion:",
+        " - Water has a higher specific heat capacity than cooking oil.",
+        " - Different substances have different specific heat capacities."
+      ]
+    },
+    {
+      "title": "Comparison of Specific Heat Capacities",
+      "content": "Specific heat capacities vary among solids and liquids.",
+      "points": [
+        "Some solids and their specific heat capacities (J/kg·K):",
+        " - Aluminium: 900",
+        " - Brass: 370",
+        " - Copper: 390",
+        " - Cork: 2000",
+        " - Glass: 670",
+        " - Ice: 2100",
+        " - Iron: 460",
+        " - Lead: 130",
+        " - Silver and tin: 230",
+        "Some liquids and their specific heat capacities (J/kg·K):",
+        " - Castor oil: 2130",
+        " - Coconut oil: 2400",
+        " - Glycerol: 2400",
+        " - Mercury: 140",
+        " - Olive oil: 2130",
+        " - Sulphuric acid: 1380",
+        " - Water: 4200",
+        " - Sea water: 3900"
+      ]
+    },
+    {
+      "title": "Applications of Specific Heat Capacity",
+      "content": "Specific heat capacity has important uses in everyday life and technology.",
+      "points": [
+        "Materials with high specific heat capacity absorb a lot of heat with little temperature change (e.g., water in car radiators).",
+        "Materials with low specific heat capacity heat up quickly and are used in cooking utensils like frying pans.",
+        "Sensitive thermometers use materials with low specific heat capacity to detect rapid temperature changes.",
+        "Handles of heating devices are made from materials with high specific heat capacity to prevent overheating.",
+        "Water regulates human body temperature due to its high specific heat capacity.",
+        "Land and sea breezes occur because land and sea have different specific heat capacities."
+      ]
+    },
+    {
+      "title": "Exercises",
+      "content": "Practice problems to reinforce understanding of heat capacity and specific heat capacity.",
+      "points": [
+        "True or False: The heat capacity of water depends on the mass of water being heated. Justify your answer.",
+        "Calculate the heat capacity of tea when 400 J of heat raises its temperature from 25 K to 40 K.",
+        "Calculate the heat energy released when a metal block of heat capacity 520 J/K cools from 60˚C to 20˚C.",
+        "45,000 J of heat is supplied to 5 kg aluminium initially at 25˚C. Calculate the final temperature. (Specific heat capacity of aluminium = 900 J/kg·K).",
+        "Calculate the specific heat capacity of a substance of mass 6 kg heated from 12˚C to 48˚C with 24,000 J of heat energy supplied."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Heat Transfer",
+  "subsections": [
+    {
+      "title": "Heat and Temperature",
+      "content": "Understanding the difference between heat and temperature through experiment and concepts.",
+      "points": [
+        "Temperature measures the kinetic energy of molecules in a body.",
+        "Heat is energy transferred from a body at higher temperature to one at lower temperature.",
+        "Heat energy is measured in joules (J).",
+        "Experiment 5.1: To investigate the difference between heat and temperature.",
+        "Apparatus: Measuring cylinder, beaker, cooking oil (~200g), two test tubes, stirrer.",
+        "Procedure:",
+        "  - Take equal masses of water and cooking oil in two identical test tubes fitted with thermometers.",
+        "  - Place test tubes in a beaker filled with water.",
+        "  - Note initial temperatures.",
+        "  - Heat the beaker uniformly, stirring to distribute heat.",
+        "  - After some time, note the temperatures of water and oil.",
+        "Observation: Temperature of water is lower than oil despite equal heat supplied.",
+        "Discussion: Both substances gained the same heat energy but have different temperatures.",
+        "Conclusion: Heat is energy transferred; temperature is the measure of 'hotness'."
+      ]
+    },
+    {
+      "title": "Modes of Heat Transfer",
+      "content": "Heat transfer occurs via conduction, convection, and radiation.",
+      "points": [
+        "Conduction: Transfer of heat through solids by direct particle contact.",
+        "Convection: Transfer of heat by movement of fluid particles.",
+        "Radiation: Transfer of heat via electromagnetic waves, can occur through vacuum."
+      ]
+    },
+    {
+      "title": "Conduction of Heat in Solids",
+      "content": "Heat transfer in solids by conduction illustrated through experiments.",
+      "points": [
+        "Experiment 5.2: Investigate heat transfer in solids.",
+        "Apparatus: Metal spoon, Bunsen burner, beaker of boiling water, wax.",
+        "Procedure:",
+        "  - Wax one end of the metal spoon.",
+        "  - Dip the other end into boiling water.",
+        "  - After few minutes, touch waxed end.",
+        "Observation: Wax melts at the free end.",
+        "Discussion: Heat travels through spoon by conduction, making wax melt.",
+        "Conclusion: Solids transfer heat by conduction without particle movement.",
+        "Mechanism:",
+        "  - Molecules near hot end vibrate more.",
+        "  - Vibration energy passed to neighboring molecules along the solid."
+      ]
+    },
+    {
+      "title": "Factors Affecting Heat Transfer by Conduction",
+      "content": "Experiments showing influence of temperature difference, material type, cross-sectional area, length, and heating time.",
+      "points": [
+        "Experiment 5.3: Heat flow depends on temperature difference.",
+        "Apparatus: Iron bar with holes, oil, thermometers, wooden screen, water bath, Bunsen burner.",
+        "Procedure:",
+        "  - Insert thermometers in holes along iron bar.",
+        "  - Heat one end by placing through wooden screen into hot water bath.",
+        "  - Record temperature readings along bar.",
+        "Observation: Temperature highest near hot end, decreases along length.",
+        "Conclusion: Heat flows from high to low temperature; larger difference means faster flow.",
+        "Experiment 5.4: Heat transfer depends on material.",
+        "Apparatus: Copper, aluminium, iron rods of same size, matchsticks, wax.",
+        "Procedure:",
+        "  - Fix matchsticks to rods’ ends with wax.",
+        "  - Heat opposite ends with burner.",
+        "Observation: Matchstick falls first on copper, then aluminium, last on iron.",
+        "Conclusion: Copper is best conductor among the three.",
+        "Experiment 5.5: Heat transfer depends on cross-sectional area.",
+        "Procedure: Repeat 5.4 with rods of same material but different diameters.",
+        "Observation: Matchstick on thicker rod falls first.",
+        "Conclusion: Thicker rods transfer heat faster.",
+        "Experiment 5.6: Heat transfer depends on length.",
+        "Procedure: Repeat 5.4 with rods of same material and thickness but different lengths.",
+        "Observation: Shorter rod heats matchstick faster.",
+        "Conclusion: Shorter rods conduct heat better.",
+        "Experiment 5.7: Heat transfer depends on heating time.",
+        "Apparatus: Metal rod, Bunsen burner, stopwatch.",
+        "Procedure:",
+        "  - Heat one end for 5 minutes, record temperature at other end.",
+        "  - Continue heating for 10 minutes, record temperature again.",
+        "Observation: Temperature higher after longer heating.",
+        "Conclusion: More heat transferred over longer time."
+      ]
+    },
+    {
+      "title": "Good and Poor Conductors of Heat",
+      "content": "Examples and demonstrations to distinguish materials based on heat conduction.",
+      "points": [
+        "Good conductors transfer heat easily; metals are usually good conductors.",
+        "Poor conductors (insulators) include wood, paper, air, water.",
+        "Experiment 5.8: Wood is a poor conductor.",
+        "Apparatus: Wooden rod, copper rod, white paper, Bunsen burner.",
+        "Procedure:",
+        "  - Join wooden and copper rods.",
+        "  - Wrap white paper around junction.",
+        "  - Heat junction with burner.",
+        "Observation: Paper on wood chars, paper on copper does not.",
+        "Conclusion: Wood conducts heat slowly, copper quickly.",
+        "Experiment 5.9: Conductivity comparison of paper and water.",
+        "Apparatus: Thick paper bag, tripod, Bunsen burner, water.",
+        "Procedure:",
+        "  - Fill paper bag with water, place on tripod.",
+        "  - Heat gently with Bunsen burner.",
+        "Observation: Water boils without paper burning.",
+        "Conclusion: Water is a better conductor than paper.",
+        "Experiment 5.10: Paper is a poor conductor.",
+        "Apparatus: White paper, candle, metal coin.",
+        "Procedure:",
+        "  - Hold paper above candle flame (without coin) - paper chars.",
+        "  - Place coin on paper and repeat - paper does not char.",
+        "Conclusion: Metal conducts heat away, protecting paper.",
+        "Experiment 5.11: Water is a poor conductor.",
+        "Apparatus: Ice wrapped in wire gauze, boiling tube, Bunsen burner.",
+        "Procedure:",
+        "  - Place ice in gauze at bottom of boiling tube with water.",
+        "  - Heat water from top.",
+        "Observation: Water boils at top but ice does not melt quickly.",
+        "Conclusion: Water conducts heat poorly."
+      ]
+    },
+    {
+      "title": "Conduction in Liquids and Gases",
+      "content": "Heat conduction differs in liquids and gases, with gases being poorest conductors.",
+      "points": [
+        "Experiment 5.12: Compare conduction in oil and water.",
+        "Apparatus: Two boiling tubes, matchsticks, thick copper rod, water, oil, clamp stand, wooden block, Bunsen burner.",
+        "Procedure:",
+        "  - Fill tubes with water and oil respectively.",
+        "  - Heat copper rod with burner, attached to tubes via wooden block.",
+        "Observation: Matchstick on oil tube falls first.",
+        "Conclusion: Oil conducts heat better than water.",
+        "Air and gases are poor conductors of heat.",
+        "Insulation relies on trapped air (wool, blankets, double glazed windows)."
+      ]
+    },
+    {
+      "title": "Convection",
+      "content": "Heat transfer in fluids by movement of particles, illustrated through experiments.",
+      "points": [
+        "Experiment 5.13: Observe convection currents in water.",
+        "Apparatus: Beaker with water, potassium permanganate crystal, long straw, heat source.",
+        "Procedure:",
+        "  - Drop crystal at bottom center of water.",
+        "  - Heat gently from bottom center.",
+        "Observation: Colored streaks rise upwards.",
+        "Conclusion: Hot fluid rises, cold fluid sinks forming convection currents.",
+        "Experiment 5.14: Observe convection in air.",
+        "Apparatus: Box with glass window and two chimneys, candle, smouldering wick.",
+        "Procedure:",
+        "  - Place candle under one chimney, smouldering wick above other.",
+        "Observation: Smoke moves down one chimney, through box, up other chimney.",
+        "Conclusion: Warm air rises, cold air sinks forming air convection currents.",
+        "Experiment 5.16: Convection currents possess energy.",
+        "Apparatus: Circular disk with blades, candle, needle pivot.",
+        "Procedure: Hold disk above candle flame.",
+        "Observation: Disk rotates due to convection currents.",
+        "Conclusion: Convection currents can do work; used in steam turbines."
+      ]
+    },
+    {
+      "title": "Radiation",
+      "content": "Heat transfer via electromagnetic waves, can occur through vacuum.",
+      "points": [
+        "Experiment 5.17: Demonstrate heat transfer by radiation.",
+        "Apparatus: Thin black-painted tin lid, wax, thumb tack, Bunsen burner.",
+        "Procedure:",
+        "  - Stick thumb tack with wax on unpainted side.",
+        "  - Heat painted side with Bunsen burner.",
+        "Observation: Wax melts, thumb tack falls.",
+        "Conclusion: Heat transferred by radiation, no medium needed.",
+        "Experiment 5.18: Good and bad absorbers.",
+        "Apparatus: Two tin lids (one shiny, one dull black), molten wax, thumb tacks, Bunsen burner.",
+        "Procedure: Attach tacks with wax, heat between lids.",
+        "Observation: Tack on black lid falls first.",
+        "Conclusion: Black surfaces absorb radiation better.",
+        "Experiment 5.19: Good and bad emitters.",
+        "Apparatus: Three cans painted black, white, shiny, thermometers, hot water.",
+        "Procedure: Fill cans, monitor cooling rate.",
+        "Observation: Black can cools fastest, shiny can slowest.",
+        "Conclusion: Black surfaces are good emitters, shiny surfaces poor."
+      ]
+    },
+    {
+      "title": "Applications of Heat Transfer",
+      "content": "Practical uses of conduction, convection, and radiation principles.",
+      "points": [
+        "Vacuum flask minimizes heat loss by conduction, convection, and radiation.",
+        "Aluminium foil reflects heat, used in food warming and solar heaters.",
+        "Domestic hot water systems use convection currents for circulation.",
+        "Solar heating panels use black painted copper pipes under glass to heat water.",
+        "Solar concentrators use curved mirrors to focus heat at a point.",
+        "Grass thatched roofs trap air, acting as insulators to reduce heat loss.",
+        "Natural convection causes sea and land breezes.",
+        "Buildings use ventilation design to utilize convection for cooling and heating."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Power and Machines",
+  "subsections": [
+    {
+      "title": "Power",
+      "content": "Understanding the concept of power and how it relates to work done over time.",
+      "points": [
+        "Power is the rate at which work is done.",
+        "Power can be calculated by dividing work done by time taken.",
+        "Examples include the use of different burners, dragging an object, and lifting objects.",
+        "The SI unit of power is the watt (W).",
+        "Power calculation formulas and derivations.",
+        "Solving problems involving power with given information."
+      ]
+    },
+    {
+      "title": "Definition and Examples of Machines",
+      "content": "Exploring what machines are and examples of simple machines.",
+      "points": [
+        "A machine is a device that helps make work easier by changing the magnitude or direction of a force.",
+        "Examples of simple machines include inclined planes, pulleys, and levers."
+      ]
+    },
+    {
+      "title": "Advantages of Using Machines",
+      "content": "Discussing why machines are beneficial in performing tasks.",
+      "points": [
+        "Machines reduce the effort required to do work.",
+        "They increase mechanical advantage, making tasks easier.",
+        "Comparing the force needed to lift objects with and without machines."
+      ]
+    },
+    {
+      "title": "Mechanical Advantage of Inclined Planes",
+      "content": "Studying how inclined planes reduce effort and how to increase mechanical advantage.",
+      "points": [
+        "Mechanical advantage can be increased by lengthening the inclined plane.",
+        "Smooth surfaces reduce friction, increasing mechanical advantage.",
+        "Using rollers on inclined planes further reduces effort."
+      ]
+    },
+    {
+      "title": "Energy and Work on Inclined Planes",
+      "content": "Calculating energy expenditure and work done using inclined planes.",
+      "points": [
+        "Work done raising an object using an inclined plane versus direct lifting.",
+        "Potential energy formula: PE = Weight × Height.",
+        "Comparing energy wastage in both methods."
+      ]
+    },
+    {
+      "title": "Load, Effort, and Mechanical Advantage",
+      "content": "Defining and calculating load, effort, and mechanical advantage.",
+      "points": [
+        "Load is the resistance force.",
+        "Effort is the applied force.",
+        "Mechanical Advantage (MA) = Load / Effort.",
+        "Solving problems involving mechanical advantage."
+      ]
+    },
+    {
+      "title": "Pulley Systems",
+      "content": "Understanding pulley systems and how they work to reduce effort.",
+      "points": [
+        "Pulleys change the direction of force and can multiply effort.",
+        "Effort decreases with more sections of rope in pulley systems.",
+        "Mechanical advantage increases with the number of pulleys.",
+        "Solving related pulley problems."
+      ]
+    },
+    {
+      "title": "Levers and Their Uses",
+      "content": "Examining levers, their classification, and applications.",
+      "points": [
+        "Levers are rigid bars that pivot about a fulcrum to lift loads with less effort.",
+        "Everyday examples include see-saws, crowbars, and scissors.",
+        "Levers are classified into 1st, 2nd, and 3rd order based on fulcrum, load, and effort positions."
+      ]
+    },
+    {
+      "title": "Reducing Effort in Levers",
+      "content": "Methods to decrease the effort needed when using levers.",
+      "points": [
+        "Effort is reduced when load is closer to the fulcrum.",
+        "Effort increases when load is farther from the fulcrum."
+      ]
+    },
+    {
+      "title": "Principle of Moments",
+      "content": "Understanding and applying the principle of moments in levers.",
+      "points": [
+        "The principle states: load × distance from fulcrum = effort × distance from fulcrum.",
+        "Used to balance levers such as see-saws.",
+        "Solving problems using the principle of moments.",
+        "Applications in daily life where balancing forces is important."
       ]
     },
 
      {
-      "title": "Newton’s Laws of Motion",
-      "subsections": [
-        {
-          "title": "Newton’s First Law",
-          "content": "This law states that an object will remain at rest or move in a straight line at constant speed unless acted upon by an external force.",
-          "points": [
-            "Also called the Law of Inertia.",
-            "Objects resist changes in motion.",
-            "Example: A book on a table stays put unless pushed."
-          ]
-        },
-        {
-          "title": "Newton’s Second Law",
-          "content": "This law relates force, mass, and acceleration. It is expressed by the equation F = ma.",
-          "points": [
-            "F = ma: Force equals mass times acceleration.",
-            "The greater the force, the greater the acceleration (if mass is constant).",
-            "Used to calculate force, mass, or acceleration in motion problems."
-          ]
-        },
-        {
-          "title": "Newton’s Third Law",
-          "content": "For every action, there is an equal and opposite reaction.",
-          "points": [
-            "When object A exerts a force on object B, object B exerts an equal force in the opposite direction.",
-            "Example: A balloon moves forward when air rushes out the back.",
-            "Crucial in rocket propulsion and movement."
-          ]
-        }
+      "title": "Energy Expenditure in Lifting Using an Inclined Plane",
+      "content": "Understanding why lifting an object using an inclined plane often requires more energy despite reducing effort.",
+      "points": [
+        "Lifting an object directly upward involves work equal to the object's weight multiplied by the vertical height.",
+        "Using an inclined plane spreads this work over a longer distance, reducing the force (effort) needed at any moment.",
+        "However, because the distance moved is longer, total energy expenditure can be greater due to friction and inefficiencies.",
+        "Friction between the object and the plane surface increases the effort and energy required.",
+        "Energy is also lost due to heat generated by friction.",
+        "Therefore, although the force applied is less, more work (energy) may be done overall because the force is applied over a longer path.",
+        "This explains why the lifting operation via an inclined plane can require greater energy expenditure compared to direct vertical lifting."
       ]
     },
+    {
+      "title": "Ways to Increase the Mechanical Advantage of an Inclined Plane",
+      "content": "Methods to make inclined planes more effective by increasing their mechanical advantage (MA).",
+      "points": [
+        "Increasing the length of the inclined plane while keeping the height constant reduces the effort needed, thereby increasing MA.",
+        "Using a smoother surface reduces friction, which lowers the force required to move the object and increases MA.",
+        "Adding rollers or wheels between the object and the inclined plane reduces friction further and improves MA.",
+        "Reducing the angle of inclination decreases the effort but increases the distance over which the effort must be applied.",
+        "Maintaining the plane clean and free of debris helps minimize friction and improve efficiency.",
+        "Using lubrication or special coatings on the surface can reduce friction and increase mechanical advantage."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Electrostatics: Summary",
+  "subsections": [
+    {
+      "title": "Structure of Matter and Electric Charges",
+      "content": "Electrostatics is the study of electric charges at rest. It begins with understanding the structure of atoms and how charges arise.",
+      "points": [
+        "An atom consists of protons (positive), electrons (negative), and neutrons (neutral).",
+        "Only electrons can be transferred during charging, leading to charged objects.",
+        "Types of charges: positive and negative.",
+        "Like charges repel, unlike charges attract.",
+        "SI unit of charge: coulomb (C)."
+      ]
+    },
+    {
+      "title": "Electrostatic Field and Law of Charges",
+      "content": "Charged objects create an electric field around them that exerts a force on other charges.",
+      "points": [
+        "Electric field: a region where electric forces act on other charges.",
+        "Field lines point away from positive charges and toward negative charges.",
+        "Law of charges: Like charges repel, unlike charges attract.",
+        "The strength of the field decreases with distance."
+      ]
+    },
+    {
+      "title": "Charging Methods in Electrostatics",
+      "content": "Objects can be charged by friction, contact, or induction.",
+      "points": [
+        "Friction: Rubbing transfers electrons between objects (e.g., balloon and wool).",
+        "Contact: A charged object touches a neutral one and shares its charge.",
+        "Induction: A charged object induces charge separation in another object without touching it.",
+        "Insulators hold charges in place; conductors allow charges to move freely."
+      ]
+    },
+    {
+      "title": "Electrostatic Force and Its Factors",
+      "content": "The electrostatic force depends on the amount of charge and distance between objects.",
+      "points": [
+        "The greater the charges, the stronger the force.",
+        "The closer the objects, the stronger the force.",
+        "Force is attractive for opposite charges and repulsive for like charges.",
+        "Coulomb's Law describes this relationship mathematically."
+      ]
+    },
+    {
+      "title": "Applications and Dangers of Electrostatics",
+      "content": "Electrostatics plays a role in both useful technologies and hazardous situations.",
+      "points": [
+        "Applications:",
+        "- Photocopiers use charged drums to attract toner.",
+        "- Electrostatic precipitators clean industrial air by attracting particles.",
+        "- Spray painting uses charge to ensure even coating.",
+        "Dangers:",
+        "- Sparks from static charge buildup can ignite flammable substances.",
+        "- Electrostatic shock can damage sensitive electronics or hurt people.",
+        "Lightning is a large-scale electrostatic discharge.",
+        "Earthing and lightning conductors provide safe paths for excess charge to flow into the ground."
+      ]
+    },
+    {
+      "title": "Hands-On Experiments in Electrostatics",
+      "content": "These experiments demonstrate how static electricity behaves using common materials.",
+      "points": [
+        "Balloon and Wool:",
+        "- Aim: To show frictional charging.",
+        "- Observation: Balloon attracts paper after rubbing with wool.",
+        "Comb and Hair:",
+        "- Aim: To demonstrate charging and attraction.",
+        "- Observation: Charged comb attracts small bits of paper.",
+        "Electroscope:",
+        "- Aim: To detect static charge.",
+        "- Observation: Leaves diverge when a charged object is brought near.",
+        "Contact vs Induction:",
+        "- Aim: To compare charging methods.",
+        "- Observation: Both contact and induction result in charging, but by different mechanisms."
+      ]
+    }
+  ]
+},
+
+
+{
+  "title": "Electrostatics",
+  "subsections": [
+    {
+      "title": "Existence of Charges in Matter",
+      "content": "Electrostatics is the study of electric charges at rest. Charges exist in all matter and are due to the structure of the atom.",
+      "points": [
+        "Atoms consist of protons (positive), neutrons (neutral), and electrons (negative).",
+        "Electrons are negatively charged and can move from one object to another.",
+        "Protons and neutrons are found in the nucleus, and electrons orbit around it.",
+        "Charge is a property of matter that causes it to experience a force in an electric field.",
+        "There are two types of charges: positive and negative.",
+        "Like charges repel, unlike charges attract.",
+        "The SI unit of charge is the coulomb (C).",
+        "1 coulomb = charge carried by approximately 6.25 × 10^18 electrons."
+      ]
+    },
+    {
+      "title": "How Objects are Charged",
+      "content": "Objects can be charged through friction, induction, or contact. Charging involves the transfer or rearrangement of electrons.",
+      "points": [
+        "Friction: Rubbing two different materials causes electrons to transfer from one to the other.",
+        "Induction: A charged object brought near a neutral object can cause redistribution of charges without contact.",
+        "Contact: Touching a charged object to a neutral one transfers some charge.",
+        "Insulators allow build-up of static charges, while conductors allow charge flow.",
+        "An electroscope can detect the presence of electric charges.",
+        "Charging by friction is commonly observed with balloons, combs, and clothing.",
+        "In charging by induction, grounding may be necessary to allow electrons to enter or leave."
+      ]
+    },
+    {
+      "title": "Effect of Distance and Magnitude on Electrostatic Force",
+      "content": "The force between electric charges depends on their size (magnitude) and how far apart they are.",
+      "points": [
+        "Electrostatic force increases with the magnitude of charges.",
+        "Electrostatic force decreases with increased distance between charges.",
+        "Coulomb’s Law describes this relationship: F = k × (q₁ × q₂) / r².",
+        "F is the force, q₁ and q₂ are the magnitudes of charges, r is the distance, and k is Coulomb’s constant.",
+        "This is an inverse square law: doubling the distance reduces the force to a quarter.",
+        "Experiments using electroscopes can show how distance and charge affect force."
+      ]
+    },
+    {
+      "title": "Applications and Dangers of Electrostatics",
+      "content": "Electrostatic effects are both useful and hazardous. Awareness of these is important in everyday life.",
+      "points": [
+        "Applications of electrostatics include photocopiers, spray painting, and air purifiers.",
+        "Electrostatic precipitators remove pollutants from industrial exhausts.",
+        "Lightning is caused by electrostatic discharge between clouds or between clouds and the ground.",
+        "The build-up of charges during thunderstorms can result in dangerous sparks.",
+        "Earthing (e.g., lightning rods) protects buildings by providing a safe path for electric discharge.",
+        "In fuel stations, vehicles are grounded to prevent sparks from static build-up.",
+        "Dangers of electrostatics include shocks, fires, and damage to sensitive electronics.",
+        "Proper grounding and insulation help prevent such hazards."
+      ]
+    },
+
+    {
+      "title": "Detecting Charge with a Balloon and Wool",
+      "content": "This experiment demonstrates charging by friction. When a balloon is rubbed with wool, it becomes electrically charged and can attract small objects.",
+      "points": [
+        "Aim: To show that rubbing a balloon with wool produces an electrostatic charge.",
+        "Materials: Balloon, piece of wool or sweater, small paper pieces.",
+        "Procedure:",
+        "- Inflate a balloon and tie it.",
+        "- Rub it vigorously with wool or a sweater for 30 seconds.",
+        "- Bring it near small paper pieces.",
+        "Observation: The paper pieces are attracted to the balloon.",
+        "Conclusion: Rubbing transfers electrons to or from the balloon, creating a charge that attracts lightweight objects."
+      ]
+    },
+    {
+      "title": "Rubbing a Comb on Hair",
+      "content": "This simple activity demonstrates static electricity using a plastic comb and human hair.",
+      "points": [
+        "Aim: To show that a charged object can attract neutral objects.",
+        "Materials: Plastic comb, clean dry hair, small bits of paper.",
+        "Procedure:",
+        "- Comb dry hair several times quickly.",
+        "- Hold the comb near small paper pieces.",
+        "Observation: Paper pieces jump up and stick to the comb.",
+        "Conclusion: The comb becomes charged by friction and creates an electric field that polarizes and attracts the paper."
+      ]
+    },
+    {
+      "title": "Using an Electroscope to Detect Charge",
+      "content": "An electroscope is a device used to detect the presence of static electric charges.",
+      "points": [
+        "Aim: To detect and observe the presence of electrostatic charges.",
+        "Materials: Homemade or lab electroscope, plastic ruler or rod, wool or cloth.",
+        "Procedure:",
+        "- Rub a plastic rod with wool to create static charge.",
+        "- Bring the charged rod close (not touching) to the metal plate of the electroscope.",
+        "Observation: The metal leaves of the electroscope spread apart.",
+        "Conclusion: The charge on the rod induces a redistribution of charges in the electroscope, showing charge presence."
+      ]
+    },
+    {
+      "title": "Charging by Contact and Induction",
+      "content": "This experiment compares two methods of charging objects: contact and induction.",
+      "points": [
+        "Aim: To distinguish between charging by contact and by induction.",
+        "Materials: Two electroscopes or metal cans, charged rod, insulated stand.",
+        "Procedure:",
+        "- For contact: Touch the charged rod to one object and observe the deflection.",
+        "- For induction: Bring the charged rod near a neutral object without touching, then momentarily ground the object.",
+        "- Remove the rod and observe.",
+        "Observation: Both objects show charge, but by different mechanisms.",
+        "Conclusion: Contact transfers charge directly; induction polarizes and then separates charge with grounding."
+      ]
+    }
+  ]
+},
+
+  
+
+{
+  "title": "Applications and Dangers of Electrostatics",
+  "subsections": [
+    {
+      "title": "Applications of Electrostatics",
+      "content": "Electrostatic principles are used in several real-life applications for convenience, safety, and efficiency.",
+      "points": [
+        "Photocopiers and laser printers: Use electrostatic charges to attract toner particles onto paper.",
+        "Electrostatic paint spraying: Charged paint droplets are attracted to grounded metal surfaces for even coating and minimal waste.",
+        "Air purifiers and electrostatic precipitators: Use electric fields to remove dust and smoke particles from air in homes or factories.",
+        "Inkjet printers: Control ink droplet placement using electrostatic charges.",
+        "Dust removal in electronics: Static brushes and ionizers neutralize charges to remove dust.",
+        "Crop spraying: Electrostatic charge ensures chemicals stick better to plant surfaces."
+      ]
+    },
+    {
+      "title": "Dangers of Electrostatics",
+      "content": "While useful, electrostatic charges can also pose serious hazards in some environments.",
+      "points": [
+        "Static electricity can build up on people or equipment and discharge suddenly, causing electric shocks.",
+        "In fuel stations, sparks caused by static can ignite flammable vapors, leading to explosions.",
+        "Electrostatic discharges can damage sensitive electronic components in devices like computers and medical equipment.",
+        "Accumulated charge in factories handling fine powders can cause explosions or fires if discharged suddenly.",
+        "Preventive measures include grounding equipment and using anti-static clothing or flooring."
+      ]
+    },
+    {
+      "title": "Formation of Lightning",
+      "content": "Lightning is a natural and powerful electrostatic discharge caused by charge separation in clouds.",
+      "points": [
+        "During thunderstorms, friction between water droplets and air causes charge separation in clouds.",
+        "Positive charges gather at the top and negative charges at the bottom of a cloud.",
+        "The negative charge at the cloud base induces a positive charge on the Earth's surface.",
+        "When the potential difference becomes too large, a discharge occurs—seen as lightning.",
+        "This sudden movement of electrons generates intense heat and light, causing thunder and lightning."
+      ]
+    },
+    {
+      "title": "Importance of Earthing (Lightning Conductor)",
+      "content": "Earthing provides a safe path for discharge of excess charge and prevents lightning damage.",
+      "points": [
+        "A lightning conductor is a metal rod installed on buildings, connected to the ground with a thick wire.",
+        "It attracts lightning and channels the discharge safely into the Earth, avoiding structural damage.",
+        "Prevents fire and electrical hazards caused by high voltage surges from lightning.",
+        "Earthing is also used in homes and factories to protect people and equipment from accidental electric shock.",
+        "Essential safety feature in places with high electrical usage or tall structures."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Hands-On Experiments in Electrostatics",
+  "subsections": [
+    {
+      "title": "Detecting Charge with a Balloon and Wool",
+      "content": "This experiment demonstrates charging by friction using a balloon and a piece of wool.",
+      "points": [
+        "Aim: To show that rubbing a balloon with wool produces an electrostatic charge.",
+        "Materials:",
+        "- Inflated balloon",
+        "- Piece of wool or a sweater",
+        "- Small paper pieces or confetti",
+        "Procedure:",
+        "- Inflate the balloon and tie it off.",
+        "- Rub the balloon vigorously with wool or sweater for about 30 seconds.",
+        "- Bring the balloon close to small paper pieces placed on a table.",
+        "Observation: The paper pieces jump toward the balloon and stick to it.",
+        "Conclusion: Rubbing creates a static charge by transferring electrons, making the balloon attract light objects."
+      ]
+    },
+    {
+      "title": "Charging a Plastic Comb by Rubbing on Hair",
+      "content": "A comb can be charged by rubbing it through dry hair and used to demonstrate electrostatic attraction.",
+      "points": [
+        "Aim: To demonstrate that a charged comb attracts neutral objects.",
+        "Materials:",
+        "- Plastic comb",
+        "- Dry, clean hair",
+        "- Small bits of paper",
+        "Procedure:",
+        "- Run the comb several times through dry hair.",
+        "- Bring the comb near small pieces of paper on a flat surface.",
+        "Observation: The paper pieces are attracted to the comb and may stick to it.",
+        "Conclusion: The comb gains charge through friction and polarizes nearby objects, causing attraction."
+      ]
+    },
+    {
+      "title": "Detecting Static Electricity with an Electroscope",
+      "content": "An electroscope detects the presence and magnitude of static electric charges.",
+      "points": [
+        "Aim: To detect and observe the presence of electrostatic charges using an electroscope.",
+        "Materials:",
+        "- Electroscope (lab or homemade using foil and jar)",
+        "- Plastic rod or ruler",
+        "- Wool or cloth for rubbing",
+        "Procedure:",
+        "- Rub the plastic rod with wool for about 30 seconds.",
+        "- Bring the rod close to the metal plate or foil of the electroscope without touching.",
+        "Observation: The metal leaves of the electroscope move apart.",
+        "Conclusion: A charged object induces redistribution of charges in the electroscope, indicating the presence of static electricity."
+      ]
+    },
+    {
+      "title": "Comparing Charging by Contact and Induction",
+      "content": "This experiment demonstrates the difference between charging objects by contact and by induction.",
+      "points": [
+        "Aim: To differentiate between electrostatic charging by contact and by induction.",
+        "Materials:",
+        "- Two identical metal cans or electroscopes",
+        "- Plastic rod (charged by rubbing)",
+        "- Wool or cloth",
+        "- Insulated stand",
+        "- Grounding source (e.g., hand or wire)",
+        "Procedure (Contact):",
+        "- Rub the rod with wool and touch it to the metal object.",
+        "- Observe if the object becomes charged (e.g., with an electroscope).",
+        "Procedure (Induction):",
+        "- Bring the charged rod near the neutral object without touching.",
+        "- Ground the opposite side briefly, then remove grounding and the rod.",
+        "Observation: Both objects show signs of charging, but by different mechanisms.",
+        "Conclusion: Contact transfers charge directly, while induction uses influence and grounding to create charge separation."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Light: Summary",
+  "subsections": [
+    {
+      "title": "Propagation of Light",
+      "content": "Light travels in a straight line, and this property can be demonstrated through various simple experiments.",
+      "points": [
+        "Conduct experiments with light and obstacles to show straight-line travel.",
+        "Observe and record the path of light using narrow openings or aligned holes.",
+        "Explain how this principle supports the formation of shadows and images."
+      ]
+    },
+    {
+      "title": "Formation of Shadows",
+      "content": "Shadows form when an opaque object blocks light, creating areas where light doesn't reach.",
+      "points": [
+        "Use a light source, opaque object, and screen to produce a shadow.",
+        "Identify umbra (dark core) and penumbra (partial shadow) in shadows.",
+        "Draw ray diagrams to illustrate the formation of umbra and penumbra."
+      ]
+    },
+    {
+      "title": "Eclipses",
+      "content": "Eclipses occur when one celestial body blocks light from or to another.",
+      "points": [
+        "Discuss solar eclipse (moon blocks sunlight from reaching Earth).",
+        "Discuss lunar eclipse (Earth blocks sunlight from reaching the moon).",
+        "Demonstrate eclipse formation using models and ray diagrams.",
+        "Draw diagrams to distinguish between solar and lunar eclipses."
+      ]
+    },
+    {
+      "title": "Pinhole Camera",
+      "content": "A pinhole camera forms images by allowing light to pass through a tiny hole and project onto a screen.",
+      "points": [
+        "Explain the basic parts: box, pinhole, and screen.",
+        "Illustrate image formation using ray diagrams.",
+        "Images are inverted and smaller/larger depending on distance.",
+        "Solve magnification problems using the pinhole camera formula."
+      ]
+    },
+    {
+      "title": "Reflection of Light on Plane Surfaces",
+      "content": "Reflection occurs when light bounces off a surface. Plane mirrors reflect light in predictable ways.",
+      "points": [
+        "Demonstrate how light reflects using a ray box and a mirror.",
+        "Define reflection as the bouncing back of light from a surface.",
+        "Trace incident and reflected rays during experiments."
+      ]
+    },
+    {
+      "title": "Laws of Reflection",
+      "content": "The laws of reflection describe the predictable behavior of light on reflective surfaces.",
+      "points": [
+        "First Law: The incident ray, reflected ray, and the normal lie on the same plane.",
+        "Second Law: The angle of incidence equals the angle of reflection.",
+        "Measure and compare angles using a protractor during reflection experiments.",
+        "Apply the laws to solve reflection-based problems."
+      ]
+    },
+    {
+      "title": "Characteristics of Images in Plane Mirrors",
+      "content": "Plane mirrors form images that are virtual, upright, and the same size as the object.",
+      "points": [
+        "Observe the image properties in a plane mirror.",
+        "Draw ray diagrams to show how images are formed.",
+        "Explain that images are laterally inverted and appear behind the mirror."
+      ]
+    },
+    {
+      "title": "Applications of Reflection",
+      "content": "Reflection has many practical uses in everyday life and technology.",
+      "points": [
+        "Periscopes use two mirrors to see over obstacles.",
+        "Rear-view mirrors allow drivers to see behind their vehicles.",
+        "Kaleidoscopes use multiple reflections to create patterns.",
+        "Mirrors in optical instruments (e.g., microscopes, telescopes)."
+      ]
+    },
+    {
+      "title": "Refraction of Light",
+      "content": "Refraction occurs when light bends as it passes from one medium to another.",
+      "points": [
+        "Pass light through glass or water blocks to show bending.",
+        "Explain that bending is due to change in speed of light in different media.",
+        "Trace and label the incident ray, refracted ray, and normal.",
+        "Discuss everyday examples of refraction (e.g., straw in water)."
+      ]
+    },
+    {
+      "title": "Formation of Spectrum",
+      "content": "A spectrum is formed when white light splits into its component colors.",
+      "points": [
+        "Use a prism to split white light into different colors.",
+        "Explain that different wavelengths of light refract at different angles.",
+        "Relate this to the natural formation of a rainbow."
+      ]
+    },
+    {
+      "title": "Apparent Depth",
+      "content": "Apparent depth is the visual illusion where objects under water appear closer than they really are.",
+      "points": [
+        "Place a coin in a cup and pour water to observe apparent shift.",
+        "Draw ray diagrams to illustrate this effect.",
+        "Explain using refraction and change in light speed.",
+        "Relate to swimming pool depth appearance."
+      ]
+    },
+    {
+      "title": "Bending of Objects in Water",
+      "content": "Objects appear bent when partially submerged due to refraction.",
+      "points": [
+        "Place a stick in a transparent container of water and observe bending.",
+        "Discuss the bending as a result of refraction.",
+        "Use ray diagrams to show how the light paths change at the water surface.",
+        "Explain how this affects visual perception."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Light",
+  "subsections": [
+    {
+      "title": "Propagation of Light",
+      "content": "Light travels in a straight line. This principle is demonstrated through simple experiments.",
+      "points": [
+        "**Experiment: To show that light travels in a straight line**",
+        "Aim: To demonstrate the rectilinear propagation of light.",
+        "Materials: Three cardboard pieces with holes in the center, candle or torch, ruler, screen.",
+        "Procedure:",
+        "- Arrange the three cardboard pieces in a straight line so that the holes are aligned.",
+        "- Place the candle or torch at one end and the screen at the other.",
+        "- Observe the visibility of light on the screen.",
+        "- Move one cardboard slightly out of line and observe again.",
+        "Results: Light passes through the aligned holes and is blocked when misaligned.",
+        "Conclusion: Light travels in a straight line."
+      ]
+    },
+    {
+      "title": "Formation of Shadows",
+      "content": "Shadows are formed when an opaque object blocks the path of light.",
+      "points": [
+        "**Experiment: To observe the formation of shadows**",
+        "Aim: To study how shadows are formed and identify umbra and penumbra.",
+        "Materials: Torch or lamp, opaque object (e.g., ball), white screen, ruler.",
+        "Procedure:",
+        "- Place the opaque object between the light source and the screen.",
+        "- Adjust the distance between the source, object, and screen.",
+        "- Observe the shadow formed on the screen.",
+        "- Try with one and two light sources.",
+        "Results: A dark central shadow (umbra) and a lighter outer shadow (penumbra) are formed.",
+        "Conclusion: Shadows have two parts — umbra and penumbra. The number of light sources affects shadow patterns."
+      ]
+    },
+    {
+      "title": "Eclipses",
+      "content": "Eclipses occur when one celestial body casts its shadow on another.",
+      "points": [
+        "Solar eclipse: Moon blocks sunlight from reaching Earth.",
+        "Lunar eclipse: Earth blocks sunlight from reaching the Moon.",
+        "**Diagram: Ray diagram for solar and lunar eclipses**"
+      ]
+    },
+    {
+      "title": "Pin Hole Camera",
+      "content": "A pin hole camera shows how images form due to light traveling in straight lines.",
+      "points": [
+        "Parts: Pinhole, light-proof box, translucent screen.",
+        "**Experiment: Demonstrating how a pinhole camera works**",
+        "Aim: To show image formation using a pinhole camera.",
+        "Materials: Pinhole camera, lit candle, measuring tape.",
+        "Procedure:",
+        "- Place a lit candle in front of the pinhole.",
+        "- Observe the image formed on the screen.",
+        "- Change the distance and observe image size.",
+        "Results: An inverted, smaller image forms.",
+        "Conclusion: A pinhole camera forms real, inverted images.",
+        "Formula: Magnification = Image height / Object height"
+      ]
+    },
+    {
+      "title": "Reflection of Light",
+      "content": "Reflection occurs when light bounces off a surface.",
+      "points": [
+        "Types: Regular (on smooth surfaces) and diffused (on rough surfaces).",
+        "**Experiment: Verifying laws of reflection**",
+        "Aim: To verify the laws of reflection.",
+        "Materials: Plane mirror, protractor, paper, pencil, ray box or torch.",
+        "Procedure:",
+        "- Draw a line for the mirror and mark the normal.",
+        "- Shine a ray at a known angle and trace the reflected ray.",
+        "- Measure angles of incidence and reflection.",
+        "Results: Angle of incidence = Angle of reflection.",
+        "Conclusion: The laws of reflection are verified."
+      ]
+    },
+    {
+      "title": "Laws of Reflection",
+      "content": "Two key laws govern reflection.",
+      "points": [
+        "1. The angle of incidence equals the angle of reflection.",
+        "2. The incident ray, reflected ray, and normal all lie in the same plane."
+      ]
+    },
+    {
+      "title": "Images Formed by Plane Mirrors",
+      "content": "Plane mirrors form virtual, upright, and laterally inverted images.",
+      "points": [
+        "**Experiment: Observing images in plane mirrors**",
+        "Aim: To investigate characteristics of images in plane mirrors.",
+        "Materials: Plane mirror, paper, object (e.g., pencil).",
+        "Procedure:",
+        "- Place the object in front of the mirror.",
+        "- Trace rays and locate image.",
+        "- Observe size, orientation, and distance.",
+        "Results: Image is upright, same size, virtual, and laterally inverted.",
+        "Conclusion: Plane mirrors form virtual, upright, same-sized images."
+      ]
+    },
+    {
+      "title": "Applications of Reflection",
+      "content": "Reflection is used in various optical devices.",
+      "points": [
+        "Periscopes: Allow seeing over or around obstacles.",
+        "Mirrors: Used in grooming, decoration, and instruments.",
+        "**Experiment: Building a periscope**",
+        "Aim: To demonstrate application of reflection using a periscope.",
+        "Materials: Two mirrors, cardboard box, scissors.",
+        "Procedure:",
+        "- Cut holes at 45° angles and insert mirrors.",
+        "- Look through one hole and observe reflections.",
+        "Conclusion: Periscopes use two reflections to change the path of light."
+      ]
+    },
+    {
+      "title": "Refraction of Light",
+      "content": "Refraction is the bending of light as it passes from one medium to another.",
+      "points": [
+        "**Experiment: Refraction through a glass block**",
+        "Aim: To observe the bending of light during refraction.",
+        "Materials: Glass block, paper, pencil, pins.",
+        "Procedure:",
+        "- Fix paper and trace the glass block.",
+        "- Mark and draw an incident ray.",
+        "- Place pins along the incident ray and view through block.",
+        "- Mark the emergent ray and trace path.",
+        "Results: The ray bends at the boundary (refracted).",
+        "Conclusion: Light changes direction due to change in speed when entering a different medium."
+      ]
+    },
+    {
+      "title": "Dispersion and Spectrum",
+      "content": "Dispersion is the splitting of white light into its component colors.",
+      "points": [
+        "**Experiment: Forming a spectrum using a prism**",
+        "Aim: To produce a spectrum of visible light.",
+        "Materials: Prism, white light source, screen.",
+        "Procedure:",
+        "- Shine white light onto one face of the prism.",
+        "- Place screen on the other side to observe spectrum.",
+        "Results: Seven colors (ROYGBIV) appear.",
+        "Conclusion: White light is made of multiple colors.",
+        "Application: Explains rainbow formation."
+      ]
+    },
+    {
+      "title": "Apparent Depth and Bending of Objects in Water",
+      "content": "Objects appear displaced in water due to refraction.",
+      "points": [
+        "**Experiment: Observing apparent depth**",
+        "Aim: To understand apparent depth.",
+        "Materials: Cup, coin, water.",
+        "Procedure:",
+        "- Place coin in cup and move back until it disappears.",
+        "- Add water slowly while observing.",
+        "Results: Coin becomes visible again.",
+        "Conclusion: Refraction causes apparent depth.",
+        "**Experiment: Bending of a stick in water**",
+        "Aim: To observe the bending of a stick.",
+        "Materials: Glass of water, straight stick.",
+        "Procedure:",
+        "- Place part of stick in water.",
+        "- Observe from the side.",
+        "Results: Stick appears bent at the surface.",
+        "Conclusion: Light bends at the water surface due to refraction."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Introduction to Nuclear Physics",
+  "subsections": [
+    {
+      "title": "Structure of an Atom",
+      "content": "Atoms are made of a nucleus containing protons and neutrons, with electrons orbiting the nucleus. Protons carry positive charge, electrons negative charge, and neutrons have no charge. Atoms are electrically neutral because the number of protons equals the number of electrons.",
+      "points": [
+        "Charge number (atomic number, Z): Number of protons in the nucleus.",
+        "Mass number (A): Total number of protons and neutrons.",
+        "Notation of an atom: ",
+        "  A",
+        "  X",
+        "  Z",
+        "where X = element symbol, A = mass number, Z = atomic number.",
+        "Example 1: Lithium atom 7^3Li",
+        "- Charge number = 3 (protons)",
+        "- Mass number = 7 (protons + neutrons)",
+        "- Neutrons = 7 - 3 = 4",
+        "Example 2: Uranium atom 238^92U",
+        "- Charge number = 92",
+        "- Mass number = 238",
+        "- Neutrons = 238 - 92 = 146"
+      ]
+    },
+    {
+      "title": "Isotopes",
+      "content": "Isotopes are atoms of the same element with the same number of protons but different numbers of neutrons, thus different mass numbers.",
+      "points": [
+        "Example: Hydrogen isotopes - 1^1H, 2^1H, 3^1H",
+        "- All have 1 proton, but neutrons differ: 0, 1, and 2 respectively.",
+        "Example: Carbon isotopes - 12^6C and 14^6C",
+        "- Both have 6 protons; neutrons are 6 and 8 respectively."
+      ]
+    },
+    {
+      "title": "Radioactivity",
+      "content": "Radioactivity is the spontaneous emission of radiation from the nucleus of certain unstable atoms, first discovered by Henri Becquerel in 1896.",
+      "points": [
+        "Becquerel found uranium salts emit invisible penetrating rays affecting photographic plates.",
+        "Marie Curie discovered polonium and radium as highly radioactive elements.",
+        "Radioactivity is spontaneous and random; it is not influenced by external factors like temperature or pressure.",
+        "Radioactive decay is the process by which an unstable nucleus emits particles or radiation to become more stable."
+      ]
+    },
+    {
+      "title": "Types of Radioactive Radiation and Their Properties",
+      "content": "Radioactive substances emit alpha (α), beta (β), and gamma (γ) radiation with distinct characteristics.",
+      "points": [
+        "Alpha (α) particles:",
+        "- Helium nuclei (2 protons, 2 neutrons), charge +2e.",
+        "- Mass number 4, atomic number 2.",
+        "- Travel in straight lines at about 1 × 10^6 m/s.",
+        "- High ionizing power but low penetration (range 5-7 cm in air).",
+        "- Deflected by magnetic and electric fields.",
+        "Beta (β) particles:",
+        "- High-speed electrons emitted from nucleus.",
+        "- Result from neutron converting into proton + electron.",
+        "- Speed up to near light speed.",
+        "- Moderate ionizing power and penetration (range up to 5 meters in air).",
+        "- Deflected by magnetic and electric fields.",
+        "Gamma (γ) rays:",
+        "- Electromagnetic waves with no mass or charge.",
+        "- Travel at speed of light (3 × 10^8 m/s).",
+        "- High penetration power, nearly infinite range in air.",
+        "- Not deflected by magnetic or electric fields.",
+        "- Cause fluorescence and ionization but less ionizing than alpha and beta."
+      ]
+    },
+    {
+      "title": "Dangers of Radioactivity",
+      "content": "Radioactive radiation can ionize living cells causing damage, burns, cancer, and genetic defects.",
+      "points": [
+        "Alpha particles are dangerous inside the body but less so outside because of low penetration.",
+        "Gamma rays penetrate deeply and require shielding (lead, concrete).",
+        "Radiation exposure symptoms include skin burns, vomiting, hair loss, cancer, and leukemia.",
+        "Radioactive waste is hazardous and must be safely disposed of.",
+        "Historical nuclear disasters: Chernobyl reactor explosion (1986), Hiroshima and Nagasaki atomic bombs (1945)."
+      ]
+    },
+    {
+      "title": "Precautions When Handling Radioactive Materials",
+      "content": "Safety practices are essential to minimize radiation exposure.",
+      "points": [
+        "Avoid ingestion or inhalation of radioactive substances.",
+        "Use protective clothing: lead-lined aprons, gloves, masks.",
+        "Work behind shielding walls and use remote tools (tongs).",
+        "Limit exposure time and maximize distance from sources.",
+        "Use radiation badges to monitor exposure.",
+        "Store radioactive materials in lead containers.",
+        "Clearly display warning signs in radioactive areas."
+      ]
+    },
+    {
+      "title": "Applications of Radioactivity",
+      "content": "Radioactivity has important uses in medicine, agriculture, industry, and energy.",
+      "points": [
+        "Medicine:",
+        "- Radioactive tracers to monitor organ functions (e.g., iodine-131 for thyroid).",
+        "- Radiation therapy to kill cancer cells using gamma rays (cobalt-60).",
+        "- Sterilization of medical equipment by gamma irradiation.",
+        "Agriculture and Biology:",
+        "- Tracers to study fertilizer uptake in plants.",
+        "- Sterilizing insects to control pests.",
+        "- Preserving crops by mild gamma irradiation.",
+        "Industry:",
+        "- Detecting leaks in underground pipes using gamma radiation.",
+        "- Monitoring thickness of materials (paper, metal sheets) with beta or gamma sources.",
+        "- Measuring packing volumes in food industries (e.g., tea leaves).",
+        "Energy:",
+        "- Nuclear fusion (e.g., using heavy water, 2^1H) as a potential energy source."
+      ]
+    },
+    {
+      "title": "Experiments and Demonstrations",
+      "content": "Key experiments to illustrate nuclear physics concepts.",
+      "points": [
+        "**Experiment 1: Determining atomic number and mass number from notation**",
+        "Aim: To identify charge number, mass number, and neutrons in given atoms.",
+        "Materials: Sample atomic symbols (e.g., 7^3Li, 238^92U), calculator.",
+        "Procedure:",
+        "- Write down the atomic notation.",
+        "- Identify the atomic number (Z) and mass number (A).",
+        "- Calculate neutrons by subtracting Z from A.",
+        "Results: Clear understanding of atomic structure notation.",
+        "",
+        "**Experiment 2: Detecting Radioactive Radiation Types**",
+        "Aim: To observe the properties of alpha, beta, and gamma radiation.",
+        "Materials: Radioactive source, photographic plate or Geiger counter, magnetic and electric field setup, zinc sulphide screen.",
+        "Procedure:",
+        "- Place radioactive source near detector.",
+        "- Observe ionization and fluorescence on zinc sulphide screen.",
+        "- Use magnetic/electric fields to observe deflection of particles.",
+        "Results: Identification of particle types based on deflection and ionization.",
+        "Safety: Conduct under supervision with proper shielding.",
+        "",
+        "**Experiment 3: Observing Ionization Effect of Radiation**",
+        "Aim: To demonstrate ionization by radiation.",
+        "Materials: Ionization chamber, radioactive source, electrometer.",
+        "Procedure:",
+        "- Place radioactive source near ionization chamber.",
+        "- Measure current generated by ionized gas.",
+        "Results: Ionization current proportional to radiation intensity.",
+        "",
+        "**Experiment 4: Using Tracers in Plants**",
+        "Aim: To monitor fertilizer uptake.",
+        "Materials: Radioactive tracer (e.g., phosphorus-32), plants, detection equipment.",
+        "Procedure:",
+        "- Apply tracer-labelled fertilizer to plants.",
+        "- Use detector to track movement of tracer in plant parts.",
+        "Results: Visualization of nutrient uptake pathways.",
+        "Safety: Follow strict radiological safety protocols."
+      ]
+    },
+    {
+      "title": "Key Definitions and Questions",
+      "content": "Important terms and typical exam/test questions for revision.",
+      "points": [
+        "Randomness: The unpredictable nature of when a nucleus will decay.",
+        "Activity: The rate of radioactive decay (disintegrations per second).",
+        "Radioactive decay: The process where an unstable nucleus loses energy by emitting radiation.",
+        "Half-life: Time required for half of the radioactive nuclei to decay.",
+        "",
+        "Sample Questions:",
+        "- What is the atomic number of 14^6C? (Answer: 6)",
+        "- How many neutrons are in 238^92U? (Answer: 146)",
+        "- Explain why alpha particles are more dangerous inside the body.",
+        "- List two precautions when handling radioactive materials.",
+        "- State three uses of radioactivity in medicine.",
+        "- What happens to the atomic number when a beta particle is emitted? (Answer: Increases by 1)"
+      ]
+    }
+  ]
+},
+
+
+
+
+
+
+
+
 
     
     {

@@ -3,48 +3,550 @@
 {
   "subject": "Chichewa",
   "topics": [
+   
+    
+{
+  "title": "Mitundu ya Mawu m’Chichewa (Parts of Speech)",
+  "subsections": [
+    {
+      "title": "Mitundu ya Mawu",
+      "content": "Zimaphatikizapo dzina, mneni, mlowam’malo, mfotokozi, muonjezi, mvekero, mfuwu, mlumikizi, ndi mperekezi.",
+      "points": [
+        "Dzina (Noun): Ufulu wotere umaputsitsa; Ana inu khalani pansi.",
+        "Mneni (Verb): Ufulu wotere umaputsitsa; Ana inu khalani pansi.",
+        "Mlowam’malo (Pronoun): Awa ndi anga; Yake yalowa pa dzenje.",
+        "Mfotokozi (Adjective): Mbewa yake yalowa pa dzenje; Ana anu ndi okongola.",
+        "Muonjezi (Adverb): Inu, khalani pansi; Iwo abwera mawa.",
+        "Mvekero (Onomatopoeia): Mbuzi zangoti balala ku dambo; Anthu adali yakaliyakali wa ku msika.",
+        "Mfuwu (Interjection): Hede! Zotseketsa odwala; Sha! Usabwerenso kuno.",
+        "Mlumikizi (Conjunction): Ndikwatira chifukwa ndakula; Joni ndi Mary apita mawa.",
+        "Mperekezi (Preposition): Inu mupite pa denge; Iye adali jijirijijiri kuseri kwa chimbuzi."
+      ]
+    },
+    {
+      "title": "Ntchito pa Mitundu ya Mawu",
+      "content": "Tchulani mitundu ya mawu omwe atsekedwa mzere pansipa m’ziganizo.",
+      "points": [
+        "Ana inu mulibe ulemu.",
+        "Inu mulibe ulmeu.",
+        "Awa atsangalala kwambiri.",
+        "Iwo ali bwino.",
+        "Ndamumenya popeza amatukwana.",
+        "Gondoline apita kwa George."
+      ]
+    },
     {
       "title": "Zigawo za Mawu",
-      "subsections": [
-        {
-          "title": "Tanthauzo",
-          "content": "Zigawo za mawu ndi mitundu ya mawu molingana ndi ntchito yake pa chiganizo.",
-          "points": [
-            "Mawu amagawidwa malinga ndi ntchito yake: dzina, wachita, chipulumutso, chigwirizano, ndi zina.",
-            "Amasintha kumvetsa kwa chiganizo komanso kulondola kwa chilankhulo."
-          ]
-        },
-        {
-          "title": "Zitsanzo",
-          "content": "Zitsanzo zimathandiza kumvetsa zigawo za mawu bwino.",
-          "points": [
-            "Mwachitsanzo: 'Mwana akuthamanga' – mwana ndi dzina, akuthamanga ndi wachita.",
-            "'Ine ndikudya' – ine ndi dzina, ndikudya ndi wachita."
-          ]
-        }
+      "content": "Zigawo za mawu ndi mphatikiram’mbuyo, tsinde, ndi mphatikiram’tsogolo.",
+      "points": [
+        "Mphatikiram’mbuyo: kanjinga.",
+        "Tsinde: kanjinga.",
+        "Mphatikiram’tsogolo: kanjingaka."
       ]
     },
     {
-      "title": "Nkhani Yosavuta",
-      "subsections": [
-        {
-          "title": "Tanthauzo",
-          "content": "Nkhani yosavuta imalembedwa mwachilengedwe ndikulondola kwa chilankhulo.",
-          "points": [
-            "Yoyenera tsiku ndi tsiku komanso imakhudza moyo wa munthu wamba.",
-            "Imafanana ndi momwe anthu amalankhulira nthawi zambiri."
-          ]
-        },
-        {
-          "title": "Mbali Zake",
-          "content": "Ili ndi mbali zomwe zimatsatira chilankhulo chachilendo.",
-          "points": [
-            "Imagwiritsa ntchito mawu osavuta komanso osadziwika.",
-            "Ilibe mawu a chinsinsi kapena ziganizo zovuta."
-          ]
-        }
+      "title": "Kupeza Zigawo za Mawu",
+      "content": "Adaweranso zigawo za mawu pamene ali:",
+      "points": [
+        "a-: mphatikiram’mbuyo",
+        "-da-: mphatikiram’mbuyo",
+        "bwera: tsinde",
+        "-nso: mphatikiram’tsogolo"
       ]
     },
+    {
+      "title": "Ntchito pa Kupeza Zigawo za Mawu",
+      "content": "Pezani zigawo za mawu awa:",
+      "points": [
+        "Ndipitanso",
+        "Adzandifunansotu",
+        "Adzandipeza",
+        "Waba",
+        "Amakhutadi"
+      ]
+    },
+    {
+      "title": "Mawu ndi Maphatikizo",
+      "content": "Mawu ali ndi maphatikizo osiyanasiyana, kuyambira limodzi mpaka kupitirira.",
+      "points": [
+        "Mawu a phatikizo limodzi: E!, Sha!",
+        "Mawu a maphatikizo awiri: Mu-nthu, Ana",
+        "Mawu a maphatikizo atatu: A-ta-te, Abambo",
+        "Mawu a maphatikizo anayi: Wa-ka-zi-nga, Wagumula",
+        "Mawu a maphatikizo asanu: A-dza-li-ma-nso, Asakupatse",
+        "Mawu a maphatikizo asanu ndi amodzi kapena kupitirira apo: Wa-zi-bu-lu-bu-di-ra, Adalongosola"
+      ]
+    },
+    {
+      "title": "Ntchito pa Maphatikizo",
+      "content": "Kodi mawu otsatirawa ali ndi maphatikizo angati?",
+      "points": [
+        "Amadziwa",
+        "Akungolira",
+        "Nkhwangwa",
+        "Hi?",
+        "Adanyengedwadi"
+      ]
+    },
+    {
+      "title": "Mitundu ya Aphatikiri",
+      "content": "Aphatikiram’mbuyo ndi aphatikiram’tsogolo.",
+      "points": [
+        "Aphatikiram’mbuyo: A+da+pita (adapita), U+pite (upite)",
+        "Aphatikiram’tsogolo: Abweranso, Wakhutadi"
+      ]
+    },
+    {
+      "title": "Ntchito pa Aphatikiram’tsogolo",
+      "content": "Sankhani mawu omwe ndi aphatikiram’tsogolo mwa mawu otsatirawa:",
+      "points": [
+        "Lowani/ mpeni",
+        "Khutu/ akubweratu",
+        "Abe/ uchembezabe",
+        "Njanji/ tikuferanji?"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Mitundu ndi Ntchito za Aphatikiram’mbuyo",
+  "subsections": [
+    {
+      "title": "Mitundu ya Aphatikiram’mbuyo",
+      "content": "Aphatikiram’mbuyo amagwiritsidwa ntchito kupanga mitundu yosiyanasiyana ya mawu komanso kuchititsa kusintha kwa mawu ena.",
+      "points": [
+        "Aphatikiram’mbuyo othandiza kupanga mayina: Munthu, Mtengo (mosachulukitsa), Mitengo (mochulukitsa), Anthu.",
+        "Aphatikiram’mbuyo othandiza kupanga mitundu ina ya mawu ndi mawu ena osiyanasiyana:",
+        "  - Aonjezi: mochedwa",
+        "  - Mlowam’malo: iwo",
+        "  - Mneni: udya",
+        "  - Mfotokozi: zokongola",
+        "  - Mawu ofunsira: motani?",
+        "  - Mawu oloza/ osonyeza malo: paja, apo",
+        "  - Mawu aumwini: zawo, wake",
+        "Aphatikiram’mbuyo ochepetsa monyoza: Kanjinga, Kamunthu.",
+        "Aphatikiram’mbuyo ochepetsa mochulukitsa: Tizovala, Tiana.",
+        "Aphatikiram’mbuyo okulitsa kapena kunyoza: Chikabudula, Chimunthu.",
+        "Aphatikiram’mbuyo otsutsa: Sugona, Sapita.",
+        "Aphatikiram’mbuyo olamula: Ulembe, Zigona.",
+        "Mphatikiram’kati wapokhapokha: Achibwera bwanayo, tikanalipidwa; Atabwera ndingasangalare; Ndisangalala akabwera.",
+        "Aphatikiram’mbuyo wosonyeza nthawi:",
+        "  - Iwo anafika dzulo (nthawi yakale)",
+        "  - Iwo akuyenda mothamanga (nthawi yatsopano yopitirira)",
+        "  - Iwo amayenda msanga (nthawi yatsopano yakawirikawiri)",
+        "  - Iwo adzabwera mawa (yamtsogolo).",
+        "Aphatikiram’mbuyo osonyeza malo: Kusukulu, Pamunda, M’khola."
+      ]
+    },
+    {
+      "title": "Ntchito",
+      "content": "Perekani mitundu ya aphatikiram’mbuyo omwe atsekedwa mzere kunsi kwawo mu mawu awa:",
+      "points": [
+        "a. Mumphika",
+        "b. Ana",
+        "c. Adabwera",
+        "d. Uzipita",
+        "e. Sindiva"
+      ]
+    },
+    {
+      "title": "Ntchito Zina za Aphatikiram’mbuyo",
+      "content": "Aphatikiram’mbuyo amathandiza kusonyeza zinthu zosiyanasiyana monga kupanga chinthu popanda chifukwa chenicheni, kutheka kapena kusatheka kwa chinthu, kugwirizanitsa mchitantchito, ndi zina.",
+      "points": [
+        "Kusonyeza kupanga chinthu popanda chifukwa chenicheni (wopatula): Ine ndangokhala; Atofuna ukwati.",
+        "Kusonyeza kutheka/ kusatheka kwa chinthu: Pumbwa sangathe kulima mundawu yekha; Gondoline angadye yekha nsimayi.",
+        "Kusonyeza yemwe wachita ntchito (kugwirizanitsa mchitantchito): Ine ndibwera mawa; Mnyamata wagula buku; Mwana wanu wadya nsima yonse.",
+        "Kusonyeza yemwe ntchito yamchitikira: Nkhokwezo zidamangidwa pamtunda; Inu mwamenyedwa lero.",
+        "Kugwirizanitsa mchitidwantchito/ pamtherankhani: Gabadinho adamulowetsa timu ya Bid Bullets adakali wachichepere; Iwo andibera ndalama yanga; Gondoline wawadyera atsikana nsima yawo."
+      ]
+    },
+    {
+      "title": "Ntchito",
+      "content": "Pangani ziganizo zomveka bwino ndikugwiritsa ntchito aphatikiram’mbuyo ndi aphatikiramtsogolo.",
+      "points": [
+        "Mphatikiram’mbuyo",
+        "Mphatikiramtsogolo"
+      ]
+    },
+    {
+      "title": "Ntchito yowunikira",
+      "content": "Kodi aphatikiram’mbuyo omwe atsekedwa mzere pansipa akugwira ntchito yanji?",
+      "points": [
+        "Iwo adafika dzulo.",
+        "Iwo amathamanga kwambiri kalero.",
+        "Ana abwera kale.",
+        "Inu mubweretse ufa ndi mchere.",
+        "Ndimapita kumudzi ndikafuna."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Mitundu ya Masinde ndi Ntchito za Aphatikiram’tsogolo",
+  "subsections": [
+    {
+      "title": "Mitundu ya Masinde",
+      "content": "Masinde ndi zigawo za mawu zomwe zimathandiza kutsimikizira mtundu wa mawu monga dzina, umwini, mfotokozi, ndi zina.",
+      "points": [
+        "Tsinde la dzina: Kanthu, Midzi",
+        "Tsinde la umwini: Wanga, Yake",
+        "Tsinde la mfotokozi: Chachiwisi, Wamng’ono, Lalifupi, Wamtali",
+        "Tsinde losonyeza malo: Muno, Pamwamba, Kunsi, Kumbuyo",
+        "Tsinde lolozera (la mlozi): Uyu, Kaja, Uko",
+        "Tsinde lamgwirizano: Zotere, Zonse, Yemwe, Chomwe",
+        "Tsinde la mneni: Wayenda, Unditule, Adavina",
+        "Tsinde lofunsira: Zingati?, Kuti?, Mwatani?, Chayani?",
+        "Tsinde lowerengera: Anayi, Zisani",
+        "Tsinde logawa: Zilizonse, Chilichonse",
+        "Tsinde lopatula: Ena, Wekha, Ochepa, Zokha",
+        "Tsinde losonyeza kusasiyako kanthu: Tengani zonse, Apita onse kumadzi",
+        "Tsinde lakuchuluka kapena kuchepetsa: Zambiri, Ochepa, Zochuluka"
+      ]
+    },
+    {
+      "title": "Ntchito",
+      "content": "Tchulani mitundu ya masinde mu mawu awa:",
+      "points": [
+        "Akaidi aja athawa",
+        "Midzi atha",
+        "M’bale wanu wafika",
+        "Abwere m’modzi yekha",
+        "Ukhale kutsogolo kwanga",
+        "Kodi ndinene kangati?",
+        "Iwo abweretsa buku lake",
+        "Ndifuna nyama yokha"
+      ]
+    },
+    {
+      "title": "Mitundu ndi Ntchito za Aphatikiram’tsogolo",
+      "content": "Aphatikiram’tsogolo amagwiritsa ntchito kusonyeza zinthu zosiyanasiyana monga kutsimikiza, kufunsa, kuchita zinthu mokakamira, kupitirira, kubwereza, kupempha, ndi zina.",
+      "points": [
+        "Mphatikiram’tsogolo -DI (Kusonyeza kutsimikiza ndi kufunsa):",
+        "  - Tiwonge wakhozadi mayeso",
+        "  - Wadya ndiyedi osati wina",
+        "  - Wandithawadi iwe mkazi wanga?",
+        "  - Koma alendo akhutadi, zoona?",
+        "Mphatikiram’tsogolo -BE (Kusonyeza kuchita zinthu mokakamira, kupitirira):",
+        "  - Ndilembabe mayesowa ngakhale ndaletsedwa",
+        "  - Tigwirabe ntchitoyi nakhale ikuvuta",
+        "  - Ndiphikabe ndikapuma",
+        "  - Apitabe akadya",
+        "  - Tonse tilibe makope",
+        "  - Kwathu tilibe wayilesi",
+        "  - Amfumu akuyankhulabe",
+        "  - Mwana akulirabe",
+        "Mphatikiram’tsogolo -TU (Kusonyeza kuchenjeza, kugwirika kwa ntchito):",
+        "  - Aphunzitsi akubweratu",
+        "  - Mayitu ndi amene akuitana",
+        "  - Muvulalatu mukadumpha",
+        "  - Imwatu petuloyo ufe",
+        "  - Pitatu umenenyedwa",
+        "  - Apa ndiye waavaliratu ndi kwa mawa komwe",
+        "  - Wadyeratu mpaka madzulo",
+        "  - Ndinaiwaliratu zoti mubwera",
+        "  - Mweratu usanadye",
+        "  - Tsukiratu mbalezi usanagone",
+        "  - Dyeratu iye asanabwere",
+        "Mphatikiram’tsogolo -NSO (Kusonyeza kubwereza, kuonjezera):",
+        "  - Thiranso madzi ena",
+        "  - Wamwanso mowa lero iwe?",
+        "  - Inenso ndili bwino",
+        "  - Inunso bwerani kuno",
+        "  - Nanenso ndimapanga bwino",
+        "Mphatikiram’tsogolo -NI (Polemekeza, kuchulukitsa):",
+        "  - Bambo inu lowani tsopanao",
+        "  - Bwana imwani madziwa",
+        "  - Anyamata fikani",
+        "  - Asungwana inu lekani machimo",
+        "Mphatikiram’tsogolo -NO (Nthawi yakwana, kudabwa):",
+        "  - Lowanino tamaliza",
+        "  - Idyano ndiwozi",
+        "  - Iweno, chikatere n’chiyani?",
+        "  - Inuno kukamwa yasa; kuti chiyani?",
+        "  - Zangano?",
+        "Mphatikiram’tsogolo -KO (Kupempha, kusonyeza malo, kufupikitsa moloza):",
+        "  - Imwako makhwalawa",
+        "  - Unditungireko madzi",
+        "  - Ine sindinapiteko ku Lilongwe",
+        "  - Mwanayu wabwerako ku Mzuzu",
+        "  - Ku Lilongweko kuli bwino",
+        "  - Mukhale konko kunyumbako"
+      ]
+    },
+    {
+      "title": "Ntchito",
+      "content": "Kodi aphatikiramtsogolo omwe ali ndimzere kunsi kwawo mu ziganizo zotsatirazi akugwira ntchito zanji?",
+      "points": [
+        "Akuti ifenso tipite",
+        "Mundigawirenso mchere",
+        "Koma ubweradi iwe?",
+        "Ndibweradi mawa.",
+        "Ndichapabe zovala ndikapuma.",
+        "Fikatu kuno msanga.",
+        "Ndipambanabe mayeso ngakhale ndikudwala.",
+        "Pitiratu ku madzi kusanade.",
+        "Bambo imwani mwankhwalawa.",
+        "Idyano nthochizi.",
+        "Iwe ulibe ndalama, usalowe muno.",
+        "Anthunu musamuphe mwanayo.",
+        "Pamimbapo palinji?",
+        "Wagonetsa mwana ndiwe.",
+        "Mukaimbitsitsa ng’omayi iphulika.",
+        "Anyamatawa atemana."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Ntchito za Mayina ndi Chachimuna ndi Chachikazi",
+  "subsections": [
+    {
+      "title": "Ntchito za Mayina",
+      "content": "Mitundu ya ntchito za mayina ndi njira zomwe mayina amagwirira ntchito m’ziganizo ndi m’malemba.",
+      "points": [
+        "Kukhala mwininkhani:",
+        "  a. Mwana wapha bakha",
+        "  b. Atate agula njinga",
+        "Kukhala pamtherankhani wachindunji:",
+        "  a. Mwana wapha bakha",
+        "  b. Njinga zagulidwa ndi atate",
+        "  c. Kodi iwe ungamuchapire John zovala?",
+        "Kukhala pamtherankhani wopanda chindunji (mlandira kanthu kapena mchitiridwa ntchito):",
+        "  a. Mwana waphera atate ake bakha",
+        "  b. Atate agulira Mary njinga",
+        "  c. Kodi iwe ungamuchapire John zovala?",
+        "Kukhala pamtherankhani wamperekezi:",
+        "  a. Iwo apita ku mudzi",
+        "  b. Musamacheze ndi John",
+        "  c. Iwo akhala pa mphasa",
+        "Kukhala mtsirizitsi (Amatsiriza tanthauzo la mneni: si, -li, ndi, –khala):",
+        "  a. Iye ndi mbava",
+        "  b. Anawa adzakhala atsogoleri",
+        "  c. Iye si mfiti",
+        "Kuitanira:",
+        "  a. John, thawa njoka iyo",
+        "  b. Bwera kuno, Mary",
+        "Kukhala dzina la mwini chinthu:",
+        "  a. Mwana wa njoka saluma",
+        "  b. Bele la Mary ndi lokhakhala",
+        "  c. Musabe mazira a mfumu",
+        "Kukhala dzina lapadera ku dzina linzake/lina:",
+        "  a. Noel, namwino, wapita ku Mzimba",
+        "  b. Difikoti, mphunzitsi, wadwala malungo"
+      ]
+    },
+    {
+      "title": "Ntchito",
+      "content": "Tsekani mzere kunsi kwa mayina ndipo mupereke ntchito zake:",
+      "points": [
+        "Iye adali chilombo kumbuyoku",
+        "Musapite kwa George",
+        "Chimwemwe wamenyera nkhondo Mavuto",
+        "Utenge buku la Angozo",
+        "Iwo agwetsa nyumba zitatu"
+      ]
+    },
+    {
+      "title": "Mitundu ya Myina",
+      "content": "Mitundu yosiyanasiyana ya myina yomwe imapezeka mu Chichewa.",
+      "points": [
+        "Dzina la mwinimwini:",
+        "  a. Maliko wadwala malungo",
+        "  b. Mavuto ndi mnyamata wabwino",
+        "  c. Linthipe ndi mtsinje waukulu",
+        "  d. Iwo apita ku Zimbabwe",
+        "Dzina lopanda mwinimwini:",
+        "  a. Mtsinje uwu ndi wabwino",
+        "  b. Ife sitingakwele phiri lija",
+        "  c. Chonde musamaononge misewu yathu",
+        "Dzina la chinthu chokhuzika:",
+        "  a. Madzi awa ndi akuda",
+        "  b. Chonde musamaononge misewu yathu",
+        "  c. Mwala uwu ndi woyera",
+        "Dzina la chinthu chosakhuzika:",
+        "  a. Ufulu wotere umaputsitsa",
+        "  b. Ife twona mavuto ambiri mu moyo wathu",
+        "  c. Iye ndi wa mwano",
+        "Dzina la unyinji:",
+        "  a. Ili ndi gulu la anthu",
+        "  b. Tikufuna mtolo wa nkhuni",
+        "  c. Mulu wa mtedza uli pa k100",
+        "  d. Mpingo, khamu, mkoko, phava, msonkhano"
+      ]
+    },
+    {
+      "title": "Ntchito",
+      "content": "Tsekani mzere kunsi kwa mayina ndipo tchilani mitundu yake:",
+      "points": [
+        "Iye watenga phava la nthochi",
+        "Musapite kwa George",
+        "Chimwemwe wamenya Mavuto",
+        "Utenge buku la Angozo",
+        "Iwo agwetsa nyumba zitatu"
+      ]
+    },
+    {
+      "title": "Chachimuna ndi Chachikazi",
+      "content": "Mitundu ya mayina a amuna ndi akazi m’magulu osiyanasiyana.",
+      "points": [
+        "A. Mayina a Anthu:",
+        "  1. Amuna – akazi",
+        "  2. Mnyamata – msungwana",
+        "  3. Tatavyala – mpongozi",
+        "  4. Mkwati – mkwatibwi",
+        "  5. Abambo/ atate – amayi",
+        "  6. Malume/ mtsibweni – zakhali",
+        "B. Mayina a Mifunda:",
+        "  7. Chisale – anachisale",
+        "  8. Ngozo – anangozo",
+        "C. Mayina Achisodzera:",
+        "  9. Tambala – thazi",
+        "  10. Tonde – mfuleni/ mkota",
+        "  11. Chipsolopsolo – msoti",
+        "D. Mayina Osasintha Chachimuna kapena Chachikazi:",
+        "  a. Mlaliki – mlalikionde",
+        "  b. Mwana – mwana",
+        "  c. Chona – chona"
+      ]
+    },
+    {
+      "title": "Chachimuna ndi Chachikazi (Mwatsatanetsatane)",
+      "content": "Mitundu ya mayina a chachimuna ndi chachikazi m’magulu osiyanasiyana.",
+      "points": [
+        "1. Abambo – akuka",
+        "2. Achimwene – achemwali",
+        "3. Boyi – puna",
+        "4. Bwana – dona",
+        "5. Gojo/gocho – chumba",
+        "6. Kamuna – buthu",
+        "7. Kapolo – mdzakazi",
+        "8. Mfumu – mfumukazi",
+        "9. Mkamwini – mkamwana/ mtengwa",
+        "10. Mkwati – mkwatibwi",
+        "11. Mphulu – nkhosa",
+        "12. Mtheno/ mfule – mzidzi/ mdzidzi",
+        "13. Muna – buthu",
+        "14. Muna – mbombe",
+        "15. Muphwa – mfumakazi",
+        "16. Mzambwe – nkhunda",
+        "17. Ndoda – ntchembere",
+        "18. Nkhunzi – mthoni",
+        "19. Nthondo – ntchewa/ ntchowa",
+        "20. Phungu / wakunjira – namkungwi"
+      ]
+    }
+  ]
+},
+
+
+
+     {
+      "title": "Magulu a Mayina",
+      "subsections": [
+    {
+      "title": "Mu-, A-",
+      "content": "Amagwirizana ndi mawu akuti mmodzi uyu (chimodzi) ndi ambiri awa (zambiri). Amakhala ndi mayina a nyama, anthu, ziwongo ndi mitundu ya anthu.",
+      "points": [
+        "M’modzi - Ambiri",
+        "Mnyamata - Anyamata",
+        "Mtsogoleri - Atsogoleri",
+        "Kambuku - Akambuku",
+        "Mphaka - Amphaka",
+        "Banda - Abanda",
+        "Nangozo - Anangozo",
+        "Mchewa - Achewa"
+      ]
+    },
+    {
+      "title": "Mu-, Mi-",
+      "content": "Amagwirizana ndi umodzi uwu (chimodzi) ndi yambiri iyi (zambiri). Mayina amayamba ndi mu- kapena m- (chimodzi) ndi mi- (zambiri).",
+      "points": [
+        "Mudzi - Mizi",
+        "Msonkho - Misonkho"
+      ]
+    },
+    {
+      "title": "Li-, Ma-",
+      "content": "Amagwirizana ndi limodzi ili (chimodzi) ndi ambiri awa (zambiri). Mayina ambiri amayamba ndi li- kapena l- (chimodzi) ndi ma- (zambiri).",
+      "points": [
+        "Liwiro - Maliwiro",
+        "Lalanje - Malalanje",
+        "Phazi - Mapazi",
+        "Manda (amayambanso ndi ma- m'm'zambiri)",
+        "Masano (amayambanso ndi ma- m'm'zambiri)",
+        "Dzira - Madzira",
+        "Phanzi - Mapanzi"
+      ]
+    },
+    {
+      "title": "Chi-, Zi-",
+      "content": "Amagwirizana ndi chimodzi ichi (chimodzi) ndi zambiri izi (zambiri). Mayina amayamba ndi chi- (chimodzi) ndi zi- (zambiri), ngakhale ena sasintha.",
+      "points": [
+        "Chinthu - Zinthu",
+        "Chulu - Zulu",
+        "Chikho - Zikho",
+        "Chikondi - Zikondi",
+        "Mayina monga chimanga, chimwemwe, chikondwerero nthawi zambiri sasintha"
+      ]
+    },
+    {
+      "title": "I-, Zi-",
+      "content": "Amagwirizana ndi imodzi iyi (chimodzi) ndi zambiri izi (zambiri). Mayina sawonetsa kuchuluka kapena kulemekezeka kwa chimodzi kapena zambiri.",
+      "points": [
+        "Nkhosa - Nkhosa",
+        "Nyumba - Nyumba",
+        "Nsima - Nsima",
+        "Sukulu - Sukulu",
+        "Mbuzi - Mbuzi"
+      ]
+    },
+    {
+      "title": "U-, Ma-",
+      "content": "Amagwirizana ndi uwu (chimodzi) ndi awa (zambiri). Mayina amayamba ndi u- (chimodzi) ndi ma- (zambiri), ngakhale ena sasintha.",
+      "points": [
+        "Uta - Mauta",
+        "Ulemu - Ulemu",
+        "Upo - Maupo",
+        "Ufiti - Ufiti"
+      ]
+    },
+    {
+      "title": "Ka-, Ti-",
+      "content": "Amagwirizana ndi kamodzi aka (chimodzi) ndi tambiri iti (zambiri). Mayina amayamba ndi ka- (chimodzi) ndi ti- (zambiri).",
+      "points": [
+        "Kinthu - Tinthu",
+        "Kamwana - Tiana"
+      ]
+    },
+    {
+      "title": "Ku- + Mneni",
+      "content": "Mayina apangidwa pochita mphatikizira ku- ku mneni, ngati gerund mu Chingerezi.",
+      "points": [
+        "Kuwerenga",
+        "Kuseka",
+        "Kulima",
+        "Kuchapa"
+      ]
+    },
+    {
+      "title": "Ku-, Pa-, Mu-",
+      "content": "Mayina apangidwa pochita mphatikizira ku-, pa-, m- kapena mu- ku dzina la malo.",
+      "points": [
+        "Pamunda",
+        "Kumunda",
+        "Mumunda",
+        "M’munda"
+      ]
+    }
+  ]
+},
+
+
+
+
     {
       "title": "Nthano",
       "subsections": [

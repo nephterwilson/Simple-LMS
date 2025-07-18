@@ -5,72 +5,96 @@
   "topics": [
    
     {
-  "title": "Biology Essay Questions (MANEB Past Papers 2023–2003)",
+  "title": "Physics Essay Questions (MANEB Past Papers)",
   "subsections": [
     {
-      "title": "Questions",
-      "content": "Biology MANEB Past Essay Questions from 2023 to 2003.",
+      "title": "Density",
+      "content": "Physics MANEB essay questions on Density.",
       "points": [
-        "2023: Describe any five first line defence mechanism.",
-        "2023: Describe any five adaptations of human male reproduction organ to its function.",
-        "2023: Describe any five functions of the liver related to digestion.",
-        "2022: Describe how Pavlov showed conditioned reflex using his experiment on dog.",
-        "2022: Describe the process of blood clotting.",
-        "2022: Describe any five ways of controlling cancer disease.",
-        "2021: Describe how carbon monoxide poisoning occur.",
-        "2021: Explain any five first line defence.",
-        "2021: Explain the theory of evolution by natural selection.",
-        "2020: Describe any four adaptations of camels to their habitat.",
-        "2020: Explain any five ways of controlling round worm infestation.",
-        "2020: Describe breathing mechanism in human beings.",
-        "2019: Describe any five causes of deficiency diseases.",
-        "2019: Explain any five contraceptive methods.",
-        "2019: Explain any five adaptations of mesophytes to their environment.",
-        "2018: Explain any five problems associated with the nervous system.",
-        "2018: Describe an experiment that can be conducted to estimate the population of particular weeds in a given field.",
-        "2017: Explain any five impacts of human activities on freshwater and tropical savanna woodland ecosystem.",
-        "2017: Describe an experiment to show that developing fruits contains an enzyme that digest starch.",
-        "2016: Describe any five effects of exercise on breathing.",
-        "2016: Describe an experiment that can be done to show that leaves contain different types of pigments.",
-        "2015: Explain any five ways in which diseases can be prevented in a community.",
-        "2015: Explain an experiment that can be done to investigate the effect of temperature on activity of trypsin on coagulated milk.",
-        "2014: Describe five ways in which the disease of cholera outbreak in a community can be controlled.",
-        "2014: Describe an experiment to show the effect of practice on hitting target.",
-        "2013: Describe any five characteristics that enable fresh water plants in their habitat.",
-        "2013: Explain any five vitamins and their respective functions.",
-        "2012: Explain any five ways in which breast feeding is important.",
-        "2012: Explain how one can estimate the population of fish in a pond.",
-        "2011: Describe an experiment to show that light intensity affects the rate of transpiration.",
-        "2011: Explain how carbon monoxide poisoning occurs.",
-        "2010: Explain how urine is formed in the kidney of the human body.",
-        "2010: Explain any five factors to consider before blood transfusion.",
-        "2010: Describe an experiment to show the effects of exercise on breathing.",
-        "2009: State any five contraceptive methods and state how each one works.",
-        "2009: Explain any five causes of environmental degradation and their effects.",
-        "2009: Describe an experiment that can be done to show that germinated bean seed contains an enzyme that digest starch.",
-        "2008: Discuss the energy flow in the tropical woodland. Your answer should be in an essay form.",
-        "2008: Explain any five ways in which one can undertake to prevent Malaria.",
-        "2008: Describe an experiment that can be carried out to show that fresh green leaves contain three types of pigments.",
-        "2007: Describe any five problems associated with the human reproductive system and state how each can be controlled.",
-        "2007: Describe how the population of plants in an open field can be estimated.",
-        "2007: Describe any five ways in which a bird is adapted to overcome gravity.",
-        "2006: Describe the breathing mechanism in human beings. Your answer should be in an essay form.",
-        "2006: Describe an experiment to find out the region that responds to stimulus of gravity in bean seedlings.",
-        "2006: Describe any five problems that result from rapid human population growth and how they could be controlled.",
-        "2005: Explain any five components of human blood and explain their function.",
-        "2005: Describe an experiment that you would do to show that transpiration affects uptake of water.",
-        "2005: Suppose there is an outbreak of cholera in a boarding school. Describe how you would establish the cause of the disease.",
-        "2004: Explain any five ways in which glucose is used by the plant after photosynthesis.",
-        "2004: Explain the mechanism of breathing in fish.",
-        "2004: Describe an experiment that can be conducted to find out the effects of unequal distribution of light on a plant shoot.",
-        "2003: State five contraceptive methods a couple can use to prevent conception for four years and explain how each works.",
-        "2003: Describe any five barriers the body uses to prevent entry of disease-causing organisms. Explain how each barrier works.",
-        "2003: Design an experiment to estimate the population of grasshoppers in a school garden."
+        "2023: Define density and explain how it can be measured experimentally.",
+        "2022: Describe an experiment to determine the density of an irregular solid.",
+        "2021: Explain how density varies with temperature and give an example.",
+        "2020: Discuss the relationship between density and buoyancy.",
+        "2019: Describe the method to find the density of a liquid using a hydrometer.",
+        "2018: Explain why ice floats on water using the concept of density.",
+        "2017: Describe how density is used to identify substances.",
+        "2016: Explain how density differences cause convection currents in fluids."
+      ]
+    },
+    {
+      "title": "Light",
+      "content": "Physics MANEB essay questions on Light.",
+      "points": [
+        "2023: Describe an experiment to show that light travels in a straight line.",
+        "2022: Explain how a pinhole camera forms an image.",
+        "2021: Describe the laws of reflection of light.",
+        "2020: Explain the phenomenon of refraction and its applications.",
+        "2019: Discuss how a prism disperses white light into a spectrum.",
+        "2018: Describe how a convex lens can be used to form a real image.",
+        "2017: Explain the formation of shadows and eclipses.",
+        "2016: Discuss the importance of total internal reflection in optical fibers."
+      ]
+    },
+    {
+      "title": "Electrostatics",
+      "content": "Physics MANEB essay questions on Electrostatics.",
+      "points": [
+        "2023: Define electrostatics and explain how charged objects interact.",
+        "2022: Describe an experiment to demonstrate charging by friction.",
+        "2021: Explain the concept of electric field and its direction.",
+        "2020: Discuss how an electroscope can detect electric charge.",
+        "2019: Describe the law of conservation of charge with examples.",
+        "2018: Explain the difference between conductors and insulators.",
+        "2017: Discuss the forces between two charged objects using Coulomb’s law.",
+        "2016: Explain the effect of grounding a charged object."
+      ]
+    },
+    {
+      "title": "Thermal Expansion",
+      "content": "Physics MANEB essay questions on Thermal Expansion.",
+      "points": [
+        "2023: Define thermal expansion and describe the types of expansion.",
+        "2022: Describe an experiment to measure linear expansion of a metal rod.",
+        "2021: Explain why gaps are left between rails on a railway track.",
+        "2020: Discuss how thermal expansion can cause cracks in roads.",
+        "2019: Explain the effect of temperature on volume of gases.",
+        "2018: Describe the practical uses of thermal expansion in bimetallic strips.",
+        "2017: Explain how mercury in a thermometer expands with temperature.",
+        "2016: Discuss how thermal expansion is considered in construction engineering."
+      ]
+    },
+    {
+      "title": "Transfer of Heat",
+      "content": "Physics MANEB essay questions on Transfer of Heat.",
+      "points": [
+        "2023: Describe the three methods of heat transfer with examples.",
+        "2022: Explain conduction and describe an experiment to show heat conduction.",
+        "2021: Discuss convection currents and their role in weather phenomena.",
+        "2020: Describe radiation and explain how it differs from conduction and convection.",
+        "2019: Explain how heat transfer affects the design of thermal insulation.",
+        "2018: Describe an experiment to demonstrate heat transfer by convection in liquids.",
+        "2017: Discuss the greenhouse effect in terms of heat transfer.",
+        "2016: Explain why metals feel colder than wood at room temperature."
+      ]
+    },
+    {
+      "title": "Heat Capacity",
+      "content": "Physics MANEB essay questions on Heat Capacity.",
+      "points": [
+        "2023: Define heat capacity and specific heat capacity.",
+        "2022: Describe an experiment to determine the specific heat capacity of a solid.",
+        "2021: Explain how heat capacity affects temperature change in substances.",
+        "2020: Discuss why water is used as a coolant in car engines based on heat capacity.",
+        "2019: Explain the difference between heat capacity and specific heat capacity.",
+        "2018: Describe how to calculate the energy required to raise the temperature of a substance.",
+        "2017: Discuss the factors that affect the heat capacity of a material.",
+        "2016: Explain how specific heat capacity relates to climate moderation by oceans."
       ]
     }
   ]
 },
 
+ 
 
     {
       "title": "Physics Fundamentals",

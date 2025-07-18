@@ -4,32 +4,98 @@
 {
   "subject": "Humanities",
   "topics": [
+   
+
     {
-      "title": "History of Africa",
-      "subsections": [
-        {
-          "title": "Questions",
-          "content": "Answer the following questions about African history.",
-          "points": [
-            "Which kingdom was famous for its gold trade in West Africa? \nOptions: Kingdom of Mali, Kingdom of Egypt, Kingdom of Zimbabwe, Kingdom of Ghana\nAnswer: Kingdom of Mali",
-            "When did the Scramble for Africa take place? \nOptions: 1884-1885, 1914-1918, 1950-1960, 1700-1750\nAnswer: 1884-1885"
-          ]
-        }
+  "title": "History Essay Questions (MANEB Past Papers)",
+  "subsections": [
+    {
+      "title": "Maravi Kingdom",
+      "content": "History MANEB essay questions on the Maravi Kingdom.",
+      "points": [
+        "2023: Describe the origin and establishment of the Maravi Kingdom.",
+        "2022: Explain the political organization of the Maravi Kingdom.",
+        "2021: Discuss the economic activities practiced in the Maravi Kingdom.",
+        "2020: Explain the role of the Maravi Kingdom in regional trade networks.",
+        "2019: Describe the social structure of the Maravi Kingdom.",
+        "2018: Discuss the causes of the decline of the Maravi Kingdom.",
+        "2017: Explain the cultural practices and beliefs of the Maravi people.",
+        "2016: Discuss the impact of European contact on the Maravi Kingdom."
       ]
     },
     {
-      "title": "Human Rights",
-      "subsections": [
-        {
-          "title": "Questions",
-          "content": "Answer the following questions about human rights.",
-          "points": [
-            "What document outlines the fundamental human rights globally? \nOptions: Universal Declaration of Human Rights, Magna Carta, Bill of Rights, Hammurabi's Code\nAnswer: Universal Declaration of Human Rights",
-            "Which right protects freedom of expression? \nOptions: Right to Education, Freedom of Speech, Right to Vote, Right to Privacy\nAnswer: Freedom of Speech"
-          ]
-        }
+      "title": "Tumbuka-Nkhamanga Kingdom",
+      "content": "History MANEB essay questions on the Tumbuka-Nkhamanga Kingdom.",
+      "points": [
+        "2023: Describe the origin and expansion of the Tumbuka-Nkhamanga Kingdom.",
+        "2022: Explain the political and administrative system of the Tumbuka-Nkhamanga Kingdom.",
+        "2021: Discuss the role of traditional leaders in the Tumbuka-Nkhamanga Kingdom.",
+        "2020: Describe the economic activities in the Tumbuka-Nkhamanga Kingdom.",
+        "2019: Explain the social and cultural life of the Tumbuka-Nkhamanga people.",
+        "2018: Discuss the factors that contributed to the rise of the Tumbuka-Nkhamanga Kingdom.",
+        "2017: Explain the interactions between the Tumbuka-Nkhamanga Kingdom and neighboring communities.",
+        "2016: Discuss the effects of colonialism on the Tumbuka-Nkhamanga Kingdom."
       ]
     },
+    {
+      "title": "Reformation",
+      "content": "History MANEB essay questions on the Reformation.",
+      "points": [
+        "2023: Describe the causes of the Reformation in Europe.",
+        "2022: Explain the role of Martin Luther in the Reformation.",
+        "2021: Discuss the impact of the Reformation on the Catholic Church.",
+        "2020: Describe the main beliefs of Protestantism introduced during the Reformation.",
+        "2019: Explain the political effects of the Reformation in Europe.",
+        "2018: Discuss the role of the printing press in spreading Reformation ideas.",
+        "2017: Explain the significance of the Council of Trent during the Counter-Reformation.",
+        "2016: Discuss the effects of the Reformation on education and literacy."
+      ]
+    },
+    {
+      "title": "Islam and Christianity",
+      "content": "History MANEB essay questions on Islam and Christianity.",
+      "points": [
+        "2023: Describe the origins of Islam and Christianity.",
+        "2022: Explain the main teachings of Islam and Christianity.",
+        "2021: Discuss the spread of Islam in Africa.",
+        "2020: Explain the role of missionaries in the spread of Christianity in Africa.",
+        "2019: Compare the rituals and festivals of Islam and Christianity.",
+        "2018: Discuss the influence of Islam and Christianity on African societies.",
+        "2017: Explain the impact of Islam and Christianity on African culture and politics.",
+        "2016: Discuss how Islam and Christianity coexist in modern African societies."
+      ]
+    },
+    {
+      "title": "Renaissance",
+      "content": "History MANEB essay questions on the Renaissance.",
+      "points": [
+        "2023: Describe the causes of the Renaissance in Europe.",
+        "2022: Explain the role of art and science during the Renaissance.",
+        "2021: Discuss the contributions of Leonardo da Vinci and Michelangelo.",
+        "2020: Explain the impact of the Renaissance on European society.",
+        "2019: Describe how the Renaissance influenced literature and philosophy.",
+        "2018: Discuss the role of humanism during the Renaissance.",
+        "2017: Explain how the Renaissance led to changes in education.",
+        "2016: Discuss the decline of the Renaissance and its legacy."
+      ]
+    },
+    {
+      "title": "Voyages of Exploration",
+      "content": "History MANEB essay questions on Voyages of Exploration.",
+      "points": [
+        "2023: Describe the causes of the European voyages of exploration.",
+        "2022: Explain the role of Prince Henry the Navigator in exploration.",
+        "2021: Discuss the voyages and discoveries of Christopher Columbus.",
+        "2020: Explain the impact of Vasco da Gama’s voyage to India.",
+        "2019: Describe the effects of the voyages of exploration on indigenous peoples.",
+        "2018: Discuss the role of technological advancements in facilitating exploration.",
+        "2017: Explain the role of trade and wealth in motivating European exploration.",
+        "2016: Discuss the consequences of European exploration on Africa."
+      ]
+    }
+  ]
+},
+
     {
       "title": "Cultural Diversity",
       "subsections": [

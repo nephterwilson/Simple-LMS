@@ -3,27 +3,426 @@
 {
   "subject": "Chichewa",
   "topics": [
+   
+    
     {
-      "title": "Zigawo za Mawu",
-      "subsections": [
-        {
-          "title": "Tanthauzo",
-          "content": "Zigawo za mawu ndi mitundu ya mawu molingana ndi ntchito yake pa chiganizo.",
-          "points": [
-            "Mawu amagawidwa malinga ndi ntchito yake: dzina, wachita, chipulumutso, chigwirizano, ndi zina.",
-            "Amasintha kumvetsa kwa chiganizo komanso kulondola kwa chilankhulo."
-          ]
-        },
-        {
-          "title": "Zitsanzo",
-          "content": "Zitsanzo zimathandiza kumvetsa zigawo za mawu bwino.",
-          "points": [
-            "Mwachitsanzo: 'Mwana akuthamanga' – mwana ndi dzina, akuthamanga ndi wachita.",
-            "'Ine ndikudya' – ine ndi dzina, ndikudya ndi wachita."
-          ]
-        }
+  "title": "Alowam’malo",
+  "subsections": [
+    {
+      "title": "Tanthauzo",
+      "content": "Alowam’malo ndi mawu amene amagwiritsidwa ntchito m'malo mwa dzina. Amaimira anthu, zinthu kapena malo popanda kutchula mayina awo eni.",
+      "points": [
+        "Mwachitsanzo: 'Wanga wapita dzulo', 'Iwo akufuna inu', 'Chake ndi ichi', 'Yanga ili pa 99%'."
       ]
     },
+    {
+      "title": "Mitundu ya Alowam’malo",
+      "content": "Alowam’malo amagawidwa m'magulu osiyanasiyana kutengera ntchito ndi momwe amagwiritsidwira ntchito pa chiganizo.",
+      "points": [
+        "1. Mlowam’malo wa dzina lakelake",
+        "   a. Kaloza mwini: 'Kodi mukunena ine?', 'Ife tipita kwa Cholwe.'",
+        "   b. Kaloza mnzako: 'Iwe sumva kamodzi', 'Ndikuyankhula ndi inu.'",
+        "   c. Kaloza wina: 'Iye amadzikonda', 'Iwo akuba nzimbe'.",
+        "2. Mlowam’malo wa umwini: 'Wake wabwera dzulo', 'Zanga zili pa phiri', 'Yake yalowa pa dzenje'.",
+        "3. Mlowam’malo wagwirizano/ubale: 'Amene afuna abwere', 'Ndikufuna zomwe zija', 'Zonse wagulazo ndi zoola'.",
+        "4. Mlowam’malo woloza: 'Paja pali msipu wobiriwira', 'Ndingagwire ichi osati icho', 'Uko ndi kunyumba'.",
+        "5. Mlowam’malo wofunsa: 'Ukufuna zotani?', 'Wagwira iti?', 'Wayani akubwera apoyo?'.",
+        "6. Mlowam’malo wowerengera: 'Ndadya ziwiri zokha', 'Mundigulire zitatu', 'Kanayi kachepa'.",
+        "7. Mlowam’malo wotsindika: 'Iye mwini wadyadi izi', 'Iwe amene Yudasi udzandipachika', 'Ife tomwe tazionadi izi'.",
+        "8. Mlowam’malo wogawa: 'Aliyense wadwala', 'Chilichonse ndi ndiwo'.",
+        "9. Mlowam’malo odzichitira: 'Wadzimenya yekha', 'Udzimvere wekha'.",
+        "10. Mlowam’malo wotsimikiza: 'Iye mwini wandifunsa za nkhaniyo', 'Ine ndemwe ndavutitsidwa ndi bwana', 'Inu amene simungandimenye'.",
+        "11. Mlowam’malo opatula/ochuluka/wapayekha: 'Ndigawirenikoni zochepa zokha', 'Angapo abwera kale', 'Ena abwera kale', 'Zochepa zafa', 'Zingapo zagwidwa', 'Ena agona kale', 'Ambiri alakwa kale mayesowa'."
+      ]
+    },
+    {
+      "title": "Ntchito ya Alowam’malo",
+      "content": "Alowam’malo amagwira ntchito zosiyanasiyana monga kukhala mwininkhani, pamtherankhani wachindunji kapena wopanda chindunji, kuitanira, mtsirizitsi ndi zina zotero.",
+      "points": [
+        "1. Kukhala mwininkhani: 'Ine ndipita kwathu', 'Iye walima kale'.",
+        "2. Kukhala pamtherankhani wachindunji: 'Amayi akufuna iwe upite nawo', 'Aphunzitsi aona ife tokha'.",
+        "3. Kukhala pamtherankhani wopanda chindunji: 'Makolo aphera iwe nkhuku imeneyi', 'Agulira iye njinga mukuiona paja', 'Nyumba ija agulira ife kuti tizigonamo'.",
+        "4. Kukhala pamtherankhani wa mperekezi: 'Aphunzitsiwa akunena za iwe', 'Akupita kwa inu'.",
+        "5. Kuitanira: 'Iwe, bwera kuno', 'Inu, taimani pomwepo'.",
+        "6. Kukhala mtsirizitsi: 'Mwanayo ndi uyo', 'M’nyumbamo muli iye'."
+      ]
+    },
+    {
+      "title": "Zitsanzo za Ntchito ya Alowam’malo",
+      "content": "Zitsanzo zimatsimikizira kumvetsa kwa ntchito ya alowam’malo m’mawu osiyanasiyana.",
+      "points": [
+        "1. Amyi agulira ine ichi",
+        "2. Izo zikupita kwawo",
+        "3. Inu, bwerani kuno",
+        "4. Lero tipha yako",
+        "5. Chimwemwe wapatsira inu zathu.",
+        "6. Diresi mukufuna kugula si ili",
+        "7. Mbava ija ndi iyi",
+        "8. Ine ndipita ndi iye"
+      ]
+    },
+    {
+      "title": "Zochita pa Alowam’malo",
+      "content": "Ntchito zotsatira zimaperekedwa kuti aphunzitsi kapena ophunzira athe kuyesa chidziwitso chawo pa alowam’malo.",
+      "points": [
+        "1. Tsekani mzere kunsi kwa alowam’malo ndipo mupereke mitundu yake:",
+        "   a. Ine nditenga izi",
+        "   b. Ubwera liti kwathu?",
+        "   c. Timene tapulumuka ndi tisanu.",
+        "   d. Undipatse amodzi okha.",
+        "   e. Musadandaule, ndagwira changa.",
+        "   f. Imodzi ndaipeza lero m’mawa",
+        "   g. Ndi yanji wanyamulayo?",
+        "2. Tsekani mzere kunsi kwa alowam’malo ndipo mupereke ntchito zake:",
+        "   a. Amyi agulira ine ichi",
+        "   b. Izo zikupita kwawo",
+        "   c. Inu, bwerani kuno",
+        "   d. Lero tipha yako",
+        "   e. Chimwemwe wapatsira inu zathu.",
+        "   f. Diresi mukufuna kugula si ili",
+        "   g. Mbava ija ndi iyi",
+        "   h. Ine ndipita ndi iye"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Afotokozi",
+  "subsections": [
+    {
+      "title": "Tanthauzo",
+      "content": "Afotokozi ndi mawu omwe amafotokoza kapena kufotokoza zinthu, anthu, malo kapena maganizo mwa njira yowonjezera tanthauzo pa chiganizo.",
+      "points": [
+        "Mwachitsanzo: 'Zinthu zoumazo muike padera', 'Mwana waulemu amakondweretsa makolo ake'."
+      ]
+    },
+    {
+      "title": "Mitundu ya Afotokozi",
+      "content": "Afotokozi amagawidwa m'magulu osiyanasiyana kutengera mtundu wa chinthu chimene akufotokoza kapena mmene amagwiritsidwira ntchito.",
+      "points": [
+        "1. Mfotokozi wamaonekedwe: 'Wavala Malaya obiriwira', 'Atsikana okongola amanditsangalatsa', 'Usadye chimanga chachiwisi chingakupweteke'.",
+        "2. Mfotokozi wa makhalidwe: 'Munthu wakuba malangidwa akagwidwa', 'Mnyamata waliuma uja wapita'.",
+        "3. Mfotokozi wowerenga: 'Atsikana khumi alowera kumtundaku', 'Mbuzi zitatu zaphedwa lero'.",
+        "4. Mfotokozi wofunsa: 'Asowa ndi Malaya ayani?', 'Mwafika nthawi yanji?', 'Ubwera tsiku liti?'.",
+        "5. Mfotokozi woloza: 'Mwana uyu wabwera lero', 'Mwana uyo wabwera lero', 'Mbuzi ija ndi ya agogo'.",
+        "6. Mfotokozi wamwinimwini: 'Mtsikana waChitonga amanditsangalatsa', 'Ndalama zaChimereka ndi zamphamvu'.",
+        "7. Mfotokozi waumwini: 'Nthochi zanga zadyedwa', 'Chimanga chathu chamera bwino'.",
+        "8. Mfotokozi wogawa: 'Abwere wina aliyense', 'Mundigawire chimanga china chilichonse'.",
+        "9. Mfotokozi wopatula/wapayekha/wachuluka: 'Ndadya nthochi zochepa', 'Ana ambiri makono ngamwano', 'Nkhuku zonse zafa', 'Ana ena samva kamodzi', 'Zinthu zingapo zasowa'.",
+        "10. Mfotokozi wamgwirizano (waubale): 'Munthu yemwe wadya kale asadyenso', 'Ana nonse mukhale nokha', 'Zinthu zotere zimayambitsa nkhondo'."
+      ]
+    },
+    {
+      "title": "Ntchito ya Afotokozi",
+      "content": "Ntchito zimenezi zimathandiza ophunzira kuzindikira mtundu wa afotokozi mwa kusanthula mawu omwe amafotokoza zinthu kapena anthu m’mawu a tsiku ndi tsiku.",
+      "points": [
+        "1. Wagula ndiwo zayani?",
+        "2. Mfumu yachingoni ndiyoopsa",
+        "3. Atsikana awa amakonda kucheza",
+        "4. Kunyumba kwake kwabwera alendo",
+        "5. Anthu ophunzira ndi ofunika pa chitukuko",
+        "6. Diresi yamalumaluwa ndiyo yadolola Malita",
+        "7. Ophunzira olimbikira amakhoza bwino",
+        "8. Abambo asanu avala malaya amizeremizere"
+      ]
+    },
+    {
+      "title": "Kusiyana pakati pa Mfotokozi ndi Mlowam’malo",
+      "content": "Mfotokozi ndi Mlowam’malo amagwirizana pofotokozera koma amakhala ndi ntchito zosiyana kutengera mmene amagwiritsidwira ntchito m’chiganizo.",
+      "points": [
+        "1. 'Anga' – a. Anga ndi akuda (Mlowam’malo), b. Malaya anga ndi akuda (Mfotokozi).",
+        "2. 'Asanu' – a. Uwauze kuti abwere asanu okha (Mlowam’malo), b. Uwauze kuti abwere anyamata asanu okha (Mfotokozi)."
+      ]
+    },
+    {
+      "title": "Zochita pa Mfotokozi",
+      "content": "Ntchito izi zimathandiza ophunzira kupanga ziganizo pogwiritsa ntchito mawu amene amagwiritsidwa ntchito ngati afotokozi kapena alowam’malo.",
+      "points": [
+        "1. Pangani ziganizo ndi mawu oti panga ngati:",
+        "   a. Mneni",
+        "   b. Mlowam’malo",
+        "   c. Mfotokozi",
+        "2. Pangani ziganizo ndi mawu oti 'ambiri' ngati:",
+        "   a. Mlowam’malo",
+        "   b. Mfotokozi"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Aneni",
+  "subsections": [
+    {
+      "title": "Mitundu ya Aneni",
+      "content": "Aneni amagawidwa kutengera momwe amagwiritsidwira ntchito mu chiganizo. Ali ndi mitundu yosiyanasiyana yosonyeza mbali zosiyanasiyana za ganizo.",
+      "points": [
+        "1. Mneni wothandizira: amathandizira mneni wina kuti apereke ganizo lomveka bwino. Mwachitsanzo: 'Iye adzakhala akuyendetsa galimoto', 'Ife tidali kuphunzira Chichewa'.",
+        "2. Mneni wodalira (wophatikizika): sadziimira yekha, amadalira mawu ena. Mwachitsanzo: 'Kumenya mkazi si chamuna', 'Iye ndi mbava'.",
+        "3. Mneni woyambukira: uli ndi pamtherankhani. Mwachitsanzo: 'Galu wapha bakha', 'Chule wamwa madzi'.",
+        "4. Mneni wosayambukira: sakhala ndi pamtherankhani. Mwachitsanzo: 'Mwanayu amalira kwambiri', 'Kudeko akuseka kwambiri'.",
+        "5. Mneni wosasintha nthawi: amagwiritsidwa ntchito ndi ku+. Mwachitsanzo: 'Iwo akufuna kupita kwawo', 'Iwo sakonda kumwa mowa'."
+      ]
+    },
+    {
+      "title": "Ntchito ya Mitundu ya Aneni",
+      "content": "Ophunzira amayenera kuzindikira mtundu wa mneni m’chiganizo mwina pokambirana kapena poyankha mafunso.",
+      "points": [
+        "1. Joni ndi mbava",
+        "2. Agogo alima munda dzulo",
+        "3. Agogo apita kwawo",
+        "4. Agogo akufuna kuphika nsima",
+        "5. Iwo ali kuthamanga kuseriku",
+        "6. Akuti chiyani mwanayo?",
+        "7. Myang’ana dzuwa adasokera"
+      ]
+    },
+    {
+      "title": "Mawu Amodzi Owonetsa Mneni Woyambukira ndi Wosayambukira",
+      "content": "Mawu ena amatha kugwiritsidwa ntchito ngati mneni woyambukira kapena wosayambukira kutengera ntchito yake mu chiganizo.",
+      "points": [
+        "1. Kwera: a. Dzuwa lakwera (wosayambukira), b. Mwana wakwera njinga (woyambukira)",
+        "2. Tentha: a. Madzi atentha kwambiri, b. Mwana watentha tchire",
+        "3. Yenda: a. Galimoto ija yayamba kuyenda, b. Anyamata akuyenda bawo",
+        "4. Pweteka: a. Mutu wanga ukupweteka, b. Mwandipweteka"
+      ]
+    },
+    {
+      "title": "Magulu a Aneni",
+      "content": "Aneni amagawidwa malinga ndi kuchuluka kwa magawo a mawu omwe amapanga mneniwo.",
+      "points": [
+        "1. Mneni wa phatikizo limodzi: 'Mbala zaba chimanga', 'Galu adafa dzulo'",
+        "2. Maphatikizo awiri: 'Anawo atula katundu', 'Mbiri yanu yonunkha yawanda'",
+        "3. Maphatikizo atatu: 'Anyamata amasula katundu wawo', 'Ndidalandira kala dzulo'",
+        "4. Maphatikizo anayi kapena kuposera apo: 'Iyeyo wafotokoza bwino nkhaniyo', 'Ine ndakhulupirira kuti mubwira', 'Gondoline wazibulubundira ndi bulangete chifukwa wazizidwa kwambiri'"
+      ]
+    },
+    {
+      "title": "Nthawi za Aneni",
+      "content": "Aneni amasonyeza nthawi ya chochitika. Izi zimathandiza kumvetsa nthawi yomwe zinachitika.",
+      "points": [
+        "Nthawi Yatsopano: a. Ife tadya mpunga, b. Mwana akulira kwambiri",
+        "Nthawi Yakale: a. Mayi anafika bwino dzulo, b. Chifuniro adamvera malangizo",
+        "Nthawi Yamtsogolo: a. Tonse tidzadya mawa, b. Ana inu mudzalira tsiku lina"
+      ]
+    },
+    {
+      "title": "Zamkati mwa Nthawi za Aneni",
+      "content": "Nthawi imagawikanso mwa maonekedwe osiyanasiyana a nthawi yatsopano, yakale ndi yamtsogolo.",
+      "points": [
+        "Nthawi yatsopano yathayi: 'Galu wapha bakha', 'Ife taphunzira Chichewa'",
+        "Nthawi yatsopano yopitirira: 'Galu akupha bakha', 'Mwana akulira'",
+        "Nthawi yatsopano yakawirikawiri: 'Galu samapha bakha', 'Dziko limazungulira dzuwa'",
+        "Nthawi yakale yathayi: 'Tinali titadzuka kale', 'Adali ataipha kale mbuziyo'",
+        "Nthawi yakale yopitirira: 'Mvula idali kugwa', 'Ankapha mbuzi za eni'",
+        "Nthawi yakale yakawirikawiri: 'Amavala nyanda', 'Amapha mbuzi kalero'",
+        "Nthawi yamtsogolo yathayi: 'Ine ndidzakhala nditagwira mkazi', 'Adzakhala atachoka'",
+        "Nthawi yamtsogolo yopitirira: 'Ndidzakhala ndikudikira alendo', 'Tidzakhalabe tikufewa'",
+        "Nthawi yamtsogolo yakawirikawiri: 'Tizidzadyera nyama', 'Tizidzagwira atsikana okongola'"
+      ]
+    },
+    {
+      "title": "Ntchito ya Nthawi za Aneni",
+      "content": "Ntchito zimathandiza ophunzira kuzindikira nthawi ya mneni m’chiganizo.",
+      "points": [
+        "1. Tonse tadya nsima",
+        "2. Iye akhala akundipusitsa nthawi yonseyi",
+        "3. Ndidzakhala nditakwatira nthawi imeneyo",
+        "4. Yohane akulembako mayeso",
+        "5. Abambo samafuna zachibwana",
+        "6. Atonga ndi Angoni amakhalirana bwino kalero"
+      ]
+    },
+    {
+      "title": "Kachitidwe ka Aneni",
+      "content": "Aneni amasonyeza mmene wochita kapena wochitidwa akuyendera mu chiganizo.",
+      "points": [
+        "1. Kachitidwe ka wochita: 'Galu wapha bakha', 'Iye akudya chikondamoyo'",
+        "2. Kachitidwe ka wochitidwa: 'Bakha waphedwa ndi galu', 'Chikondamoyo chadyeka lero'"
+      ]
+    },
+    {
+      "title": "Zochita pa Kachitidwe ka Aneni",
+      "content": "Ophunzira amasinthira mneni kuti awonetse kachitidwe kake kaya ndi ka wochita kapena wochitidwa.",
+      "points": [
+        "1. Gwiritsani ntchito mneni 'menya' m’ziganizo kusonyeza:",
+        "   a. Kachitidwe ka wochita",
+        "   b. Kachitidwe ka wochitidwa",
+        "2. Sinthani izi kuti zikhale mu kachitidwe ka wochita:",
+        "   a. Munda udzalimidwa",
+        "   b. Iye adamenyedwa kwambiri dzulo ndi akuba",
+        "   c. Iye wamwa madzi",
+        "   d. Mbava ija yapandwa",
+        "   e. Ife takhala tikudikiridwa ndi iwo",
+        "   f. Nsimayi idzakhala ikudyedwa kutsogoloku",
+        "3. Sinthani izi kuti zikhale mu kachitidwe ka wochitidwa:",
+        "   a. Iwo alima munda",
+        "   b. Ana awa adadya nsima",
+        "   c. Iwo adzakhala atamwa mowa pofika mawa 10 koloko"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Aonjezi ndi Ziganizo",
+  "subsections": [
+    {
+      "title": "Aonjezi",
+      "content": "Aonjezi ndi mawu amene amawonjezera tanthauzo kapena amafotokozera mneni kapena chitantchito pa nthawi, malo, mchitidwe, kapena mkhalidwe.",
+      "points": [
+        "1. Timothy wabwera dzulo.",
+        "2. Ine ndili bwino pang’ono.",
+        "3. Mwanayu ndi wokongola zedi."
+      ]
+    },
+    {
+      "title": "Mitundu ya Aonjezi",
+      "content": "Pali mitundu yosiyanasiyana ya aonjezi yomwe imathandiza kumvetsa bwino chiganizo.",
+      "points": [
+        "1. **Muonjezi wa nthawi** - Adapita ku Malomo dzana, Maliya wabwera usiku, Anandigogodera m’bandakucha.",
+        "2. **Muonjezi wa malo** - Amayi apita kumsika, Pitani kwa iye, Iye wakhala panja, Gonani pamwamba, Pitani kutsogolo.",
+        "3. **Muonjezi wa mkhalidwe** - Ine ndadzuka bwino, Mtsikanayu amayenda mothimbwizika, Aphunzitsi athu amayankhula mwanzeru.",
+        "4. **Muonjezi wa mchitidwe** - Mwanayu wavina kwambiri, Malita watopa zedi, Mubwere msanga, Akuyenda mofulumira, Ndawerenga mokwanira.",
+        "5. **Muonjezi wokana** - Toto, sindikufuna kudya. Ayi, sindibwera kumeneko.",
+        "6. **Muonjezi wovomera** - Inde, ndipita mawa kukalemba. Ee, ndikupeza mawa. Chabwino, ndipita nanu.",
+        "7. **Muonjezi wowerenga** - Ndagogoda kanayi koma sanandiyankhe. Amapita kwawo kamodzikamodzi. Sindikukonda konse.",
+        "8. **Muonjezi wokulitsa/wochepetsa** - Mutu ukundipweteka pang’ono. Iye ndi wolimbikira koposa. Ndimamukonda kwabasi. Ndavulala kwambiri. Tatapa pakulu chimangacho. Undigawireko pang’ono nsimayo.",
+        "9. **Muonjezi wotsimikiza/wolumbirira** - Mulungu amatikonda zedi. Mtheradi, watukwana ndi uyu. Lero ndiye ndatopa kwambiri. Mbambadi, wandikanda ndiwe.",
+        "10. **Muonjezi wokaika** - Mwina tidzaonananso. Kapena wadya kale.",
+        "11. **Muonjezi wofunsa** - Mwanayo amadya motani? Mudabwera liti kuno?",
+        "12. **Muonjezi wobwerezabwereza** - Thauzeni amasamba kawirikawiri. Iye amadya nsima kamodzikamodzi.",
+        "13. **Muonjezi woyamika** - Zikomo, pondipatsa ndalama.",
+        "14. **Muonjezi wamaonekedwe** - Jeketilo linkaoneka modera. Maluwa omwe wagula akuoneka mofiira. Mvuu imaoneka moopsa."
+      ]
+    },
+    {
+      "title": "Ntchito pa Aonjezi",
+      "content": "Tsekani mzere kunsi kwa aonjezi ndikupereka mitundu yake.",
+      "points": [
+        "1. Tinapita kwathu dzana",
+        "2. Usiye khasulo m’nyumba",
+        "3. Mtsikanayu amayenda mothimbwizika",
+        "4. Wapiti kunja posachedwapa",
+        "5. Khalani kumbuyo konko",
+        "6. Mtsikanayu akuyenda mwapang’onopang’ono",
+        "7. Zoonadi, ndine mwana wanu.",
+        "8. Mose adzakhala wonenepa m’tsogolo",
+        "9. Eya, ndamva ndikubwera mosachedwapa.",
+        "10. Tinyamuka tsopano apa"
+      ]
+    },
+    {
+      "title": "Chimodzi ndi Zambiri",
+      "content": "Kusiyanitsa pakati pa mawu a m'modzi ndi ambiri.",
+      "points": [
+        "a. Buluzi – abuluzi",
+        "b. Mtengo – mitengo",
+        "c. Duwa – maluwa",
+        "d. Chikondi – chikondi",
+        "e. Chulu – zulu"
+      ]
+    },
+    {
+      "title": "Ntchito Yowonjezera",
+      "content": "Pezani zambiri pa mawu otsatirawa ndi kusiyanitsa chimodzi ndi zambiri.",
+      "points": [
+        "a. Kamwana",
+        "b. Mlembi",
+        "c. Fupa",
+        "d. Nyumba",
+        "e. Mtedza"
+      ]
+    },
+    {
+      "title": "Ziganizo",
+      "content": "Chiganizo ndi gulu la mawu lokhala ndi mchitantchito ndi mneni ndipo limapereka ganizo lomveka bwino.",
+      "points": [
+        "Chitsanzo: Nyengo ikusintha",
+        "Chitsanzo: Mwana wadya, koma sanakhute"
+      ]
+    },
+    {
+      "title": "Mitundu ya Ziganizo",
+      "content": "Ziganizo zimasiyanasiyana malinga ndi mmene mawu ake amachitira ntchito.",
+      "points": [
+        "1. **Chiganizo chopanda nthambi** - Iwe, bwera kuno. Kodi mwagula nsalu ija?",
+        "2. **Chiganizo cha ziganizo zingapo** - Iye sadya nsima koma amadya mpunga wokha. Ife tadya ndipo takhuta.",
+        "3. **Chiganizo cha nthambi** - Ndi zoona kuti iye ndi mnzanga. Galimoto yomwe wagula yachita ngozi. Ngakhale undinyengerere, sindingakulore.",
+        "4. **Chiganizo cha ziganizo za nthambi** - Amayi apita ngakhale sanandipeze chifukwa akuthamangira mdzukulu wawo. Iye anadabwa atamva mzungu akuyankhula Chisena popeza azungu sayankhula Chisena."
+      ]
+    },
+    {
+      "title": "Ntchito pa Ziganizo",
+      "content": "Tchulani mitundu ya ziganizo zotsatirazi.",
+      "points": [
+        "a. Mnyamata wamwano uja wapita kwawo dzulo",
+        "b. Tadala akulira",
+        "c. Yohane wadya nsima koma sanakhute",
+        "d. Musakhumudwe ndi zomwe zikumvekazi",
+        "e. Amayi abwera pamene Fatuma amapita kuchipatala."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Malembo ndi Maphatikizo",
+  "subsections": [
+    {
+      "title": "Kugwiritsa Ntchito L ndi R",
+      "content": "Mutu uwu ukuwunikira mmene kalata 'L' ndi 'R' amagwiritsidwira ntchito molingana ndi kumene amaikidwira m’mawu.",
+      "points": [
+        "L amagwiritsidwa ntchito pambuyo pa malembo amtsekulanjira a, o ndi u (e.g., kalata, gologolo, ulula).",
+        "L amagwiritsidwa ntchito koyambirira kwa mawu (e.g., lero, luso, lembo).",
+        "L amagwiritsidwa ntchito patsogolo pa chi m’phatikiram’mbuyo (e.g., Chilembwe, Chilombo, Chilema).",
+        "L amagwiritsidwa ntchito pakati pa tsinde limodzi -li (e.g., tili bwino, zili m’khola).",
+        "L amagwiritsidwa ntchito pa mayina oyamba ndi mu- kapena ml- (e.g., Mulungu, mliri, mlatho, miliri).",
+        "L amagwiritsidwa ntchito pa mawu olodzera ili, ilo (e.g., phir ili, phirilo, khasu ilo).",
+        "R amagwiritsidwa ntchito patsogolo pa e kapena i (e.g., maliro, bwera, mliri)."
+      ]
+    },
+    {
+      "title": "Kalembedwe ka Dz- ndi Z",
+      "content": "Mutuwu ukuwonetsa mmene Z ndi DZ amalembedwera malinga ndi mmene amagwirira ntchito mu mawu osiyanasiyana.",
+      "points": [
+        "Z amalembedwa m’chifukwa cha kuchuluka mu mawu a Chi-, Zi- (e.g., chinthu → zinthu, chala → zala).",
+        "Z amalembedwa m’phatikiram’kati kuti apereke lamulo (e.g., muzipita, azimwa).",
+        "Dz amalembedwa akasonyeza kuti ntchito yabwerera kwa wolankhula (e.g., wadzicheka, adziluma).",
+        "Dz amalembedwa pofotokoza kuti ntchito idzachitika m’tsogolo (e.g., adzamwanso, adzabweradi).",
+        "Dz amalembedwa m’mayina ena a m’gulu la Li-, Ma- (e.g., dzanja, dziko, dzombe)."
+      ]
+    },
+    {
+      "title": "Mitundu Yosiyana ya Mawu Amodzi",
+      "content": "Mawu ena amakhala ndi ntchito zosiyanasiyana malinga ndi mmene amagwiritsidwira ntchito m’ziganizo.",
+      "points": [
+        "Uja → mlowam’malo: Uja watopa; mfotokozi: mwana uja watopa.",
+        "Ndi → mlumikizi: Jojo ndi Tawina samvana; mneni: boyi ndi wosauka; mperekezi: amukwapula ndi chikwapu.",
+        "Pano → mlowam’malo: pano m’pachabe; mfotokozi: pamudzi pano m’poyipa; muonjezi: khalani pano musachoke.",
+        "Tsatsa → dzina: tenga tsatsa ilo; mneni: tsatsa nkhuku kwa aphunzitsi.",
+        "Tsekera → dzina: wapaza tsekera; mneni: watsekera nkhuku."
+      ]
+    },
+    {
+      "title": "Kuphwanya Ziganizo",
+      "content": "Kuphwanya ziganizo kumathandiza ophunzira kuzindikira zigawo za chiganizo: mwininkhani, mneni, pamtherankhani, ndi zionjezero.",
+      "points": [
+        "Ziganizo zimaphwanyidwa potengera mwininkhani (wotenga chinthu), mneni (zochitika), ndi zionjezero zake.",
+        "Ziganizo zingapo zimaphwanyidwa posiyanitsa magawo ake (e.g., mwana uyo wagenda nkhuku / nkhukuyo siidafe).",
+        "Nthambi imatha kukhala ya dzina, mfotokozi, kapena muonjezi ndipo imatha kuima yokha kapena ayi.",
+        "Zitsanzo zimaperekedwa mu ziganizo kuti ziwonetse mitundu yosiyanasiyana ya nthambi (e.g., chifukwa akhuta mowa → muonjezi wa chifukwa)."
+      ]
+    }
+  ]
+},
+
+
+
+
+
+
     {
       "title": "Nkhani Yosavuta",
       "subsections": [
