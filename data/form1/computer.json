@@ -1,0 +1,423 @@
+
+
+
+
+{
+  "subject": "Computer studies",
+  "topics": [
+   
+
+    {
+  "title": "Introduction to Computers",
+  "content": "This unit introduces students to fundamental computer concepts including definitions and historical development.",
+  "subsections": [
+    {
+      "title": "Key Computer Terminologies",
+      "content": "Definitions of essential terms used in computer studies.",
+      "points": [
+        "Computer: An electronic device that processes input to produce output based on a program.",
+        "Data: Raw facts or figures before they are processed.",
+        "Programme: A sequence of instructions that tell a computer what to do.",
+        "Information: Data that has been processed into a useful form.",
+        "Technology: The use of scientific knowledge for practical tasks.",
+        "Information Technology (IT): The use of systems (especially computers) for storing, retrieving, and sending information.",
+        "Information and Communication Technology (ICT): Integration of telecommunications, computers, and networks to access and transmit data."
+      ]
+    },
+    {
+      "title": "Generations of Computers",
+      "content": "An overview of how computer hardware and technology have evolved through generations.",
+      "points": [
+        "First Generation: Used vacuum tubes; slow and bulky.",
+        "Second Generation: Used transistors; smaller and more reliable.",
+        "Third Generation: Used integrated circuits; faster and more compact.",
+        "Fourth Generation: Used microprocessors; improved speed and efficiency.",
+        "Fifth Generation: Based on AI; uses advanced computing technologies."
+      ]
+    }
+  ]
+},
+
+
+{
+  "title": "Computers and Their Use",
+  "content": "This unit covers the practical use of computers, classification, data units, and character encoding.",
+  "subsections": [
+    {
+      "title": "Uses of Computers",
+      "content": "Computers are applied in various fields to enhance productivity, speed, and accuracy.",
+      "points": [
+        "Used in education for learning and teaching.",
+        "Used in business for data management and transactions.",
+        "Used in healthcare for patient records and diagnosis.",
+        "Used in science for simulations and research.",
+        "Used in communication via emails, chats, and social media.",
+        "Used in entertainment such as games, music, and videos."
+      ]
+    },
+    {
+      "title": "Classification of Computers",
+      "content": "Computers can be classified based on their size, functionality, and usage.",
+      "points": [
+        "By size: Supercomputers, Mainframes, Minicomputers, Microcomputers.",
+        "By functionality: Analog, Digital, Hybrid.",
+        "By purpose: General-purpose (e.g. PCs), Special-purpose (e.g. ATMs)."
+      ]
+    },
+    {
+      "title": "Units of Data Representation",
+      "content": "Data is measured in digital units from the smallest bit to terabytes.",
+      "points": [
+        "Bit – basic unit representing 0 or 1.",
+        "Byte – group of 8 bits.",
+        "Kilobyte (KB) – 1,024 bytes.",
+        "Megabyte (MB) – 1,024 KB.",
+        "Gigabyte (GB) – 1,024 MB.",
+        "Terabyte (TB) – 1,024 GB."
+      ]
+    },
+    {
+      "title": "Converting Between Data Units",
+      "content": "Understanding how to convert from one unit of data to another.",
+      "points": [
+        "1 KB = 1,024 Bytes",
+        "1 MB = 1,024 KB",
+        "1 GB = 1,024 MB",
+        "1 TB = 1,024 GB",
+        "Example: 2 MB = 2 × 1,024 = 2,048 KB"
+      ]
+    },
+    {
+      "title": "Character Sets",
+      "content": "Character sets are systems for representing letters, digits, and symbols in binary.",
+      "points": [
+        "Character: A letter, digit, or symbol (e.g. A, 5, #).",
+        "Word: A fixed number of bits a computer processes at once.",
+        "ASCII: A 7-bit character set used mostly in microcomputers.",
+        "EBCDIC: An 8-bit code used by IBM mainframe computers.",
+        "Character sets help computers understand and store human-readable text."
+      ]
+    }
+  ]
+},
+
+
+
+{
+  "title": "Hardware and Software",
+  "subsections": [
+    {
+      "title": "Definition of Computer Hardware",
+      "content": "Computer hardware refers to the physical parts of a computer system that can be seen and touched. This unit introduces students to physical computer components, system unit internals, and the major categories of devices including input, output, storage, and communication.",
+      "points": [
+        "Includes components such as the monitor, keyboard, mouse, system unit, printer, etc.",
+        "It works in combination with software to perform computing tasks.",
+        "Hardware can be internal (e.g. motherboard, RAM) or external (e.g. keyboard, monitor)."
+      ]
+    },
+    {
+      "title": "Components of the System Unit",
+      "content": "The system unit houses essential internal components that allow the computer to process data.",
+      "points": [
+        "Motherboard – the main circuit board holding CPU, RAM, and connectors.",
+        "Central Processing Unit (CPU) – the brain of the computer that executes instructions.",
+        "Random Access Memory (RAM) – temporary memory used to store data during processing.",
+        "Power Supply Unit – converts electricity into usable power for components.",
+        "Storage Devices – like Hard Disk Drive (HDD) or Solid State Drive (SSD), used for permanent storage.",
+        "Cooling Fan – maintains the internal temperature by expelling hot air."
+      ]
+    },
+    {
+      "title": "Input Devices",
+      "content": "Input devices are used to enter data or instructions into the computer.",
+      "points": [
+        "Keyboard – used for typing text and commands.",
+        "Mouse – used to navigate and interact with the graphical user interface.",
+        "Scanner – converts physical documents into digital form.",
+        "Microphone – captures audio input.",
+        "Webcam – captures live video input."
+      ]
+    },
+    {
+      "title": "Output Devices",
+      "content": "Output devices present data and information from the computer to the user.",
+      "points": [
+        "Monitor – displays visual output from the computer.",
+        "Printer – produces physical copies of digital documents.",
+        "Speakers – output sound or audio signals.",
+        "Projector – displays images or video on a large screen."
+      ]
+    },
+    {
+      "title": "Storage Devices",
+      "content": "Storage devices are used to store data permanently or temporarily.",
+      "points": [
+        "Hard Disk Drive (HDD) – traditional magnetic storage.",
+        "Solid State Drive (SSD) – faster and more durable than HDD.",
+        "USB Flash Drive – portable storage device.",
+        "Memory Card – used in mobile devices and cameras.",
+        "Optical Discs (CD/DVD) – used for reading or writing data using a laser."
+      ]
+    },
+    {
+      "title": "Communication Devices",
+      "content": "Communication devices enable a computer to transmit and receive data.",
+      "points": [
+        "Network Interface Card (NIC) – connects computers to a network.",
+        "Modem – converts digital signals to analog and vice versa for internet access.",
+        "Router – directs data between devices on a network.",
+        "Wi-Fi Adapter – allows wireless network connections."
+      ]
+    }
+  ]
+},
+
+
+{
+  "title": "Safe Use of Computers",
+  "subsections": [
+    {
+      "title": "Proper Procedures for Switching On/Off a Computer",
+      "content": "Following the correct procedure helps protect computer hardware and ensures system stability. This unit focuses on the safe and responsible use of computers. It includes procedures for handling hardware properly, avoiding hazards, maintaining good posture, and understanding virus threats and their prevention.",
+      "points": [
+        "Avoids damage to hardware and corruption of files.",
+        "Ensures proper loading and shutting down of the operating system.",
+        "Prevents data loss and prolongs the lifespan of the device.",
+        "Recommended sequence: Turn on power source > Monitor > System unit; for shutdown, close applications > click Shut Down."
+      ]
+    },
+    {
+      "title": "Environmental Factors Affecting Computers",
+      "content": "Computers are sensitive to environmental conditions such as temperature, liquids, power fluctuations, and dust.",
+      "points": [
+        "High temperature can overheat internal components, causing damage.",
+        "Liquids may cause short circuits if spilled on hardware.",
+        "Power surges or outages may damage electronic circuits and data.",
+        "Dust can block ventilation and cause overheating or hardware failure."
+      ]
+    },
+    {
+      "title": "Keyboard Posture",
+      "content": "Maintaining good posture while using a keyboard prevents fatigue and injury.",
+      "points": [
+        "Sit upright with both feet flat on the floor.",
+        "Keep elbows bent at a 90-degree angle.",
+        "Place wrists straight and level with the keyboard.",
+        "Position screen at eye level to reduce neck strain.",
+        "Use ergonomic chairs and tables when possible."
+      ]
+    },
+    {
+      "title": "Hazards of Computer Use",
+      "content": "There are various physical and environmental hazards associated with prolonged or careless computer usage.",
+      "points": [
+        "Eye strain from staring at the screen too long.",
+        "Back pain due to poor sitting posture.",
+        "Repetitive strain injury (RSI) from frequent keyboard use.",
+        "Overheating of computers in poor ventilation.",
+        "Electrical risks from faulty wiring or improper grounding."
+      ]
+    },
+    {
+      "title": "Safe Disposal of Computer Components",
+      "content": "Proper disposal helps avoid environmental pollution and protects personal data.",
+      "points": [
+        "Follow local e-waste disposal laws and guidelines.",
+        "Use certified recycling centers for electronics.",
+        "Wipe or destroy storage devices to protect sensitive data.",
+        "Avoid burning computer parts, as they may release toxic gases."
+      ]
+    },
+    {
+      "title": "Definition of a Computer Virus",
+      "content": "A computer virus is a malicious program designed to replicate itself and damage data or disrupt system functionality.",
+      "points": [
+        "It infects files, programs, or the operating system.",
+        "Can spread without user knowledge.",
+        "Often hidden in software downloads or email attachments."
+      ]
+    },
+    {
+      "title": "Types of Computer Viruses",
+      "content": "There are several types of viruses, each with different behavior and methods of infection.",
+      "points": [
+        "File infector viruses – attach to executable files.",
+        "Boot sector viruses – affect system boot sectors.",
+        "Macro viruses – target documents and spreadsheets.",
+        "Trojan horses – disguise as useful software.",
+        "Worms – self-replicate across networks."
+      ]
+    },
+    {
+      "title": "How Viruses Spread",
+      "content": "Viruses spread in multiple ways, often through careless handling of files or internet resources.",
+      "points": [
+        "Opening infected email attachments.",
+        "Downloading software from untrusted websites.",
+        "Using infected USB drives.",
+        "Clicking malicious links online or in messages.",
+        "File sharing on unsecured networks."
+      ]
+    },
+    {
+      "title": "Prevention of Computer Viruses",
+      "content": "Users can protect their systems by practicing good digital hygiene and using protective tools.",
+      "points": [
+        "Install and update antivirus software regularly.",
+        "Avoid opening suspicious emails or files.",
+        "Do not download from unverified sources.",
+        "Regularly scan external storage devices.",
+        "Keep operating system and software updated."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Hardware and Software",
+  "subsections": [
+    {
+      "title": "Types and Features of Operating Systems",
+      "content": "This section explores the different types of operating systems and highlights the unique features each type offers to users and systems.",
+      "points": [
+        "Operating systems (OS) are system software that manage computer hardware and software resources and provide services for computer programs.",
+        "Types of operating systems include:",
+        "- Single-user OS: Designed for one user at a time (e.g., MS-DOS, Windows 10).",
+        "- Multi-user OS: Supports multiple users accessing the system at the same time (e.g., Unix, Linux Server).",
+        "- Multi-tasking OS: Allows users to run more than one application simultaneously (e.g., Windows, macOS).",
+        "- Real-time OS: Designed for systems requiring immediate response (e.g., embedded systems in medical devices, ATMs).",
+        "- Network OS: Manages network resources and supports file sharing across networks (e.g., Novell NetWare, Windows Server).",
+        "- Mobile OS: Used in smartphones and tablets with features optimized for mobile use (e.g., Android, iOS).",
+        "Key features of operating systems include:",
+        "- Memory Management: Tracks each byte in a computer’s memory and manages allocation.",
+        "- File Management: Organizes data in files and folders and controls file permissions.",
+        "- Device Management: Controls and coordinates input/output devices like keyboards, printers, and displays.",
+        "- User Interface: Provides a way for users to interact with the system—either Command Line Interface (CLI) or Graphical User Interface (GUI).",
+        "- Multitasking: Enables several programs to run at the same time.",
+        "- Security: Protects system files and data through authentication, permissions, and firewalls.",
+        "- Networking: Allows communication between devices over local or wide area networks.",
+        "- Error Detection and Handling: Monitors the system and provides reports or automatic corrections for system faults."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Hardware and Software",
+  "subsections": [
+    {
+      "title": "Computer Software and Operating Systems",
+      "content": "This section introduces learners to the concept of computer software, its types, and the role of operating systems in managing computer systems.",
+      "points": [
+        "Computer software is a set of instructions or programs used to operate computers and perform specific tasks.",
+        "Examples of software include: Microsoft Word, Google Chrome, Adobe Photoshop, antivirus programs, and computer games.",
+        "Software is categorized into two main types:",
+        "- System software: Software that directly manages and controls the computer hardware and basic system operations (e.g., Windows, macOS, Linux).",
+        "- Application software: Software that allows users to perform specific tasks or applications (e.g., word processors, spreadsheets, browsers).",
+        "System software acts as a bridge between the hardware and the user.",
+        "Application software helps users perform tasks such as writing documents, browsing the internet, or editing images.",
+        "An operating system (OS) is a type of system software that manages computer hardware, software resources, and provides common services for programs.",
+        "Importance of an operating system includes:",
+        "- Providing a user interface (CLI or GUI).",
+        "- Managing hardware and software resources.",
+        "- Allowing multitasking and efficient system performance.",
+        "Functions of an operating system include:",
+        "- Memory management.",
+        "- Process management.",
+        "- File and storage management.",
+        "- Device and driver management.",
+        "- Security and access control.",
+        "- Error detection and troubleshooting.",
+        "- Providing a platform for software applications."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Using Computers",
+  "subsections": [
+    {
+      "title": "Computer Keyboard and Mouse",
+      "content": "This section covers the basic input devices — the keyboard and mouse — focusing on their structure, types, key categories, and functions.",
+      "points": [
+        "A computer keyboard is an input device used to enter text, numbers, and commands into a computer.",
+        "Keys on a keyboard are grouped into the following categories:",
+        "- Alphanumeric keys: Include letters (A-Z) and numbers (0-9).",
+        "- Special keys: Include Enter, Shift, Ctrl, Alt, Spacebar, Esc, Tab, and arrow keys.",
+        "- Function keys: Located at the top row (F1 to F12), used to perform special actions depending on the software.",
+        "Types of computer keyboards include:",
+        "- QWERTY keyboards: The most common layout based on English language typing.",
+        "- Ergonomic keyboards: Designed for comfort to reduce strain during long typing sessions.",
+        "- Wireless keyboards: Use Bluetooth or other wireless technology.",
+        "- Gaming keyboards: Feature customizable keys and enhanced responsiveness.",
+        "Each key has a function, for example:",
+        "- Enter: Executes commands or starts a new line.",
+        "- Spacebar: Inserts a space between characters.",
+        "- Backspace: Deletes the character to the left of the cursor.",
+        "- Shift: Used with letters to type capital letters and access upper characters.",
+        "A computer mouse is a pointing device that lets users interact with items on the screen.",
+        "Main parts of a mouse include: left button, right button, scroll wheel, and optical sensor.",
+        "Types of computer mouses include:",
+        "- Mechanical mouse: Uses a rolling ball underneath.",
+        "- Optical mouse: Uses light to detect movement.",
+        "- Wireless mouse: Uses radio or Bluetooth signals.",
+        "- Gaming mouse: Designed for speed and precision.",
+        "Functions of a mouse include:",
+        "- Moving the pointer on the screen.",
+        "- Selecting and opening files or applications.",
+        "- Dragging and dropping items.",
+        "- Scrolling through documents or web pages using the scroll wheel."
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Using Computers",
+  "subsections": [
+    {
+      "title": "Basic Computer Operations",
+      "content": "This section covers essential operations for starting, logging into, and managing user access on a computer system.",
+      "points": [
+        "The power button is a physical button on the system unit or laptop used to turn the computer on or off.",
+        "Booting a computer involves the process of loading the operating system into memory after powering on.",
+        "Logging in requires selecting a user account and entering a password if necessary.",
+        "Logging out safely ends a session and returns the system to the login screen or shuts down.",
+        "User accounts are created to personalize and secure access for each individual on a computer.",
+        "Passwords are assigned to user accounts to enhance security and restrict unauthorized access."
+      ]
+    },
+    {
+      "title": "Navigating the Desktop Environment",
+      "content": "This section introduces the desktop interface, menus, and tools available for navigating and managing files and system settings.",
+      "points": [
+        "Menus provide options for commands and features in applications and system interfaces.",
+        "Options are available in dialog boxes, right-click menus, and settings interfaces.",
+        "Desktop properties allow customization of background, themes, screen resolution, and icon arrangement.",
+        "Standard icons such as 'This PC', 'Recycle Bin', and 'Documents' are shortcuts to key areas.",
+        "The taskbar displays open applications, system notifications, and the Start menu.",
+        "Dialog boxes are windows that prompt users for input or provide information.",
+        "Folders help organize files logically for easier access and management.",
+        "The search facility helps locate files, folders, and applications quickly from the Start menu or file explorer."
+      ]
+    },
+    {
+      "title": "Managing Files and Folders",
+      "content": "This section focuses on file and folder operations including creation, modification, and management.",
+      "points": [
+        "Files contain documents, images, programs, or other data.",
+        "Folders are containers used to organize files on a computer.",
+        "Creating folders and files allows users to store and arrange data for easy access.",
+        "Deleting removes unwanted files or folders and may send them to the Recycle Bin.",
+        "Copying duplicates selected files or folders to another location.",
+        "Moving transfers files or folders from one location to another without duplication.",
+        "Typing involves inputting characters, numbers, and words using the keyboard.",
+        "Renaming changes the name of an existing file or folder to reflect its content or purpose."
+      ]
+    }
+  ]
+}
+  ]
+}
+
